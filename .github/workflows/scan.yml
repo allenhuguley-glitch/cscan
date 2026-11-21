@@ -33,7 +33,7 @@ jobs:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
         run: |
           set -o pipefail
-          python -u crypto_movement_scanner.py --once | tee latest.txt
+          python -u crypto_movement_scanner.py --once --top 150| tee latest.txt
       - name: Save results to repo
         if: always()
         run: |
