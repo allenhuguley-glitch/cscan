@@ -51,7 +51,7 @@ AMBIGUOUS = {"ONE", "NEAR", "LINK", "SUI", "OP", "ARB", "GAS", "SAND", "MINA", "
 STOPWORDS = {"USD", "USDT", "USDC", "THE", "AND", "FOR", "ALL", "NEW", "CAN", "NOT", "BUY",
              "SELL", "ATH", "DCA", "FUD", "FOMO", "CEO", "ETF", "SEC", "IMO", "API", "NFT"}
 MAJORS = {"BTC", "ETH", "SOL", "XRP", "DOGE", "ADA", "AVAX", "DOT", "LTC", "BCH", "XLM",
-          "SHIB", "PEPE", "TRX", "HBAR", "XMR", "ATOM", "UNI", "AAVE", "BONK"}
+          "SHIB", "PEPE", "TRX", "HBAR", "XMR", "ATOM", "UNI", "AAVE", "BONK", "LINK"}
 
 
 # ----------------------------------------------------------------- exchanges
