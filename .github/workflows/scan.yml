@@ -1,0 +1,33 @@
+name: crypto-scan
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Restore alert memory
+        uses: actions/cache/restore@v4
+        with:
+          path: scanner_state.json
+          key: state-${{ github.run_id }}
+          restore-keys: state-
+      - name: Scan
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python -u crypto_movement_scanner.py --once
+      - name: Save alert memory
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: scanner_state.json
+          key: state-${{ github.run_id }}
