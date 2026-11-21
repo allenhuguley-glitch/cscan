@@ -153,7 +153,7 @@ def apply_trend(rows):
         t1h, t1d = trend_check(r["asset"])
         r["t1h"], r["t1d"] = t1h, t1d
         want = 1 if r["label"] == "REAL UP" else -1
-        if (t1h is not None and t1h != want) or (t1d is not None and t1d != want):
+        if t1h is not None and t1h != want:
             r["label"] = "UP vs TREND" if want == 1 else "DOWN vs TREND"
 
 
