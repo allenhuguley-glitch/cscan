@@ -72,7 +72,10 @@ def candle_metrics(candles):
     prev = vols[-21:-1]
     mean, sd = statistics.mean(prev), statistics.pstdev(prev)
     vol_z = (vols[-1] - mean) / sd if sd > 0 else 0.0
+    vol_x = vols[-1] / mean if mean > 0 else 0.0
     return {
+        "vol_x": vol_x,
+        "rising": closes[-1] > closes[-2],
         "ret_15m": closes[-1] / closes[-4] - 1,
         "ret_1h": closes[-1] / closes[-13] - 1,
         "vol_z": vol_z,
@@ -103,6 +106,8 @@ def scan_exchange(ex_id, top_n):
             continue
         if m and base not in out:
             m["quote_vol_24h"] = qv
+            m["pct_24h"] = t.get("percentage")
+            m["sym"] = sym
             out[base] = m
     return out
 
@@ -139,7 +144,7 @@ def trend_check(base):
             sym = next((f"{base}/{q}" for q in ("USD", "USDC", "USDT") if f"{base}/{q}" in ex.markets), None)
             if not sym:
                 continue
-            return (_sma_trend(ex, sym, "1h", 40, 20), _sma_trend(ex, sym, "1d", 30, 10))
+            return (_sma_trend(ex, sym, "1h", 40, 20), None)  # 1d check dropped on purpose
         except Exception as e:
             print(f"[warn] trend {base} on {ex_id}: {e}", file=sys.stderr)
     return (None, None)
@@ -153,6 +158,9 @@ def apply_trend(rows):
         t1h, t1d = trend_check(r["asset"])
         r["t1h"], r["t1d"] = t1h, t1d
         want = 1 if r["label"] == "REAL UP" else -1
+        if r["label"] == "REAL UP" and not r.get("rising", True):
+            r["label"] = "FADING"   # spike already reversing in the latest closed candle
+            continue
         if t1h is not None and t1h != want:
             r["label"] = "UP vs TREND" if want == 1 else "DOWN vs TREND"
 
@@ -284,19 +292,24 @@ def mention_spikes(current, state, key, keep=24):
 
 # ---------------------------------------------------------------- classifying
 def classify(per_ex, a):
+    liq = max(m["quote_vol_24h"] for m in per_ex.values())
+    small = liq < a.min_liq   # small coins need a bigger spike
+    move = (a.small_move_pct if small else a.move_pct) / 100
+    volx = a.small_vol_x if small else a.vol_x
     flagged = {e: m for e, m in per_ex.items()
-               if abs(m["ret_15m"]) >= a.move_pct / 100 or m["vol_z"] >= a.vol_z}
+               if abs(m["ret_15m"]) >= move or m["vol_x"] >= volx}
     if not flagged:
         return None
-    liq = max(m["quote_vol_24h"] for m in per_ex.values())
-    movers = [m for m in flagged.values() if abs(m["ret_15m"]) >= a.move_pct / 100]
+    movers = [m for m in flagged.values() if abs(m["ret_15m"]) >= move]
     ups = sum(1 for m in movers if m["ret_15m"] > 0)
     downs = len(movers) - ups
     best = max(movers or flagged.values(), key=lambda m: abs(m["ret_15m"]))
     down = downs > ups if ups != downs else best["ret_15m"] < 0
     if movers:
         best = max((m for m in movers if (m["ret_15m"] < 0) == down), key=lambda m: abs(m["ret_15m"]))
-    confirmed = max(ups, downs) >= 2 and any(m["vol_z"] >= a.vol_z for m in flagged.values())
+    spike = any(m["vol_x"] >= volx for m in flagged.values())
+    # a coin listed on only one exchange (e.g. Coinbase-only) can now qualify on its own
+    confirmed = (max(ups, downs) >= 2 or len(per_ex) == 1) and spike
     if confirmed and liq >= a.min_liq:
         label = "REAL DOWN" if down else "REAL UP"
     elif movers and (len(flagged) == 1 or liq < a.min_liq):
@@ -305,6 +318,8 @@ def classify(per_ex, a):
         label = "WATCH"
     return label, {"ret_15m": best["ret_15m"], "ret_1h": best["ret_1h"],
                    "vol_z": max(m["vol_z"] for m in flagged.values()),
+                   "vol_x": max(m["vol_x"] for m in flagged.values()),
+                   "rising": best["rising"], "pct_24h": best.get("pct_24h"),
                    "n_flagged": len(flagged), "n_listed": len(per_ex), "liq": liq,
                    "price": best["price"]}
 
@@ -333,7 +348,7 @@ def push_alerts(rows, state):
         if now - sent.get(r["asset"], 0) < 3600:
             continue
         msg = (f"{r['asset']} +{r['ret_15m']*100:.2f}% in 15m, volume x{r['vol_z']:.1f}, "
-               f"confirmed on {r['n_flagged']}/{r['n_listed']} exchanges, trend 1h/1d {trend_str(r)}")
+               f"confirmed on {r['n_flagged']}/{r['n_listed']} exchanges, 1h trend {trend_str(r)[0]}, Coinbase {'yes' if r.get('cb') else 'no'}")
         try:
             requests.post(f"https://ntfy.sh/{NTFY_TOPIC}", data=msg.encode(),
                           headers={"Title": f"BUY CANDIDATE: {r['asset']}", "Priority": "high",
@@ -366,7 +381,8 @@ def run_once(a):
             if social_hot:
                 best = max(data.values(), key=lambda m: m["quote_vol_24h"])
                 res = ("CHATTER", {"ret_15m": best["ret_15m"], "ret_1h": best["ret_1h"],
-                                   "vol_z": best["vol_z"], "n_flagged": 0, "n_listed": len(data),
+                                   "vol_z": best["vol_z"], "vol_x": best["vol_x"], "rising": best["rising"],
+                                   "pct_24h": best.get("pct_24h"), "n_flagged": 0, "n_listed": len(data),
                                    "liq": best["quote_vol_24h"], "price": best["price"]})
             else:
                 continue
@@ -375,12 +391,13 @@ def run_once(a):
             label = "CHATTER"
         rows.append({"asset": base, "label": label, **s,
                      "reddit": reddit.get(base, 0), "discord": discord.get(base, 0), "x": None,
-                     "cg": trending.get(base), "t1h": None, "t1d": None})
+                     "cg": trending.get(base), "t1h": None, "t1d": None,
+                     "cb": next((m["sym"] for e, m in data.items() if e == "coinbase"), None)})
 
     if not a.no_mtf:
         apply_trend(rows)
 
-    order = {"REAL UP": 0, "REAL DOWN": 1, "UP vs TREND": 2, "DOWN vs TREND": 3,
+    order = {"REAL UP": 0, "REAL DOWN": 1, "UP vs TREND": 2, "DOWN vs TREND": 3, "FADING": 3,
              "CHATTER": 4, "THIN PUMP": 5, "THIN DROP": 6, "WATCH": 7}
     rows.sort(key=lambda r: (order[r["label"]], -abs(r["ret_15m"])))
 
@@ -393,13 +410,18 @@ def run_once(a):
             r["x"] = x_spike(r["asset"])
     print(f"\n=== {started:%Y-%m-%d %H:%M:%S} UTC | {len(rows)} flagged | exchanges ok: "
           f"{', '.join(e for e, d in per_ex.items() if d) or 'none'}")
-    print(f"{'ASSET':8} {'LABEL':14} {'15m':>7} {'1h':>7} {'volZ':>5} {'exch':>5} {'trnd':>4} "
-          f"{'24h vol $':>12} {'rdt':>5} {'dsc':>5} {'x':>5} {'cg':>3}")
+    print(f"{'ASSET':8} {'LABEL':14} {'15m':>7} {'1h':>7} {'volZ':>5} {'volx':>5} {'exch':>5} {'trnd':>4} "
+          f"{'24h vol $':>12} {'24h%':>7} {'CB':>3} {'rdt':>5} {'dsc':>5} {'x':>5} {'cg':>3}")
     for r in rows[:a.show]:
         xs = f"{r['x']:.1f}" if r["x"] is not None else "-"
         print(f"{r['asset']:8} {r['label']:14} {r['ret_15m']*100:6.2f}% {r['ret_1h']*100:6.2f}% "
-              f"{r['vol_z']:5.1f} {str(r['n_flagged']) + '/' + str(r['n_listed']):>5} {trend_str(r):>4} "
-              f"{r['liq']:12,.0f} {r['reddit']:5.1f} {r['discord']:5.1f} {xs:>5} {r['cg'] or '-':>3}")
+              f"{r['vol_z']:5.1f} {r['vol_x']:5.1f} {str(r['n_flagged']) + '/' + str(r['n_listed']):>5} {trend_str(r):>4} "
+              f"{r['liq']:12,.0f} {(r['pct_24h'] or 0):6.1f}% {'Y' if r['cb'] else '-':>3} {r['reddit']:5.1f} {r['discord']:5.1f} {xs:>5} {r['cg'] or '-':>3}")
+
+    (HERE / "latest.json").write_text(json.dumps(
+        {"scan_utc": started.isoformat(), "rows": [
+            {k: r.get(k) for k in ("asset", "label", "ret_15m", "ret_1h", "vol_x", "vol_z", "rising",
+                                   "pct_24h", "liq", "cb", "t1h", "price")} for r in rows]}))
 
     new = not LOG_FILE.exists()
     with LOG_FILE.open("a", newline="") as f:
@@ -419,12 +441,15 @@ def main():
     p.add_argument("--once", action="store_true", help="run one scan and exit")
     p.add_argument("--loop", type=int, metavar="SECONDS", help="repeat every N seconds")
     p.add_argument("--top", type=int, default=50, help="top N pairs per exchange by 24h volume")
-    p.add_argument("--move-pct", type=float, default=1.5, help="15-minute move that counts as unusual")
-    p.add_argument("--vol-z", type=float, default=3.0, help="5-minute volume z-score that counts as a spike")
+    p.add_argument("--move-pct", type=float, default=1.0, help="15-minute move that counts as unusual")
+    p.add_argument("--vol-z", type=float, default=3.0, help="(informational) 5-minute volume z-score")
+    p.add_argument("--vol-x", type=float, default=2.0, help="latest 5m volume vs prior-20 average that counts as a spike")
+    p.add_argument("--small-move-pct", type=float, default=2.0, help="15m move needed for coins under --min-liq")
+    p.add_argument("--small-vol-x", type=float, default=4.0, help="volume multiple needed for coins under --min-liq")
     p.add_argument("--min-liq", type=float, default=5_000_000, help="24h USD volume below this is 'thin'")
     p.add_argument("--social-spike", type=float, default=3.0, help="mention ratio vs. baseline that counts as hot")
     p.add_argument("--window", type=int, default=60, help="minutes of social history to read")
-    p.add_argument("--show", type=int, default=25, help="max rows to print")
+    p.add_argument("--show", type=int, default=80, help="max rows to print")
     p.add_argument("--no-push", action="store_true", help="do not send phone alerts")
     p.add_argument("--no-social", action="store_true", help="skip Reddit/Discord/X")
     p.add_argument("--no-mtf", action="store_true", help="skip the 1h/1d trend confirmation")
