@@ -4,6 +4,13 @@ on:
     - cron: "*/5 * * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
+concurrency:
+  group: crypto-scan
+  cancel-in-progress: false
+
 jobs:
   scan:
     runs-on: ubuntu-latest
@@ -15,16 +22,6 @@ jobs:
           python-version: "3.11"
           cache: pip
       - run: pip install -r requirements.txt
-      - name: Save results to repo
-        if: always()
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add latest.txt
-          git diff --cached --quiet || git commit -m "Update scan results"
-          git push
-permissions: contents: write
-
       - name: Restore alert memory
         uses: actions/cache/restore@v4
         with:
@@ -34,10 +31,17 @@ permissions: contents: write
       - name: Scan
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
-        run:         run: |
+        run: |
           set -o pipefail
           python -u crypto_movement_scanner.py --once | tee latest.txt
-
+      - name: Save results to repo
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add latest.txt
+          git diff --cached --quiet || git commit -m "Update scan results"
+          git push
       - name: Save alert memory
         if: always()
         uses: actions/cache/save@v4
