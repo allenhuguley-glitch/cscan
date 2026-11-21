@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-crypto_movement_scanner_v4.py
+crypto_movement_scanner.py
 =============================
 Same as the v3 scanner, plus MULTI-TIMEFRAME CONFIRMATION.
 
@@ -13,7 +13,7 @@ If trend data can't be fetched, the original label is kept (shown with ?).
 
 The 'trend' column shows 1h then 1d: + = up, - = down, ? = unknown.
 
-Uses its own state/log files (scanner_state_v4.json, scanner_log_v4.csv) so your
+Uses its own state/log files (scanner_state.json, scanner_log_v4.csv) so your
 v3 files are not touched.
 
 Usage:
