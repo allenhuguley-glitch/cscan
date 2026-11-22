@@ -1,20 +1,14 @@
 CRYPTO SCAN
-Sun 10:05 AM CT
-14 flagged · 0 buy signals
+Sun 10:10 AM CT
+16 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (2)
-ELSA   15m  +3.6%  1h  +5.9%
-   vol 8.8x · $490K · on CB
-IRYS   15m  +2.0%  1h  +3.8%
-   vol 0.1x · $570K · on CB
-
-👀 WATCH (12)
-  PEARL USELESS ICP CVX GEOD
-  ZEC TRUMP PEPE CAP ENA PONS
-  DOT
+👀 WATCH (16)
+  RARE ELSA PEARL ICP USELESS
+  CVX NEAR CAP IRYS TRUMP PEPE
+  ENA PUMP DOGE DOT AVAX
 
 15m/1h = price change
 vol = volume vs normal
