@@ -1,34 +1,36 @@
 CRYPTO SCAN
-Sun 12:20 AM CT
-24 flagged · 0 buy signals
+Sun 12:25 AM CT
+23 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (9)
+⚪ THIN (low volume) (10)
 FLUX   15m  +6.4%  1h  +6.4%
    vol 0.0x · $225K · not CB
-BLESS  15m  +3.9%  1h  +1.4%
-   vol 0.1x · $1.5M · not CB
 AUDIO  15m  +3.0%  1h  +3.0%
    vol 0.0x · $193K · not CB
 BAND   15m  +2.6%  1h  +0.7%
    vol 0.0x · $359K · not CB
-ICNT   15m  +2.3%  1h  +1.2%
-   vol 1.8x · $567K · not CB
-AKE    15m  +2.3%  1h  +1.8%
-   vol 0.9x · $1.4M · not CB
+PONS   15m  +2.3%  1h  +5.4%
+   vol 6.9x · $579K · on CB
+ICNT   15m  +2.0%  1h  +2.3%
+   vol 0.5x · $542K · not CB
 KDA    15m  -9.5%  1h  -9.5%
    vol 0.0x · $800K · not CB
-EVAA   15m  -5.1%  1h -21.1%
-   vol 0.9x · $486K · not CB
-PROMPT 15m  -2.7%  1h  -4.2%
-   vol 2.5x · $555K · on CB
+MEGA   15m  -4.4%  1h  -2.6%
+   vol 430.8x · $167K · not CB
+EVAA   15m  -3.1%  1h -18.8%
+   vol 1.6x · $490K · not CB
+ORCA   15m  -2.3%  1h  +1.8%
+   vol 2.6x · $1.1M · on CB
+PROMPT 15m  -2.3%  1h  -6.2%
+   vol 19.5x · $549K · on CB
 
-👀 WATCH (15)
-  ASTER PEPE WLD POL LTC HBAR
-  XLM SUI ATOM MON ADA INJ
-  PYTH QNT W
+👀 WATCH (13)
+  TRUMP AKE COMP ATOM ASTER
+  SHIB USELESS ADA CVX TAO
+  PAXG QNT USDG
 
 15m/1h = price change
 vol = volume vs normal
