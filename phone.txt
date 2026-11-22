@@ -1,22 +1,18 @@
 CRYPTO SCAN
-Sun 8:25 AM CT
-32 flagged · 0 buy signals
+Sun 8:30 AM CT
+40 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (2)
-ELSA   15m  +2.7%  1h  -1.3%
-   vol 0.6x · $430K · on CB
-DRV    15m  -3.2%  1h  +4.9%
-   vol 0.3x · $4.3M · on CB
-
-👀 WATCH (30)
-  INJ LIGHTER WLD STX CT CVX
-  CRV GEOD ICP MON TON ORCA
-  NEAR STRK ZRO PEPE ONDO AVAX
-  ASTER SUI AERO XPL JTO HBAR
-  QNT SPX TAO BTC LINK MORPHO
+👀 WATCH (40)
+  DRV PONS INJ CVX MON ELSA
+  LIGHTER WLD STX ZRO USELESS
+  FET NEAR QNT ONDO CAP PUMP
+  FIL AERO ICP JTO XPL CRV TON
+  CT ARB SUI STRK PEPE TIA SPX
+  AVAX UNI HYPE BCH ZEC TAO
+  XLM HBAR ENA
 
 15m/1h = price change
 vol = volume vs normal
