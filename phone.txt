@@ -1,39 +1,35 @@
 CRYPTO SCAN
-Sun 5:10 AM CT
-23 flagged · 0 buy signals
+Sun 5:15 AM CT
+22 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-🟡 AGAINST TREND / FADING (1)
-VVV    15m  -1.7%  1h  -0.9%
-   vol 2.3x · $14M · on CB
-
 ⚪ THIN (low volume) (10)
-EVAA   15m +15.1%  1h +17.3%
-   vol 1.3x · $723K · not CB
+EVAA   15m +11.7%  1h +16.5%
+   vol 1.2x · $728K · not CB
+CPOOL  15m  +6.5%  1h  +5.1%
+   vol 1.6x · $134K · not CB
 FLUX   15m  +6.4%  1h  +6.4%
    vol 0.0x · $225K · not CB
 AUDIO  15m  +3.0%  1h  +3.0%
    vol 0.0x · $193K · not CB
-S      15m  +2.7%  1h  +2.7%
-   vol 0.0x · $1.1K · not CB
-CPOOL  15m  +2.6%  1h  +0.5%
-   vol 4.2x · $129K · not CB
 BAND   15m  +2.6%  1h  +0.7%
    vol 0.0x · $359K · not CB
-PIEVERSE 15m  +2.4%  1h  -5.1%
-   vol 0.4x · $941K · not CB
-BLESS  15m  +2.2%  1h  +0.5%
-   vol 2.3x · $1.2M · not CB
+VINE   15m  +2.4%  1h  +3.0%
+   vol 1.2x · $155K · not CB
 KDA    15m  -9.5%  1h  -9.5%
    vol 0.0x · $800K · not CB
+ICNT   15m  -2.5%  1h  -4.0%
+   vol 1.0x · $523K · not CB
 YB     15m  -2.4%  1h  -2.4%
    vol 0.0x · $132K · not CB
+VVV    15m  -1.2%  1h  -0.3%
+   vol 0.0x · $14M · on CB
 
 👀 WATCH (12)
-  CVX CT CC APT XCN JTO COMP
-  HBAR ICP XRP TRX QNT
+  CC CVX AVNT ZEC LIT SKR HBAR
+  NEAR XDC BEAM QNT SHIB
 
 15m/1h = price change
 vol = volume vs normal
