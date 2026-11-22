@@ -1,14 +1,14 @@
 CRYPTO SCAN
-Sun 3:55 PM CT
-12 flagged · 0 buy signals
+Sun 4:00 PM CT
+14 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (12)
-  PROMPT ICP ASTER PEARL
-  JUPITER GEOD NEAR ALGO FIL
-  CT LTC PEPE
+👀 WATCH (14)
+  ELSA PROMPT JUPITER TAO ONDO
+  ETH ASTER DOT PEARL CRV BNB
+  DASH ALGO PUMP
 
 15m/1h = price change
 vol = volume vs normal
