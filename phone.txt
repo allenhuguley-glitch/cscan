@@ -1,35 +1,35 @@
 CRYPTO SCAN
-Sun 1:45 AM CT
-23 flagged · 1 buy signal
+Sun 1:50 AM CT
+27 flagged · 0 buy signals
 
-🟢 BUY SIGNALS (1)
-VVV    15m  +1.2%  1h  +1.8%
-   vol 81.4x · $13M · on CB
+🟢 BUY SIGNALS
+  none right now
 
 ⚪ THIN (low volume) (9)
 FLUX   15m  +6.4%  1h  +6.4%
    vol 0.0x · $225K · not CB
 PROMPT 15m  +3.5%  1h  +4.4%
-   vol 6.7x · $590K · on CB
-BLESS  15m  +3.1%  1h  -9.0%
-   vol 2.5x · $1.5M · not CB
+   vol 1.4x · $588K · on CB
 AUDIO  15m  +3.0%  1h  +3.0%
    vol 0.0x · $193K · not CB
-VINE   15m  +2.8%  1h +10.5%
-   vol 0.0x · $143K · not CB
+BLESS  15m  +3.0%  1h  -3.8%
+   vol 0.2x · $1.5M · not CB
 BAND   15m  +2.6%  1h  +0.7%
    vol 0.0x · $359K · not CB
-WINGS  15m  +2.3%  1h +17.3%
-   vol 0.0x · $737K · not CB
-EVAA   15m -18.6%  1h -13.1%
-   vol 1.6x · $623K · not CB
+PIEVERSE 15m  +2.3%  1h  +6.7%
+   vol 1.3x · $569K · not CB
+AKE    15m  +2.3%  1h  +0.5%
+   vol 0.5x · $1.5M · not CB
+EVAA   15m  -9.7%  1h -12.2%
+   vol 0.3x · $618K · not CB
 KDA    15m  -9.5%  1h  -9.5%
    vol 0.0x · $800K · not CB
 
-👀 WATCH (13)
-  BAT PNUT WIF LTC ARB GRT
-  AAVE MEW PAXG ICP SOFID USDG
-  QNT
+👀 WATCH (18)
+  VVV RAY USELESS BONK ZORA CC
+  JUP AVAX SHIB SUI ZEC
+  VIRTUAL ADA UNI HYPE XRP
+  PAXG QNT
 
 15m/1h = price change
 vol = volume vs normal
