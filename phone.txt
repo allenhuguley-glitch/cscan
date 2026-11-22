@@ -1,23 +1,22 @@
 CRYPTO SCAN
-Sun 12:30 PM CT
-28 flagged · 0 buy signals
+Sun 12:35 PM CT
+27 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (2)
-ALIGN  15m  -2.5%  1h +10.0%
-   vol 0.3x · $909K · on CB
-PROMPT 15m  -2.2%  1h  -1.2%
-   vol 0.1x · $576K · on CB
+ALIGN  15m  -7.5%  1h  +2.2%
+   vol 0.9x · $841K · on CB
+PROMPT 15m  -2.9%  1h  -4.6%
+   vol 1.0x · $577K · on CB
 
-👀 WATCH (26)
-  FET VVV CRV CAP TIA PEARL
-  HYPE USELESS ZRO PONS
-  LIGHTER ENA PUMP FIL XPL
-  NEAR MAMO JTO HBAR ICP
-  MORPHO WLD ELSA ALEO DOGE
-  PAXG
+👀 WATCH (25)
+  XPL CAP FET PONS QNT USELESS
+  CRV DASH PEARL TIA ELSA
+  LIGHTER HYPE STRK MORPHO TON
+  WLD LINK INJ BCH NEAR MANTLE
+  AVAX XRP XLM
 
 15m/1h = price change
 vol = volume vs normal
