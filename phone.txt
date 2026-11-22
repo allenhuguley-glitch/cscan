@@ -1,13 +1,14 @@
 CRYPTO SCAN
-Sun 5:30 PM CT
-10 flagged · 0 buy signals
+Sun 5:35 PM CT
+16 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (10)
-  ALIGN MON ASTER LIGHTER VVV
-  PONS USELESS DOT ARB TRUMP
+👀 WATCH (16)
+  ALIGN CAP ELSA PEARL LIGHTER
+  MON ASTER VVV USELESS ICP
+  HYPE BTC SPX TRUMP LINK DRV
 
 15m/1h = price change
 vol = volume vs normal
