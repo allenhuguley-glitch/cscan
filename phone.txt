@@ -1,32 +1,30 @@
 CRYPTO SCAN
-Sun 1:25 AM CT
-23 flagged · 0 buy signals
+Sun 1:30 AM CT
+19 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (8)
+⚪ THIN (low volume) (7)
+WINGS  15m +14.6%  1h +14.6%
+   vol 6.7x · $733K · not CB
+EVAA   15m  +9.2%  1h  +8.2%
+   vol 10.3x · $551K · not CB
 FLUX   15m  +6.4%  1h  +6.4%
    vol 0.0x · $225K · not CB
 AUDIO  15m  +3.0%  1h  +3.0%
    vol 0.0x · $193K · not CB
-VINE   15m  +3.0%  1h  +5.4%
-   vol 0.4x · $141K · not CB
 BAND   15m  +2.6%  1h  +0.7%
    vol 0.0x · $359K · not CB
-WINGS  15m  +2.1%  1h  +1.2%
-   vol 5.2x · $722K · not CB
 KDA    15m  -9.5%  1h  -9.5%
    vol 0.0x · $800K · not CB
-EVAA   15m  -3.5%  1h  -1.8%
-   vol 3.4x · $514K · not CB
-BLESS  15m  -3.4%  1h  -5.8%
-   vol 3.2x · $1.5M · not CB
+BLESS  15m  -6.2%  1h  -8.4%
+   vol 0.9x · $1.5M · not CB
 
-👀 WATCH (15)
-  FET LIGHTER DASH MORPHO AAVE
-  ETH ICP BONK UNI SPX VVV AKE
-  PEPE QNT FIL
+👀 WATCH (12)
+  LIGHTER SYRUP WIF QNT UNI
+  KAS CHZ MON GBP AUSD USDG
+  NIGHT
 
 15m/1h = price change
 vol = volume vs normal
