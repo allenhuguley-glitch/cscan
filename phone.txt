@@ -1,6 +1,6 @@
 CRYPTO SCAN
-Sun 5:40 AM CT
-21 flagged · 0 buy signals
+Sun 5:45 AM CT
+26 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
@@ -8,28 +8,29 @@ Sun 5:40 AM CT
 ⚪ THIN (low volume) (10)
 FLUX   15m  +6.4%  1h  +6.4%
    vol 0.0x · $225K · not CB
+PIEVERSE 15m  +6.1%  1h  -5.1%
+   vol 1.7x · $967K · not CB
 AUDIO  15m  +3.0%  1h  +3.0%
    vol 0.0x · $193K · not CB
+FLOKI  15m  +2.8%  1h  +2.8%
+   vol 0.0x · $11K · not CB
 BAND   15m  +2.6%  1h  +0.7%
    vol 0.0x · $359K · not CB
-PEARL  15m  +2.2%  1h  -1.3%
-   vol 0.1x · $2.8M · on CB
+BLESS  15m  +2.1%  1h  +5.9%
+   vol 0.6x · $1.2M · not CB
 JTO    15m  +2.1%  1h  +2.5%
-   vol 0.8x · $496K · on CB
-BLESS  15m  +2.0%  1h  +5.3%
-   vol 0.0x · $1.2M · not CB
+   vol 0.8x · $506K · on CB
 KDA    15m  -9.5%  1h  -9.5%
    vol 0.0x · $800K · not CB
-EVAA   15m  -6.3%  1h  -4.5%
-   vol 0.0x · $728K · not CB
-WINGS  15m  -3.4%  1h  -1.7%
-   vol 4.0x · $754K · not CB
-SKR    15m  -2.3%  1h  -2.7%
-   vol 0.3x · $144K · not CB
+EVAA   15m  -6.1%  1h  -1.9%
+   vol 0.1x · $709K · not CB
+AI     15m  -2.2%  1h  -0.5%
+   vol 1.0x · $131K · not CB
 
-👀 WATCH (11)
-  DASH ONDO CRV BCH XDC LIT
-  CHIP BEAM UNI QNT MON
+👀 WATCH (16)
+  DRV PROMPT MEGA FARTCOIN RAY
+  DOGE WLD ICP ZRO LUNC COMP
+  WCT XRP XDC MEW QNT
 
 15m/1h = price change
 vol = volume vs normal
