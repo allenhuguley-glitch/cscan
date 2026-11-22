@@ -1,32 +1,41 @@
 CRYPTO SCAN
-Sun 12:00 AM CT
-26 flagged · 0 buy signals
+Sun 12:05 AM CT
+40 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (8)
+🟡 AGAINST TREND / FADING (1)
+ZEC    15m  +2.3%  1h  +2.4%
+   vol 3.6x · $109M · on CB
+
+⚪ THIN (low volume) (9)
 FLUX   15m  +6.4%  1h  +6.4%
    vol 0.0x · $225K · not CB
-VINE   15m  +3.8%  1h  -0.5%
-   vol 0.8x · $139K · not CB
 AUDIO  15m  +3.0%  1h  +3.0%
    vol 0.0x · $193K · not CB
 BAND   15m  +2.6%  1h  +0.7%
    vol 0.0x · $359K · not CB
+PIEVERSE 15m  +2.3%  1h  +4.0%
+   vol 6.6x · $551K · not CB
+VINE   15m  +2.3%  1h  -0.1%
+   vol 1.9x · $139K · not CB
 KDA    15m  -9.5%  1h  -9.5%
    vol 0.0x · $800K · not CB
-EVAA   15m  -4.3%  1h -19.6%
-   vol 1.7x · $471K · not CB
-IRYS   15m  -2.8%  1h  -2.4%
-   vol 2.4x · $673K · on CB
-CCD    15m  -2.1%  1h  -2.6%
-   vol 0.0x · $433K · not CB
+EVAA   15m  -5.1%  1h -22.5%
+   vol 2.0x · $477K · not CB
+IRYS   15m  -2.1%  1h  -1.8%
+   vol 4.3x · $666K · on CB
+DOS    15m  -2.1%  1h  +0.6%
+   vol 5.2x · $191K · not CB
 
-👀 WATCH (18)
-  ZEC INJ BILL VVV NEAR CRV
-  JTO XPL HBAR HYPE APT XLM
-  FLOKI KNTQ ALGO YB ADA QNT
+👀 WATCH (30)
+  DASH TAO ZBCN INJ VIRTUAL
+  ETH HYPE SUI SHIB NEAR SOL
+  YB PNUT LINK LTC PENGU AAVE
+  ONDO XRP PYTH GRASS SEI POL
+  KNTQ ADA ARB ALGO XLM QNT
+  BONK
 
 15m/1h = price change
 vol = volume vs normal
