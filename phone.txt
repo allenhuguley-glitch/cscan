@@ -1,16 +1,15 @@
 CRYPTO SCAN
-Sun 12:50 PM CT
-24 flagged · 0 buy signals
+Sun 12:55 PM CT
+16 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (24)
-  ALIGN USELESS VVV MAMO XPL
-  CAP GEOD PEARL RARE PROMPT
-  AERO QNT DRV ELSA WLD ICP CT
-  TRUMP FARTCOIN PUMP STX XRP
-  DOGE MANTLE
+👀 WATCH (16)
+  USELESS ICP MAMO PEARL QNT
+  DRV VVV CT ATOM AERO
+  FARTCOIN RENDER CRV XRP ALEO
+  MANTLE
 
 15m/1h = price change
 vol = volume vs normal
