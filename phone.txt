@@ -1,20 +1,19 @@
 CRYPTO SCAN
-Sun 9:39 AM CT
-15 flagged · 0 buy signals
+Sun 9:40 AM CT
+20 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (2)
+⚪ THIN (low volume) (1)
 ELSA   15m  +2.0%  1h  -1.1%
-   vol 1.2x · $454K · on CB
-DRV    15m  -2.3%  1h  -4.0%
-   vol 0.4x · $4.5M · on CB
+   vol 1.2x · $459K · on CB
 
-👀 WATCH (13)
-  IRYS PEARL GEOD CT MON
-  USELESS VVV SPX HYPE ASTER
-  ONDO CRV XPL
+👀 WATCH (19)
+  IRYS GEOD RARE CT ORCA
+  USELESS VVV PEARL SPX ARB
+  HYPE INJ ASTER ONDO ADA CRV
+  XRP DOGE XPL
 
 15m/1h = price change
 vol = volume vs normal
