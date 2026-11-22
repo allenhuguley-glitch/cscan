@@ -1,16 +1,14 @@
 CRYPTO SCAN
-Sun 9:55 AM CT
-24 flagged · 0 buy signals
+Sun 10:00 AM CT
+14 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (24)
-  CT PEARL CVX USELESS PUMP
-  PEPE GEOD TON PONS INJ WLD
-  ICP ONDO MORPHO XLM TRUMP
-  AVAX MON ARB BNB TAO AAVE
-  DOGE FARTCOIN
+👀 WATCH (14)
+  PEARL PEPE USELESS GEOD CVX
+  FET INJ WLD CT ICP MON UNI
+  ZEC TAO
 
 15m/1h = price change
 vol = volume vs normal
