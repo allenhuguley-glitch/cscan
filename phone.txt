@@ -1,15 +1,19 @@
 CRYPTO SCAN
-Sun 1:33 AM CT
-22 flagged · 0 buy signals
+Sun 1:37 AM CT
+21 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (8)
 WINGS  15m +21.1%  1h +20.9%
-   vol 1.0x · $734K · not CB
+   vol 1.0x · $736K · not CB
 FLUX   15m  +6.4%  1h  +6.4%
    vol 0.0x · $225K · not CB
+ORCA   15m  +3.4%  1h  +3.0%
+   vol 2.3x · $1.2M · on CB
+VINE   15m  +3.4%  1h +11.3%
+   vol 1.2x · $143K · not CB
 AUDIO  15m  +3.0%  1h  +3.0%
    vol 0.0x · $193K · not CB
 VINE   15m  +2.7%  1h  +9.8%
@@ -20,13 +24,13 @@ ORCA   15m  +2.4%  1h  +2.4%
    vol 0.2x · $1.2M · on CB
 KDA    15m  -9.5%  1h  -9.5%
    vol 0.0x · $800K · not CB
-BLESS  15m  -6.2%  1h  -8.4%
-   vol 0.9x · $1.5M · not CB
+BLESS  15m  -3.4%  1h  -7.8%
+   vol 0.1x · $1.5M · not CB
 
-👀 WATCH (14)
-  CCD SKR RARE SYRUP WIF POL
-  QNT EVAA PENDLE CHZ PYTH GBP
-  USDG NIGHT
+👀 WATCH (13)
+  CCD PUMP NIGHT ICP POL EVAA
+  LTC PENDLE AAVE PYTH BCH EUR
+  QNT
 
 15m/1h = price change
 vol = volume vs normal
