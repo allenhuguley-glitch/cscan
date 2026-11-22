@@ -1,33 +1,28 @@
 CRYPTO SCAN
-Sun 12:45 AM CT
-17 flagged · 0 buy signals
+Sun 12:50 AM CT
+22 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-🟡 AGAINST TREND / FADING (1)
-VVV    15m  -1.2%  1h  -0.3%
-   vol 2.8x · $13M · on CB
-
-⚪ THIN (low volume) (7)
+⚪ THIN (low volume) (6)
 FLUX   15m  +6.4%  1h  +6.4%
    vol 0.0x · $225K · not CB
-BLESS  15m  +3.8%  1h  +9.5%
-   vol 0.5x · $1.5M · not CB
 AUDIO  15m  +3.0%  1h  +3.0%
    vol 0.0x · $193K · not CB
 BAND   15m  +2.6%  1h  +0.7%
    vol 0.0x · $359K · not CB
-PROMPT 15m  +2.2%  1h  -3.4%
-   vol 1.5x · $560K · on CB
+CASHCAT 15m  +2.4%  1h  +2.8%
+   vol 3.9x · $761K · not CB
 KDA    15m  -9.5%  1h  -9.5%
    vol 0.0x · $800K · not CB
-MEGA   15m  -2.2%  1h  -4.6%
-   vol 7.0x · $188K · not CB
+MEGA   15m  -2.7%  1h  -4.8%
+   vol 1.7x · $191K · not CB
 
-👀 WATCH (9)
-  FET MON ZAMA INJ SENT STRK
-  NEAR CRV QNT
+👀 WATCH (16)
+  VVV RENDER LDO FET BONK ZEC
+  CHIP TAO TON MON LINK ADA
+  ZORA AUD STRK QNT
 
 15m/1h = price change
 vol = volume vs normal
