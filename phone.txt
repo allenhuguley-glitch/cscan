@@ -1,31 +1,30 @@
 CRYPTO SCAN
-Sun 7:35 AM CT
-20 flagged · 0 buy signals
+Sun 7:40 AM CT
+25 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (8)
+⚪ THIN (low volume) (7)
 FLUX   15m  +6.4%  1h  +6.4%
    vol 0.0x · $225K · not CB
-BLESS  15m  +3.1%  1h  +0.3%
-   vol 0.4x · $823K · not CB
 AUDIO  15m  +3.0%  1h  +3.0%
    vol 0.0x · $193K · not CB
-NIGHT  15m  +2.9%  1h  +3.8%
-   vol 0.8x · $2.2M · not CB
 BAND   15m  +2.6%  1h  +0.7%
    vol 0.0x · $359K · not CB
-CVX    15m  +2.5%  1h  -0.5%
-   vol 0.2x · $883K · on CB
-PIEVERSE 15m  +2.1%  1h  -5.2%
-   vol 0.1x · $1.4M · not CB
+CASHCAT 15m  +2.5%  1h  +5.8%
+   vol 2.9x · $1.2M · not CB
+BLESS  15m  +2.3%  1h  +5.1%
+   vol 0.7x · $813K · not CB
 KDA    15m  -9.5%  1h  -9.5%
    vol 0.0x · $800K · not CB
+EVAA   15m  -2.7%  1h  +2.0%
+   vol 0.1x · $729K · not CB
 
-👀 WATCH (12)
-  STX NEAR FET PENGU UNI POL
-  ZEC ORCA PAXG ZRO ADA QNT
+👀 WATCH (18)
+  ICNT CVX NEAR FIL FLR YB ADA
+  JUP GRT MANA SUI ORCA ZEC
+  XMR LUNC RLUSD LINK QNT
 
 15m/1h = price change
 vol = volume vs normal
