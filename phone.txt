@@ -1,14 +1,15 @@
 CRYPTO SCAN
-Sun 5:40 PM CT
-16 flagged · 0 buy signals
+Sun 5:45 PM CT
+17 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (16)
-  ELSA PEARL CAP MON LIGHTER
-  ALIGN ASTER CT BTC USELESS
-  ICP AERO HYPE SPX DASH XPL
+👀 WATCH (17)
+  ELSA LIGHTER CAP MON ZRO
+  PUMP ALIGN PEARL ASTER AERO
+  HYPE TIA ALEO ADA SUI ONDO
+  NEAR
 
 15m/1h = price change
 vol = volume vs normal
