@@ -1,6 +1,6 @@
 CRYPTO SCAN
-Sat 11:20 PM CT
-37 flagged · 0 buy signals
+Sat 11:25 PM CT
+33 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
@@ -8,29 +8,28 @@ Sat 11:20 PM CT
 ⚪ THIN (low volume) (9)
 FLUX   15m  +6.4%  1h  +6.4%
    vol 0.0x · $225K · not CB
-BLESS  15m  +5.3%  1h  -1.9%
-   vol 0.6x · $1.5M · not CB
-AKE    15m  +4.9%  1h  -0.9%
-   vol 0.2x · $1.6M · not CB
 AUDIO  15m  +3.0%  1h  +3.0%
    vol 0.0x · $193K · not CB
+AKE    15m  +2.7%  1h  -0.8%
+   vol 0.3x · $1.6M · not CB
 BAND   15m  +2.6%  1h  +0.7%
    vol 0.0x · $359K · not CB
 ZEUS   15m  +2.1%  1h  +0.0%
-   vol 0.2x · $224K · not CB
+   vol 0.0x · $224K · not CB
+PROMPT 15m  +2.1%  1h  -0.9%
+   vol 0.7x · $569K · on CB
 KDA    15m  -9.5%  1h  -9.5%
    vol 0.0x · $800K · not CB
-EVAA   15m  -6.7%  1h -16.3%
-   vol 0.3x · $458K · not CB
-CASHCAT 15m  -2.1%  1h  +0.1%
-   vol 2.8x · $773K · not CB
+VINE   15m  -3.2%  1h  -3.0%
+   vol 0.0x · $139K · not CB
+EVAA   15m  -3.2%  1h -17.4%
+   vol 0.4x · $459K · not CB
 
-👀 WATCH (28)
-  ORCA TRUMP TAO XMR QNT DOGE
-  BNB WLD UNI SOL NEAR ZRO LTC
-  SPX PEPE CC ETH XRP BTC LINK
-  HYPE XLM BAT RAY MEW ZEC CHZ
-  EUR
+👀 WATCH (24)
+  NPC DOS PIEVERSE ZRO CT WLFI
+  PENDLE OP CHZ ETH INJ LTC
+  LDO STRK BILL XMR BTC TRX
+  SUI SYRUP KNTQ CRV QNT FET
 
 15m/1h = price change
 vol = volume vs normal
