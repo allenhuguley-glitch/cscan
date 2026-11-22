@@ -1,20 +1,20 @@
 CRYPTO SCAN
-Sun 12:10 PM CT
-29 flagged · 0 buy signals
+Sun 12:15 PM CT
+21 flagged · 1 buy signal
 
-🟢 BUY SIGNALS
-  none right now
+🟢 BUY SIGNALS (1)
+VVV    15m  +1.8%  1h  +2.1%
+   vol 14.5x · $13M · on CB
 
 ⚪ THIN (low volume) (1)
-ALIGN  15m  -8.0%  1h +15.4%
-   vol 3.2x · $815K · on CB
+ALIGN  15m  -4.5%  1h +23.8%
+   vol 1.2x · $880K · on CB
 
-👀 WATCH (28)
-  RARE ELSA PEARL CT PROMPT
-  PONS CAP USELESS LIGHTER VVV
-  TON HYPE ATOM BTC STRK HBAR
-  ETH BNB DRV SOL ADA XLM PAXG
-  DOGE TAO TRUMP AVAX STX
+👀 WATCH (19)
+  RARE ELSA PONS CT PROMPT
+  MAMO ZRO TON CAP GEOD INJ
+  LIGHTER ATOM HBAR STRK DASH
+  XLM DOGE MANTLE
 
 15m/1h = price change
 vol = volume vs normal
