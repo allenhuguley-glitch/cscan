@@ -1,20 +1,19 @@
 CRYPTO SCAN
-Sun 11:55 AM CT
-16 flagged · 0 buy signals
+Sun 12:00 PM CT
+21 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (2)
-ALIGN  15m +14.9%  1h +33.9%
-   vol 2.1x · $830K · on CB
-RARE   15m  +2.0%  1h  -0.6%
-   vol 4.3x · $731K · on CB
+⚪ THIN (low volume) (1)
+ALIGN  15m +10.1%  1h +33.2%
+   vol 2.6x · $841K · on CB
 
-👀 WATCH (14)
-  PROMPT CVX PEARL PONS ELSA
-  USELESS PEPE CT PUMP ZRO
-  DASH TIA ONDO MAMO
+👀 WATCH (20)
+  PROMPT RARE PUMP MON AERO
+  DASH PONS CT PEPE MAMO PEARL
+  ZRO DRV DOT USELESS ETH HYPE
+  VVV LINK STRK
 
 15m/1h = price change
 vol = volume vs normal
