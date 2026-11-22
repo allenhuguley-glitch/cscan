@@ -1,37 +1,37 @@
 CRYPTO SCAN
-Sun 3:30 AM CT
-28 flagged · 0 buy signals
+Sun 3:35 AM CT
+24 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (10)
-PIEVERSE 15m  +9.6%  1h +14.9%
-   vol 15.8x · $745K · not CB
+⚪ THIN (low volume) (12)
+PIEVERSE 15m +11.5%  1h +17.4%
+   vol 1.4x · $755K · not CB
 FLUX   15m  +6.4%  1h  +6.4%
    vol 0.0x · $225K · not CB
+WINGS  15m  +4.0%  1h  +1.0%
+   vol 1.4x · $766K · not CB
+RARE   15m  +3.5%  1h  +3.6%
+   vol 13.3x · $1.1M · on CB
 AUDIO  15m  +3.0%  1h  +3.0%
    vol 0.0x · $193K · not CB
-IRYS   15m  +2.7%  1h  +1.9%
-   vol 0.7x · $652K · on CB
+VINE   15m  +3.0%  1h  +3.2%
+   vol 0.8x · $155K · not CB
 BAND   15m  +2.6%  1h  +0.7%
    vol 0.0x · $359K · not CB
-RARE   15m  +2.4%  1h  +2.6%
-   vol 29.1x · $1.0M · on CB
+BLESS  15m  +2.2%  1h  -9.0%
+   vol 0.0x · $1.4M · not CB
 KDA    15m  -9.5%  1h  -9.5%
    vol 0.0x · $800K · not CB
-WINGS  15m  -4.1%  1h  -3.1%
-   vol 0.0x · $764K · not CB
 ORCA   15m  -2.5%  1h  -4.9%
    vol 0.2x · $1.2M · on CB
-VVV    15m  -1.1%  1h  -1.9%
-   vol 0.0x · $13M · on CB
+  +2 more
 
-👀 WATCH (18)
-  TIA TAO BONK VINE CRV SEI
-  HBAR PROMPT PENDLE HYPE XMR
-  ADA PAXG QNT ZRO NIGHT EUR
-  USDGO
+👀 WATCH (12)
+  PROMPT TIA UNI DOT ICP ADA
+  SEI PAXG QNT PENDLE EUR
+  SOFID
 
 15m/1h = price change
 vol = volume vs normal
