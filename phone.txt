@@ -1,19 +1,21 @@
 CRYPTO SCAN
-Sun 11:15 AM CT
-22 flagged · 0 buy signals
+Sun 11:20 AM CT
+21 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
-ALIGN  15m  +2.8%  1h +10.1%
-   vol 2.6x · $499K · on CB
+⚪ THIN (low volume) (2)
+PROMPT 15m  +2.9%  1h  +5.6%
+   vol 0.6x · $604K · on CB
+ALIGN  15m  +2.8%  1h +12.1%
+   vol 1.4x · $531K · on CB
 
-👀 WATCH (21)
-  ELSA RARE CVX DRV MON ASTER
-  BTC XPL AAVE HYPE STX PEARL
-  ETH UNI AERO ZEC ENA ADA FET
-  SPX NEAR
+👀 WATCH (19)
+  CT MON ASTER RARE CVX
+  JUPITER AAVE STX DRV PEPE
+  PEARL UNI AERO ZEC XPL
+  USELESS ENA VVV FET
 
 15m/1h = price change
 vol = volume vs normal
