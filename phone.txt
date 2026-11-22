@@ -1,38 +1,36 @@
 CRYPTO SCAN
-Sun 12:30 AM CT
-45 flagged · 0 buy signals
+Sun 12:35 AM CT
+24 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (9)
+⚪ THIN (low volume) (10)
 FLUX   15m  +6.4%  1h  +6.4%
    vol 0.0x · $225K · not CB
-BLESS  15m  +3.1%  1h  +3.7%
-   vol 5.8x · $1.5M · not CB
+BLESS  15m  +3.7%  1h  +6.4%
+   vol 2.4x · $1.5M · not CB
 AUDIO  15m  +3.0%  1h  +3.0%
    vol 0.0x · $193K · not CB
 BAND   15m  +2.6%  1h  +0.7%
    vol 0.0x · $359K · not CB
-PONS   15m  +2.3%  1h  +5.1%
-   vol 1.5x · $580K · on CB
+EVAA   15m  +2.5%  1h  -6.5%
+   vol 0.5x · $502K · not CB
 KDA    15m  -9.5%  1h  -9.5%
    vol 0.0x · $800K · not CB
 PROMPT 15m  -4.4%  1h  -7.5%
-   vol 2.2x · $553K · on CB
-MEGA   15m  -3.7%  1h  -2.5%
-   vol 2.3x · $171K · not CB
-VINE   15m  -2.3%  1h  +0.8%
-   vol 1.6x · $139K · not CB
+   vol 3.2x · $549K · on CB
+MEGA   15m  -4.1%  1h  -2.5%
+   vol 1.8x · $175K · not CB
+VINE   15m  -2.7%  1h  +0.5%
+   vol 1.0x · $139K · not CB
+AKE    15m  -2.1%  1h  -0.0%
+   vol 0.5x · $1.4M · not CB
 
-👀 WATCH (36)
-  PYTH NEAR GRASS OP ONDO AERO
-  ATOM XPL BAT PENGU ASTER
-  BONK SUI ZEC HYPE VIRTUAL
-  ADA PNUT DOGE FIL CVX UNI
-  WIF XRP BNB SOL ETH ENA PAXG
-  AKT LINK ICNT BCH LTC QNT
-  SEI
+👀 WATCH (14)
+  IRYS NEAR ZBCN JUPITER BONK
+  ADA WIF XMR PNUT UNI LIGHTER
+  BNB BEAM QNT
 
 15m/1h = price change
 vol = volume vs normal
