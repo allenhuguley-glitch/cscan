@@ -1,16 +1,16 @@
 CRYPTO SCAN
-Sun 4:05 PM CT
-26 flagged · 0 buy signals
+Sun 4:10 PM CT
+24 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (26)
-  ELSA PROMPT PYTH ALIGN TAO
-  HBAR ONDO ETH SUI XLM DOGE
-  LTC FIL XRP LINK DOT BTC QNT
-  PEARL SOL XPL CRV BNB CAP
-  ALGO ORCA
+👀 WATCH (24)
+  RARE CT ELSA CAP DRV FET
+  PEARL ALIGN USELESS STX ORCA
+  ONDO MORPHO SUI DOGE DOT
+  PEPE STRK ADA BNB XRP TIA
+  XPL CRV
 
 15m/1h = price change
 vol = volume vs normal
