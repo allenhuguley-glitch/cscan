@@ -1,28 +1,31 @@
 CRYPTO SCAN
-Sun 4:35 AM CT
-24 flagged · 1 buy signal
+Sun 4:40 AM CT
+18 flagged · 0 buy signals
 
-🟢 BUY SIGNALS (1)
-VVV    15m  +1.7%  1h  +2.0%
-   vol 5.1x · $14M · on CB
+🟢 BUY SIGNALS
+  none right now
 
-⚪ THIN (low volume) (5)
+⚪ THIN (low volume) (8)
 FLUX   15m  +6.4%  1h  +6.4%
    vol 0.0x · $225K · not CB
+CASHCAT 15m  +5.3%  1h +10.1%
+   vol 5.8x · $950K · not CB
 AUDIO  15m  +3.0%  1h  +3.0%
    vol 0.0x · $193K · not CB
 BAND   15m  +2.6%  1h  +0.7%
    vol 0.0x · $359K · not CB
+MORPHO 15m  +2.2%  1h  +2.2%
+   vol 22.0x · $543K · on CB
+VVV    15m  +1.8%  1h  +3.1%
+   vol 1.4x · $14M · on CB
 KDA    15m  -9.5%  1h  -9.5%
    vol 0.0x · $800K · not CB
-PIEVERSE 15m  -2.4%  1h  +0.6%
-   vol 1.6x · $835K · not CB
+EVAA   15m  -2.3%  1h +20.4%
+   vol 2.6x · $681K · not CB
 
-👀 WATCH (18)
-  CASHCAT PROMPT LIGHTER CRV
-  ZEC XMR VIRTUAL SPX ZRO
-  USELESS BEAM ADA CHIP HYPE
-  XLM DOGE QNT FET
+👀 WATCH (10)
+  PEARL QNT PROMPT LDO ZEC
+  POPCAT LINK RUNE ARB HYPE
 
 15m/1h = price change
 vol = volume vs normal
