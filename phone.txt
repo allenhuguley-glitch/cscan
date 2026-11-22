@@ -1,11 +1,11 @@
 CRYPTO SCAN
-Sat 10:50 PM CT
-28 flagged · 0 buy signals
+Sat 10:55 PM CT
+19 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (7)
+⚪ THIN (low volume) (5)
 FLUX   15m  +6.4%  1h  +6.4%
    vol 0.0x · $225K · not CB
 AUDIO  15m  +3.0%  1h  +3.0%
@@ -14,18 +14,13 @@ BAND   15m  +2.6%  1h  +0.7%
    vol 0.0x · $359K · not CB
 KDA    15m  -9.5%  1h  -9.5%
    vol 0.0x · $800K · not CB
-EVAA   15m  -3.9%  1h -13.5%
-   vol 5.5x · $448K · not CB
-CCD    15m  -2.4%  1h  +3.5%
-   vol 3.3x · $378K · not CB
-BLESS  15m  -2.2%  1h  +2.1%
-   vol 0.1x · $1.5M · not CB
+EVAA   15m  -2.4%  1h -17.7%
+   vol 4.2x · $461K · not CB
 
-👀 WATCH (21)
-  UNI CT TRUMP DRV CASHCAT SPX
-  AERO XDC BONK BEAM ZRO CRV
-  RUNE FLR XMR MEW PAXG XAUT
-  GRASS USELESS QNT
+👀 WATCH (14)
+  DRV CCD CT WLD DOT LIGHTER
+  LIT AVAX FLR NPC GRT POPCAT
+  EUR QNT
 
 15m/1h = price change
 vol = volume vs normal
