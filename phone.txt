@@ -1,19 +1,20 @@
 CRYPTO SCAN
-Sun 1:45 PM CT
-21 flagged · 0 buy signals
+Sun 1:50 PM CT
+17 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
-PROMPT 15m  -3.3%  1h  +0.5%
-   vol 1.1x · $581K · on CB
+⚪ THIN (low volume) (2)
+VVV    15m  +1.1%  1h  +0.6%
+   vol 0.0x · $12M · on CB
+PROMPT 15m  -4.2%  1h  +0.6%
+   vol 0.1x · $583K · on CB
 
-👀 WATCH (20)
-  ELSA ALIGN RARE VVV CAP DRV
-  STX CRV USELESS ALEO DASH
-  GEOD PUMP RENDER HYPE ENA
-  ATOM XRP SOL XLM
+👀 WATCH (15)
+  ALIGN RARE ELSA CAP USELESS
+  DRV ALEO WLD STX RENDER HYPE
+  TRUMP XLM ASTER BNB
 
 15m/1h = price change
 vol = volume vs normal
