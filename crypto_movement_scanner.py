@@ -13,6 +13,9 @@ If trend data can't be fetched, the original label is kept (shown with ?).
 
 The 'trend' column shows 1h then 1d: + = up, - = down, ? = unknown.
 
+COINBASE ONLY by default: only coins with a Coinbase pair are scanned, so every
+row is tradable. Add --all-exchanges to bring back Kraken/Binance.US/Bitstamp.
+
 Uses its own state/log files (scanner_state.json, scanner_log_v4.csv) so your
 v3 files are not touched.
 
@@ -452,9 +455,13 @@ def main():
     p.add_argument("--show", type=int, default=80, help="max rows to print")
     p.add_argument("--no-push", action="store_true", help="do not send phone alerts")
     p.add_argument("--no-social", action="store_true", help="skip Reddit/Discord/X")
+    p.add_argument("--all-exchanges", action="store_true",
+                   help="also scan Kraken, Binance.US and Bitstamp (default: Coinbase coins only)")
     p.add_argument("--no-mtf", action="store_true", help="skip the 1h/1d trend confirmation")
     p.add_argument("--x-max", type=int, default=10, help="max flagged coins to check on X per run")
     a = p.parse_args()
+    if not a.all_exchanges:
+        EXCHANGES[:] = ["coinbase"]   # Coinbase coins only: other exchanges are skipped everywhere
     if not (a.once or a.loop):
         a.once = True
     while True:
