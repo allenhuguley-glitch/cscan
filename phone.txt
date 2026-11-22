@@ -1,20 +1,18 @@
 CRYPTO SCAN
-Sun 10:35 AM CT
-27 flagged · 0 buy signals
+Sun 10:40 AM CT
+18 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (1)
-ELSA   15m  -3.7%  1h  -0.8%
-   vol 5.8x · $525K · on CB
+ELSA   15m  -3.3%  1h  +1.9%
+   vol 1.1x · $524K · on CB
 
-👀 WATCH (26)
-  RENDER USELESS RARE VVV PONS
-  CAP BTC ORCA XLM TRUMP LTC
-  INJ ETH DOGE FIL FARTCOIN
-  UNI JUPITER AAVE ZRO SPX ICP
-  DASH AVAX TIA MORPHO
+👀 WATCH (17)
+  RARE RENDER USELESS NEAR MON
+  CAP DRV ZRO AERO FET JUPITER
+  FIL SPX ICP STRK PAXG MORPHO
 
 15m/1h = price change
 vol = volume vs normal
