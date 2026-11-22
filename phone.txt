@@ -1,18 +1,20 @@
 CRYPTO SCAN
-Sun 3:00 PM CT
-16 flagged · 0 buy signals
+Sun 3:05 PM CT
+29 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (1)
 ALIGN  15m  -2.5%  1h  +0.3%
-   vol 0.1x · $955K · on CB
+   vol 0.1x · $957K · on CB
 
-👀 WATCH (15)
-  ALEO PONS ELSA RENDER WLD
-  FET STRK ETH ZEC CAP SUI
-  AERO ICP FIL INJ
+👀 WATCH (28)
+  ALEO PROMPT FET RARE LIGHTER
+  PONS CT ZEC WLD RENDER UNI
+  BTC FIL SOL STRK ETH CAP
+  GEOD LTC AVAX STX XRP DOT
+  LINK MORPHO INJ PENGU XPL
 
 15m/1h = price change
 vol = volume vs normal
