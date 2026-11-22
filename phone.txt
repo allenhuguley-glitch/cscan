@@ -1,18 +1,20 @@
 CRYPTO SCAN
-Sun 3:25 PM CT
-19 flagged · 0 buy signals
+Sun 3:30 PM CT
+28 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (1)
-ALIGN  15m  -4.0%  1h  -6.1%
-   vol 2.5x · $941K · on CB
+ALIGN  15m  -2.3%  1h  -4.5%
+   vol 0.7x · $945K · on CB
 
-👀 WATCH (18)
-  PROMPT GEOD MON PUMP PEARL
-  ELSA ALEO AERO FET CRV TAO
-  PONS SOL SUI STX TIA XRP ARB
+👀 WATCH (27)
+  GEOD LIGHTER MON ALEO PEARL
+  ELSA PUMP AERO JUPITER UNI
+  PYTH ENA XLM CRV LTC TAO
+  PROMPT QNT FIL SUI STX TIA
+  ETH DRV INJ HBAR ADA
 
 15m/1h = price change
 vol = volume vs normal
