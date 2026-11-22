@@ -1,15 +1,14 @@
 CRYPTO SCAN
-Sun 5:50 PM CT
-18 flagged · 0 buy signals
+Sun 5:55 PM CT
+14 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (18)
-  MON ZRO LIGHTER PEARL ALEO
-  AERO HYPE PUMP ELSA PONS VVV
-  BCH CT NEAR ATOM AVAX ONDO
-  ADA
+👀 WATCH (14)
+  LIGHTER ZRO ALIGN PONS PUMP
+  USELESS ARB CT SPX JTO QNT
+  ATOM AVAX ADA
 
 15m/1h = price change
 vol = volume vs normal
