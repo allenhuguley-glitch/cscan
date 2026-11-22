@@ -1,15 +1,18 @@
 CRYPTO SCAN
-Sun 3:40 PM CT
-20 flagged · 0 buy signals
+Sun 3:45 PM CT
+16 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (20)
-  PEARL ELSA ALEO MON ALIGN
-  LIGHTER VVV PYTH WLD PROMPT
-  AERO MAMO TIA BCH BNB FIL
-  ICP ENA FET AVAX
+⚪ THIN (low volume) (1)
+ALIGN  15m  +3.2%  1h  -2.5%
+   vol 0.7x · $977K · on CB
+
+👀 WATCH (15)
+  PEARL ALEO GEOD PROMPT BCH
+  QNT MORPHO AVAX ICP BNB FIL
+  DRV ONDO XLM TIA
 
 15m/1h = price change
 vol = volume vs normal
