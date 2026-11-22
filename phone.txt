@@ -1,21 +1,20 @@
 CRYPTO SCAN
-Sun 1:30 PM CT
-14 flagged · 0 buy signals
+Sun 1:35 PM CT
+19 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (3)
+⚪ THIN (low volume) (2)
 PROMPT 15m  +5.2%  1h  +2.0%
-   vol 1.4x · $609K · on CB
+   vol 1.4x · $596K · on CB
 ALIGN  15m  -5.9%  1h -10.9%
    vol 0.1x · $945K · on CB
-ELSA   15m  -2.1%  1h  -0.4%
-   vol 0.5x · $723K · on CB
 
-👀 WATCH (11)
-  USELESS GEOD RARE PONS XPL
-  ZRO TON MORPHO LTC FET TAO
+👀 WATCH (17)
+  ELSA RARE USELESS WLD ORCA
+  CT PONS DASH ARB MORPHO PEPE
+  FIL FET CAP GEOD XPL MON
 
 15m/1h = price change
 vol = volume vs normal
