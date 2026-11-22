@@ -1,15 +1,16 @@
 CRYPTO SCAN
-Sun 10:15 AM CT
-21 flagged · 0 buy signals
+Sun 10:20 AM CT
+24 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (21)
-  ELSA CT ORCA INJ CVX USELESS
-  CAP RARE STRK ARB TIA WLD
-  VVV SEI AVAX LTC LINK DOGE
-  TRUMP XLM UNI
+👀 WATCH (24)
+  ELSA CT INJ ORCA RARE IRYS
+  JUPITER MAMO USELESS PUMP
+  CAP ARB STRK VVV ASTER ENA
+  AVAX FET ICP ONDO PONS STX
+  NEAR AAVE
 
 15m/1h = price change
 vol = volume vs normal
