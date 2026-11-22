@@ -1,21 +1,15 @@
 CRYPTO SCAN
-Sun 8:55 AM CT
-21 flagged · 0 buy signals
+Sun 9:00 AM CT
+20 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (2)
-RARE   15m  -2.9%  1h  -1.9%
-   vol 1.7x · $781K · on CB
-ELSA   15m  -2.1%  1h  +1.9%
-   vol 0.3x · $425K · on CB
-
-👀 WATCH (19)
-  CVX MANTLE GEOD DRV PUMP
-  AERO STX TIA TRUMP CAP QNT
-  SPX SEI INJ MORPHO ARB ZRO
-  BCH RENDER
+👀 WATCH (20)
+  CVX PEARL GEOD ELSA LIGHTER
+  MANTLE NEAR ZRO AERO STX CT
+  INJ SPX ZEC HBAR ADA WLD BTC
+  PUMP BCH
 
 15m/1h = price change
 vol = volume vs normal
