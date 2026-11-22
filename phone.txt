@@ -1,19 +1,19 @@
 CRYPTO SCAN
-Sun 2:15 PM CT
-19 flagged · 0 buy signals
+Sun 2:20 PM CT
+21 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (1)
-ALIGN  15m  +3.2%  1h  -4.0%
-   vol 0.1x · $964K · on CB
+ALIGN  15m  +2.2%  1h  +0.6%
+   vol 0.1x · $974K · on CB
 
-👀 WATCH (18)
-  PEARL ELSA RARE MAMO CAP QNT
-  PUMP ZRO MANTLE AERO NEAR
-  WLD DASH ETH LINK UNI HBAR
-  XLM
+👀 WATCH (20)
+  ELSA PONS MAMO VVV PEARL
+  RARE ZRO MANTLE QNT PUMP
+  AERO NEAR CAP XRP BTC SUI
+  TAO ARB INJ JTO
 
 15m/1h = price change
 vol = volume vs normal
