@@ -1,19 +1,19 @@
 CRYPTO SCAN
-Sun 2:20 PM CT
-21 flagged · 0 buy signals
+Sun 2:25 PM CT
+19 flagged · 1 buy signal
 
-🟢 BUY SIGNALS
-  none right now
+🟢 BUY SIGNALS (1)
+VVV    15m  +1.2%  1h  +1.5%
+   vol 3.7x · $12M · on CB
 
 ⚪ THIN (low volume) (1)
 ALIGN  15m  +2.2%  1h  +0.6%
-   vol 0.1x · $974K · on CB
+   vol 0.1x · $960K · on CB
 
-👀 WATCH (20)
-  ELSA PONS MAMO VVV PEARL
-  RARE ZRO MANTLE QNT PUMP
-  AERO NEAR CAP XRP BTC SUI
-  TAO ARB INJ JTO
+👀 WATCH (17)
+  PONS AERO CRV RARE PROMPT
+  ELSA PYTH CAP PUMP BTC SUI
+  LTC TAO ATOM JUPITER JTO MON
 
 15m/1h = price change
 vol = volume vs normal
