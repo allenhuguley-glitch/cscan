@@ -1,36 +1,36 @@
 CRYPTO SCAN
-Sat 11:15 PM CT
-25 flagged · 0 buy signals
+Sat 11:20 PM CT
+37 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (10)
+⚪ THIN (low volume) (9)
 FLUX   15m  +6.4%  1h  +6.4%
    vol 0.0x · $225K · not CB
+BLESS  15m  +5.3%  1h  -1.9%
+   vol 0.6x · $1.5M · not CB
+AKE    15m  +4.9%  1h  -0.9%
+   vol 0.2x · $1.6M · not CB
 AUDIO  15m  +3.0%  1h  +3.0%
    vol 0.0x · $193K · not CB
-BLESS  15m  +2.9%  1h  -0.9%
-   vol 0.6x · $1.5M · not CB
 BAND   15m  +2.6%  1h  +0.7%
    vol 0.0x · $359K · not CB
-ZEUS   15m  +2.1%  1h  +0.5%
-   vol 1.3x · $224K · not CB
-IRYS   15m  +2.1%  1h  +1.3%
-   vol 0.2x · $812K · on CB
+ZEUS   15m  +2.1%  1h  +0.0%
+   vol 0.2x · $224K · not CB
 KDA    15m  -9.5%  1h  -9.5%
    vol 0.0x · $800K · not CB
-PEARL  15m  -3.2%  1h  -0.1%
-   vol 0.9x · $3.2M · on CB
-VINE   15m  -3.0%  1h  -2.0%
-   vol 2.8x · $138K · not CB
-EVAA   15m  -2.7%  1h -13.5%
-   vol 0.8x · $457K · not CB
+EVAA   15m  -6.7%  1h -16.3%
+   vol 0.3x · $458K · not CB
+CASHCAT 15m  -2.1%  1h  +0.1%
+   vol 2.8x · $773K · not CB
 
-👀 WATCH (15)
-  SPX QNT BTC UNI NPC WLD LTC
-  ATOM MEW ZEC STRK SYRUP ZRO
-  POPCAT XCN
+👀 WATCH (28)
+  ORCA TRUMP TAO XMR QNT DOGE
+  BNB WLD UNI SOL NEAR ZRO LTC
+  SPX PEPE CC ETH XRP BTC LINK
+  HYPE XLM BAT RAY MEW ZEC CHZ
+  EUR
 
 15m/1h = price change
 vol = volume vs normal
