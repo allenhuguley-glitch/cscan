@@ -1,21 +1,18 @@
 CRYPTO SCAN
-Sun 4:40 PM CT
-32 flagged · 0 buy signals
+Sun 4:45 PM CT
+15 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (1)
-NEAR   15m  -1.1%  1h  -1.2%
-   vol 0.3x · $12M · on CB
+ALIGN  15m  +2.8%  1h  +5.4%
+   vol 0.4x · $1.1M · on CB
 
-👀 WATCH (31)
-  USELESS JUPITER PONS DRV
-  ORCA LIGHTER MON ZRO PYTH
-  PEPE ZEC TON CAP WLD RENDER
-  HYPE ARB ALEO ELSA TRUMP
-  RARE ALGO JTO STRK AAVE ONDO
-  XLM DOGE XPL SOL BTC
+👀 WATCH (14)
+  JUPITER DRV MON ZRO TON CAP
+  PEARL ALEO WLD XLM DOGE XPL
+  DASH SUI
 
 15m/1h = price change
 vol = volume vs normal
