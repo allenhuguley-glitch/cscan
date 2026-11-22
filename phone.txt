@@ -1,18 +1,18 @@
 CRYPTO SCAN
-Sun 4:50 PM CT
-13 flagged · 0 buy signals
+Sun 4:55 PM CT
+12 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (1)
-ALIGN  15m  +2.8%  1h  +5.4%
-   vol 0.4x · $1.1M · on CB
+ALIGN  15m  +2.8%  1h  +7.2%
+   vol 0.6x · $1.0M · on CB
 
-👀 WATCH (12)
-  PEARL ZRO USELESS RARE VVV
-  TON MON XLM GEOD PYTH ARB
-  SUI
+👀 WATCH (11)
+  PEARL USELESS RARE VVV XPL
+  TRUMP BTC ONDO AVAX PAXG
+  PYTH
 
 15m/1h = price change
 vol = volume vs normal
