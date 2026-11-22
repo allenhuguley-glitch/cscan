@@ -1,6 +1,6 @@
 CRYPTO SCAN
-Sun 4:45 PM CT
-15 flagged · 0 buy signals
+Sun 4:50 PM CT
+13 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
@@ -9,10 +9,10 @@ Sun 4:45 PM CT
 ALIGN  15m  +2.8%  1h  +5.4%
    vol 0.4x · $1.1M · on CB
 
-👀 WATCH (14)
-  JUPITER DRV MON ZRO TON CAP
-  PEARL ALEO WLD XLM DOGE XPL
-  DASH SUI
+👀 WATCH (12)
+  PEARL ZRO USELESS RARE VVV
+  TON MON XLM GEOD PYTH ARB
+  SUI
 
 15m/1h = price change
 vol = volume vs normal
