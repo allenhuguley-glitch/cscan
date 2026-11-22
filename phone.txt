@@ -1,30 +1,36 @@
 CRYPTO SCAN
-Sun 3:45 AM CT
-26 flagged · 0 buy signals
+Sun 3:50 AM CT
+23 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (7)
-VINE   15m  +7.3%  1h  +8.0%
-   vol 4.0x · $152K · not CB
+⚪ THIN (low volume) (10)
 FLUX   15m  +6.4%  1h  +6.4%
    vol 0.0x · $225K · not CB
-PIEVERSE 15m  +4.9%  1h +21.7%
-   vol 0.9x · $780K · not CB
+VINE   15m  +3.2%  1h  +6.9%
+   vol 1.8x · $153K · not CB
 AUDIO  15m  +3.0%  1h  +3.0%
    vol 0.0x · $193K · not CB
 BAND   15m  +2.6%  1h  +0.7%
    vol 0.0x · $359K · not CB
+CT     15m  +2.4%  1h  +2.6%
+   vol 0.6x · $648K · on CB
+AKE    15m  +2.0%  1h  +1.1%
+   vol 0.9x · $1.6M · not CB
 KDA    15m  -9.5%  1h  -9.5%
    vol 0.0x · $800K · not CB
-EVAA   15m  -4.1%  1h  -5.7%
-   vol 1.4x · $623K · not CB
+WINGS  15m  -3.5%  1h  -4.8%
+   vol 0.1x · $764K · not CB
+TRAC   15m  -2.5%  1h  -2.5%
+   vol 0.0x · $236K · not CB
+BLESS  15m  -2.1%  1h  -7.6%
+   vol 0.0x · $1.4M · not CB
 
-👀 WATCH (19)
-  ZEUS ASTER LUNC ZORA WLD ICP
-  ZRO ETH LINK BNB TRX LDO FLR
-  FIL QNT APT NEAR UNI GRAM
+👀 WATCH (13)
+  ICNT PROMPT AERO TRUMP TON
+  QNT BCH FLR VVV LIGHTER W
+  ZEC EUR
 
 15m/1h = price change
 vol = volume vs normal
