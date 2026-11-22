@@ -1,36 +1,35 @@
 CRYPTO SCAN
-Sun 5:50 AM CT
-19 flagged · 0 buy signals
+Sun 5:55 AM CT
+23 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (11)
+⚪ THIN (low volume) (10)
+DRV    15m  +9.4%  1h +12.2%
+   vol 12.3x · $4.0M · on CB
 FLUX   15m  +6.4%  1h  +6.4%
    vol 0.0x · $225K · not CB
-CPOOL  15m  +3.2%  1h  +1.1%
-   vol 0.9x · $152K · not CB
+EVAA   15m  +4.5%  1h  +6.1%
+   vol 0.4x · $710K · not CB
+BLESS  15m  +4.5%  1h +10.1%
+   vol 1.8x · $1.2M · not CB
 AUDIO  15m  +3.0%  1h  +3.0%
    vol 0.0x · $193K · not CB
 FLOKI  15m  +2.8%  1h  +2.8%
    vol 0.0x · $11K · not CB
-BLESS  15m  +2.6%  1h  +8.7%
-   vol 4.4x · $1.2M · not CB
 BAND   15m  +2.6%  1h  +0.7%
    vol 0.0x · $359K · not CB
-NIGHT  15m  +2.4%  1h  +3.9%
-   vol 5.1x · $2.2M · not CB
-DRV    15m  +2.3%  1h  +5.5%
-   vol 1.5x · $3.6M · on CB
-PIEVERSE 15m  +2.0%  1h  -2.4%
-   vol 0.5x · $968K · not CB
 KDA    15m  -9.5%  1h  -9.5%
    vol 0.0x · $800K · not CB
-  +1 more
+PIEVERSE 15m  -3.8%  1h  -2.2%
+   vol 0.4x · $968K · not CB
+PEARL  15m  -2.4%  1h  -1.5%
+   vol 0.5x · $2.7M · on CB
 
-👀 WATCH (8)
-  CHZ LIT NEAR BAT DOGE ALGO
-  XDC QNT
+👀 WATCH (13)
+  YB APT LTC LINK ENA HYPE XMR
+  NEAR XLM SEI QNT BCH XRP
 
 15m/1h = price change
 vol = volume vs normal
