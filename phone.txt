@@ -1,21 +1,20 @@
 CRYPTO SCAN
-Sun 12:20 PM CT
-21 flagged · 0 buy signals
+Sun 12:25 PM CT
+29 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (2)
-VVV    15m  +1.3%  1h  +2.2%
-   vol 0.6x · $13M · on CB
+⚪ THIN (low volume) (1)
 PROMPT 15m  -2.2%  1h  -1.2%
    vol 0.1x · $579K · on CB
 
-👀 WATCH (19)
-  ELSA PEARL ALIGN PONS RARE
-  TON FET ZRO MAMO ENA STRK
-  AVAX INJ LINK DASH DOT
-  RENDER ALEO MANTLE
+👀 WATCH (28)
+  PONS RARE PEARL VVV ALIGN
+  JTO CRV FET LIGHTER HYPE ENA
+  ZRO QNT CT PUMP XPL FIL WLD
+  MAMO BCH NEAR ELSA ALEO AVAX
+  DOGE MANTLE ICP PAXG
 
 15m/1h = price change
 vol = volume vs normal
