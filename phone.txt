@@ -1,35 +1,30 @@
 CRYPTO SCAN
-Sun 7:50 AM CT
-32 flagged · 0 buy signals
+Sun 7:55 AM CT
+24 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (9)
+⚪ THIN (low volume) (7)
 FLUX   15m  +6.4%  1h  +6.4%
    vol 0.0x · $225K · not CB
-CASHCAT 15m  +3.7%  1h  +8.3%
-   vol 7.9x · $1.3M · not CB
-BLESS  15m  +3.6%  1h  +5.7%
-   vol 1.0x · $829K · not CB
+BLESS  15m  +4.4%  1h  +6.8%
+   vol 1.5x · $830K · not CB
 AUDIO  15m  +3.0%  1h  +3.0%
    vol 0.0x · $193K · not CB
 BAND   15m  +2.6%  1h  +0.7%
    vol 0.0x · $359K · not CB
-EVAA   15m -12.5%  1h  -1.8%
-   vol 3.6x · $734K · not CB
-PIEVERSE 15m -11.8%  1h  -9.1%
-   vol 2.0x · $1.4M · not CB
 KDA    15m  -9.5%  1h  -9.5%
    vol 0.0x · $800K · not CB
-ELSA   15m  -4.4%  1h  -6.8%
-   vol 1.4x · $408K · on CB
+PIEVERSE 15m  -9.1%  1h  -6.8%
+   vol 0.4x · $1.4M · not CB
+ELSA   15m  -3.6%  1h  -6.4%
+   vol 0.3x · $412K · on CB
 
-👀 WATCH (23)
-  SENT FET LINEA CC VIRTUAL
-  ADA ZEUS DOGE ZRO STX RE
-  RARE LINK XPL LTC SOL SHIB
-  WLD GRAM VVV TRAC MEW QNT
+👀 WATCH (17)
+  NIGHT PUMP CTR ZRO FET LINEA
+  JTO ICNT VVV RARE KAS LTC
+  JUP W SPX XMR QNT
 
 15m/1h = price change
 vol = volume vs normal
