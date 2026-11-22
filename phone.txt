@@ -1,27 +1,31 @@
 CRYPTO SCAN
-Sat 11:30 PM CT
-24 flagged · 0 buy signals
+Sat 11:35 PM CT
+27 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (5)
+⚪ THIN (low volume) (7)
 FLUX   15m  +6.4%  1h  +6.4%
    vol 0.0x · $225K · not CB
 AUDIO  15m  +3.0%  1h  +3.0%
    vol 0.0x · $193K · not CB
+RARE   15m  +2.6%  1h  +1.4%
+   vol 5.0x · $1.3M · on CB
 BAND   15m  +2.6%  1h  +0.7%
    vol 0.0x · $359K · not CB
-EVAA   15m -11.5%  1h -20.3%
-   vol 1.4x · $462K · not CB
+EVAA   15m -13.5%  1h -20.1%
+   vol 0.6x · $463K · not CB
 KDA    15m  -9.5%  1h  -9.5%
    vol 0.0x · $800K · not CB
+VINE   15m  -2.4%  1h  -2.1%
+   vol 0.0x · $139K · not CB
 
-👀 WATCH (19)
-  DOS FARTCOIN RARE MNT DRV
-  LUNC WIF MORPHO WCT ASTER
-  DOGE SHIB BILL ADA LINK POL
-  SUI YB QNT
+👀 WATCH (20)
+  ORCA DOS NEAR FLOKI WLD HYPE
+  PENGU SUI BAT SOL XLM ONDO
+  AERO INJ QNT MEW ALGO ETH
+  EUR TIA
 
 15m/1h = price change
 vol = volume vs normal
