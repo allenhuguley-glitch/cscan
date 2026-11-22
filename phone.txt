@@ -1,37 +1,44 @@
 CRYPTO SCAN
-Sun 2:10 AM CT
-29 flagged · 0 buy signals
+Sun 2:15 AM CT
+68 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (10)
-VINE   15m  +7.5%  1h +12.4%
-   vol 0.6x · $144K · not CB
 FLUX   15m  +6.4%  1h  +6.4%
    vol 0.0x · $225K · not CB
-EVAA   15m  +6.1%  1h  -3.3%
-   vol 0.6x · $626K · not CB
-PIEVERSE 15m  +4.0%  1h  +6.0%
-   vol 0.6x · $578K · not CB
-BLESS  15m  +3.3%  1h  +2.9%
-   vol 2.9x · $1.5M · not CB
+BLESS  15m  +5.0%  1h  +3.8%
+   vol 0.4x · $1.5M · not CB
+VINE   15m  +4.3%  1h  +3.8%
+   vol 0.8x · $144K · not CB
 AUDIO  15m  +3.0%  1h  +3.0%
    vol 0.0x · $193K · not CB
+PIEVERSE 15m  +2.9%  1h  +8.8%
+   vol 1.6x · $582K · not CB
 BAND   15m  +2.6%  1h  +0.7%
    vol 0.0x · $359K · not CB
+WCT    15m  +2.1%  1h  +1.5%
+   vol 981.6x · $247K · not CB
+TAO    15m  +2.1%  1h  +2.1%
+   vol 10.5x · $4.4M · on CB
 KDA    15m  -9.5%  1h  -9.5%
    vol 0.0x · $800K · not CB
-WINGS  15m  -5.6%  1h +13.5%
-   vol 0.3x · $742K · not CB
-PROMPT 15m  -2.4%  1h  -0.3%
-   vol 1.9x · $580K · on CB
+WINGS  15m  -7.6%  1h +12.2%
+   vol 0.0x · $749K · not CB
 
-👀 WATCH (19)
-  DASH KNTQ BONK FARTCOIN VVV
-  POPCAT VIRTUAL ASTER PNUT
-  SUI DOGE ONDO HYPE SOL USDG
-  NPC EUR QNT SOFID
+👀 WATCH (58)
+  ZEUS PUMP VVV STRK AERO APT
+  INJ TIA FARTCOIN ICP CT
+  ASTER SUI FIL ENA USELESS
+  ARB SEI VIRTUAL LIGHTER WIF
+  DOT HYPE CHZ HBAR SOL LINK
+  AVAX ZORA ONDO NEAR ADA
+  PENGU FET ETH UNI AAVE DOGE
+  ALGO QNT AKT LIT XLM LTC
+  SYRUP CVX MEW XPL BNB XRP W
+  BTC XCN BCH XDC ZBCN TRX
+  XAUT
 
 15m/1h = price change
 vol = volume vs normal
