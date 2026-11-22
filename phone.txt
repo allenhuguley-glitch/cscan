@@ -1,36 +1,38 @@
 CRYPTO SCAN
-Sun 8:05 AM CT
-26 flagged · 0 buy signals
+Sun 8:10 AM CT
+31 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (10)
-BLESS  15m  +8.4%  1h +17.9%
-   vol 1.0x · $782K · not CB
-DRV    15m  +6.9%  1h  +8.9%
-   vol 6.9x · $4.5M · on CB
+⚪ THIN (low volume) (11)
 FLUX   15m  +6.4%  1h  +6.4%
    vol 0.0x · $225K · not CB
-EVAA   15m  +4.8%  1h  -5.8%
-   vol 2.5x · $740K · not CB
+DRV    15m  +5.4%  1h  +8.3%
+   vol 5.1x · $4.4M · on CB
+VINE   15m  +4.2%  1h  +3.3%
+   vol 1.6x · $155K · not CB
+BAT    15m  +3.2%  1h  +3.3%
+   vol 76.0x · $251K · not CB
 AUDIO  15m  +3.0%  1h  +3.0%
    vol 0.0x · $193K · not CB
+LIT    15m  +2.6%  1h  +3.7%
+   vol 12.3x · $357K · not CB
 BAND   15m  +2.6%  1h  +0.7%
    vol 0.0x · $359K · not CB
+LIGHTER 15m  +2.2%  1h  +3.6%
+   vol 16.7x · $3.1M · on CB
 KDA    15m  -9.5%  1h  -9.5%
    vol 0.0x · $800K · not CB
-PIEVERSE 15m  -5.7%  1h -14.9%
-   vol 0.8x · $1.4M · not CB
-CASHCAT 15m  -5.5%  1h  +1.7%
-   vol 0.2x · $1.3M · not CB
-ELSA   15m  -2.6%  1h  -8.7%
-   vol 0.2x · $413K · on CB
+EVAA   15m  -9.1%  1h  -8.0%
+   vol 4.5x · $746K · not CB
+  +1 more
 
-👀 WATCH (16)
-  PUMP RARE JUPITER VVV SKY
-  STRK PEPE SENT JUP ARB WINGS
-  ONDO MORPHO POL AAVE QNT
+👀 WATCH (20)
+  VVV BLESS PUMP PYTH AERO CCD
+  INJ ZORA W BONK NEAR DOT
+  PEPE WLFI FIL FARTCOIN ETH
+  PAXG AUSD QNT
 
 15m/1h = price change
 vol = volume vs normal
