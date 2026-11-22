@@ -1,37 +1,36 @@
 CRYPTO SCAN
-Sun 8:00 AM CT
-24 flagged · 0 buy signals
+Sun 8:05 AM CT
+26 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (11)
+⚪ THIN (low volume) (10)
+BLESS  15m  +8.4%  1h +17.9%
+   vol 1.0x · $782K · not CB
+DRV    15m  +6.9%  1h  +8.9%
+   vol 6.9x · $4.5M · on CB
 FLUX   15m  +6.4%  1h  +6.4%
    vol 0.0x · $225K · not CB
-BLESS  15m  +4.2%  1h +10.4%
-   vol 1.1x · $779K · not CB
+EVAA   15m  +4.8%  1h  -5.8%
+   vol 2.5x · $740K · not CB
 AUDIO  15m  +3.0%  1h  +3.0%
    vol 0.0x · $193K · not CB
-CPOOL  15m  +2.7%  1h  +3.2%
-   vol 0.5x · $216K · not CB
-DRV    15m  +2.6%  1h  +1.6%
-   vol 1.4x · $4.2M · on CB
 BAND   15m  +2.6%  1h  +0.7%
    vol 0.0x · $359K · not CB
 KDA    15m  -9.5%  1h  -9.5%
    vol 0.0x · $800K · not CB
-PIEVERSE 15m  -7.2%  1h  -7.1%
-   vol 0.1x · $1.4M · not CB
-EVAA   15m  -5.7%  1h  -5.0%
-   vol 0.1x · $737K · not CB
-ELSA   15m  -3.6%  1h  -6.4%
-   vol 0.3x · $414K · on CB
-  +1 more
+PIEVERSE 15m  -5.7%  1h -14.9%
+   vol 0.8x · $1.4M · not CB
+CASHCAT 15m  -5.5%  1h  +1.7%
+   vol 0.2x · $1.3M · not CB
+ELSA   15m  -2.6%  1h  -8.7%
+   vol 0.2x · $413K · on CB
 
-👀 WATCH (13)
-  ARB SAND LDO DOT LTC WLD
-  DOGE WIF ETH VIRTUAL AAVE
-  EUR QNT
+👀 WATCH (16)
+  PUMP RARE JUPITER VVV SKY
+  STRK PEPE SENT JUP ARB WINGS
+  ONDO MORPHO POL AAVE QNT
 
 15m/1h = price change
 vol = volume vs normal
