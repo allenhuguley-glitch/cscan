@@ -1,6 +1,6 @@
 CRYPTO SCAN
-Sun 5:15 PM CT
-20 flagged · 0 buy signals
+Sun 5:20 PM CT
+14 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
@@ -9,11 +9,10 @@ Sun 5:15 PM CT
 ALIGN  15m  +2.3%  1h  +4.6%
    vol 7.8x · $1.1M · on CB
 
-👀 WATCH (19)
-  CAP PEARL RARE QNT JUPITER
-  PAXG USELESS RENDER PUMP XPL
-  ZEC ICP SUI STRK CRV HBAR
-  ONDO ADA ETH
+👀 WATCH (13)
+  CAP PAXG AERO MON VVV RENDER
+  ATOM DASH QNT XPL WLD SPX
+  CRV
 
 15m/1h = price change
 vol = volume vs normal
