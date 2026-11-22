@@ -1,54 +1,62 @@
 CRYPTO SCAN
-Sun 3:55 AM CT
-66 flagged · 2 buy signals
+Sun 4:00 AM CT
+76 flagged · 14 buy signals
 
-🟢 BUY SIGNALS (2)
-NEAR   15m  +1.5%  1h  +1.2%
-   vol 3.4x · $16M · on CB
-HYPE   15m  +1.1%  1h  +1.5%
-   vol 5.0x · $25M · on CB
-
-🟡 AGAINST TREND / FADING (3)
-QNT    15m  +1.3%  1h  +1.6%
+🟢 BUY SIGNALS (14)
+QNT    15m  +1.7%  1h  +2.1%
    vol 6.9x · $5.3M · on CB
-UNI    15m  +1.3%  1h  +0.9%
-   vol 3.8x · $7.4M · on CB
-BTC    15m  +1.1%  1h  +1.9%
-   vol 6.1x · $663M · on CB
+LTC    15m  +1.6%  1h  +1.7%
+   vol 8.8x · $7.2M · on CB
+UNI    15m  +1.6%  1h  +1.1%
+   vol 5.0x · $7.5M · on CB
+NEAR   15m  +1.5%  1h  +1.2%
+   vol 3.2x · $16M · on CB
+BTC    15m  +1.5%  1h  +2.2%
+   vol 11.8x · $672M · on CB
+SUI    15m  +1.4%  1h  +2.0%
+   vol 8.0x · $5.9M · on CB
+ETH    15m  +1.4%  1h  +1.8%
+   vol 6.6x · $189M · on CB
+DOGE   15m  +1.3%  1h  +1.4%
+   vol 30.0x · $6.4M · on CB
+ZEC    15m  +1.3%  1h  +1.2%
+   vol 10.9x · $91M · on CB
+LINK   15m  +1.3%  1h  +1.5%
+   vol 9.1x · $6.1M · on CB
+  +4 more
 
-⚪ THIN (low volume) (11)
-EVAA   15m  +6.5%  1h  +2.4%
-   vol 5.5x · $628K · not CB
+⚪ THIN (low volume) (19)
+EVAA   15m +11.4%  1h  +5.8%
+   vol 4.9x · $634K · not CB
 FLUX   15m  +6.4%  1h  +6.4%
    vol 0.0x · $225K · not CB
 AUDIO  15m  +3.0%  1h  +3.0%
    vol 0.0x · $193K · not CB
 BAND   15m  +2.6%  1h  +0.7%
    vol 0.0x · $359K · not CB
-ZEUS   15m  +2.6%  1h  +4.2%
-   vol 9.3x · $174K · not CB
-WINGS  15m  +2.1%  1h  -2.6%
-   vol 1.2x · $766K · not CB
-PROMPT 15m  +2.0%  1h  +0.1%
-   vol 0.6x · $580K · on CB
-XMR    15m  +1.0%  1h  +0.5%
-   vol 0.2x · $11M · not CB
-KDA    15m  -9.5%  1h  -9.5%
-   vol 0.0x · $800K · not CB
-TRAC   15m  -2.5%  1h  -2.5%
-   vol 0.0x · $236K · not CB
-  +1 more
+DRV    15m  +2.5%  1h  +1.4%
+   vol 1.6x · $3.8M · on CB
+NPC    15m  +2.4%  1h  +2.8%
+   vol 10.0x · $291K · not CB
+FET    15m  +2.4%  1h  +3.2%
+   vol 5.6x · $1.8M · on CB
+PYTH   15m  +2.3%  1h  +2.3%
+   vol 31.0x · $217K · not CB
+PONS   15m  +2.2%  1h  +2.2%
+   vol 0.8x · $621K · on CB
+PEARL  15m  +2.2%  1h  +2.1%
+   vol 3.1x · $2.9M · on CB
+  +9 more
 
-👀 WATCH (50)
-  DRV ASTER FET TRUMP CRV ICNT
-  AERO ENA ZORA MORPHO ARB SUI
-  APT DOT TIA VVV ETH PYTH
-  PENGU ADA DOGE LTC FARTCOIN
-  TAO BNB LINK BCH AVAX XLM OP
-  SOL RAY AKT WLD XPL XRP
-  VIRTUAL SHIB WIF HBAR TRX YB
-  GRAM JUPITER SPX ZRO ZEC
-  GRASS W LIGHTER
+👀 WATCH (43)
+  LIGHTER CVX ONDO GEOD PENGU
+  ARB GRT SAND OP TIA ENA DOT
+  MEW SKY INJ APT WIF CHIP POL
+  LDO CRV SYRUP MORPHO ALGO
+  AVAX LINEA BNB ZRO HBAR AAVE
+  AKT SENT RAY XLM XPL
+  FARTCOIN VVV PAXG YB IRYS
+  XAUT TON EUR
 
 15m/1h = price change
 vol = volume vs normal
