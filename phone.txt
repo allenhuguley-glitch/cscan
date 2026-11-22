@@ -1,20 +1,20 @@
 CRYPTO SCAN
-Sun 1:50 PM CT
-17 flagged · 0 buy signals
+Sun 1:55 PM CT
+15 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (2)
-VVV    15m  +1.1%  1h  +0.6%
-   vol 0.0x · $12M · on CB
+ALIGN  15m  +4.3%  1h  -0.3%
+   vol 1.0x · $969K · on CB
 PROMPT 15m  -4.2%  1h  +0.6%
-   vol 0.1x · $583K · on CB
+   vol 0.1x · $580K · on CB
 
-👀 WATCH (15)
-  ALIGN RARE ELSA CAP USELESS
-  DRV ALEO WLD STX RENDER HYPE
-  TRUMP XLM ASTER BNB
+👀 WATCH (13)
+  PEARL PYTH AERO WLD DRV DASH
+  RENDER JTO XLM ASTER LTC
+  RARE MON
 
 15m/1h = price change
 vol = volume vs normal
