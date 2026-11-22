@@ -309,7 +309,7 @@ def classify(per_ex, a):
         best = max((m for m in movers if (m["ret_15m"] < 0) == down), key=lambda m: abs(m["ret_15m"]))
     spike = any(m["vol_x"] >= volx for m in flagged.values())
     # a coin listed on only one exchange (e.g. Coinbase-only) can now qualify on its own
-    confirmed = (max(ups, downs) >= 2 or len(per_ex) == 1) and spike
+    confirmed = bool(movers) and (max(ups, downs) >= 2 or len(per_ex) == 1) and spike
     if confirmed and liq >= a.min_liq:
         label = "REAL DOWN" if down else "REAL UP"
     elif movers and (len(flagged) == 1 or liq < a.min_liq):
@@ -343,11 +343,11 @@ def push_alerts(rows, state):
     sent = state.setdefault("pushed", {})
     now = time.time()
     for r in rows:
-        if r["label"] != "REAL UP":
+        if r["label"] != "REAL UP" or not r.get("cb"):   # only coins tradable on Coinbase
             continue
         if now - sent.get(r["asset"], 0) < 3600:
             continue
-        msg = (f"{r['asset']} +{r['ret_15m']*100:.2f}% in 15m, volume x{r['vol_z']:.1f}, "
+        msg = (f"{r['asset']} +{r['ret_15m']*100:.2f}% in 15m, volume x{r['vol_x']:.1f}, "
                f"confirmed on {r['n_flagged']}/{r['n_listed']} exchanges, 1h trend {trend_str(r)[0]}, Coinbase {'yes' if r.get('cb') else 'no'}")
         try:
             requests.post(f"https://ntfy.sh/{NTFY_TOPIC}", data=msg.encode(),
