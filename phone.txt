@@ -1,51 +1,46 @@
 CRYPTO SCAN
-Sun 6:25 AM CT
-65 flagged · 0 buy signals
+Sun 6:30 AM CT
+42 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-🟡 AGAINST TREND / FADING (3)
-ZEC    15m  -1.6%  1h  -1.5%
-   vol 10.5x · $87M · on CB
-UNI    15m  -1.2%  1h  -1.2%
-   vol 12.0x · $6.9M · on CB
-BTC    15m  -1.0%  1h  -0.5%
-   vol 6.8x · $673M · on CB
+🟡 AGAINST TREND / FADING (4)
+ZEC    15m  -2.1%  1h  -2.2%
+   vol 19.5x · $87M · on CB
+HYPE   15m  -1.3%  1h  -0.6%
+   vol 2.5x · $24M · on CB
+UNI    15m  -1.1%  1h  -1.5%
+   vol 3.2x · $6.9M · on CB
+XRP    15m  -1.0%  1h  -0.9%
+   vol 3.1x · $68M · on CB
 
-⚪ THIN (low volume) (10)
+⚪ THIN (low volume) (9)
 FLUX   15m  +6.4%  1h  +6.4%
    vol 0.0x · $225K · not CB
-EVAA   15m  +5.3%  1h  +4.6%
-   vol 0.1x · $714K · not CB
 AUDIO  15m  +3.0%  1h  +3.0%
    vol 0.0x · $193K · not CB
-CPOOL  15m  +2.8%  1h  +2.6%
-   vol 0.1x · $172K · not CB
 BAND   15m  +2.6%  1h  +0.7%
    vol 0.0x · $359K · not CB
-PIEVERSE 15m  -9.6%  1h -19.7%
-   vol 1.1x · $1.0M · not CB
 KDA    15m  -9.5%  1h  -9.5%
    vol 0.0x · $800K · not CB
-DRV    15m  -3.4%  1h +10.2%
-   vol 2.1x · $4.4M · on CB
-CT     15m  -2.8%  1h  -3.9%
-   vol 0.6x · $657K · on CB
-VINE   15m  -2.4%  1h  -0.3%
-   vol 0.0x · $155K · not CB
+DRV    15m  -6.6%  1h  +8.2%
+   vol 1.5x · $4.4M · on CB
+VINE   15m  -4.5%  1h  -2.7%
+   vol 7.4x · $156K · not CB
+PIEVERSE 15m  -4.0%  1h -11.6%
+   vol 1.7x · $1.0M · not CB
+AKE    15m  -2.5%  1h  +0.3%
+   vol 0.3x · $1.6M · not CB
+GEOD   15m  -2.4%  1h  -1.9%
+   vol 0.2x · $546K · on CB
 
-👀 WATCH (52)
-  QNT BAT TRUMP AKE PNUT NPC
-  FARTCOIN PEPE ZAMA XRP AAVE
-  XPL PENGU XLM HYPE VVV SUI W
-  DOGE WIF ETH ADA ZRO TIA
-  LINK ONDO LINEA SOL ALGO
-  RENDER GRAM ARB MORPHO
-  POPCAT AERO SYRUP KAS NEAR
-  AVAX TAO POL FLR ORCA XDC
-  PAXG VIRTUAL Q CHZ XAUT AUSD
-  EUR FIDD
+👀 WATCH (29)
+  USELESS PENGU CHIP MON ADA
+  BCH BTC JTO XPL ASTER WLD
+  SUI ICP ZRO DOGE POPCAT NEAR
+  LDO VVV AVNT AVAX ETH WIF
+  DOT SHIB COMP WCT SOFID QNT
 
 15m/1h = price change
 vol = volume vs normal
