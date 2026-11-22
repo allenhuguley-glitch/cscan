@@ -1,32 +1,33 @@
 CRYPTO SCAN
-Sun 2:00 AM CT
-26 flagged · 0 buy signals
+Sun 2:05 AM CT
+29 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (8)
+VINE   15m  +7.0%  1h +14.1%
+   vol 3.4x · $144K · not CB
 FLUX   15m  +6.4%  1h  +6.4%
    vol 0.0x · $225K · not CB
-EVAA   15m  +5.2%  1h  -7.9%
-   vol 0.2x · $620K · not CB
-WINGS  15m  +3.5%  1h +21.4%
-   vol 0.0x · $737K · not CB
 AUDIO  15m  +3.0%  1h  +3.0%
    vol 0.0x · $193K · not CB
-PIEVERSE 15m  +2.8%  1h  +7.6%
-   vol 0.9x · $572K · not CB
+EVAA   15m  +2.9%  1h  -7.7%
+   vol 0.4x · $623K · not CB
 BAND   15m  +2.6%  1h  +0.7%
    vol 0.0x · $359K · not CB
-BLESS  15m  +2.2%  1h  -6.0%
-   vol 0.0x · $1.5M · not CB
+PIEVERSE 15m  +2.4%  1h  +4.1%
+   vol 3.7x · $577K · not CB
 KDA    15m  -9.5%  1h  -9.5%
    vol 0.0x · $800K · not CB
+WINGS  15m  -7.2%  1h +12.7%
+   vol 2.4x · $741K · not CB
 
-👀 WATCH (18)
-  DASH KNTQ PUMP BONK OP JTO
-  RUNE ZEC DOGE ETH SUI LTC
-  LIT PAXG AUD TRX AUSD QNT
+👀 WATCH (21)
+  JTO DASH INJ NEAR BONK VVV
+  RENDER W ADA ICP XDC LINK
+  XRP UNI LTC CC AUSD QNT ENA
+  EUR LINEA
 
 15m/1h = price change
 vol = volume vs normal
