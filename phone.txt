@@ -1,20 +1,17 @@
 CRYPTO SCAN
-Sun 5:05 PM CT
-24 flagged · 1 buy signal
+Sun 5:10 PM CT
+30 flagged · 0 buy signals
 
-🟢 BUY SIGNALS (1)
-VVV    15m  +1.1%  1h  +1.4%
-   vol 3.4x · $11M · on CB
+🟢 BUY SIGNALS
+  none right now
 
-⚪ THIN (low volume) (1)
-ALIGN  15m  -6.7%  1h  +0.6%
-   vol 0.8x · $995K · on CB
-
-👀 WATCH (22)
-  ELSA ZEC MON RENDER PYTH XRP
-  PEARL SOL PONS ZRO BTC LTC
-  LINK ETH ICP DOGE ENA MORPHO
-  HBAR SUI PAXG DOT
+👀 WATCH (30)
+  CAP ALIGN PAXG QNT PUMP
+  PEARL LIGHTER JUPITER ELSA
+  PENGU PONS DRV MON ICP
+  RENDER SPX PEPE AAVE TON
+  STRK BTC LINK ZEC SUI DOGE
+  ETH CRV HBAR ONDO ADA
 
 15m/1h = price change
 vol = volume vs normal
