@@ -1,21 +1,21 @@
 CRYPTO SCAN
-Sun 11:20 AM CT
-21 flagged · 0 buy signals
+Sun 11:25 AM CT
+18 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (2)
-PROMPT 15m  +2.9%  1h  +5.6%
-   vol 0.6x · $604K · on CB
-ALIGN  15m  +2.8%  1h +12.1%
-   vol 1.4x · $531K · on CB
+PROMPT 15m  +3.3%  1h  +5.6%
+   vol 0.3x · $602K · on CB
+CT     15m  +2.0%  1h  +2.4%
+   vol 1.6x · $652K · on CB
 
-👀 WATCH (19)
-  CT MON ASTER RARE CVX
-  JUPITER AAVE STX DRV PEPE
-  PEARL UNI AERO ZEC XPL
-  USELESS ENA VVV FET
+👀 WATCH (16)
+  ALIGN PEARL RARE ASTER CVX
+  PUMP USELESS ALEO VVV SPX
+  RENDER PAXG TIA LINK XRP
+  PONS
 
 15m/1h = price change
 vol = volume vs normal
