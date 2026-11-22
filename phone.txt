@@ -1,18 +1,18 @@
 CRYPTO SCAN
-Sun 5:20 PM CT
+Sun 5:25 PM CT
 14 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (1)
-ALIGN  15m  +2.3%  1h  +4.6%
-   vol 7.8x · $1.1M · on CB
+VVV    15m  +1.3%  1h  +2.2%
+   vol 1.7x · $11M · on CB
 
 👀 WATCH (13)
-  CAP PAXG AERO MON VVV RENDER
-  ATOM DASH QNT XPL WLD SPX
-  CRV
+  ALIGN CAP ASTER AERO MON FET
+  ETH ATOM ZEC QNT HBAR ARB
+  SPX
 
 15m/1h = price change
 vol = volume vs normal
