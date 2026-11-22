@@ -1,15 +1,18 @@
 CRYPTO SCAN
-Sun 3:20 PM CT
-18 flagged · 0 buy signals
+Sun 3:25 PM CT
+19 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
+⚪ THIN (low volume) (1)
+ALIGN  15m  -4.0%  1h  -6.1%
+   vol 2.5x · $941K · on CB
+
 👀 WATCH (18)
-  PROMPT ALEO ALIGN GEOD PEARL
-  PYTH FIL LIGHTER BCH SPX
-  PEPE BNB TRUMP RENDER XRP
-  CRV AVAX ONDO
+  PROMPT GEOD MON PUMP PEARL
+  ELSA ALEO AERO FET CRV TAO
+  PONS SOL SUI STX TIA XRP ARB
 
 15m/1h = price change
 vol = volume vs normal
