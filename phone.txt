@@ -1,0 +1,29 @@
+CRYPTO SCAN
+Sat 10:00 PM CT
+19 flagged · 0 buy signals
+
+🟢 BUY SIGNALS
+  none right now
+
+⚪ THIN (low volume) (6)
+FLUX   15m  +6.4%  1h  +6.4%
+   vol 0.0x · $225K · not CB
+EVAA   15m  +5.3%  1h  -3.5%
+   vol 0.2x · $410K · not CB
+AUDIO  15m  +3.0%  1h  +3.0%
+   vol 0.0x · $193K · not CB
+BAND   15m  +2.6%  1h  +0.7%
+   vol 0.0x · $359K · not CB
+BLESS  15m  +2.3%  1h  +4.0%
+   vol 0.6x · $1.5M · not CB
+KDA    15m  -9.5%  1h  -9.5%
+   vol 0.0x · $800K · not CB
+
+👀 WATCH (13)
+  TRUMP ZEC INJ AERO WLD XRP
+  MEW ENA MORPHO XDC TON APT
+  QNT
+
+15m/1h = price change
+vol = volume vs normal
+CB = tradable on Coinbase
