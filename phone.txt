@@ -1,14 +1,14 @@
 CRYPTO SCAN
-Sun 1:05 PM CT
-14 flagged · 0 buy signals
+Sun 1:10 PM CT
+18 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (14)
-  ELSA ALIGN PEARL GEOD MAMO
-  VVV WLD LIGHTER DRV FIL ARB
-  BNB LTC SOL
+👀 WATCH (18)
+  ALIGN ELSA PEARL JTO CT CAP
+  WLD ALEO SOL STX AVAX XLM
+  MORPHO INJ ARB FET ICP AAVE
 
 15m/1h = price change
 vol = volume vs normal
