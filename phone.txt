@@ -1,47 +1,39 @@
 CRYPTO SCAN
-Sun 4:05 AM CT
-47 flagged · 1 buy signal
+Sun 4:10 AM CT
+40 flagged · 0 buy signals
 
-🟢 BUY SIGNALS (1)
-NEAR   15m  +1.5%  1h  +1.0%
-   vol 4.8x · $16M · on CB
+🟢 BUY SIGNALS
+  none right now
 
-🟡 AGAINST TREND / FADING (2)
-HYPE   15m  +1.2%  1h  +1.7%
-   vol 14.7x · $25M · on CB
-BTC    15m  +1.1%  1h  +1.9%
-   vol 3.4x · $681M · on CB
-
-⚪ THIN (low volume) (14)
+⚪ THIN (low volume) (12)
 FLUX   15m  +6.4%  1h  +6.4%
    vol 0.0x · $225K · not CB
-EVAA   15m  +5.8%  1h  +0.4%
-   vol 0.9x · $635K · not CB
-DRV    15m  +4.7%  1h  +3.8%
-   vol 14.7x · $3.9M · on CB
+EVAA   15m  +4.5%  1h  +7.2%
+   vol 1.4x · $636K · not CB
+DRV    15m  +3.5%  1h  +4.6%
+   vol 3.1x · $3.9M · on CB
 AUDIO  15m  +3.0%  1h  +3.0%
    vol 0.0x · $193K · not CB
 SEI    15m  +3.0%  1h  +3.0%
-   vol 0.0x · $475K · on CB
-JTO    15m  +2.7%  1h  +3.2%
-   vol 143.5x · $166K · not CB
+   vol 0.0x · $479K · on CB
 BILL   15m  +2.7%  1h  +2.7%
-   vol 22.8x · $30K · not CB
+   vol 0.0x · $30K · not CB
 BAND   15m  +2.6%  1h  +0.7%
    vol 0.0x · $359K · not CB
-DOS    15m  +2.4%  1h  +2.1%
-   vol 2.3x · $182K · not CB
-PONS   15m  +2.2%  1h  +2.2%
-   vol 0.8x · $618K · on CB
-  +4 more
+DOS    15m  +2.3%  1h  +2.2%
+   vol 4.7x · $182K · not CB
+JTO    15m  +2.2%  1h  +2.7%
+   vol 543.9x · $167K · not CB
+SAND   15m  +2.0%  1h  +1.1%
+   vol 811.7x · $11K · not CB
+  +2 more
 
-👀 WATCH (30)
-  ONDO RARE TRUMP GEOD BNB QNT
-  ZAMA FET CVX APT RUNE AKT
-  UNI HBAR SUI FARTCOIN PEPE
-  BCH WLFI LIGHTER POPCAT ZORA
-  CRV ZRO XRP PAXG CCD TON
-  GRAM EUR
+👀 WATCH (28)
+  GRT PROMPT PYTH CT ONDO ZAMA
+  AERO WLD FIL TON SYRUP
+  VIRTUAL HYPE SUI UNI ICP ZRO
+  LINK BTC PEPE PENDLE CRV ZEC
+  FET CVX XPL SOFID QNT
 
 15m/1h = price change
 vol = volume vs normal
