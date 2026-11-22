@@ -1,36 +1,32 @@
 CRYPTO SCAN
-Sun 3:20 AM CT
-22 flagged · 0 buy signals
+Sun 3:25 AM CT
+24 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (10)
+⚪ THIN (low volume) (8)
+PIEVERSE 15m +12.8%  1h +14.4%
+   vol 7.7x · $653K · not CB
 FLUX   15m  +6.4%  1h  +6.4%
    vol 0.0x · $225K · not CB
-PIEVERSE 15m  +3.5%  1h  +8.4%
-   vol 0.7x · $623K · not CB
+AVNT   15m  +3.3%  1h  +3.3%
+   vol 42.7x · $5.3K · not CB
 AUDIO  15m  +3.0%  1h  +3.0%
    vol 0.0x · $193K · not CB
-AVNT   15m  +2.6%  1h  +2.6%
-   vol 0.0x · $5.5K · not CB
 BAND   15m  +2.6%  1h  +0.7%
    vol 0.0x · $359K · not CB
-BLESS  15m -11.0%  1h  -8.8%
-   vol 1.1x · $1.4M · not CB
 KDA    15m  -9.5%  1h  -9.5%
    vol 0.0x · $800K · not CB
-EVAA   15m  -4.7%  1h  -5.8%
-   vol 0.4x · $632K · not CB
-WINGS  15m  -3.9%  1h  +2.2%
-   vol 0.3x · $767K · not CB
-ORCA   15m  -2.5%  1h  -3.8%
-   vol 0.5x · $1.2M · on CB
+WINGS  15m  -4.1%  1h  -1.5%
+   vol 1.4x · $765K · not CB
+BLESS  15m  -2.7%  1h -10.8%
+   vol 0.1x · $1.4M · not CB
 
-👀 WATCH (12)
-  POPCAT BONK SAND SENT ADA
-  ZAMA RE PAXG FARTCOIN PUMP
-  QNT CHZ
+👀 WATCH (16)
+  TAO SEI HYPE ASTER BONK SKY
+  ALGO HBAR ADA LINK FARTCOIN
+  TON PAXG STRK QNT SPX
 
 15m/1h = price change
 vol = volume vs normal
