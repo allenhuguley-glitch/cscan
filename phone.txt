@@ -1,34 +1,37 @@
 CRYPTO SCAN
-Sun 4:55 AM CT
-23 flagged · 0 buy signals
+Sun 5:00 AM CT
+25 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (9)
+⚪ THIN (low volume) (11)
 FLUX   15m  +6.4%  1h  +6.4%
    vol 0.0x · $225K · not CB
 JUP    15m  +3.1%  1h  +3.1%
-   vol 0.0x · $394K · not CB
+   vol 4.8x · $398K · not CB
 AUDIO  15m  +3.0%  1h  +3.0%
    vol 0.0x · $193K · not CB
+S      15m  +2.7%  1h  +2.7%
+   vol 0.0x · $125K · not CB
 BAND   15m  +2.6%  1h  +0.7%
    vol 0.0x · $359K · not CB
+CVX    15m  +2.4%  1h  +3.4%
+   vol 1.3x · $609K · on CB
+CCD    15m  +2.3%  1h  +2.5%
+   vol 7.1x · $430K · not CB
 KDA    15m  -9.5%  1h  -9.5%
    vol 0.0x · $800K · not CB
-PIEVERSE 15m  -7.6%  1h  -8.0%
-   vol 0.7x · $926K · not CB
-EVAA   15m  -5.9%  1h  +6.5%
-   vol 1.0x · $703K · not CB
-CASHCAT 15m  -4.9%  1h  +3.5%
-   vol 0.4x · $1.0M · not CB
-PEARL  15m  -2.1%  1h  +1.2%
-   vol 1.6x · $2.8M · on CB
+PIEVERSE 15m  -3.6%  1h  -4.4%
+   vol 0.5x · $934K · not CB
+EVAA   15m  -2.4%  1h  +3.7%
+   vol 2.2x · $711K · not CB
+  +1 more
 
 👀 WATCH (14)
-  MEGA CVX AKT VVV TRUMP WCT
-  XLM PYTH XRP LIGHTER PUMP
-  QNT SHIB ZEUS
+  SKY AERO APT GRT LUNC DOS
+  ENA PUMP AKT JTO QNT XRP AUD
+  GBP
 
 15m/1h = price change
 vol = volume vs normal
