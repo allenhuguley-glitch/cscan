@@ -1,37 +1,38 @@
 CRYPTO SCAN
-Sun 4:15 AM CT
-28 flagged · 0 buy signals
+Sun 4:20 AM CT
+35 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (11)
-PIEVERSE 15m  +6.8%  1h +20.0%
-   vol 1.0x · $806K · not CB
+⚪ THIN (low volume) (12)
+EVAA   15m +12.7%  1h +18.8%
+   vol 4.2x · $641K · not CB
 FLUX   15m  +6.4%  1h  +6.4%
    vol 0.0x · $225K · not CB
+PIEVERSE 15m  +5.5%  1h +15.0%
+   vol 0.6x · $813K · not CB
+RARE   15m  +3.5%  1h +10.1%
+   vol 5.1x · $1.1M · on CB
+CASHCAT 15m  +3.4%  1h  +3.1%
+   vol 3.9x · $849K · not CB
 AUDIO  15m  +3.0%  1h  +3.0%
    vol 0.0x · $193K · not CB
-SEI    15m  +3.0%  1h  +3.0%
-   vol 0.0x · $476K · on CB
-JTO    15m  +2.8%  1h  +3.3%
-   vol 3.7x · $167K · not CB
-BILL   15m  +2.6%  1h  +2.6%
-   vol 1.3x · $31K · not CB
 BAND   15m  +2.6%  1h  +0.7%
    vol 0.0x · $359K · not CB
+RE     15m  +2.1%  1h  +3.8%
+   vol 2.6x · $92K · not CB
+VVV    15m  +1.2%  1h  +1.1%
+   vol 0.4x · $14M · on CB
 KDA    15m  -9.5%  1h  -9.5%
    vol 0.0x · $800K · not CB
-VINE   15m  -3.1%  1h  -0.4%
-   vol 0.1x · $152K · not CB
-ZEUS   15m  -2.9%  1h  -0.9%
-   vol 0.7x · $174K · not CB
-  +1 more
+  +2 more
 
-👀 WATCH (17)
-  PROMPT AERO W JUPITER CC
-  BONK LTC NPC ADA KAS VVV
-  GEOD PAXG CRV AUSD QNT PNUT
+👀 WATCH (23)
+  PROMPT SPX JUPITER STRK SKR
+  NEAR BILL PEPE TRUMP XDC GRT
+  GEOD GBP PAXG BEAM ALGO ADA
+  SOL POL BCH QNT XCN RUNE
 
 15m/1h = price change
 vol = volume vs normal
