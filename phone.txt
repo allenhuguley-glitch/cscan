@@ -1,19 +1,20 @@
 CRYPTO SCAN
-Sun 11:00 AM CT
-24 flagged · 0 buy signals
+Sun 11:05 AM CT
+30 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (1)
-ELSA   15m  +3.9%  1h  +3.8%
-   vol 0.3x · $563K · on CB
+ALIGN  15m  +3.8%  1h +11.7%
+   vol 1.9x · $496K · on CB
 
-👀 WATCH (23)
-  PEARL PUMP CT CVX PONS STX
-  VVV DASH CAP PEPE QNT ASTER
-  SPX SUI ENA DOT TON UNI ONDO
-  XLM SEI BCH BNB
+👀 WATCH (29)
+  PEARL PUMP RARE MON DASH XPL
+  CVX GEOD ARB WLD STRK BTC
+  ENA ETH FIL QNT AAVE AERO
+  ASTER HYPE XLM BNB DOT TON
+  CAP LIGHTER ONDO BCH PAXG
 
 15m/1h = price change
 vol = volume vs normal
