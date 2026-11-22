@@ -1,29 +1,30 @@
 CRYPTO SCAN
-Sun 6:50 AM CT
-20 flagged · 0 buy signals
+Sun 6:55 AM CT
+16 flagged · 1 buy signal
 
-🟢 BUY SIGNALS
-  none right now
+🟢 BUY SIGNALS (1)
+HYPE   15m  +1.0%  1h  +0.6%
+   vol 3.2x · $24M · on CB
 
 ⚪ THIN (low volume) (7)
 FLUX   15m  +6.4%  1h  +6.4%
    vol 0.0x · $225K · not CB
 AUDIO  15m  +3.0%  1h  +3.0%
    vol 0.0x · $193K · not CB
+BLESS  15m  +2.7%  1h  +0.8%
+   vol 0.4x · $817K · not CB
 BAND   15m  +2.6%  1h  +0.7%
    vol 0.0x · $359K · not CB
-NEAR   15m  +1.0%  1h  +0.3%
-   vol 0.6x · $17M · on CB
+XMR    15m  +1.2%  1h  +0.5%
+   vol 0.2x · $10M · not CB
 KDA    15m  -9.5%  1h  -9.5%
    vol 0.0x · $800K · not CB
-PIEVERSE 15m  -8.0%  1h -28.7%
-   vol 6.5x · $1.3M · not CB
-EVAA   15m  -7.2%  1h +14.2%
-   vol 0.2x · $723K · not CB
+PIEVERSE 15m  -6.1%  1h -28.9%
+   vol 1.3x · $1.3M · not CB
 
-👀 WATCH (13)
-  VVV QNT CAP HYPE ZRO ARB CT
-  ZEC BONK RUNE EUR USDG SHIB
+👀 WATCH (8)
+  VVV ONDO ZEC WLFI GRT EUR
+  QNT USDG
 
 15m/1h = price change
 vol = volume vs normal
