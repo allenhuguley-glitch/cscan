@@ -1,25 +1,22 @@
 CRYPTO SCAN
-Sun 8:45 AM CT
-42 flagged · 1 buy signal
+Sun 8:50 AM CT
+39 flagged · 0 buy signals
 
-🟢 BUY SIGNALS (1)
-NEAR   15m  +1.4%  1h  +1.1%
-   vol 2.1x · $14M · on CB
+🟢 BUY SIGNALS
+  none right now
 
-⚪ THIN (low volume) (2)
-DRV    15m  +3.5%  1h  +6.5%
-   vol 2.0x · $4.4M · on CB
-RARE   15m  -4.1%  1h  -2.8%
-   vol 2.1x · $781K · on CB
+⚪ THIN (low volume) (1)
+RARE   15m  -2.9%  1h  -1.9%
+   vol 1.7x · $784K · on CB
 
-👀 WATCH (39)
-  MANTLE TRUMP CVX CT UNI MON
-  ZRO QNT WLD AVAX TON SUI FIL
-  ATOM AAVE LIGHTER PEARL ZEC
-  STX ETH DOGE SOL PONS XRP
-  RENDER PEPE BTC ICP ARB
-  USELESS HBAR XLM TIA TAO
-  ONDO INJ LTC CAP SEI
+👀 WATCH (38)
+  DRV MANTLE TRUMP SPX UNI MON
+  PUMP CT LIGHTER QNT WLD DOT
+  USELESS FET SUI FIL ONDO
+  AAVE STX TIA DOGE ATOM GEOD
+  RENDER BNB PEPE AERO
+  FARTCOIN ORCA HBAR ETH BTC
+  INJ SOL ARB ZRO CAP SEI
 
 15m/1h = price change
 vol = volume vs normal
