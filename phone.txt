@@ -1,36 +1,54 @@
 CRYPTO SCAN
-Sun 3:50 AM CT
-23 flagged · 0 buy signals
+Sun 3:55 AM CT
+66 flagged · 2 buy signals
 
-🟢 BUY SIGNALS
-  none right now
+🟢 BUY SIGNALS (2)
+NEAR   15m  +1.5%  1h  +1.2%
+   vol 3.4x · $16M · on CB
+HYPE   15m  +1.1%  1h  +1.5%
+   vol 5.0x · $25M · on CB
 
-⚪ THIN (low volume) (10)
+🟡 AGAINST TREND / FADING (3)
+QNT    15m  +1.3%  1h  +1.6%
+   vol 6.9x · $5.3M · on CB
+UNI    15m  +1.3%  1h  +0.9%
+   vol 3.8x · $7.4M · on CB
+BTC    15m  +1.1%  1h  +1.9%
+   vol 6.1x · $663M · on CB
+
+⚪ THIN (low volume) (11)
+EVAA   15m  +6.5%  1h  +2.4%
+   vol 5.5x · $628K · not CB
 FLUX   15m  +6.4%  1h  +6.4%
    vol 0.0x · $225K · not CB
-VINE   15m  +3.2%  1h  +6.9%
-   vol 1.8x · $153K · not CB
 AUDIO  15m  +3.0%  1h  +3.0%
    vol 0.0x · $193K · not CB
 BAND   15m  +2.6%  1h  +0.7%
    vol 0.0x · $359K · not CB
-CT     15m  +2.4%  1h  +2.6%
-   vol 0.6x · $648K · on CB
-AKE    15m  +2.0%  1h  +1.1%
-   vol 0.9x · $1.6M · not CB
+ZEUS   15m  +2.6%  1h  +4.2%
+   vol 9.3x · $174K · not CB
+WINGS  15m  +2.1%  1h  -2.6%
+   vol 1.2x · $766K · not CB
+PROMPT 15m  +2.0%  1h  +0.1%
+   vol 0.6x · $580K · on CB
+XMR    15m  +1.0%  1h  +0.5%
+   vol 0.2x · $11M · not CB
 KDA    15m  -9.5%  1h  -9.5%
    vol 0.0x · $800K · not CB
-WINGS  15m  -3.5%  1h  -4.8%
-   vol 0.1x · $764K · not CB
 TRAC   15m  -2.5%  1h  -2.5%
    vol 0.0x · $236K · not CB
-BLESS  15m  -2.1%  1h  -7.6%
-   vol 0.0x · $1.4M · not CB
+  +1 more
 
-👀 WATCH (13)
-  ICNT PROMPT AERO TRUMP TON
-  QNT BCH FLR VVV LIGHTER W
-  ZEC EUR
+👀 WATCH (50)
+  DRV ASTER FET TRUMP CRV ICNT
+  AERO ENA ZORA MORPHO ARB SUI
+  APT DOT TIA VVV ETH PYTH
+  PENGU ADA DOGE LTC FARTCOIN
+  TAO BNB LINK BCH AVAX XLM OP
+  SOL RAY AKT WLD XPL XRP
+  VIRTUAL SHIB WIF HBAR TRX YB
+  GRAM JUPITER SPX ZRO ZEC
+  GRASS W LIGHTER
 
 15m/1h = price change
 vol = volume vs normal
