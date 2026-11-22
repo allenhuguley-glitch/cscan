@@ -1,6 +1,6 @@
 CRYPTO SCAN
-Sat 10:15 PM CT
-19 flagged · 0 buy signals
+Sat 10:20 PM CT
+22 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
@@ -8,25 +8,25 @@ Sat 10:15 PM CT
 ⚪ THIN (low volume) (8)
 FLUX   15m  +6.4%  1h  +6.4%
    vol 0.0x · $225K · not CB
-BLESS  15m  +4.9%  1h  +6.0%
-   vol 6.8x · $1.5M · not CB
+BLESS  15m  +6.1%  1h  +9.5%
+   vol 5.2x · $1.5M · not CB
 AUDIO  15m  +3.0%  1h  +3.0%
    vol 0.0x · $193K · not CB
 BAND   15m  +2.6%  1h  +0.7%
    vol 0.0x · $359K · not CB
+RARE   15m  +2.4%  1h  +2.7%
+   vol 1.1x · $1.3M · on CB
 KDA    15m  -9.5%  1h  -9.5%
    vol 0.0x · $800K · not CB
-EVAA   15m  -5.5%  1h  -5.5%
-   vol 0.1x · $411K · not CB
+EVAA   15m  -5.4%  1h  -1.5%
+   vol 0.6x · $412K · not CB
 CC     15m  -3.7%  1h  -3.7%
    vol 0.0x · $954K · not CB
-RAY    15m  -2.7%  1h  -2.7%
-   vol 0.0x · $393K · not CB
 
-👀 WATCH (11)
-  VVV PUMP FARTCOIN ZEC ARB
-  ENA BONK AAVE RENDER QNT
-  AVAX
+👀 WATCH (14)
+  JUP FET AAVE JUPITER ARB
+  SYRUP BEAM SKY UNI CRV
+  VIRTUAL HYPE XMR QNT
 
 15m/1h = price change
 vol = volume vs normal
