@@ -1,20 +1,15 @@
 CRYPTO SCAN
-Sun 9:10 AM CT
-26 flagged · 0 buy signals
+Sun 9:15 AM CT
+21 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
-ELSA   15m  -4.2%  1h  -3.2%
-   vol 3.9x · $416K · on CB
-
-👀 WATCH (25)
-  DRV IRYS MANTLE FARTCOIN
-  PEARL PONS CT CRV INJ STX
-  WLD RARE ENA TRUMP LIGHTER
-  NEAR XPL QNT SEI DOGE BNB
-  HBAR JTO RENDER ARB
+👀 WATCH (21)
+  ELSA IRYS CT MANTLE FARTCOIN
+  LIGHTER TRUMP JUPITER CRV
+  PUMP MON RARE ENA NEAR INJ
+  FIL AAVE JTO LTC BNB DOGE
 
 15m/1h = price change
 vol = volume vs normal
