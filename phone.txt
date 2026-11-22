@@ -1,21 +1,20 @@
 CRYPTO SCAN
-Sun 12:05 PM CT
-20 flagged · 0 buy signals
+Sun 12:10 PM CT
+29 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (2)
-PROMPT 15m  +2.2%  1h  +1.1%
-   vol 1.7x · $585K · on CB
-ALIGN  15m  -5.5%  1h +21.6%
-   vol 2.2x · $794K · on CB
+⚪ THIN (low volume) (1)
+ALIGN  15m  -8.0%  1h +15.4%
+   vol 3.2x · $815K · on CB
 
-👀 WATCH (18)
-  PUMP PONS LIGHTER MON
-  USELESS AERO VVV DASH ATOM
-  DOT DRV HYPE HBAR LTC CRV
-  ARB ADA LINK
+👀 WATCH (28)
+  RARE ELSA PEARL CT PROMPT
+  PONS CAP USELESS LIGHTER VVV
+  TON HYPE ATOM BTC STRK HBAR
+  ETH BNB DRV SOL ADA XLM PAXG
+  DOGE TAO TRUMP AVAX STX
 
 15m/1h = price change
 vol = volume vs normal
