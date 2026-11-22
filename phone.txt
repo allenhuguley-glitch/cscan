@@ -1,5 +1,5 @@
 CRYPTO SCAN
-Sun 5:20 AM CT
+Sun 5:25 AM CT
 21 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
@@ -8,25 +8,25 @@ Sun 5:20 AM CT
 ⚪ THIN (low volume) (8)
 FLUX   15m  +6.4%  1h  +6.4%
    vol 0.0x · $225K · not CB
+ZBCN   15m  +3.6%  1h  +4.5%
+   vol 4.6x · $446K · not CB
 AUDIO  15m  +3.0%  1h  +3.0%
    vol 0.0x · $193K · not CB
-EVAA   15m  +2.9%  1h  +8.3%
-   vol 0.1x · $727K · not CB
 BAND   15m  +2.6%  1h  +0.7%
    vol 0.0x · $359K · not CB
 KDA    15m  -9.5%  1h  -9.5%
    vol 0.0x · $800K · not CB
-PIEVERSE 15m  -2.1%  1h  -9.4%
-   vol 0.1x · $944K · not CB
-CT     15m  -2.1%  1h  +0.0%
-   vol 5.0x · $660K · on CB
-VVV    15m  -1.2%  1h  -0.3%
-   vol 0.0x · $14M · on CB
+EVAA   15m  -5.9%  1h  -0.4%
+   vol 0.0x · $728K · not CB
+CPOOL  15m  -3.4%  1h  -4.9%
+   vol 1.5x · $143K · not CB
+CT     15m  -2.3%  1h  -2.3%
+   vol 6.7x · $674K · on CB
 
 👀 WATCH (13)
-  XCN BONK PUMP CCD AVNT SUI
-  ETH BTC UNI SYRUP SOL EUR
-  QNT
+  PROMPT AI VVV JUP CRV OP
+  MANTLE MON FET LIGHTER SUI
+  DASH QNT
 
 15m/1h = price change
 vol = volume vs normal
