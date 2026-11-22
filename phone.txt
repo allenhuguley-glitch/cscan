@@ -1,22 +1,20 @@
 CRYPTO SCAN
-Sun 10:50 AM CT
-29 flagged · 0 buy signals
+Sun 10:55 AM CT
+19 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (2)
-ALIGN  15m  +4.3%  1h  +8.0%
-   vol 0.7x · $443K · on CB
-ELSA   15m  +2.8%  1h  +1.2%
-   vol 1.3x · $553K · on CB
+ALIGN  15m  +5.3%  1h  +7.8%
+   vol 2.2x · $460K · on CB
+ELSA   15m  +3.1%  1h  +4.4%
+   vol 1.7x · $559K · on CB
 
-👀 WATCH (27)
-  PONS PROMPT CT RARE CVX CRV
-  AERO QNT FET ASTER JTO TIA
-  INJ ENA GEOD DOT PEARL ARB
-  TAO ZEC TON HBAR BNB LTC
-  DASH ONDO LINK
+👀 WATCH (17)
+  PEARL PONS FET PROMPT PUMP
+  CAP CVX STRK PEPE QNT INJ
+  ENA TAO BNB ONDO LINK PAXG
 
 15m/1h = price change
 vol = volume vs normal
