@@ -1,32 +1,36 @@
 CRYPTO SCAN
-Sun 5:25 AM CT
-21 flagged · 0 buy signals
+Sun 5:30 AM CT
+25 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (8)
+⚪ THIN (low volume) (10)
 FLUX   15m  +6.4%  1h  +6.4%
    vol 0.0x · $225K · not CB
-ZBCN   15m  +3.6%  1h  +4.5%
-   vol 4.6x · $446K · not CB
 AUDIO  15m  +3.0%  1h  +3.0%
    vol 0.0x · $193K · not CB
+BLESS  15m  +2.9%  1h  +5.4%
+   vol 7.2x · $1.2M · not CB
 BAND   15m  +2.6%  1h  +0.7%
    vol 0.0x · $359K · not CB
+ZBCN   15m  +2.4%  1h  +3.1%
+   vol 0.5x · $446K · not CB
 KDA    15m  -9.5%  1h  -9.5%
    vol 0.0x · $800K · not CB
-EVAA   15m  -5.9%  1h  -0.4%
-   vol 0.0x · $728K · not CB
-CPOOL  15m  -3.4%  1h  -4.9%
-   vol 1.5x · $143K · not CB
-CT     15m  -2.3%  1h  -2.3%
-   vol 6.7x · $674K · on CB
+CPOOL  15m  -7.1%  1h  -4.0%
+   vol 0.2x · $144K · not CB
+PIEVERSE 15m  -5.5%  1h -14.6%
+   vol 0.6x · $950K · not CB
+EVAA   15m  -4.1%  1h  -3.5%
+   vol 0.1x · $728K · not CB
+CT     15m  -2.0%  1h  -2.1%
+   vol 6.7x · $686K · on CB
 
-👀 WATCH (13)
-  PROMPT AI VVV JUP CRV OP
-  MANTLE MON FET LIGHTER SUI
-  DASH QNT
+👀 WATCH (15)
+  PROMPT SKR WINGS DOT JTO FIL
+  DASH FET TON XRP OP XDC LTC
+  QNT LIT
 
 15m/1h = price change
 vol = volume vs normal
