@@ -1,37 +1,38 @@
 CRYPTO SCAN
-Sun 6:15 AM CT
-31 flagged · 0 buy signals
+Sun 6:20 AM CT
+60 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (10)
-EVAA   15m  +6.5%  1h  +3.8%
-   vol 0.1x · $714K · not CB
+⚪ THIN (low volume) (8)
 FLUX   15m  +6.4%  1h  +6.4%
    vol 0.0x · $225K · not CB
-DRV    15m  +5.4%  1h +16.1%
-   vol 2.4x · $4.6M · on CB
-AKE    15m  +4.3%  1h  +2.8%
-   vol 3.7x · $1.6M · not CB
+EVAA   15m  +3.5%  1h  -1.8%
+   vol 0.8x · $715K · not CB
 AUDIO  15m  +3.0%  1h  +3.0%
    vol 0.0x · $193K · not CB
+DRV    15m  +2.9%  1h +17.2%
+   vol 2.1x · $4.6M · on CB
 BAND   15m  +2.6%  1h  +0.7%
    vol 0.0x · $359K · not CB
+AKE    15m  +2.1%  1h  +1.7%
+   vol 0.6x · $1.6M · not CB
 KDA    15m  -9.5%  1h  -9.5%
    vol 0.0x · $800K · not CB
-PIEVERSE 15m  -6.7%  1h -13.1%
-   vol 4.8x · $1.0M · not CB
-VINE   15m  -3.4%  1h  +1.0%
-   vol 0.1x · $155K · not CB
-PROMPT 15m  -2.5%  1h  -2.0%
-   vol 0.6x · $213K · not CB
+PIEVERSE 15m  -8.1%  1h -17.8%
+   vol 0.9x · $1.0M · not CB
 
-👀 WATCH (21)
-  VVV NEAR QNT STRK ICP HBAR
-  ONDO ADA AB HYPE ALGO ZEC
-  ETH ARB RENDER BCH LTC SOL
-  PAXG XAUT EUR
+👀 WATCH (52)
+  ORCA NPC KAS WLD SAND CRV
+  SKY FET VVV XPL SEI TAO HBAR
+  PENGU AVAX PUMP TIA BNB
+  RENDER MORPHO POL ONDO JUP
+  ZEC LDO SHIB SYRUP ETH NEAR
+  SUI HYPE FLR ADA XRP LINK
+  AAVE BCH BONK AI DOT ZORA
+  SOL BTC ENA DOGE UNI XLM
+  ALGO ZAMA PONS EUR QNT
 
 15m/1h = price change
 vol = volume vs normal
