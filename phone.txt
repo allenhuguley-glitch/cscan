@@ -1,18 +1,14 @@
 CRYPTO SCAN
-Sun 2:40 PM CT
+Sun 2:45 PM CT
 17 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
-ALIGN  15m  -2.2%  1h  +0.6%
-   vol 0.3x · $947K · on CB
-
-👀 WATCH (16)
-  ELSA DRV PROMPT PONS CAP SPX
-  ZRO ALEO STX CRV AAVE STRK
-  TIA ZEC INJ JUPITER
+👀 WATCH (17)
+  ALIGN ELSA DRV VVV PYTH SPX
+  PUMP CAP ALEO MON UNI STX
+  TRUMP CRV AAVE ZEC DOGE
 
 15m/1h = price change
 vol = volume vs normal
