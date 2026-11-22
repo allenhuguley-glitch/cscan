@@ -302,7 +302,18 @@ def classify(per_ex, a):
     flagged = {e: m for e, m in per_ex.items()
                if abs(m["ret_15m"]) >= move or m["vol_x"] >= volx}
     if not flagged:
-        return None
+        # softer WATCH net: smaller move or volume pickup, never a buy signal
+        soft = [m for m in per_ex.values()
+                if abs(m["ret_15m"]) >= a.watch_move_pct / 100 or m["vol_x"] >= a.watch_vol_x]
+        if not soft:
+            return None
+        best = max(soft, key=lambda m: abs(m["ret_15m"]))
+        return "WATCH", {"ret_15m": best["ret_15m"], "ret_1h": best["ret_1h"],
+                         "vol_z": max(m["vol_z"] for m in soft),
+                         "vol_x": max(m["vol_x"] for m in soft),
+                         "rising": best["rising"], "pct_24h": best.get("pct_24h"),
+                         "n_flagged": 0, "n_listed": len(per_ex), "liq": liq,
+                         "price": best["price"]}
     movers = [m for m in flagged.values() if abs(m["ret_15m"]) >= move]
     ups = sum(1 for m in movers if m["ret_15m"] > 0)
     downs = len(movers) - ups
@@ -447,6 +458,8 @@ def main():
     p.add_argument("--move-pct", type=float, default=1.0, help="15-minute move that counts as unusual")
     p.add_argument("--vol-z", type=float, default=3.0, help="(informational) 5-minute volume z-score")
     p.add_argument("--vol-x", type=float, default=2.0, help="latest 5m volume vs prior-20 average that counts as a spike")
+    p.add_argument("--watch-move-pct", type=float, default=0.5, help="15m move that puts a coin on WATCH")
+    p.add_argument("--watch-vol-x", type=float, default=1.5, help="volume multiple that puts a coin on WATCH")
     p.add_argument("--small-move-pct", type=float, default=2.0, help="15m move needed for coins under --min-liq")
     p.add_argument("--small-vol-x", type=float, default=4.0, help="volume multiple needed for coins under --min-liq")
     p.add_argument("--min-liq", type=float, default=5_000_000, help="24h USD volume below this is 'thin'")
