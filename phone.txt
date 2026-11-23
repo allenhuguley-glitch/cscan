@@ -1,15 +1,20 @@
 CRYPTO SCAN
-Sun 6:15 PM CT
-18 flagged · 0 buy signals
+Sun 6:20 PM CT
+15 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (18)
-  CAP ALIGN PUMP ELSA GEOD
-  PEPE HYPE MON RARE BCH UNI
-  ATOM SUI CRV ZRO TAO FET
-  LIGHTER
+⚪ THIN (low volume) (2)
+DRV    15m  +2.6%  1h  +2.4%
+   vol 17.7x · $4.6M · on CB
+ALIGN  15m  -2.5%  1h  -5.2%
+   vol 0.6x · $993K · on CB
+
+👀 WATCH (13)
+  GEOD CAP PUMP MON LIGHTER
+  ELSA PONS TRUMP RARE PENGU
+  CRV ETH DASH
 
 15m/1h = price change
 vol = volume vs normal
