@@ -44,7 +44,7 @@ for f in sorted(HERE.glob("*.py")):
 # 4. workflow still saves the log files (this broke once)
 try:
     yml = (HERE / ".github/workflows/scan.yml").read_text()
-    for need in ("scanner_log_v4.csv", "history", "latest.json"):
+    for need in ("scanner_log_v4.csv", "history", "logs", "latest.json"):
         if need not in yml:
             problems.append(f"scan.yml no longer saves {need}")
 except Exception as e:
@@ -125,14 +125,14 @@ FEE = 0.012
 theory = None
 try:
     px = {}
-    with (HERE / "scanner_log_v4.csv").open() as f:
-        rd = csv.DictReader(f)
-        sigs = []
-        for r in rd:
-            t = ts(r["ts_utc"]); p = float(r["price"])
-            px.setdefault(r["asset"], []).append((t, p))
-            if r["label"] == "REAL UP":
-                sigs.append((t, r["asset"], p))
+    sigs = []
+    for lf in sorted((HERE / "logs").glob("scanner_log_*.csv")) + [HERE / "scanner_log_v4.csv"]:
+        with lf.open() as f:
+            for r in csv.DictReader(f):
+                t = ts(r["ts_utc"]); p = float(r["price"])
+                px.setdefault(r["asset"], []).append((t, p))
+                if r["label"] == "REAL UP":
+                    sigs.append((t, r["asset"], p))
     for hf in (HERE / "history").glob("*.jsonl"):
         for l in hf.read_text().splitlines():
             if not l.strip():
