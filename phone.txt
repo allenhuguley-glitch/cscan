@@ -1,16 +1,21 @@
 CRYPTO SCAN
-Mon 3:35 AM CT
-24 flagged · 0 buy signals
+Mon 3:40 AM CT
+31 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (24)
-  PEARL ELSA ALIGN RARE IRYS
-  PEPE FARTCOIN ENA JUPITER
-  WLD PENGU FLR FET AVAX ADA
-  PUMP TAO ICP BNB RENDER DOGE
-  ALGO BCH DOT
+⚪ THIN (low volume) (1)
+ALIGN  15m  -2.5%  1h  -3.9%
+   vol 0.6x · $1.1M · on CB
+
+👀 WATCH (30)
+  ELSA PEARL RARE ICP MON WLD
+  TRUMP SEI IRYS PENGU FLR ENA
+  BNB CT NEAR DOGE ALEO
+  LIGHTER AVAX PUMP MORPHO
+  HBAR ADA MANTLE DOT ASTER
+  DASH RENDER JTO JUPITER
 
 15m/1h = price change
 vol = volume vs normal
