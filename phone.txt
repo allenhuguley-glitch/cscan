@@ -1,25 +1,24 @@
 CRYPTO SCAN
-Mon 5:20 AM CT
-32 flagged · 1 buy signal
+Mon 5:25 AM CT
+23 flagged · 1 buy signal
 
 🟢 BUY SIGNALS (1)
-QNT    15m  +2.0%  1h  +3.4%
-   vol 4.2x · $3.4M · on CB
+QNT    15m  +2.4%  1h  +4.6%
+   vol 4.1x · $3.6M · on CB
 
 ⚪ THIN (low volume) (3)
-SKY    15m  +6.5%  1h  +1.5%
-   vol 2.1x · $487K · on CB
-ELSA   15m  -3.0%  1h  -2.1%
-   vol 0.1x · $1.5M · on CB
-KAIO   15m  -2.6%  1h  -5.9%
-   vol 0.3x · $384K · on CB
+SKY    15m  +5.3%  1h  +1.8%
+   vol 2.0x · $502K · on CB
+KAIO   15m  -7.6%  1h -12.9%
+   vol 0.2x · $362K · on CB
+ELSA   15m  -3.4%  1h  -4.3%
+   vol 0.4x · $1.5M · on CB
 
-👀 WATCH (28)
-  ALGO ICP PEARL VVV PONS DRV
-  XPL SYRUP ZEC MON BCH DOT
-  MORPHO WLD ENA UNI LTC AERO
-  SEI RENDER TRUMP AVAX LINK
-  XLM SUI XRP BNB PEPE
+👀 WATCH (19)
+  PEARL MON CRV RARE SYRUP
+  PONS VVV ICP TON DRV PEPE
+  HYPE ARB NEAR SEI PAXG TRUMP
+  XLM BONK
 
 15m/1h = price change
 vol = volume vs normal
