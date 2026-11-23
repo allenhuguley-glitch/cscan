@@ -1,15 +1,14 @@
 CRYPTO SCAN
-Mon 12:25 PM CT
-19 flagged · 0 buy signals
+Mon 12:30 PM CT
+16 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (19)
-  ELSA ZRO USELESS SKY LIGHTER
-  PEPE FET WLD PEARL FARTCOIN
-  XPL NEAR INJ ATOM MORPHO
-  AAVE DOT ALEO DRV
+👀 WATCH (16)
+  ELSA PEARL SKY ALIGN ALGO
+  MORPHO AAVE DOT NEAR XPL ADA
+  ALEO INJ FLR PENGU DRV
 
 15m/1h = price change
 vol = volume vs normal
