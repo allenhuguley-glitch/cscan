@@ -1,21 +1,24 @@
 CRYPTO SCAN
-Mon 2:50 PM CT
-29 flagged · 0 buy signals
+Mon 2:55 PM CT
+47 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (1)
-CAP    15m  -2.5%  1h  -1.9%
-   vol 0.6x · $613K · on CB
+CAP    15m  -2.1%  1h  -1.4%
+   vol 0.2x · $617K · on CB
 
-👀 WATCH (28)
-  STRK QNT FARTCOIN PEARL PONS
-  GRT ZRO APT ETC WLD FET FIL
-  ONDO CRV ALIGN SKY ASTER
-  PUMP TIA SYRUP PEPE RENDER
-  ALGO LIGHTER SEI ENA MON
-  ALEO
+👀 WATCH (46)
+  ALIGN STRK ATOM USELESS
+  FARTCOIN QNT BONK FIL PONS
+  ZRO ZEC ETC NEAR WLD ALGO
+  ENA DOT INJ CRV PUMP ASTER
+  VVV APT TIA PEARL PEPE AAVE
+  XLM SKY LIGHTER MORPHO ICP
+  SEI ADA LTC SUI UNI HYPE XRP
+  SOL AVAX TAO LINK ALEO ETH
+  PAXG
 
 15m/1h = price change
 vol = volume vs normal
