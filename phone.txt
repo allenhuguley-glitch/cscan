@@ -1,24 +1,24 @@
 CRYPTO SCAN
-Mon 5:05 AM CT
-22 flagged · 1 buy signal
+Mon 5:10 AM CT
+17 flagged · 0 buy signals
 
-🟢 BUY SIGNALS (1)
-ELSA   15m  +5.3%  1h  +0.7%
-   vol 4.6x · $1.5M · on CB
+🟢 BUY SIGNALS
+  none right now
 
-🔴 REAL DROPS (1)
-SKY    15m  -4.1%  1h  -4.4%
-   vol 50.6x · $434K · on CB
+🟡 AGAINST TREND / FADING (1)
+KAIO   15m -15.8%  1h  -6.8%
+   vol 4.6x · $374K · on CB
 
-⚪ THIN (low volume) (1)
-ALIGN  15m  -4.0%  1h  +1.3%
-   vol 1.0x · $1.1M · on CB
+⚪ THIN (low volume) (2)
+ALIGN  15m  -4.9%  1h  -1.3%
+   vol 1.2x · $1.1M · on CB
+SKY    15m  -3.4%  1h  -3.2%
+   vol 0.8x · $441K · on CB
 
-👀 WATCH (19)
-  PEARL MON INJ RARE ALGO SEI
-  IRYS FARTCOIN XPL ICP ALEO
-  FIL AERO TAO VVV AVAX LINK
-  XRP DOGE
+👀 WATCH (14)
+  ELSA PEARL ALGO MON RARE
+  IRYS TON SEI INJ VVV XPL
+  ONDO ICP ZEC
 
 15m/1h = price change
 vol = volume vs normal
