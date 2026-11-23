@@ -1,50 +1,27 @@
 CRYPTO SCAN
-Mon 11:50 AM CT
-69 flagged · 0 buy signals
+Mon 11:55 AM CT
+37 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-🟡 AGAINST TREND / FADING (3)
+🟡 AGAINST TREND / FADING (1)
 INJ    15m  -1.4%  1h  -2.5%
-   vol 2.7x · $6.3M · on CB
-SUI    15m  -1.2%  1h  -1.7%
-   vol 2.7x · $8.8M · on CB
-DOGE   15m  -1.1%  1h  -1.3%
-   vol 2.4x · $6.1M · on CB
+   vol 2.7x · $6.4M · on CB
 
-⚪ THIN (low volume) (9)
-ELSA   15m  +2.6%  1h  -5.2%
-   vol 4.5x · $1.5M · on CB
+⚪ THIN (low volume) (2)
+ELSA   15m  +2.7%  1h  -4.1%
+   vol 0.9x · $1.5M · on CB
 USELESS 15m  -2.2%  1h  -1.8%
-   vol 2.0x · $1.9M · on CB
-MON    15m  -2.1%  1h  -3.1%
-   vol 0.5x · $4.0M · on CB
-ZEC    15m  -1.3%  1h  -2.2%
-   vol 1.6x · $107M · on CB
-NEAR   15m  -1.3%  1h  -1.5%
-   vol 1.6x · $24M · on CB
-UNI    15m  -1.2%  1h  -1.4%
-   vol 1.1x · $7.3M · on CB
-QNT    15m  -1.2%  1h  -0.4%
-   vol 0.7x · $7.2M · on CB
-ETH    15m  -1.1%  1h  -1.6%
-   vol 1.5x · $384M · on CB
-HBAR   15m  -1.0%  1h  -1.2%
-   vol 0.7x · $5.8M · on CB
+   vol 2.0x · $2.0M · on CB
 
-👀 WATCH (57)
-  FET STRK PUMP CRV TIA
-  FARTCOIN LIGHTER SKY GRT
-  ONDO FIL BCH WLD ALGO APT
-  MORPHO ENA XRP PENGU TRUMP
-  SYRUP ATOM AAVE VVV RARE
-  AVAX DOT RENDER PONS SOL
-  MANTLE TAO AERO ADA CT ARB
-  ICP XLM SEI LINK HYPE LTC
-  STX BNB NMR MET ETC ASTER
-  DASH JUPITER PEPE ZRO FLR
-  BONK XPL TON PAXG
+👀 WATCH (34)
+  PUMP CRV TIA PONS GRT FIL
+  LIGHTER ENA RENDER TRUMP
+  SYRUP RARE DOT STRK MANTLE
+  SKY AERO ICP XLM SEI VVV MON
+  ALGO ZEC NMR XPL ETC DASH
+  UNI TON BCH ASTER FET ARB
 
 15m/1h = price change
 vol = volume vs normal
