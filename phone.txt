@@ -1,23 +1,20 @@
 CRYPTO SCAN
-Mon 6:45 AM CT
-24 flagged · 0 buy signals
+Mon 6:50 AM CT
+23 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (3)
-ELSA   15m  +4.7%  1h  +6.2%
-   vol 1.8x · $1.5M · on CB
-ALIGN  15m  -4.0%  1h  -0.9%
-   vol 0.2x · $1.1M · on CB
-SKY    15m  -2.3%  1h  -4.0%
-   vol 0.2x · $839K · on CB
+⚪ THIN (low volume) (1)
+SKY    15m  -2.5%  1h  -3.7%
+   vol 0.4x · $842K · on CB
 
-👀 WATCH (21)
-  BLUR RARE CT ARB KAIO VVV
-  DRV SOL ZEC HYPE XPL CRV
-  PAXG ETH BTC PUMP PENGU ATOM
-  LTC FARTCOIN DOGE
+👀 WATCH (22)
+  XPL PEARL LIGHTER JUPITER
+  ALIGN AAVE CRV ZEC ELSA RARE
+  PONS UNI DRV SYRUP HYPE FIL
+  ETH BTC BNB ONDO DOGE
+  FARTCOIN
 
 15m/1h = price change
 vol = volume vs normal
