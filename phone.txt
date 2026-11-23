@@ -1,16 +1,19 @@
 CRYPTO SCAN
-Mon 6:00 AM CT
-23 flagged · 0 buy signals
+Mon 6:05 AM CT
+22 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (23)
-  KAIO ALIGN CT DRV QNT INJ
-  RARE ICP ALGO ELSA PONS
-  USELESS LIGHTER XPL SEI
-  FARTCOIN SUI FLR PAXG MANTLE
-  UNI XRP PEPE
+⚪ THIN (low volume) (1)
+SKY    15m  -2.4%  1h  +5.9%
+   vol 0.6x · $718K · on CB
+
+👀 WATCH (21)
+  CT DRV ELSA RARE PONS PUMP
+  USELESS LIGHTER MANTLE NMR
+  XPL FARTCOIN INJ SEI SUI ETH
+  FET ZEC XRP PAXG UNI
 
 15m/1h = price change
 vol = volume vs normal
