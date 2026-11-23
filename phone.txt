@@ -1,22 +1,24 @@
 CRYPTO SCAN
-Sun 7:52 PM CT
-34 flagged · 0 buy signals
+Sun 7:55 PM CT
+36 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
+⚪ THIN (low volume) (2)
+ELSA   15m  +3.1%  1h  +4.9%
+   vol 2.1x · $824K · on CB
 VVV    15m  -1.3%  1h  -0.2%
    vol 1.6x · $10M · on CB
 
-👀 WATCH (33)
-  ALIGN PEARL AERO IRYS
-  LIGHTER CAP USELESS CRV XLM
-  INJ AAVE PEPE PUMP SUI
-  RENDER STRK SPX ASTER GEOD
-  XPL JUPITER FIL BTC DOT JTO
-  BCH TAO TRUMP TIA STX ARB
-  MON FET
+👀 WATCH (34)
+  ALIGN PEARL USELESS AERO
+  ORCA IRYS LIGHTER CAP CRV
+  XLM INJ STRK PEPE PUMP SUI
+  RENDER CT SPX ASTER GEOD XPL
+  FIL DOT JTO BCH JUPITER TAO
+  TRUMP BTC ARB STX MON ALEO
+  FET
 
 15m/1h = price change
 vol = volume vs normal
