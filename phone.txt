@@ -1,14 +1,15 @@
 CRYPTO SCAN
-Sun 10:20 PM CT
-14 flagged · 0 buy signals
+Sun 10:25 PM CT
+22 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (14)
-  ALIGN IRYS JUPITER PEARL
-  LIGHTER CAP UNI SUI HBAR STX
-  ADA ONDO AVAX FARTCOIN
+👀 WATCH (22)
+  ALIGN PONS XPL ASTER USELESS
+  UNI SUI JUPITER AERO ENA
+  ALEO CAP DRV SOL VVV BCH FIL
+  NEAR ONDO AVAX SEI AAVE
 
 15m/1h = price change
 vol = volume vs normal
