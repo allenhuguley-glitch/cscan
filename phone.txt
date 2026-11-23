@@ -1,20 +1,17 @@
 CRYPTO SCAN
-Mon 6:50 AM CT
-23 flagged · 0 buy signals
+Mon 6:55 AM CT
+30 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
-SKY    15m  -2.5%  1h  -3.7%
-   vol 0.4x · $842K · on CB
-
-👀 WATCH (22)
-  XPL PEARL LIGHTER JUPITER
-  ALIGN AAVE CRV ZEC ELSA RARE
-  PONS UNI DRV SYRUP HYPE FIL
-  ETH BTC BNB ONDO DOGE
-  FARTCOIN
+👀 WATCH (30)
+  SKY PEARL XPL KAIO BONK
+  LIGHTER DRV ELSA ALGO ALIGN
+  BLUR NEAR ASTER WLD PONS FET
+  ZRO SYRUP AAVE FIL UNI QNT
+  AVAX DOGE LTC BNB ETH BTC
+  FARTCOIN FLR
 
 15m/1h = price change
 vol = volume vs normal
