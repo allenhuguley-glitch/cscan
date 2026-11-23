@@ -1,22 +1,24 @@
 CRYPTO SCAN
-Mon 2:30 PM CT
-28 flagged · 0 buy signals
+Mon 2:35 PM CT
+25 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (2)
-PEARL  15m  +1.3%  1h  +1.3%
-   vol 0.6x · $5.0M · on CB
-ALIGN  15m  -3.1%  1h  -4.0%
-   vol 0.2x · $848K · on CB
+🔴 REAL DROPS (1)
+VVV    15m  -1.1%  1h  -1.5%
+   vol 2.1x · $12M · on CB
 
-👀 WATCH (26)
-  USELESS QNT CAP ATOM VVV SKY
-  LIGHTER SYRUP WLD TIA ZRO
-  ZEC APT ENA TRUMP MON NEAR
-  PUMP HBAR AAVE LTC PENGU CRV
-  BNB ARB ALEO
+⚪ THIN (low volume) (1)
+ALIGN  15m  -2.8%  1h  -3.7%
+   vol 1.4x · $859K · on CB
+
+👀 WATCH (23)
+  CAP ELSA ENA WLD PONS SKY
+  ALGO NEAR LIGHTER ZRO
+  JUPITER XLM APT HBAR HYPE
+  ZEC TRUMP XPL LTC AAVE AVAX
+  CRV ARB
 
 15m/1h = price change
 vol = volume vs normal
