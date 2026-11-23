@@ -1,19 +1,20 @@
 CRYPTO SCAN
-Mon 1:10 PM CT
-23 flagged · 0 buy signals
+Mon 1:15 PM CT
+30 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (1)
-CAP    15m  +2.6%  1h  +2.4%
-   vol 5.0x · $488K · on CB
+CAP    15m  +4.1%  1h  +3.5%
+   vol 7.0x · $551K · on CB
 
-👀 WATCH (22)
-  USELESS ELSA ALIGN MON INJ
-  JUPITER PEARL GRT CRV ATOM
-  ALGO TRUMP DRV TIA XPL PEPE
-  FARTCOIN ENA PENGU DOGE UNI
+👀 WATCH (29)
+  ATOM MON JUPITER GRT CRV
+  PEARL LIGHTER ALGO APT DASH
+  RARE ARB ALIGN TIA XPL PEPE
+  DRV ALEO ENA AERO ICP TRUMP
+  AAVE FET ZRO UNI PAXG BCH
   STRK
 
 15m/1h = price change
