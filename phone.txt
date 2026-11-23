@@ -1,23 +1,20 @@
 CRYPTO SCAN
-Sun 7:00 PM CT
-24 flagged · 0 buy signals
+Sun 7:05 PM CT
+26 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (3)
-ALIGN  15m  +2.3%  1h  -1.4%
-   vol 1.3x · $984K · on CB
-PEARL  15m  +2.3%  1h  +2.5%
-   vol 1.0x · $1.9M · on CB
-CT     15m  -2.0%  1h  -2.3%
-   vol 41.0x · $630K · on CB
+⚪ THIN (low volume) (1)
+ELSA   15m  +3.7%  1h  +2.6%
+   vol 0.4x · $803K · on CB
 
-👀 WATCH (21)
-  ELSA IRYS DRV GEOD UNI VVV
-  NEAR MON PONS ALEO LINK JTO
-  XLM TAO DOGE DASH DOT AAVE
-  SEI ATOM XPL
+👀 WATCH (25)
+  CT ALIGN PEARL IRYS USELESS
+  GEOD VVV MON AAVE ALEO XPL
+  LINK PAXG SEI ALGO JUPITER
+  LTC ENA ATOM UNI DOGE
+  FARTCOIN ETH HYPE HBAR
 
 15m/1h = price change
 vol = volume vs normal
