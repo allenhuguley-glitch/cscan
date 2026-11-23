@@ -1,0 +1,2 @@
+scan_utc,asset,kind,label,price,ret_15m,vol_x,liq,obv_ok,obv_gap,body_ratio
+2026-11-23T06:55:20.706662+00:00,INJ,EARLY,WATCH,6.192,0.0006464124111182912,35.32780489939076,3450225.85,True,17551.15,0.29
