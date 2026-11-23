@@ -1,15 +1,14 @@
 CRYPTO SCAN
-Sun 7:25 PM CT
-18 flagged · 0 buy signals
+Sun 7:30 PM CT
+15 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (18)
-  DRV IRYS PONS RARE GEOD PAXG
-  AERO VVV HYPE ARB FARTCOIN
-  USELESS FIL XPL STRK PENGU
-  TRUMP MORPHO
+👀 WATCH (15)
+  RARE PEARL GEOD ALEO AERO
+  JUPITER DRV MON FARTCOIN
+  NEAR ARB PENGU STRK DOT BTC
 
 15m/1h = price change
 vol = volume vs normal
