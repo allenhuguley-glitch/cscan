@@ -1,16 +1,48 @@
 CRYPTO SCAN
-Mon 10:38 AM CT
-26 flagged · 0 buy signals
+Mon 10:40 AM CT
+47 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (26)
-  ALGO FIL ELSA USELESS MORPHO
-  FET CRV BONK PEARL PEPE ZRO
-  ZEC CVX QNT PONS MET SYRUP
-  SUI ETC LIGHTER BCH RARE GRT
-  ATOM STRK STX
+🔴 REAL DROPS (1)
+VVV    15m  -1.4%  1h  -3.7%
+   vol 4.8x · $14M · on CB
+
+🟡 AGAINST TREND / FADING (2)
+HYPE   15m  -1.1%  1h  -3.6%
+   vol 2.5x · $43M · on CB
+UNI    15m  -1.0%  1h  -2.9%
+   vol 6.6x · $7.2M · on CB
+
+⚪ THIN (low volume) (9)
+SUI    15m  -1.7%  1h  -2.1%
+   vol 1.6x · $8.3M · on CB
+ZEC    15m  -1.7%  1h  -4.3%
+   vol 1.6x · $100M · on CB
+NEAR   15m  -1.6%  1h  -1.8%
+   vol 0.8x · $23M · on CB
+SOL    15m  -1.2%  1h  -1.9%
+   vol 0.3x · $121M · on CB
+XRP    15m  -1.1%  1h  -2.8%
+   vol 0.8x · $102M · on CB
+TAO    15m  -1.1%  1h  -0.5%
+   vol 1.3x · $5.2M · on CB
+ADA    15m  -1.0%  1h  -1.2%
+   vol 0.7x · $12M · on CB
+DOGE   15m  -1.0%  1h  -1.5%
+   vol 0.5x · $5.9M · on CB
+XLM    15m  -1.0%  1h  -1.1%
+   vol 0.9x · $7.6M · on CB
+
+👀 WATCH (35)
+  ELSA ENA PEPE MON AVAX
+  USELESS PUMP RENDER ONDO
+  MORPHO FET CRV BONK GRT QNT
+  ZRO ICP BCH CVX BTC INJ PONS
+  XPL MET BNB AAVE PEARL LINK
+  HBAR RARE ETC CT ATOM STRK
+  STX
 
 15m/1h = price change
 vol = volume vs normal
