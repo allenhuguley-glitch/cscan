@@ -1,23 +1,23 @@
 CRYPTO SCAN
-Mon 10:16 AM CT
-23 flagged · 0 buy signals
+Mon 10:18 AM CT
+22 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (3)
 QNT    15m  +1.1%  1h  -0.9%
-   vol 0.5x · $7.0M · on CB
+   vol 0.5x · $7.1M · on CB
 ELSA   15m  -2.7%  1h  -0.3%
-   vol 1.4x · $1.5M · on CB
+   vol 1.4x · $1.6M · on CB
 ZEC    15m  -1.2%  1h  -1.7%
-   vol 0.6x · $98M · on CB
+   vol 0.6x · $99M · on CB
 
-👀 WATCH (20)
-  MON PEARL LIGHTER SKY AERO
-  ENA MANTLE PUMP INJ STRK
-  AAVE ALIGN UNI HYPE TRUMP
-  SHIB FET ETC LTC ALEO
+👀 WATCH (19)
+  MON LIGHTER SKY AERO ENA
+  MANTLE PUMP INJ STRK AAVE
+  ALIGN UNI HYPE TRUMP SHIB
+  FET ETC LTC ALEO
 
 15m/1h = price change
 vol = volume vs normal
