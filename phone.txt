@@ -1,21 +1,22 @@
 CRYPTO SCAN
-Sun 8:30 PM CT
-24 flagged · 0 buy signals
+Sun 8:35 PM CT
+30 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (2)
-ELSA   15m  -2.6%  1h  +2.3%
-   vol 7.3x · $924K · on CB
-ALIGN  15m  -2.2%  1h  +0.0%
-   vol 1.2x · $923K · on CB
+ALIGN  15m  +2.3%  1h  +2.0%
+   vol 3.6x · $921K · on CB
+ELSA   15m  -6.4%  1h  +4.4%
+   vol 1.1x · $932K · on CB
 
-👀 WATCH (22)
-  PEARL DRV PONS CAP IRYS MON
-  ZEC GEOD CT USELESS ENA FET
-  SPX BNB AVAX XLM INJ ICP
-  DASH PAXG TRUMP JUPITER
+👀 WATCH (28)
+  PEARL PONS DRV ORCA LIGHTER
+  SHIB GEOD ZEC CT USELESS FET
+  SPX QNT ATOM DASH ALEO NEAR
+  BCH INJ PUMP DOGE SUI HYPE
+  BNB JUPITER TAO RENDER PAXG
 
 15m/1h = price change
 vol = volume vs normal
