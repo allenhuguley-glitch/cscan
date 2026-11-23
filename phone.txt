@@ -1,25 +1,21 @@
 CRYPTO SCAN
-Mon 6:20 AM CT
-34 flagged · 0 buy signals
+Mon 6:25 AM CT
+29 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (3)
-SKY    15m  +4.0%  1h  +3.4%
-   vol 2.3x · $808K · on CB
-ELSA   15m  +3.8%  1h  +0.0%
-   vol 0.4x · $1.5M · on CB
-PEARL  15m  -2.7%  1h  -1.8%
-   vol 1.6x · $2.6M · on CB
+⚪ THIN (low volume) (1)
+SKY    15m  +2.3%  1h  +2.3%
+   vol 1.4x · $819K · on CB
 
-👀 WATCH (31)
-  DRV AERO QNT BONK MANTLE TIA
-  ZRO ALIGN VVV ZEC ARB HBAR
-  KAIO NEAR FIL BCH DOT PEPE
-  FET FARTCOIN PUMP BNB ENA
-  DASH CRV ETH ONDO XLM LTC
-  ALGO RENDER
+👀 WATCH (28)
+  DRV AERO PEARL ELSA QNT ALGO
+  BONK MANTLE WLD TIA MON ZRO
+  ALIGN ATOM NEAR ZEC KAIO
+  PUMP FLR AVAX BCH PEPE
+  FARTCOIN TAO LTC ENA ONDO
+  CRV
 
 15m/1h = price change
 vol = volume vs normal
