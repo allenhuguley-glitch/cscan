@@ -1,14 +1,15 @@
 CRYPTO SCAN
-Mon 1:50 AM CT
-13 flagged · 0 buy signals
+Mon 1:55 AM CT
+19 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (13)
-  IRYS INJ VVV ATOM XRP QNT
-  ALEO WLD SOL MON ZEC PENGU
-  MORPHO
+👀 WATCH (19)
+  IRYS ALIGN ELSA RARE LIGHTER
+  PEARL ALEO SEI PUMP ATOM BCH
+  LINK WLD SPX PENGU DASH DOGE
+  PEPE SHIB
 
 15m/1h = price change
 vol = volume vs normal
