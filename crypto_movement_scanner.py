@@ -86,6 +86,19 @@ def candle_metrics(candles):
     }
 
 
+def pct_24h(t):
+    """24h % change for one ticker: ccxt's value, else Coinbase's own field, else last vs 24h open."""
+    v = t.get("percentage")
+    if v is None:
+        try:
+            v = float((t.get("info") or {}).get("price_percentage_change_24h"))
+        except (TypeError, ValueError):
+            v = None
+    if v is None and t.get("open") and t.get("last"):
+        v = (t["last"] / t["open"] - 1) * 100
+    return v
+
+
 def scan_exchange(ex_id, top_n):
     out = {}
     try:
@@ -101,15 +114,15 @@ def scan_exchange(ex_id, top_n):
             continue
         qv = t.get("quoteVolume") or ((t.get("baseVolume") or 0) * (t.get("last") or 0))
         if qv and parts[0] not in STABLES:
-            ranked.append((qv, sym, parts[0]))
-    for qv, sym, base in sorted(ranked, reverse=True)[:top_n]:
+            ranked.append((qv, sym, parts[0], t))
+    for qv, sym, base, t in sorted(ranked, key=lambda r: r[0], reverse=True)[:top_n]:
         try:
             m = candle_metrics(ex.fetch_ohlcv(sym, "5m", limit=40))
         except Exception:
             continue
         if m and base not in out:
             m["quote_vol_24h"] = qv
-            m["pct_24h"] = t.get("percentage")
+            m["pct_24h"] = pct_24h(t)
             m["sym"] = sym
             out[base] = m
     return out
