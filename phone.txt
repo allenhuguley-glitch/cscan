@@ -1,18 +1,24 @@
 CRYPTO SCAN
-Mon 4:45 AM CT
-17 flagged · 0 buy signals
+Mon 4:50 AM CT
+19 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
+🟡 AGAINST TREND / FADING (1)
+VVV    15m  +1.1%  1h  +1.4%
+   vol 5.7x · $11M · on CB
+
+⚪ THIN (low volume) (2)
+ELSA   15m  +2.7%  1h  +0.6%
+   vol 2.5x · $1.5M · on CB
 ALIGN  15m  +2.5%  1h  +4.1%
    vol 3.6x · $1.2M · on CB
 
 👀 WATCH (16)
-  ELSA QNT CT ALGO ZRO MON FET
-  INJ XPL RARE SYRUP VVV WLD
-  FLR POL XRP
+  QNT MON CT PEARL BONK FET
+  RARE XPL ZRO ONDO DRV FLR
+  PONS WLD SOL POL
 
 15m/1h = price change
 vol = volume vs normal
