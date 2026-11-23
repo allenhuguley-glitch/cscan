@@ -1,15 +1,15 @@
 CRYPTO SCAN
-Sun 7:40 PM CT
-20 flagged · 0 buy signals
+Sun 7:45 PM CT
+19 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (20)
-  IRYS ELSA JUPITER PONS CT
-  PEARL GEOD ATOM STRK SPX CAP
-  USELESS ALIGN WLD ARB PEPE
-  DOT FARTCOIN JTO ICP
+👀 WATCH (19)
+  ALIGN JUPITER IRYS PONS
+  ASTER GEOD ELSA CAP PEARL
+  AERO WLD VVV FET PUMP DOT
+  ATOM JTO UNI ADA
 
 15m/1h = price change
 vol = volume vs normal
