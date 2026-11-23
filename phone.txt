@@ -1,18 +1,19 @@
 CRYPTO SCAN
-Mon 2:15 PM CT
-14 flagged · 0 buy signals
+Mon 2:20 PM CT
+23 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (1)
-PEARL  15m  +2.1%  1h  +2.0%
-   vol 0.2x · $5.0M · on CB
+ALIGN  15m  -4.4%  1h  -3.3%
+   vol 0.8x · $863K · on CB
 
-👀 WATCH (13)
-  ELSA ALIGN ALGO FET DRV
-  LIGHTER CAP TON ZRO ARB
-  FARTCOIN BNB RENDER
+👀 WATCH (22)
+  MON CAP ATOM ALGO ELSA BONK
+  FET VVV USELESS TON FARTCOIN
+  JUPITER ZRO ARB LIGHTER FLR
+  QNT BNB AVAX LTC APT SUI
 
 15m/1h = price change
 vol = volume vs normal
