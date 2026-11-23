@@ -1,15 +1,16 @@
 CRYPTO SCAN
-Mon 3:15 AM CT
-19 flagged · 0 buy signals
+Mon 3:20 AM CT
+26 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (19)
-  ELSA RARE QNT PEARL ZEC ENA
-  ALGO AERO JTO ONDO ETH FLR
-  TRUMP JUPITER FET HYPE DASH
-  PUMP BNB
+👀 WATCH (26)
+  QNT ALIGN JTO ELSA PEARL
+  IRYS RARE INJ ZEC FARTCOIN
+  BTC ONDO MANTLE ENA HYPE UNI
+  BNB ARB DOGE STRK FET LINK
+  ALEO DRV BCH PENGU
 
 15m/1h = price change
 vol = volume vs normal
