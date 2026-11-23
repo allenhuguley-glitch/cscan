@@ -147,6 +147,10 @@ h2{{font-size:17px;margin:0 0 6px}} h2 i{{font-style:normal;color:var(--dim);fon
 var t={int(ts.timestamp() * 1000)},a=document.getElementById('ago');
 function u(){{var m=Math.round((Date.now()-t)/60000);a.textContent=m<1?'just now':m+' min ago';
 a.className=m>15?'stale':''}}u();setInterval(u,15000);
-setTimeout(function(){{location.replace(location.pathname+'?t='+Date.now())}},60000);
+var r=Date.now();function go(){{location.replace(location.pathname+'?t='+Date.now())}}
+setTimeout(go,60000);
+function w(){{if(!document.hidden&&Date.now()-r>30000)go()}}
+document.addEventListener('visibilitychange',w);window.addEventListener('pageshow',w);window.addEventListener('focus',w);
+setInterval(function(){{if(!document.hidden&&Date.now()-r>65000)go()}},10000);
 </script></body></html>"""
 (HERE / "phone.html").write_text(page, encoding="utf-8")
