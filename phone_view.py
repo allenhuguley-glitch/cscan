@@ -23,6 +23,7 @@ SECTIONS = [
     ("🟡 AGAINST TREND / FADING", ["UP vs TREND", "DOWN vs TREND", "FADING"]),
     ("💬 CHATTER", ["CHATTER"]),
     ("⚪ THIN (low volume)", ["THIN PUMP", "THIN DROP"]),
+    ("⚪ MOVED, NO VOLUME SPIKE", ["UP NO VOL", "DOWN NO VOL"]),
 ]
 
 
