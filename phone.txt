@@ -1,21 +1,23 @@
 CRYPTO SCAN
-Mon 7:10 AM CT
-19 flagged · 0 buy signals
+Mon 7:15 AM CT
+24 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (2)
+⚪ THIN (low volume) (3)
+DRV    15m  +2.6%  1h  +1.1%
+   vol 2.7x · $3.2M · on CB
+ELSA   15m  +2.6%  1h  +5.5%
+   vol 0.9x · $1.5M · on CB
 SKY    15m  +2.0%  1h  +0.3%
-   vol 0.2x · $870K · on CB
-PEARL  15m  -2.7%  1h  -5.2%
-   vol 3.6x · $2.6M · on CB
+   vol 0.2x · $871K · on CB
 
-👀 WATCH (17)
-  ELSA DRV ALGO MAMO PONS RARE
-  MANTLE FARTCOIN ALIGN NEAR
-  HBAR MON ZEC ATOM QNT ASTER
-  VVV
+👀 WATCH (21)
+  ALIGN PEARL ALGO MAMO ZEC CT
+  NEAR MON PONS BONK ONDO SOL
+  XRP ICP FIL QNT ASTER LTC
+  TAO LIGHTER DOGE
 
 15m/1h = price change
 vol = volume vs normal
