@@ -1,24 +1,20 @@
 CRYPTO SCAN
-Sun 9:40 PM CT
-43 flagged · 0 buy signals
+Sun 9:45 PM CT
+27 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (2)
-ELSA   15m  +6.3%  1h +11.5%
-   vol 0.9x · $1.1M · on CB
-JUPITER 15m  +3.2%  1h  +3.3%
-   vol 1.1x · $767K · on CB
+⚪ THIN (low volume) (1)
+ELSA   15m  +4.4%  1h +10.6%
+   vol 0.5x · $1.2M · on CB
 
-👀 WATCH (41)
-  CAP ORCA XPL JTO PYTH PENGU
-  ALIGN FET CRV ARB HYPE SPX
-  ATOM BCH WLD STX IRYS AVAX
-  AAVE ZRO PEPE SEI UNI MORPHO
-  DOT ICP PUMP TIA VVV BTC
-  STRK MON ZEC XLM RENDER DASH
-  XRP ALEO ONDO ENA INJ
+👀 WATCH (26)
+  JUPITER CAP XPL CRV PUMP
+  ASTER VVV PEARL CT ZRO STRK
+  MON UNI SPX BTC ZEC FIL XLM
+  JTO MORPHO ALEO HYPE ONDO
+  ALGO INJ PEPE
 
 15m/1h = price change
 vol = volume vs normal
