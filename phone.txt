@@ -1,19 +1,15 @@
 CRYPTO SCAN
-Sun 10:00 PM CT
-23 flagged · 0 buy signals
+Sun 10:05 PM CT
+16 flagged · 1 buy signal
 
-🟢 BUY SIGNALS
-  none right now
+🟢 BUY SIGNALS (1)
+VVV    15m  +1.7%  1h  +2.4%
+   vol 2.3x · $11M · on CB
 
-⚪ THIN (low volume) (1)
-VVV    15m  +1.5%  1h  +2.7%
-   vol 0.7x · $11M · on CB
-
-👀 WATCH (22)
-  DRV ZRO ALIGN LIGHTER ELSA
-  ARB PUMP CAP QNT PENGU ICP
-  PONS STRK SEI MON NEAR UNI
-  ZEC INJ FET ALEO XPL
+👀 WATCH (15)
+  DRV CAP ALIGN STRK ELSA JTO
+  JUPITER SEI NEAR UNI ZRO
+  ALGO ALEO FARTCOIN TRUMP
 
 15m/1h = price change
 vol = volume vs normal
