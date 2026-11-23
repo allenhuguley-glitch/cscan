@@ -1,17 +1,14 @@
 CRYPTO SCAN
-Sun 10:15 PM CT
-10 flagged · 0 buy signals
+Sun 10:20 PM CT
+14 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
-ALIGN  15m  -2.9%  1h  -4.6%
-   vol 0.3x · $871K · on CB
-
-👀 WATCH (9)
-  CAP DRV IRYS JUPITER PEARL
-  LIGHTER PEPE LINK JTO
+👀 WATCH (14)
+  ALIGN IRYS JUPITER PEARL
+  LIGHTER CAP UNI SUI HBAR STX
+  ADA ONDO AVAX FARTCOIN
 
 15m/1h = price change
 vol = volume vs normal
