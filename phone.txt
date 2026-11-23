@@ -1,29 +1,36 @@
 CRYPTO SCAN
-Mon 9:50 AM CT
-54 flagged · 0 buy signals
+Mon 9:55 AM CT
+55 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (3)
-UNI    15m  -1.4%  1h  -2.0%
-   vol 0.8x · $7.2M · on CB
-ZEC    15m  -1.2%  1h  -0.4%
-   vol 0.4x · $97M · on CB
-VVV    15m  -1.1%  1h  -1.6%
-   vol 0.6x · $14M · on CB
+⚪ THIN (low volume) (7)
+MON    15m  -2.7%  1h  -2.3%
+   vol 0.3x · $3.9M · on CB
+VVV    15m  -2.0%  1h  -1.6%
+   vol 1.0x · $13M · on CB
+ZEC    15m  -1.9%  1h  -0.1%
+   vol 0.3x · $96M · on CB
+UNI    15m  -1.7%  1h  -1.8%
+   vol 0.1x · $7.2M · on CB
+QNT    15m  -1.5%  1h  -2.7%
+   vol 0.2x · $6.9M · on CB
+HYPE   15m  -1.5%  1h  -0.8%
+   vol 0.9x · $40M · on CB
+XRP    15m  -1.3%  1h  +0.2%
+   vol 0.2x · $101M · on CB
 
-👀 WATCH (51)
-  PONS MON PEPE ALIGN PENGU
-  DASH ARB ALEO FARTCOIN WLD
-  ENA TIA MET AAVE SHIB XPL
-  CRV XRP APT DRV ALGO DOT
-  JUPITER DOGE HYPE BONK ADA
-  TRUMP HBAR JTO RENDER ZRO
-  ATOM XLM SEI BNB BTC FET
-  MORPHO BCH CT SUI STRK ONDO
-  PUMP QNT SYRUP FIL ELSA TON
-  NEAR
+👀 WATCH (48)
+  LIGHTER ENA PEPE SYRUP DASH
+  ARB ALEO PONS SHIB XPL ZRO
+  CRV WLD APT DOT JUPITER
+  FARTCOIN TRUMP LTC USELESS
+  ADA TIA MORPHO SKY BCH SEI
+  BNB AAVE FET XLM NEAR CT SUI
+  ETH STRK PUMP BTC SOL DOGE
+  ALGO HBAR ONDO MET PENGU TON
+  ATOM DRV AVAX
 
 15m/1h = price change
 vol = volume vs normal
