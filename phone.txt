@@ -1,23 +1,15 @@
 CRYPTO SCAN
-Mon 4:00 PM CT
+Mon 4:05 PM CT
 20 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-🔴 REAL DROPS (1)
-ZEC    15m  -1.4%  1h  -2.0%
-   vol 4.5x · $122M · on CB
-
-⚪ THIN (low volume) (1)
-ALIGN  15m  +2.2%  1h  +2.5%
-   vol 0.5x · $964K · on CB
-
-👀 WATCH (18)
-  TON ZRO ELSA STRK LIGHTER
-  DASH GRT PEARL CRV QNT STX
-  SEI CAP BONK ALGO TRUMP CT
-  LINK
+👀 WATCH (20)
+  TON PONS ALIGN CT ZRO APT
+  LIGHTER GRT CRV QNT SKY BONK
+  JUPITER SHIB TRUMP ICP XLM
+  ONDO PAXG BCH
 
 15m/1h = price change
 vol = volume vs normal
