@@ -1,14 +1,15 @@
 CRYPTO SCAN
-Mon 1:25 AM CT
-11 flagged · 0 buy signals
+Mon 1:30 AM CT
+18 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (11)
-  PEARL FARTCOIN DRV MON FET
-  TON ALIGN AERO RENDER
-  USELESS SEI
+👀 WATCH (18)
+  ALIGN MON CT ENA FARTCOIN
+  QNT IRYS JUPITER ATOM FET
+  XRP TON USELESS RENDER ONDO
+  PAXG DOGE AVAX
 
 15m/1h = price change
 vol = volume vs normal
