@@ -1,21 +1,22 @@
 CRYPTO SCAN
-Sun 6:35 PM CT
-22 flagged · 0 buy signals
+Sun 6:40 PM CT
+28 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (2)
-DRV    15m  +2.6%  1h  +5.3%
-   vol 5.0x · $4.8M · on CB
-ALEO   15m  +2.4%  1h  +3.1%
-   vol 1.8x · $683K · on CB
+ALIGN  15m  +2.3%  1h  -1.9%
+   vol 3.2x · $982K · on CB
+ALEO   15m  +2.1%  1h  +2.8%
+   vol 0.4x · $684K · on CB
 
-👀 WATCH (20)
-  ALIGN GEOD ELSA RARE PONS
-  VVV PYTH USELESS PUMP XPL
-  UNI SPX TIA HYPE BTC AVAX CT
-  LINK ETH ATOM
+👀 WATCH (26)
+  DRV GEOD USELESS ELSA SPX
+  PEARL PYTH VVV PUMP XPL HYPE
+  ADA RENDER XLM ETH MORPHO
+  AVAX LINK TIA ARB INJ IRYS
+  BCH FIL ONDO ATOM
 
 15m/1h = price change
 vol = volume vs normal
