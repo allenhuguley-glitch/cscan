@@ -1,32 +1,30 @@
 CRYPTO SCAN
-Mon 4:15 PM CT
-28 flagged · 0 buy signals
+Mon 4:20 PM CT
+38 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-🔴 REAL DROPS (1)
-INJ    15m  -2.2%  1h  -2.3%
-   vol 5.9x · $6.8M · on CB
-
-🟡 AGAINST TREND / FADING (1)
-PEARL  15m  -1.4%  1h  -0.8%
-   vol 2.6x · $5.4M · on CB
-
-⚪ THIN (low volume) (1)
+⚪ THIN (low volume) (2)
+CAP    15m  -2.6%  1h  -3.2%
+   vol 1.4x · $593K · on CB
 ELSA   15m  -2.2%  1h  -4.2%
    vol 2.9x · $1.3M · on CB
 
-⚪ MOVED, NO VOLUME SPIKE (1)
-NEAR   15m  -1.1%  1h  -1.2%
-   vol 0.2x · $25M · on CB
+⚪ MOVED, NO VOLUME SPIKE (2)
+INJ    15m  -1.8%  1h  -1.9%
+   vol 1.1x · $6.9M · on CB
+PEARL  15m  -1.5%  1h  -1.6%
+   vol 0.0x · $5.3M · on CB
 
-👀 WATCH (24)
-  USELESS ATOM ALIGN ARB
-  MORPHO FARTCOIN TRUMP ZEC
-  WLD ENA JUPITER GRT APT SUI
-  HYPE VVV HBAR PEPE DOT ADA
-  BONK CAP SHIB BCH
+👀 WATCH (34)
+  SYRUP USELESS DOT APT FET
+  ARB MORPHO FARTCOIN PEPE
+  STRK PONS WLD LIGHTER AAVE
+  SEI DASH MON PENGU HYPE GRT
+  CRV CT JUPITER HBAR FIL
+  TRUMP TAO ATOM ADA BONK SKY
+  XLM ZRO LINK
 
 15m/1h = price change
 vol = volume vs normal
