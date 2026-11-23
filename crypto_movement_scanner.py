@@ -346,7 +346,11 @@ def classify(per_ex, a):
     if confirmed and liq >= a.min_liq:
         label = "REAL DOWN" if down else "REAL UP"
     elif movers and (len(flagged) == 1 or liq < a.min_liq):
-        label = "THIN DROP" if down else "THIN PUMP"
+        # small coins stay THIN; bigger coins that moved without a volume spike are labeled as such
+        if liq < a.min_liq:
+            label = "THIN DROP" if down else "THIN PUMP"
+        else:
+            label = "DOWN NO VOL" if down else "UP NO VOL"
     else:
         label = "WATCH"
     return label, {"ret_15m": best["ret_15m"], "ret_1h": best["ret_1h"],
@@ -432,7 +436,7 @@ def run_once(a):
         apply_trend(rows)
 
     order = {"REAL UP": 0, "REAL DOWN": 1, "UP vs TREND": 2, "DOWN vs TREND": 3, "FADING": 3,
-             "CHATTER": 4, "THIN PUMP": 5, "THIN DROP": 6, "WATCH": 7}
+             "CHATTER": 4, "THIN PUMP": 5, "THIN DROP": 6, "UP NO VOL": 5, "DOWN NO VOL": 6, "WATCH": 7}
     rows.sort(key=lambda r: (order[r["label"]], -abs(r["ret_15m"])))
 
     if not a.no_push:
@@ -476,16 +480,25 @@ def run_once(a):
         print("history write failed:", ex)
 
     new = not LOG_FILE.exists()
+    if not new:
+        try:  # one-time migration: add the vol_x column to older logs (old rows left blank)
+            lines = LOG_FILE.read_text().splitlines()
+            if lines and "vol_x" not in lines[0].split(","):
+                lines[0] += ",vol_x"
+                lines[1:] = [ln + "," for ln in lines[1:]]
+                LOG_FILE.write_text("\n".join(lines) + "\n")
+        except Exception as ex:
+            print("log migration failed:", ex)
     with LOG_FILE.open("a", newline="") as f:
         w = csv.writer(f)
         if new:
             w.writerow(["ts_utc", "asset", "label", "price", "ret_15m", "ret_1h", "vol_z",
                         "n_flagged", "n_listed", "quote_vol_24h", "reddit", "discord", "x", "cg_rank",
-                        "trend_1h", "trend_1d"])
+                        "trend_1h", "trend_1d", "vol_x"])
         for r in rows:
             w.writerow([started.isoformat(), r["asset"], r["label"], r["price"], r["ret_15m"],
                         r["ret_1h"], r["vol_z"], r["n_flagged"], r["n_listed"], r["liq"],
-                        r["reddit"], r["discord"], r["x"], r["cg"], r["t1h"], r["t1d"]])
+                        r["reddit"], r["discord"], r["x"], r["cg"], r["t1h"], r["t1d"], r.get("vol_x")])
 
 
 def main():
