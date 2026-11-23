@@ -1,25 +1,24 @@
 CRYPTO SCAN
-Mon 11:10 AM CT
-40 flagged · 0 buy signals
+Mon 11:15 AM CT
+27 flagged · 1 buy signal
 
-🟢 BUY SIGNALS
-  none right now
+🟢 BUY SIGNALS (1)
+QNT    15m  +1.5%  1h  +0.4%
+   vol 4.4x · $7.3M · on CB
 
-⚪ THIN (low volume) (2)
-ELSA   15m  -2.9%  1h  -3.4%
-   vol 11.3x · $1.5M · on CB
+⚪ THIN (low volume) (3)
+SKY    15m  +3.1%  1h  +4.4%
+   vol 1.8x · $1.6M · on CB
+ELSA   15m  -5.5%  1h  -4.5%
+   vol 2.8x · $1.5M · on CB
 SYRUP  15m  -2.2%  1h  -1.9%
-   vol 2.1x · $765K · on CB
+   vol 2.1x · $774K · on CB
 
-👀 WATCH (38)
-  PEARL MON LIGHTER PEPE RARE
-  ENA SKY ATOM NEAR CVX AERO
-  LTC HBAR STRK ZEC USELESS
-  ONDO PONS TRUMP HYPE ALGO
-  FARTCOIN DRV XLM BTC CRV
-  MORPHO TON ASTER XRP PUMP
-  ALIGN BCH BNB TIA RENDER
-  PAXG ALEO
+👀 WATCH (23)
+  MON PEPE RARE FIL ASTER
+  JUPITER ATOM AERO ALIGN PUMP
+  CT TIA VVV BCH DASH STRK ENA
+  PENGU CRV ALGO XRP BNB ALEO
 
 15m/1h = price change
 vol = volume vs normal
