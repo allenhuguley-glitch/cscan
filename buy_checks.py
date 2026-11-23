@@ -18,6 +18,8 @@ from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
 LOG = HERE / "buy_checks_log.csv"
+ERR_LOG = HERE / "buy_checks_errors.csv"   # one row per coin that could not be checked
+MAX_COINS = 10                              # keep busy scans (market-wide jumps) inside rate limits
 RSI_MAX = 75
 UP_SHARE_MIN = 0.55
 
@@ -60,16 +62,26 @@ def main():
         print("[buy_checks] no REAL UP coins this scan")
         return
 
+    rows.sort(key=lambda r: r.get("ret_15m") or 0, reverse=True)
+    rows = rows[:MAX_COINS]
+    import time
     import ccxt
-    ex = ccxt.coinbase({"enableRateLimit": True})
-    out = []
+    ex = ccxt.coinbase({"enableRateLimit": True, "timeout": 15000})
+    out, errs = [], []
     for r in rows:
         sym = r["cb"]
-        try:
-            c15 = ex.fetch_ohlcv(sym, "15m", limit=60)[:-1]      # drop forming candle
-            c1 = ex.fetch_ohlcv(sym, "1m", limit=16)[:-1][-15:]
-        except Exception as e:
-            print(f"[buy_checks] {sym}: {e}", file=sys.stderr)
+        c15 = c1 = None
+        for attempt in (1, 2):                    # one retry after a short pause
+            try:
+                c15 = ex.fetch_ohlcv(sym, "15m", limit=60)[:-1]      # drop forming candle
+                c1 = ex.fetch_ohlcv(sym, "1m", limit=16)[:-1][-15:]
+                break
+            except Exception as e:
+                last_err = f"{type(e).__name__}: {e}"[:200]
+                time.sleep(2)
+        if c15 is None or c1 is None:
+            print(f"[buy_checks] {sym}: {last_err}", file=sys.stderr)
+            errs.append([data.get("scan_utc"), r["asset"], last_err])
             continue
         rv = rsi([c[4] for c in c15])
         us = up_share(c1)
@@ -81,6 +93,14 @@ def main():
         print(f"[buy_checks] {r['asset']}: RSI {rv if rv is None else round(rv)} "
               f"({'ok' if rsi_ok else 'HIGH'}), up-volume {us if us is None else f'{us:.0%}'} "
               f"({'ok' if vol_ok else 'SELLING'}) -> {'PASS' if rsi_ok and vol_ok else 'FAIL'}")
+
+    if errs:
+        new = not ERR_LOG.exists()
+        with ERR_LOG.open("a", newline="") as f:
+            w = csv.writer(f)
+            if new:
+                w.writerow(["scan_utc", "asset", "error"])
+            w.writerows(errs)
 
     if out:
         new = not LOG.exists()
@@ -97,3 +117,8 @@ if __name__ == "__main__":
         main()
     except Exception as e:                       # never break the scan workflow
         print(f"[buy_checks] error: {e}", file=sys.stderr)
+        try:
+            with ERR_LOG.open("a", newline="") as f:
+                csv.writer(f).writerow([datetime.now(timezone.utc).isoformat(), "ALL", f"{type(e).__name__}: {e}"[:200]])
+        except Exception:
+            pass
