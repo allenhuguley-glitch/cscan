@@ -1,15 +1,16 @@
 CRYPTO SCAN
-Mon 12:15 AM CT
-21 flagged · 0 buy signals
+Mon 12:20 AM CT
+24 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (21)
-  PUMP ALIGN ELSA ORCA PYTH
-  FET STX CT ALGO ENA XPL PEPE
-  IRYS PONS XRP UNI AVAX DASH
-  USELESS HYPE JTO
+👀 WATCH (24)
+  DRV ALIGN ORCA STX RARE PYTH
+  PONS GEOD ICP WLD ARB
+  JUPITER ELSA PEPE CT ATOM
+  ENA DOGE HYPE ETH SOL AVAX
+  BTC ASTER
 
 15m/1h = price change
 vol = volume vs normal
