@@ -1,25 +1,17 @@
 CRYPTO SCAN
-Mon 2:40 PM CT
-35 flagged · 0 buy signals
+Mon 2:45 PM CT
+32 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-🔴 REAL DROPS (1)
-VVV    15m  -1.2%  1h  -1.2%
-   vol 2.8x · $12M · on CB
-
-⚪ THIN (low volume) (1)
-ALIGN  15m  -2.8%  1h  -3.7%
-   vol 1.4x · $855K · on CB
-
-👀 WATCH (33)
-  CAP PONS FET MON ONDO WLD
-  HBAR NEAR HYPE ZEC ENA ZRO
-  ALEO XRP SEI SYRUP STRK
-  JUPITER LINK SUI FIL TRUMP
-  XLM ASTER ADA PUMP CT TIA
-  LTC GRT APT AAVE DRV
+👀 WATCH (32)
+  ALIGN CAP FET MON ZRO PONS
+  XPL USELESS TIA APT WLD STRK
+  SYRUP DASH VVV ALGO PUMP
+  ELSA SEI JUPITER PEPE BCH
+  HYPE GRT INJ ASTER RENDER CT
+  FIL AAVE XLM TAO
 
 15m/1h = price change
 vol = volume vs normal
