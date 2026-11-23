@@ -1,14 +1,14 @@
 CRYPTO SCAN
-Sun 7:30 PM CT
-15 flagged · 0 buy signals
+Sun 7:35 PM CT
+12 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (15)
-  RARE PEARL GEOD ALEO AERO
-  JUPITER DRV MON FARTCOIN
-  NEAR ARB PENGU STRK DOT BTC
+👀 WATCH (12)
+  CT GEOD ELSA AERO JUPITER
+  ATOM ARB FARTCOIN NEAR STRK
+  QNT SHIB
 
 15m/1h = price change
 vol = volume vs normal
