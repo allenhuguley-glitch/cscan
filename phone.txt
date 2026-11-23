@@ -1,20 +1,20 @@
 CRYPTO SCAN
-Sun 7:15 PM CT
-29 flagged · 0 buy signals
+Sun 7:20 PM CT
+26 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (1)
-ELSA   15m  +4.4%  1h  +3.9%
-   vol 3.8x · $814K · on CB
+ELSA   15m  +3.1%  1h  +4.0%
+   vol 0.9x · $812K · on CB
 
-👀 WATCH (28)
-  DRV PONS ALEO PAXG HYPE
-  USELESS FET AERO NEAR WLD
-  ATOM PEPE ZRO QNT BCH CT LTC
-  XPL VVV LIGHTER AAVE XRP INJ
-  BNB PEARL ALGO TAO ASTER
+👀 WATCH (25)
+  DRV IRYS PAXG PONS AERO ALEO
+  ATOM CT FARTCOIN HYPE ARB
+  INJ USELESS XRP SOL XPL DOGE
+  LTC STRK ADA BTC ASTER BNB
+  TAO MORPHO
 
 15m/1h = price change
 vol = volume vs normal
