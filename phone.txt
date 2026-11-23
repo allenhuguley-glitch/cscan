@@ -1,14 +1,23 @@
 CRYPTO SCAN
-Sun 11:00 PM CT
-15 flagged · 0 buy signals
+Sun 11:05 PM CT
+21 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (15)
-  ELSA PEARL CT POL LIGHTER
-  PUMP VVV JUPITER ALIGN ZEC
-  GEOD PEPE FIL XLM PYTH
+🟡 AGAINST TREND / FADING (1)
+VVV    15m  -2.0%  1h  -2.4%
+   vol 2.3x · $11M · on CB
+
+⚪ THIN (low volume) (1)
+ALIGN  15m  -3.4%  1h  +0.3%
+   vol 0.0x · $992K · on CB
+
+👀 WATCH (19)
+  ELSA PEARL ICP CT PUMP RARE
+  IRYS AAVE ZEC FET TON STX
+  PEPE CVX ADA LTC FARTCOIN
+  ORCA NEAR
 
 15m/1h = price change
 vol = volume vs normal
