@@ -1,5 +1,5 @@
 CRYPTO SCAN
-Mon 4:25 AM CT
+Mon 4:26 AM CT
 22 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
@@ -7,13 +7,13 @@ Mon 4:25 AM CT
 
 ⚪ THIN (low volume) (1)
 PONS   15m  -2.5%  1h  -1.1%
-   vol 0.4x · $421K · on CB
+   vol 0.4x · $420K · on CB
 
 👀 WATCH (21)
   MON ALIGN ELSA JUPITER CRV
-  PEARL RARE QNT LIGHTER NMR
-  NEAR FET ADA USELESS CT TAO
-  UNI XRP SOL BNB ALEO
+  PEARL QNT LIGHTER NMR NEAR
+  FET USELESS LINK SUI CT TAO
+  XRP XLM SOL BNB ALEO
 
 15m/1h = price change
 vol = volume vs normal
