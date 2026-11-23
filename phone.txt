@@ -1,29 +1,26 @@
 CRYPTO SCAN
-Mon 9:05 AM CT
-37 flagged · 0 buy signals
+Mon 9:10 AM CT
+29 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (5)
-QNT    15m  -2.7%  1h  +0.2%
-   vol 0.2x · $6.7M · on CB
-SKY    15m  -2.4%  1h  +2.8%
-   vol 1.8x · $1.4M · on CB
-CT     15m  -2.2%  1h  +0.4%
-   vol 1.0x · $642K · on CB
+⚪ THIN (low volume) (4)
+ZEC    15m  +1.1%  1h  +4.1%
+   vol 0.7x · $92M · on CB
+PEARL  15m  -2.6%  1h  -6.2%
+   vol 0.3x · $3.4M · on CB
+SKY    15m  -2.5%  1h  +1.7%
+   vol 0.4x · $1.4M · on CB
 ALIGN  15m  -2.2%  1h  +0.0%
    vol 0.2x · $1.1M · on CB
-INJ    15m  -1.6%  1h  +2.1%
-   vol 0.4x · $6.5M · on CB
 
-👀 WATCH (32)
-  ALGO PYTH ELSA CRV ENA ARB
-  FIL PEARL PUMP ATOM PONS FET
-  SYRUP DASH LIGHTER PENGU
-  STRK AERO JTO ONDO UNI
-  FARTCOIN NEAR GRT SEI TIA
-  XPL TRUMP VVV MON PEPE SUI
+👀 WATCH (25)
+  CT SYRUP RENDER ARB ENA FIL
+  UNI ELSA VVV NEAR GRT TIA
+  JTO PYTH PUMP MON SOL PEPE
+  PENGU SEI PONS ALGO AVAX
+  LIGHTER BONK
 
 15m/1h = price change
 vol = volume vs normal
