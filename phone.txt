@@ -1,25 +1,25 @@
 CRYPTO SCAN
-Mon 5:05 PM CT
-35 flagged · 0 buy signals
+Mon 5:10 PM CT
+34 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-🟡 AGAINST TREND / FADING (1)
-PEARL  15m  -2.1%  1h  -7.2%
-   vol 4.0x · $5.0M · on CB
+🔴 REAL DROPS (1)
+PEARL  15m  -2.5%  1h  -7.3%
+   vol 3.4x · $5.0M · on CB
 
 ⚪ THIN (low volume) (1)
-ALIGN  15m  -5.2%  1h  -0.6%
-   vol 1.0x · $987K · on CB
+ALIGN  15m  -4.6%  1h  +0.6%
+   vol 0.3x · $994K · on CB
 
-👀 WATCH (33)
-  ATOM MON TRUMP TIA ALGO
-  MANTLE TAO BCH HYPE XRP QNT
-  DOGE UNI SUI ALEO ARB ETH
-  LINK APT LTC SHIB SKY TON
-  ONDO CAP WLD BTC ADA NEAR
-  VVV DRV DOT PENGU
+👀 WATCH (32)
+  LIGHTER ELSA ATOM ENA TIA
+  MANTLE AAVE FET BCH PUMP
+  HYPE ZEC UNI MON ICP CAP STX
+  NEAR ARB PENGU DOT SEI APT
+  TRUMP SKY XRP ONDO AERO CRV
+  ETH VVV PONS
 
 15m/1h = price change
 vol = volume vs normal
