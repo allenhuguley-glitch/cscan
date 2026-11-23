@@ -1,22 +1,24 @@
 CRYPTO SCAN
-Mon 12:35 PM CT
-26 flagged · 0 buy signals
+Mon 12:40 PM CT
+38 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (2)
-ALIGN  15m  +5.4%  1h  +5.4%
-   vol 38.0x · $829K · on CB
-QNT    15m  +1.1%  1h  -0.1%
-   vol 0.7x · $7.4M · on CB
+SKY    15m  +2.5%  1h  +4.9%
+   vol 5.3x · $1.7M · on CB
+ALIGN  15m  +2.2%  1h  +2.5%
+   vol 0.7x · $808K · on CB
 
-👀 WATCH (24)
-  ALGO SKY JUPITER ELSA NEAR
-  STRK RARE TON USELESS
-  FARTCOIN PEARL HYPE ZEC VVV
-  FIL AAVE ALEO MORPHO STX
-  RENDER PENGU XRP TAO PONS
+👀 WATCH (36)
+  ALGO JUPITER RARE ADA
+  USELESS ATOM RENDER XPL
+  SYRUP TAO LTC DOGE SUI ETH
+  XLM ETC BCH ZEC VVV AVAX MON
+  PEPE HBAR ARB BNB BTC XRP
+  LINK FLR ELSA SOL ONDO STX
+  PENGU AAVE PONS
 
 15m/1h = price change
 vol = volume vs normal
