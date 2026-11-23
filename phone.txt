@@ -1,48 +1,24 @@
 CRYPTO SCAN
-Mon 10:50 AM CT
-66 flagged · 0 buy signals
+Mon 10:55 AM CT
+39 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-🟡 AGAINST TREND / FADING (1)
-SUI    15m  -1.5%  1h  -1.8%
-   vol 2.6x · $8.4M · on CB
-
-⚪ THIN (low volume) (12)
-PONS   15m  -2.3%  1h  -3.2%
-   vol 0.7x · $524K · on CB
-ENA    15m  -2.2%  1h  -3.6%
-   vol 2.2x · $2.5M · on CB
-BONK   15m  -2.2%  1h  -2.2%
-   vol 1.0x · $832K · on CB
+⚪ THIN (low volume) (2)
 ARB    15m  -2.0%  1h  -0.5%
    vol 3.3x · $1.7M · on CB
-ELSA   15m  -2.0%  1h  -0.4%
-   vol 0.9x · $1.5M · on CB
 HBAR   15m  -1.5%  1h  -0.6%
    vol 0.7x · $5.6M · on CB
-TAO    15m  -1.2%  1h  -0.3%
-   vol 1.8x · $5.2M · on CB
-XLM    15m  -1.2%  1h  -1.0%
-   vol 0.5x · $7.6M · on CB
-INJ    15m  -1.1%  1h  +0.3%
-   vol 1.4x · $6.3M · on CB
-ADA    15m  -1.1%  1h  -0.4%
-   vol 1.0x · $12M · on CB
-  +2 more
 
-👀 WATCH (53)
-  PEPE TIA FARTCOIN STX PEARL
-  USELESS ZRO FIL APT PENGU
-  TRUMP WLD ATOM PUMP MET ONDO
-  STRK DOT AVAX BCH AAVE SEI
-  DASH CRV ICP CVX FET XPL
-  JUPITER UNI NEAR BNB DOGE
-  GRT LIGHTER BTC XRP ETC ZEC
-  AERO ALGO MON VVV ETH ASTER
-  LINK RENDER ALIGN DRV LTC
-  FLR MORPHO ALEO
+👀 WATCH (37)
+  APT MET TIA LIGHTER PONS
+  PENGU PEPE DOT BCH SEI CRV
+  PUMP FET JUPITER ALIGN BONK
+  GRT ALGO DRV MON AERO ZRO
+  FLR HYPE NEAR USELESS CT STX
+  FIL SKY UNI VVV TAO TON ELSA
+  RARE PEARL
 
 15m/1h = price change
 vol = volume vs normal
