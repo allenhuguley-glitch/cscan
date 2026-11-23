@@ -1,14 +1,15 @@
 CRYPTO SCAN
-Mon 1:15 AM CT
-16 flagged · 0 buy signals
+Mon 1:20 AM CT
+20 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (16)
-  PEARL QNT ALIGN PEPE TON
-  LIGHTER ENA DRV GEOD MON INJ
-  TAO ONDO ASTER FARTCOIN IRYS
+👀 WATCH (20)
+  PEARL DRV MON ALIGN PEPE
+  FARTCOIN FET ENA ASTER
+  JUPITER INJ RARE ONDO TON
+  AERO RENDER TAO ARB LTC SOL
 
 15m/1h = price change
 vol = volume vs normal
