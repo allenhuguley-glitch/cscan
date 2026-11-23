@@ -1,27 +1,16 @@
 CRYPTO SCAN
-Mon 11:55 AM CT
-37 flagged · 0 buy signals
+Mon 12:00 PM CT
+25 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-🟡 AGAINST TREND / FADING (1)
-INJ    15m  -1.4%  1h  -2.5%
-   vol 2.7x · $6.4M · on CB
-
-⚪ THIN (low volume) (2)
-ELSA   15m  +2.7%  1h  -4.1%
-   vol 0.9x · $1.5M · on CB
-USELESS 15m  -2.2%  1h  -1.8%
-   vol 2.0x · $2.0M · on CB
-
-👀 WATCH (34)
-  PUMP CRV TIA PONS GRT FIL
-  LIGHTER ENA RENDER TRUMP
-  SYRUP RARE DOT STRK MANTLE
-  SKY AERO ICP XLM SEI VVV MON
-  ALGO ZEC NMR XPL ETC DASH
-  UNI TON BCH ASTER FET ARB
+👀 WATCH (25)
+  ELSA RARE PEARL PUMP PONS
+  DRV LIGHTER DASH USELESS INJ
+  FARTCOIN NMR TIA ATOM STX
+  SYRUP ALGO TON SEI NEAR GRT
+  ZRO BCH ARB AAVE
 
 15m/1h = price change
 vol = volume vs normal
