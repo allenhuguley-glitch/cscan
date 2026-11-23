@@ -1,17 +1,16 @@
 CRYPTO SCAN
-Mon 2:25 AM CT
-30 flagged · 0 buy signals
+Mon 2:30 AM CT
+20 flagged · 1 buy signal
 
-🟢 BUY SIGNALS
-  none right now
+🟢 BUY SIGNALS (1)
+ELSA   15m  +4.6%  1h  +1.6%
+   vol 12.1x · $1.4M · on CB
 
-👀 WATCH (30)
-  ELSA RARE ALIGN MON PEARL
-  INJ IRYS VVV CT PEPE ADA SUI
-  NEAR QNT HBAR HYPE TON CRV
-  BTC XLM PONS DASH FARTCOIN
-  DOGE USELESS JUPITER LINK
-  RENDER BCH MANTLE
+👀 WATCH (19)
+  RARE MON IRYS FET INJ ALIGN
+  CT PEPE ZEC HYPE QNT CRV WLD
+  DOGE POL USELESS JUPITER SUI
+  NEAR
 
 15m/1h = price change
 vol = volume vs normal

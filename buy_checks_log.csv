@@ -1,0 +1,2 @@
+scan_utc,asset,price,ret_15m,vol_x,rsi15,up_share,rsi_ok,vol_ok,both_ok
+2026-11-23T08:30:22.311290+00:00,ELSA,0.10365,0.04559669121355814,12.144985192774755,62.8,0.064,True,False,False
