@@ -1,9 +1,6 @@
 name: screen
+# Turned off 2026-11-23 (not used). Runs only if started by hand from the Actions tab.
 on:
-  schedule:
-    - cron: '*/10 * * * *'
-  push:
-    paths: ['latest.txt']
   workflow_dispatch:
 concurrency: screen
 permissions:
