@@ -1,20 +1,19 @@
 CRYPTO SCAN
-Sun 8:00 PM CT
-26 flagged · 0 buy signals
+Sun 8:05 PM CT
+23 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (1)
-ELSA   15m  +3.1%  1h  +4.9%
-   vol 2.1x · $836K · on CB
+ELSA   15m  +3.9%  1h  +3.2%
+   vol 1.1x · $845K · on CB
 
-👀 WATCH (25)
-  PEARL USELESS DRV ORCA ALIGN
-  AERO CT JTO PUMP STRK PEPE
-  ASTER STX JUPITER TRUMP MON
-  QNT WLD XPL ARB PONS DOT
-  ALEO FET ALGO
+👀 WATCH (22)
+  DRV PYTH CT PONS JTO USELESS
+  PEPE ALIGN MON JUPITER TAO
+  TRUMP CRV QNT ARB AERO ICP
+  ASTER NEAR ALEO RENDER ALGO
 
 15m/1h = price change
 vol = volume vs normal
