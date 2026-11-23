@@ -1,21 +1,19 @@
 CRYPTO SCAN
-Sun 10:35 PM CT
+Sun 10:40 PM CT
 23 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (2)
-RARE   15m  +2.1%  1h  +3.5%
-   vol 2.9x · $660K · on CB
-ZEC    15m  -1.2%  1h  -2.4%
-   vol 0.2x · $49M · on CB
+⚪ THIN (low volume) (1)
+RARE   15m  +2.0%  1h  +3.4%
+   vol 4.4x · $664K · on CB
 
-👀 WATCH (21)
-  ALIGN ELSA FET JUPITER PEARL
-  RENDER MON BTC ETH SKR TIA
-  CVX ADA PENGU SOL STRK XLM
-  FARTCOIN SEI PAXG JTO
+👀 WATCH (22)
+  ALIGN ELSA CAP IRYS ZEC VVV
+  AERO FET USELESS ORCA GEOD
+  NEAR SPX ALGO PONS ADA PENGU
+  TIA FIL TON PAXG JTO
 
 15m/1h = price change
 vol = volume vs normal
