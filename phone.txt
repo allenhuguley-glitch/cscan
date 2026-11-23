@@ -1,15 +1,20 @@
 CRYPTO SCAN
-Sun 6:45 PM CT
-21 flagged · 0 buy signals
+Sun 6:50 PM CT
+26 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (21)
-  DRV GEOD LIGHTER QNT SPX
-  PYTH PEPE ALIGN MON RENDER
-  ADA SUI ALGO AAVE JTO XRP
-  AVAX STX SOL BNB XPL
+⚪ THIN (low volume) (1)
+GEOD   15m  -3.3%  1h  -3.4%
+   vol 2.0x · $440K · on CB
+
+👀 WATCH (25)
+  ALIGN ELSA LIGHTER IRYS CT
+  DRV ZEC QNT ZRO FET PEARL
+  SUI PEPE INJ AAVE PUMP
+  RENDER ADA ASTER ALGO DOGE
+  JTO PAXG DASH BNB
 
 15m/1h = price change
 vol = volume vs normal
