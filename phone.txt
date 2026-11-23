@@ -1,21 +1,22 @@
 CRYPTO SCAN
-Mon 5:35 AM CT
-24 flagged · 0 buy signals
+Mon 5:40 AM CT
+30 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (2)
+SKY    15m  +3.7%  1h  +5.6%
+   vol 3.5x · $702K · on CB
 ELSA   15m  -3.4%  1h  -5.8%
    vol 0.8x · $1.4M · on CB
-MON    15m  -2.1%  1h  -2.0%
-   vol 0.4x · $3.0M · on CB
 
-👀 WATCH (22)
-  PEARL CRV ALIGN KAIO CT SKY
-  ZRO JUPITER ALGO HYPE DRV
-  ONDO STRK MANTLE PONS SEI
-  LINK PEPE AERO TON XRP BONK
+👀 WATCH (28)
+  RARE QNT MANTLE MON ALGO NMR
+  ZEC FET PEARL DASH ALIGN ZRO
+  HYPE PEPE DRV SYRUP SEI LINK
+  JUPITER ENA WLD DOGE RENDER
+  AERO SUI FIL BCH BONK
 
 15m/1h = price change
 vol = volume vs normal
