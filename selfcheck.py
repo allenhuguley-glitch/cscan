@@ -71,7 +71,7 @@ except Exception as e:
 
 # ---- 6. programming: the scanner's own rules still behave as designed
 KNOWN = {"REAL UP", "REAL DOWN", "UP vs TREND", "DOWN vs TREND", "FADING", "CHATTER",
-         "THIN PUMP", "THIN DROP", "WATCH"}
+         "THIN PUMP", "THIN DROP", "UP NO VOL", "DOWN NO VOL", "WATCH"}
 try:
     import math
     rows = json.loads((HERE / "latest.json").read_text())["rows"]
@@ -106,7 +106,7 @@ try:   # classify() on made-up coins: known answers
                        "quote_vol_24h": liq, "price": 1.0, "pct_24h": 1.0}}
     cases = [("big coin +2% 3x volume", coin(.02, 3, 5e7), "REAL UP"),
              ("big coin -2% 3x volume", coin(-.02, 3, 5e7), "REAL DOWN"),
-             ("big coin +2% weak volume", coin(.02, 1, 5e7), "THIN PUMP"),
+             ("big coin +2% weak volume", coin(.02, 1, 5e7), "UP NO VOL"),
              ("small coin +1.5% 5x volume", coin(.015, 5, 1e6), None),
              ("small coin +3% 5x volume", coin(.03, 5, 1e6), "THIN PUMP"),
              ("quiet coin", coin(.001, 1, 5e7), None)]
