@@ -1,1 +1,1 @@
-NO SETUP | scan 02:05 UTC | top movers: ELSA +3.9%, DRV -0.9%, PYTH -0.9%
+NO SETUP | scan 10:40 UTC | shortlist: ALIGN -0.3% 15m, 0.0x vol; QNT +1.0% 15m, 1.1x vol | backdrop BTC -0.2% / ETH -0.2% 1h | RUNNER (info only): ELSA +30% 24h
