@@ -1,20 +1,17 @@
 CRYPTO SCAN
-Mon 3:30 PM CT
-27 flagged · 0 buy signals
+Mon 3:35 PM CT
+30 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
-CAP    15m  -2.1%  1h  -4.8%
-   vol 1.7x · $615K · on CB
-
-👀 WATCH (26)
-  MON ALIGN DRV PEARL SYRUP
-  ELSA SKY INJ CT PONS ATOM
-  QNT XRP STX ENA SEI FET
-  JUPITER ZRO HBAR SOL AVAX
-  STRK GRT AAVE XPL
+👀 WATCH (30)
+  MON CAP ENA FIL ARB TRUMP
+  TON XLM INJ ONDO XRP HYPE
+  SUI WLD RENDER FET PONS ATOM
+  QNT NEAR TAO FARTCOIN PEPE
+  ADA AVAX AAVE BCH HBAR CT
+  XPL
 
 15m/1h = price change
 vol = volume vs normal
