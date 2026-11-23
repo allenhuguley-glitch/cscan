@@ -1,16 +1,15 @@
 CRYPTO SCAN
-Mon 1:05 AM CT
-23 flagged · 0 buy signals
+Mon 1:10 AM CT
+18 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (23)
-  ELSA VVV ALIGN JUPITER FET
-  PONS PUMP INJ FARTCOIN TON
-  DRV QNT MON CRV PYTH SEI DOT
-  ADA TAO DASH LIGHTER ALGO
-  GEOD
+👀 WATCH (18)
+  ELSA LIGHTER VVV PONS DRV
+  MON JUPITER RARE CRV ONDO
+  ASTER MORPHO FARTCOIN PEARL
+  DOGE ADA AERO DOT
 
 15m/1h = price change
 vol = volume vs normal
