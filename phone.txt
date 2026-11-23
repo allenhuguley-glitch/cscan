@@ -1,15 +1,15 @@
 CRYPTO SCAN
-Sun 6:00 PM CT
-19 flagged · 0 buy signals
+Sun 6:05 PM CT
+20 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (19)
-  ALIGN PEARL AERO VVV LIGHTER
-  PONS USELESS PUMP AAVE ZEC
-  BCH STRK JTO ATOM WLD DOT
-  LTC SUI GEOD
+👀 WATCH (20)
+  ALIGN RARE VVV AERO CAP
+  USELESS PUMP PONS AAVE DRV
+  ATOM STRK ELSA SUI DOGE GEOD
+  WLD ONDO LIGHTER CRV
 
 15m/1h = price change
 vol = volume vs normal
