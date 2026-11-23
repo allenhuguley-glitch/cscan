@@ -1,20 +1,16 @@
 CRYPTO SCAN
-Mon 5:55 AM CT
-24 flagged · 0 buy signals
+Mon 6:00 AM CT
+23 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
-KAIO   15m  -2.2%  1h -13.8%
-   vol 0.1x · $379K · on CB
-
 👀 WATCH (23)
-  ALIGN CT DRV RARE ALGO ICP
-  LIGHTER ZRO ELSA MANTLE MON
-  SKY JUPITER QNT MORPHO SEI
-  FARTCOIN INJ HBAR XLM XRP
-  TIA UNI
+  KAIO ALIGN CT DRV QNT INJ
+  RARE ICP ALGO ELSA PONS
+  USELESS LIGHTER XPL SEI
+  FARTCOIN SUI FLR PAXG MANTLE
+  UNI XRP PEPE
 
 15m/1h = price change
 vol = volume vs normal
