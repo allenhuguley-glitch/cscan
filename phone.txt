@@ -1,24 +1,29 @@
 CRYPTO SCAN
-Mon 5:15 PM CT
-27 flagged · 0 buy signals
+Mon 5:20 PM CT
+33 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 🔴 REAL DROPS (1)
-PEARL  15m  -2.5%  1h  -7.3%
-   vol 3.4x · $5.0M · on CB
+PEARL  15m  -1.7%  1h  -6.6%
+   vol 4.4x · $5.1M · on CB
 
-🟡 AGAINST TREND / FADING (1)
-VVV    15m  +1.7%  1h  +0.9%
-   vol 4.9x · $12M · on CB
+⚪ THIN (low volume) (1)
+ALIGN  15m  +4.8%  1h  +5.8%
+   vol 1.4x · $1.0M · on CB
 
-👀 WATCH (25)
-  ALIGN ELSA LIGHTER CVX TIA
-  AERO FET USELESS ARB STRK
-  SUI MON PUMP ICP GRT TAO UNI
-  MANTLE ONDO SYRUP XRP BTC
-  SKY ATOM PEPE
+⚪ MOVED, NO VOLUME SPIKE (1)
+VVV    15m  +1.2%  1h  +0.9%
+   vol 1.6x · $12M · on CB
+
+👀 WATCH (30)
+  CAP ARB JUPITER AERO TIA STX
+  ALEO USELESS ICP LIGHTER
+  PENGU PUMP TAO STRK MANTLE
+  FARTCOIN CT ONDO SYRUP DOT
+  PEPE UNI INJ ELSA BTC XRP
+  ZRO SUI GRT FET
 
 15m/1h = price change
 vol = volume vs normal
