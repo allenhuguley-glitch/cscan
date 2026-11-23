@@ -21,7 +21,19 @@ jobs:
         with:
           python-version: "3.11"
       - run: pip install requests
+      - name: Restore alert memory
+        uses: actions/cache/restore@v4
+        with:
+          path: selfcheck_state.json
+          key: selfcheck-${{ github.run_id }}
+          restore-keys: selfcheck-
       - name: Self check
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
         run: python selfcheck.py
+      - name: Save alert memory
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: selfcheck_state.json
+          key: selfcheck-${{ github.run_id }}

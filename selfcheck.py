@@ -69,17 +69,25 @@ except FileNotFoundError:
 except Exception as e:
     problems.append(f"log check failed: {e}")
 
+STATE = HERE / "selfcheck_state.json"   # kept between runs by the Actions cache, never committed
+try:
+    last_alert = json.loads(STATE.read_text()).get("last_alert", 0)
+except Exception:
+    last_alert = 0
+
 if not problems:
     print("OK: scanner healthy")
+    STATE.write_text(json.dumps({"last_alert": 0}))      # healthy again: next failure alerts at once
 else:
     print("PROBLEMS:\n- " + "\n- ".join(problems))
     topic = os.environ.get("NTFY_TOPIC")
-    # throttle: alert on the first failing run in each 30-minute block
-    if topic and datetime.now(timezone.utc).minute % 30 < 5:
+    # alert on the first failing check, then repeat at most every 15 minutes while it stays broken
+    if topic and now - last_alert > 15 * 60:
         try:
             import requests
             requests.post(f"https://ntfy.sh/{topic}", data="\n".join(problems).encode(),
                           headers={"Title": "Scanner problem", "Priority": "high", "Tags": "warning"}, timeout=15)
+            STATE.write_text(json.dumps({"last_alert": now}))
         except Exception as e:
             print("ntfy failed:", e)
 sys.exit(0)
