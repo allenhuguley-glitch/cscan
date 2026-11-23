@@ -1,20 +1,19 @@
 CRYPTO SCAN
-Mon 12:25 AM CT
-24 flagged · 0 buy signals
+Mon 12:30 AM CT
+23 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (1)
-ELSA   15m  -2.3%  1h  +0.8%
-   vol 0.7x · $1.4M · on CB
+ALIGN  15m  +2.4%  1h  -1.7%
+   vol 0.1x · $1.1M · on CB
 
-👀 WATCH (23)
-  DRV ALIGN ORCA ALGO STX RARE
-  UNI ICP ARB QNT ATOM
-  FARTCOIN ONDO PUMP ENA
-  USELESS BTC TIA STRK SPX SEI
-  HYPE AVAX
+👀 WATCH (22)
+  DRV RARE ALGO UNI JUPITER
+  STX FET USELESS XRP CVX ARB
+  IRYS ATOM LINK ZEC PUMP
+  ASTER ELSA ETH SEI ONDO TIA
 
 15m/1h = price change
 vol = volume vs normal
