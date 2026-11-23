@@ -160,7 +160,12 @@ def trend_check(base):
             sym = next((f"{base}/{q}" for q in ("USD", "USDC", "USDT") if f"{base}/{q}" in ex.markets), None)
             if not sym:
                 continue
-            return (_sma_trend(ex, sym, "1h", 40, 20), None)  # 1d check dropped on purpose
+            t1h = _sma_trend(ex, sym, "1h", 40, 20)
+            try:   # daily trend is LOG-ONLY: recorded for testing, never changes a label or alert
+                t1d = _sma_trend(ex, sym, "1d", 15, 10)
+            except Exception:
+                t1d = None
+            return (t1h, t1d)
         except Exception as e:
             print(f"[warn] trend {base} on {ex_id}: {e}", file=sys.stderr)
     return (None, None)
@@ -174,8 +179,9 @@ def apply_trend(rows):
         t1h, t1d = trend_check(r["asset"])
         r["t1h"], r["t1d"] = t1h, t1d
         want = 1 if r["label"] == "REAL UP" else -1
-        if r["label"] == "REAL UP" and not r.get("rising", True):
-            r["label"] = "FADING"   # spike already reversing in the latest closed candle
+        if (r["label"] == "REAL UP" and not r.get("rising", True)) or \
+           (r["label"] == "REAL DOWN" and r.get("rising", False)):
+            r["label"] = "FADING"   # move already reversing in the latest closed candle (up or down)
             continue
         if t1h is not None and t1h != want:
             r["label"] = "UP vs TREND" if want == 1 else "DOWN vs TREND"
@@ -377,9 +383,10 @@ def push_alerts(rows, state):
         msg = (f"{r['asset']} +{r['ret_15m']*100:.2f}% in 15m, volume x{r['vol_x']:.1f}, "
                f"confirmed on {r['n_flagged']}/{r['n_listed']} exchanges, 1h trend {trend_str(r)[0]}, Coinbase {'yes' if r.get('cb') else 'no'}")
         try:
-            requests.post(f"https://ntfy.sh/{NTFY_TOPIC}", data=msg.encode(),
-                          headers={"Title": f"BUY CANDIDATE: {r['asset']}", "Priority": "high",
-                                   "Tags": "chart_with_upwards_trend"}, timeout=10)
+            resp = requests.post(f"https://ntfy.sh/{NTFY_TOPIC}", data=msg.encode(),
+                                 headers={"Title": f"BUY CANDIDATE: {r['asset']}", "Priority": "high",
+                                          "Tags": "chart_with_upwards_trend"}, timeout=10)
+            resp.raise_for_status()   # HTTP errors (429/500) now count as failures, so the alert retries next run
             sent[r["asset"]] = now
             print(f"  >> push sent for {r['asset']}")
         except Exception as e:
