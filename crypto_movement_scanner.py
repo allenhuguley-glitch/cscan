@@ -171,10 +171,18 @@ def trend_check(base):
     return (None, None)
 
 
+TREND_LOG_MAX = 15   # extra coins per run whose trend is logged for testing (keeps API calls down)
+
+
 def apply_trend(rows):
-    """Relabel REAL UP/DOWN moves that fight the 1h or 1d trend."""
+    """Relabel REAL UP/DOWN moves that fight the 1h or 1d trend.
+    Other non-WATCH coins get their trend LOGGED only (no label or alert change), capped per run."""
+    extra = 0
     for r in rows:
         if r["label"] not in ("REAL UP", "REAL DOWN"):
+            if r["label"] != "WATCH" and extra < TREND_LOG_MAX:
+                extra += 1
+                r["t1h"], r["t1d"] = trend_check(r["asset"])
             continue
         t1h, t1d = trend_check(r["asset"])
         r["t1h"], r["t1d"] = t1h, t1d
@@ -433,6 +441,7 @@ def run_once(a):
                      "cb": next((m["sym"] for e, m in data.items() if e == "coinbase"), None)})
 
     if not a.no_mtf:
+        rows.sort(key=lambda r: -abs(r["ret_15m"]))   # so the trend-log cap keeps the biggest movers
         apply_trend(rows)
 
     order = {"REAL UP": 0, "REAL DOWN": 1, "UP vs TREND": 2, "DOWN vs TREND": 3, "FADING": 3,
@@ -499,6 +508,42 @@ def run_once(a):
             w.writerow([started.isoformat(), r["asset"], r["label"], r["price"], r["ret_15m"],
                         r["ret_1h"], r["vol_z"], r["n_flagged"], r["n_listed"], r["liq"],
                         r["reddit"], r["discord"], r["x"], r["cg"], r["t1h"], r["t1d"], r.get("vol_x")])
+
+    if started.minute < 5:                       # once an hour is plenty
+        try:
+            roll_log(started)
+        except Exception as ex:
+            print("log roll failed:", ex)
+
+
+ARCHIVE_DIR = HERE / "logs"
+KEEP_HOURS = 48
+
+
+def roll_log(now):
+    """Keep scanner_log_v4.csv to the last 48 hours; older rows move to logs/scanner_log_YYYY-MM-DD.csv."""
+    if not LOG_FILE.exists():
+        return
+    lines = LOG_FILE.read_text().splitlines()
+    if len(lines) < 2:
+        return
+    cutoff = (now - timedelta(hours=KEEP_HOURS)).strftime("%Y-%m-%dT%H:%M:%S")
+    if lines[1][:19] >= cutoff:
+        return                                   # nothing old enough yet
+    header, keep, old = lines[0], [], {}
+    for ln in lines[1:]:
+        if ln[:19] < cutoff:
+            old.setdefault(ln[:10], []).append(ln)
+        else:
+            keep.append(ln)
+    ARCHIVE_DIR.mkdir(exist_ok=True)
+    for day, rows in old.items():
+        f = ARCHIVE_DIR / f"scanner_log_{day}.csv"
+        new = not f.exists()
+        with f.open("a") as fh:
+            fh.write(("" if not new else header + "\n") + "\n".join(rows) + "\n")
+    LOG_FILE.write_text("\n".join([header] + keep) + "\n")
+    print(f"  >> archived {sum(len(v) for v in old.values())} log rows older than {KEEP_HOURS}h to logs/")
 
 
 def main():
