@@ -1,23 +1,25 @@
 CRYPTO SCAN
-Mon 5:30 PM CT
-31 flagged · 0 buy signals
+Mon 5:35 PM CT
+34 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ MOVED, NO VOLUME SPIKE (2)
-PEARL  15m  +1.5%  1h  -2.5%
-   vol 1.1x · $5.2M · on CB
-INJ    15m  +1.2%  1h  +0.4%
-   vol 0.8x · $7.0M · on CB
+⚪ THIN (low volume) (1)
+ALIGN  15m  -3.5%  1h  +2.8%
+   vol 0.4x · $1.0M · on CB
 
-👀 WATCH (29)
-  ELSA ALEO PONS SYRUP ZRO DRV
-  ZEC PUMP JUPITER ENA WLD APT
-  FARTCOIN PENGU QNT MON
-  MANTLE ASTER ARB CAP ONDO
-  ALGO TIA FET BTC XRP AERO
-  LIGHTER BONK
+⚪ MOVED, NO VOLUME SPIKE (1)
+PEARL  15m  +2.8%  1h  -2.4%
+   vol 0.3x · $5.2M · on CB
+
+👀 WATCH (32)
+  ALEO ZRO PONS SYRUP BONK DRV
+  QNT ELSA ARB STX LIGHTER
+  JUPITER SKY PUMP WLD SEI
+  FARTCOIN INJ STRK PENGU FIL
+  MON CRV TIA XPL CVX VVV ICP
+  ALGO ADA BTC LINK
 
 15m/1h = price change
 vol = volume vs normal
