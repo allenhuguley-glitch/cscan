@@ -1,61 +1,57 @@
 CRYPTO SCAN
-Mon 8:05 AM CT
-68 flagged · 2 buy signals
+Mon 8:10 AM CT
+71 flagged · 1 buy signal
 
-🟢 BUY SIGNALS (2)
-INJ    15m  +5.6%  1h  +5.0%
-   vol 32.8x · $5.1M · on CB
-HYPE   15m  +5.0%  1h  +5.0%
-   vol 8.6x · $26M · on CB
+🟢 BUY SIGNALS (1)
+INJ    15m  +5.8%  1h  +4.8%
+   vol 9.0x · $5.4M · on CB
 
-🟡 AGAINST TREND / FADING (13)
-ZEC    15m  +6.4%  1h  +7.2%
-   vol 12.9x · $62M · on CB
-SUI    15m  +5.3%  1h  +5.4%
-   vol 5.5x · $6.1M · on CB
-UNI    15m  +4.9%  1h  +4.5%
-   vol 4.1x · $5.0M · on CB
-NEAR   15m  +4.9%  1h  +4.7%
-   vol 4.0x · $13M · on CB
-SOL    15m  +4.8%  1h  +5.1%
-   vol 5.3x · $78M · on CB
-ETH    15m  +4.5%  1h  +4.4%
-   vol 11.1x · $203M · on CB
-LINK   15m  +4.4%  1h  +4.5%
-   vol 2.3x · $6.2M · on CB
-XRP    15m  +4.1%  1h  +4.1%
-   vol 6.2x · $65M · on CB
-ADA    15m  +4.0%  1h  +3.8%
-   vol 3.7x · $8.6M · on CB
-XLM    15m  +3.7%  1h  +3.4%
-   vol 3.5x · $5.3M · on CB
-  +3 more
+🟡 AGAINST TREND / FADING (9)
+ZEC    15m  +5.1%  1h  +5.3%
+   vol 6.0x · $64M · on CB
+SUI    15m  +4.7%  1h  +4.9%
+   vol 3.9x · $6.3M · on CB
+NEAR   15m  +4.6%  1h  +4.4%
+   vol 3.4x · $14M · on CB
+HYPE   15m  +4.2%  1h  +4.1%
+   vol 4.2x · $27M · on CB
+XRP    15m  +4.1%  1h  +3.9%
+   vol 2.8x · $68M · on CB
+SOL    15m  +4.0%  1h  +4.3%
+   vol 4.4x · $81M · on CB
+ETH    15m  +3.8%  1h  +3.8%
+   vol 3.5x · $212M · on CB
+ADA    15m  +3.6%  1h  +3.7%
+   vol 3.1x · $8.9M · on CB
+LINK   15m  +3.4%  1h  +3.6%
+   vol 13.8x · $7.0M · on CB
 
-⚪ THIN (low volume) (51)
-USELESS 15m  +8.6%  1h  +8.0%
-   vol 9.1x · $1.4M · on CB
-SKY    15m  +7.4%  1h  +3.5%
-   vol 0.4x · $1.1M · on CB
-PENGU  15m  +7.0%  1h  +7.0%
-   vol 5.9x · $697K · on CB
-ENA    15m  +6.8%  1h  +6.1%
-   vol 8.1x · $1.9M · on CB
-PEARL  15m  +6.3%  1h  +7.7%
-   vol 5.1x · $3.1M · on CB
-LIGHTER 15m  +6.2%  1h  +6.2%
-   vol 0.5x · $2.7M · on CB
-FET    15m  +5.6%  1h  +4.6%
-   vol 8.3x · $1.2M · on CB
-PONS   15m  +5.3%  1h  +5.9%
-   vol 12.9x · $427K · on CB
-PEPE   15m  +5.3%  1h  +4.7%
-   vol 4.2x · $2.1M · on CB
-MORPHO 15m  +5.3%  1h  +3.1%
-   vol 1.6x · $733K · on CB
-  +41 more
+⚪ THIN (low volume) (55)
+SKY    15m  +8.7%  1h  +4.0%
+   vol 2.2x · $1.2M · on CB
+USELESS 15m  +7.1%  1h  +7.4%
+   vol 3.1x · $1.4M · on CB
+ELSA   15m  +6.3%  1h  +7.0%
+   vol 6.3x · $1.6M · on CB
+FET    15m  +6.0%  1h  +5.5%
+   vol 6.0x · $1.2M · on CB
+PENGU  15m  +5.6%  1h  +6.1%
+   vol 1.3x · $711K · on CB
+LIGHTER 15m  +5.4%  1h  +5.9%
+   vol 0.4x · $2.4M · on CB
+ENA    15m  +5.4%  1h  +4.8%
+   vol 4.0x · $2.0M · on CB
+WLD    15m  +5.3%  1h  +4.8%
+   vol 3.7x · $773K · on CB
+BONK   15m  +5.1%  1h  +4.6%
+   vol 3.4x · $550K · on CB
+PYTH   15m  +4.7%  1h  +3.7%
+   vol 3.2x · $411K · on CB
+  +45 more
 
-👀 WATCH (2)
-  MANTLE PAXG
+👀 WATCH (6)
+  ALGO PAXG TON MANTLE KAIO
+  VVV
 
 15m/1h = price change
 vol = volume vs normal
