@@ -1,14 +1,15 @@
 CRYPTO SCAN
-Mon 12:55 AM CT
-15 flagged · 0 buy signals
+Mon 1:00 AM CT
+18 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (15)
-  DRV LIGHTER WLD ICP AAVE VVV
-  CRV PYTH FARTCOIN RENDER
-  SHIB XRP ENA INJ ARB
+👀 WATCH (18)
+  ALIGN MON PEPE ICP ALGO
+  FARTCOIN TON CRV PYTH
+  LIGHTER JTO DOT TAO CT PUMP
+  INJ PAXG GEOD
 
 15m/1h = price change
 vol = volume vs normal
