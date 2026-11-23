@@ -1,46 +1,46 @@
 CRYPTO SCAN
-Mon 8:45 AM CT
-59 flagged · 0 buy signals
+Mon 8:50 AM CT
+57 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 🟡 AGAINST TREND / FADING (1)
-NEAR   15m  -1.8%  1h  +6.8%
-   vol 10.6x · $19M · on CB
+NEAR   15m  -1.3%  1h  +6.6%
+   vol 2.9x · $20M · on CB
 
-⚪ THIN (low volume) (18)
-ALIGN  15m  +4.2%  1h  +2.9%
-   vol 0.1x · $1.1M · on CB
-PEARL  15m  -4.7%  1h  -0.1%
-   vol 1.6x · $3.6M · on CB
-ELSA   15m  -4.1%  1h  +1.4%
-   vol 1.1x · $1.6M · on CB
-SKY    15m  -3.4%  1h +11.8%
-   vol 1.1x · $1.4M · on CB
-ZEC    15m  -3.0%  1h  +9.7%
-   vol 1.0x · $87M · on CB
-MON    15m  -2.9%  1h  +7.9%
-   vol 0.4x · $3.9M · on CB
-AERO   15m  -2.2%  1h  +5.3%
-   vol 3.3x · $5.0M · on CB
-ETH    15m  -2.0%  1h  +4.3%
-   vol 1.6x · $273M · on CB
-XRP    15m  -2.0%  1h  +6.0%
-   vol 0.8x · $93M · on CB
-SOL    15m  -1.6%  1h  +5.9%
-   vol 1.7x · $104M · on CB
-  +8 more
+⚪ THIN (low volume) (10)
+ALIGN  15m  +3.2%  1h  +3.5%
+   vol 0.4x · $1.1M · on CB
+ELSA   15m  -3.0%  1h  +0.3%
+   vol 1.4x · $1.6M · on CB
+QNT    15m  -1.5%  1h  +7.9%
+   vol 1.9x · $6.6M · on CB
+AERO   15m  -1.5%  1h  +5.2%
+   vol 1.4x · $5.0M · on CB
+ETH    15m  -1.5%  1h  +3.7%
+   vol 2.0x · $282M · on CB
+XRP    15m  -1.5%  1h  +5.5%
+   vol 0.8x · $94M · on CB
+SUI    15m  -1.3%  1h  +7.0%
+   vol 1.0x · $7.6M · on CB
+HYPE   15m  -1.1%  1h  +6.3%
+   vol 1.1x · $36M · on CB
+ZEC    15m  -1.1%  1h  +9.2%
+   vol 0.8x · $87M · on CB
+VVV    15m  -1.0%  1h  +1.7%
+   vol 0.5x · $13M · on CB
 
-👀 WATCH (40)
-  TAO PONS AVAX BNB RENDER
-  HBAR PENGU AAVE WLD ARB ENA
-  SYRUP JTO STRK ONDO PUMP BCH
-  PEPE ASTER SHIB DASH DOT
-  HYPE XPL LTC BONK RARE SEI
-  ICP JUPITER ZRO DRV VVV
-  FARTCOIN USELESS ATOM FLR
-  FET CT TIA
+👀 WATCH (46)
+  SKY PEARL BONK AVAX ENA
+  TRUMP AAVE USELESS DASH WLD
+  DRV GRT XPL PEPE RENDER DOT
+  SHIB CT SEI RARE ONDO BNB
+  LINK MORPHO SYRUP SOL DOGE
+  TIA FARTCOIN CRV HBAR
+  JUPITER ARB STRK TAO ADA XLM
+  BTC ATOM PONS INJ ZRO ASTER
+  LTC JTO LIGHTER
 
 15m/1h = price change
 vol = volume vs normal
