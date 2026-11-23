@@ -1,15 +1,16 @@
 CRYPTO SCAN
-Mon 1:00 AM CT
-18 flagged · 0 buy signals
+Mon 1:05 AM CT
+23 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (18)
-  ALIGN MON PEPE ICP ALGO
-  FARTCOIN TON CRV PYTH
-  LIGHTER JTO DOT TAO CT PUMP
-  INJ PAXG GEOD
+👀 WATCH (23)
+  ELSA VVV ALIGN JUPITER FET
+  PONS PUMP INJ FARTCOIN TON
+  DRV QNT MON CRV PYTH SEI DOT
+  ADA TAO DASH LIGHTER ALGO
+  GEOD
 
 15m/1h = price change
 vol = volume vs normal
