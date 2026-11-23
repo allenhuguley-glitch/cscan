@@ -1,0 +1,22 @@
+name: screen
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  push:
+    paths: ['latest.txt']
+  workflow_dispatch:
+concurrency: screen
+permissions:
+  contents: write
+jobs:
+  screen:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 screen.py
+      - name: Commit verdict
+        run: |
+          git config user.name "screen-bot"
+          git config user.email "screen-bot@users.noreply.github.com"
+          git add verdict.txt
+          git diff --cached --quiet || (git commit -m "verdict" && git pull --rebase -q && git push)
