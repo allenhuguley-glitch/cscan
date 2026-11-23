@@ -1,17 +1,19 @@
 CRYPTO SCAN
-Mon 4:40 PM CT
-33 flagged · 0 buy signals
+Mon 4:45 PM CT
+23 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (33)
-  CAP ZRO SYRUP ELSA BONK
-  JUPITER CRV SEI SUI PUMP
-  ALGO USELESS AAVE SKY DOGE
-  TON ALIGN HBAR TAO XRP ETH
-  MORPHO TIA SOL PENGU WLD XLM
-  ONDO XPL ADA FET MON PONS
+⚪ THIN (low volume) (1)
+ALIGN  15m  +6.4%  1h  +7.8%
+   vol 3.2x · $1.0M · on CB
+
+👀 WATCH (22)
+  ZRO TRUMP BONK PEARL SYRUP
+  DOGE TON HBAR XPL MORPHO
+  PUMP SHIB SKY PENGU ONDO WLD
+  FET NEAR MON PONS HYPE QNT
 
 15m/1h = price change
 vol = volume vs normal
