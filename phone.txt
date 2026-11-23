@@ -1,6 +1,6 @@
 CRYPTO SCAN
-Mon 10:32 AM CT
-22 flagged · 0 buy signals
+Mon 10:33 AM CT
+23 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
@@ -9,11 +9,12 @@ Mon 10:32 AM CT
 ELSA   15m  +2.5%  1h  +2.2%
    vol 0.1x · $1.6M · on CB
 
-👀 WATCH (21)
+👀 WATCH (22)
   USELESS FIL FARTCOIN ALGO
   ICP ALIGN ATOM ETC MORPHO
   SYRUP PEARL LTC GRT APT FET
   BCH ZEC SKY ALEO SHIB PAXG
+  ASTER
 
 15m/1h = price change
 vol = volume vs normal
