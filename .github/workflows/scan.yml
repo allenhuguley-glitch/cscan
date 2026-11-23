@@ -48,7 +48,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add latest.txt latest.json $(ls -d history phone.txt phone.html scanner_log_v4.csv buy_checks_log.csv early_checks_log.csv listings_log.csv known_markets.json 2>/dev/null)
+          git add latest.txt latest.json $(ls -d history phone.txt phone.html scanner_log_v4.csv buy_checks_log.csv early_checks_log.csv buy_checks_errors.csv listings_log.csv known_markets.json 2>/dev/null)
           git diff --cached --quiet || git commit -m "Update scan results"
           git pull --rebase --autostash -X theirs origin main
           git push
