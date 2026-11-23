@@ -1,19 +1,22 @@
 CRYPTO SCAN
-Sun 10:40 PM CT
-23 flagged · 0 buy signals
+Sun 10:45 PM CT
+24 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
+⚪ THIN (low volume) (2)
+ALIGN  15m  +4.3%  1h  -0.9%
+   vol 3.9x · $998K · on CB
 RARE   15m  +2.0%  1h  +3.4%
-   vol 4.4x · $664K · on CB
+   vol 4.4x · $665K · on CB
 
 👀 WATCH (22)
-  ALIGN ELSA CAP IRYS ZEC VVV
-  AERO FET USELESS ORCA GEOD
-  NEAR SPX ALGO PONS ADA PENGU
-  TIA FIL TON PAXG JTO
+  ELSA FET DRV ORCA VVV ALGO
+  INJ USELESS GEOD NEAR ICP CT
+  STRK IRYS ZEC FARTCOIN
+  MORPHO DOT PENGU HYPE TIA
+  XLM
 
 15m/1h = price change
 vol = volume vs normal
