@@ -1,20 +1,20 @@
 CRYPTO SCAN
-Sun 8:20 PM CT
-16 flagged · 0 buy signals
+Sun 8:25 PM CT
+18 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (2)
-ELSA   15m  +7.0%  1h +10.2%
-   vol 7.7x · $956K · on CB
-ALIGN  15m  -2.8%  1h  -1.1%
-   vol 0.5x · $898K · on CB
+ELSA   15m  +3.6%  1h  +6.6%
+   vol 1.3x · $910K · on CB
+ALIGN  15m  -2.2%  1h  +0.0%
+   vol 1.2x · $906K · on CB
 
-👀 WATCH (14)
-  DRV RARE MON PEARL VVV CAP
-  PONS FET SHIB ATOM BNB TAO
-  FIL ETH
+👀 WATCH (16)
+  PEARL PONS DRV IRYS CAP RARE
+  MON VVV USELESS SPX ATOM FET
+  JUPITER AVAX INJ BNB
 
 15m/1h = price change
 vol = volume vs normal
