@@ -337,9 +337,9 @@ def classify(per_ex, a):
     spike = any(m["vol_x"] >= volx for m in flagged.values())
     # a coin listed on only one exchange (e.g. Coinbase-only) can now qualify on its own
     confirmed = bool(movers) and (max(ups, downs) >= 2 or len(per_ex) == 1) and spike
-    if confirmed and liq >= a.min_liq:
+    if confirmed:
         label = "REAL DOWN" if down else "REAL UP"
-    elif movers and (len(flagged) == 1 or liq < a.min_liq):
+    elif movers and liq < a.min_liq:
         label = "THIN DROP" if down else "THIN PUMP"
     else:
         label = "WATCH"
