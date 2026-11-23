@@ -1,25 +1,25 @@
 CRYPTO SCAN
-Mon 10:05 AM CT
-25 flagged · 0 buy signals
+Mon 10:10 AM CT
+23 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (4)
-PEARL  15m  +2.9%  1h  +0.1%
-   vol 1.2x · $3.6M · on CB
-ZEC    15m  -2.2%  1h  -2.6%
-   vol 1.1x · $97M · on CB
-VVV    15m  -1.7%  1h  -3.8%
-   vol 0.6x · $13M · on CB
-HYPE   15m  -1.4%  1h  -2.3%
-   vol 0.6x · $40M · on CB
+PEARL  15m  +2.8%  1h  +1.1%
+   vol 0.2x · $3.6M · on CB
+QNT    15m  +1.5%  1h  -1.2%
+   vol 0.6x · $7.0M · on CB
+INJ    15m  +1.1%  1h  -0.6%
+   vol 0.2x · $6.4M · on CB
+ZEC    15m  -1.0%  1h  -2.2%
+   vol 0.4x · $98M · on CB
 
-👀 WATCH (21)
-  ELSA USELESS MON PONS CRV
-  PUMP BONK NEAR ENA SYRUP ZRO
-  MORPHO SKY SEI AERO MET PEPE
-  GRT RENDER ONDO DOGE
+👀 WATCH (19)
+  USELESS FET ENA GRT PUMP
+  HYPE SKY ADA MET MORPHO ATOM
+  MANTLE PEPE SHIB XPL
+  FARTCOIN XLM ONDO PAXG
 
 15m/1h = price change
 vol = volume vs normal
