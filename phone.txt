@@ -1,17 +1,39 @@
 CRYPTO SCAN
-Mon 9:25 PM CT
-25 flagged · 0 buy signals
+Mon 9:30 PM CT
+51 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (25)
-  ALIGN ELSA CT MANTLE PEARL
-  NEAR XPL TRUMP JUPITER
-  USELESS ZEC MON ONDO AAVE
-  SKY SHIB UNI RENDER INJ
-  SYRUP MORPHO ALGO TAO ARB
-  CRV
+⚪ MOVED, NO VOLUME SPIKE (9)
+MON    15m  +2.5%  1h  +2.5%
+   vol 1.5x · $5.0M · on CB
+PEARL  15m  +1.5%  1h  -5.5%
+   vol 0.5x · $5.2M · on CB
+AAVE   15m  +1.1%  1h  -1.2%
+   vol 0.7x · $5.3M · on CB
+AERO   15m  +1.1%  1h  -0.6%
+   vol 0.2x · $5.6M · on CB
+UNI    15m  +1.1%  1h  -0.5%
+   vol 0.5x · $8.7M · on CB
+NEAR   15m  +1.1%  1h  -1.2%
+   vol 0.5x · $29M · on CB
+INJ    15m  +1.1%  1h  -0.8%
+   vol 0.5x · $7.1M · on CB
+ADA    15m  +1.0%  1h  -1.1%
+   vol 0.8x · $13M · on CB
+ZEC    15m  +1.0%  1h  -0.7%
+   vol 1.5x · $128M · on CB
+
+👀 WATCH (42)
+  ALIGN FARTCOIN CT SKY FET
+  ELSA WLD APT FIL PENGU BCH
+  PUMP BTC HYPE ATOM TAO ETH
+  ONDO AVAX XLM DOGE TON BNB
+  SUI LTC HBAR SOL XRP STRK
+  GRT LINK ENA SEI ALGO CAP
+  PEPE JUPITER STX RENDER
+  SYRUP CRV ARB
 
 15m/1h = price change
 vol = volume vs normal
