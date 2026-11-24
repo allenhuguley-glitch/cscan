@@ -1,14 +1,16 @@
 CRYPTO SCAN
-Mon 5:55 PM CT
-13 flagged · 0 buy signals
+Mon 6:00 PM CT
+28 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (13)
-  ALEO BONK PEARL QNT JUPITER
-  CT CAP ALIGN CRV NEAR SEI
-  MANTLE BNB
+👀 WATCH (28)
+  MON ALIGN SYRUP ENA ATOM FIL
+  PEARL AERO NEAR CT ZRO TRUMP
+  ICP SEI STX AVAX SUI ARB UNI
+  FARTCOIN ZEC DOT ADA XPL
+  LINK ONDO BNB PUMP
 
 15m/1h = price change
 vol = volume vs normal
