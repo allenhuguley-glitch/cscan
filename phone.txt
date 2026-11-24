@@ -1,21 +1,18 @@
 CRYPTO SCAN
-Tue 4:10 PM CT
-28 flagged · 0 buy signals
+Tue 4:15 PM CT
+15 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ MOVED, NO VOLUME SPIKE (1)
-MON    15m  +1.7%  1h  +2.7%
-   vol 1.0x · $12M · on CB
+⚪ THIN (low volume) (1)
+POND   15m  -7.9%  1h  -8.8%
+   vol 1.4x · $451K · on CB
 
-👀 WATCH (27)
-  PEARL GRT VVV SYRUP SKY
-  USELESS LIGHTER MAMO PONS
-  TIA ARB FARTCOIN POND QNT
-  PUMP PROS FIL AAVE SUI SOL
-  TRUMP INJ HYPE AERO DOGE ADA
-  WLFI
+👀 WATCH (14)
+  VVV MAMO USELESS ENA AAVE
+  MON QNT PROS TIA LTC ALGO
+  XPL HYPE ADA
 
 15m/1h = price change
 vol = volume vs normal
