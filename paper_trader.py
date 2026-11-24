@@ -144,22 +144,22 @@ def rsi(c, i, n=14):
         d = c[k] - c[k-1]; g += max(d, 0); l += max(-d, 0)
     return 100.0 if l == 0 else 100 - 100/(1 + g/l)
 
-def swing_trades(d):
+def swing_trades(d, gate=None):
     """d = daily bars oldest first. Two fixed rules, decided at a day's close, filled at the next open.
     breakout: close above the prior 20-day high; exit when close falls below the prior 10-day low.
     pullback: close above the 100-day average (uptrend) and RSI14 < 35; exit at RSI > 55, -8% stop, or 20 days."""
-    out = {"breakout": [], "pullback": []}
+    out = {"breakout": [], "breakout_btc": [], "pullback": []}
     c = [x["c"] for x in d]
     for name in out:
         i, n = 101, len(d)
         while i < n - 2:
-            if name == "breakout": go = c[i] > max(x["hi"] for x in d[i-20:i])
+            if name.startswith("breakout"): go = c[i] > max(x["hi"] for x in d[i-20:i]) and (name == "breakout" or (gate or {}).get(d[i]["t"], False))
             else: go = c[i] > sum(c[i-100:i]) / 100 and rsi(c, i) < 35
             if not go: i += 1; continue
             entry = d[i+1]["o"] * (1+SPREAD); j = i+1; px = None
             while j < n - 1:
                 if name == "pullback" and d[j]["lo"] <= entry*0.92: px = entry*0.92; break
-                if name == "breakout" and c[j] < min(x["lo"] for x in d[j-10:j]): px = d[j+1]["o"]; j += 1; break
+                if name.startswith("breakout") and c[j] < min(x["lo"] for x in d[j-10:j]): px = d[j+1]["o"]; j += 1; break
                 if name == "pullback" and (rsi(c, j) > 55 or j - (i+1) >= 20): px = d[j+1]["o"]; j += 1; break
                 j += 1
             if px is None: break                    # still open at end of data
@@ -176,14 +176,18 @@ def swing():
             d = [x for x in fill_gran(raw, 86400) if x["t"] < end]
             if len(d) > 300: data[coin] = d
         except Exception as e: print(coin, "skip", e)
+    gate = {}                                       # True on days BTC closes above its 200-day average
+    if "BTC" in data:
+        bc = [x["c"] for x in data["BTC"]]
+        for k in range(200, len(bc)): gate[data["BTC"][k]["t"]] = bc[k] > sum(bc[k-200:k]) / 200
     rows = []
     for fee_name, fee in (("market 1.8%", 0.018), ("limit 1.0%", 0.010)):
-        for strat in ("breakout", "pullback"):
+        for strat in ("breakout", "breakout_btc"):
             for per in ("all", "first 60%", "last 40%"):
                 nt = w = 0; tot = 0.0
                 for coin, d in data.items():
                     cut = int(len(d)*0.6)
-                    for idx, g in swing_trades(d)[strat]:
+                    for idx, g in swing_trades(d, gate)[strat]:
                         if per == "first 60%" and idx >= cut: continue
                         if per == "last 40%" and idx < cut: continue
                         net = NOTIONAL*(g - fee); nt += 1; w += net > 0; tot += net
