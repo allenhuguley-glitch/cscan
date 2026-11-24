@@ -1,19 +1,19 @@
 CRYPTO SCAN
-Tue 1:55 PM CT
-21 flagged · 0 buy signals
+Tue 2:00 PM CT
+23 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
-ELSA   15m  -3.6%  1h  -5.0%
-   vol 2.4x · $776K · on CB
+🔴 REAL DROPS (1)
+VVV    15m  -1.9%  1h  -3.2%
+   vol 5.8x · $11M · on CB
 
-👀 WATCH (20)
-  PONS USELESS MON STX VVV CT
-  ALIGN PEPE SYRUP CAP ARB
-  ALEO HBAR PENGU MAMO TAO
-  ONDO LIGHTER PUMP DOT
+👀 WATCH (22)
+  ELSA PONS AKT STX ALIGN HBAR
+  DASH CRV ZEC ARB MON MAMO
+  ONDO APT PEPE HYPE BTC
+  LIGHTER AAVE CAP RENDER DOT
 
 15m/1h = price change
 vol = volume vs normal
