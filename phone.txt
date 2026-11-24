@@ -1,24 +1,23 @@
 CRYPTO SCAN
-Mon 10:20 PM CT
-44 flagged · 1 buy signal
+Mon 10:25 PM CT
+35 flagged · 0 buy signals
 
-🟢 BUY SIGNALS (1)
-MON    15m  +2.2%  1h  +4.0%
-   vol 2.1x · $5.3M · on CB
+🟢 BUY SIGNALS
+  none right now
 
-⚪ MOVED, NO VOLUME SPIKE (1)
-VVV    15m  +1.4%  1h  +2.9%
-   vol 1.7x · $11M · on CB
+⚪ MOVED, NO VOLUME SPIKE (2)
+MON    15m  +4.7%  1h  +6.8%
+   vol 1.4x · $5.4M · on CB
+PEARL  15m  +1.7%  1h  +1.3%
+   vol 1.2x · $5.3M · on CB
 
-👀 WATCH (42)
-  ALIGN PEPE APT CT ELSA ARB
-  DOT MORPHO STX FIL FARTCOIN
-  HBAR TRUMP CRV ENA FET SYRUP
-  PEARL CAP GRT UNI PENGU ATOM
-  NEAR SEI DASH DOGE JUPITER
-  WLD AAVE PUMP ICP INJ TIA
-  LTC SHIB LIGHTER HYPE ASTER
-  SOL XLM PAXG
+👀 WATCH (33)
+  MORPHO CT WLD PUMP ICP TIA
+  VVV DOT ALIGN ZRO STX PENGU
+  BONK ARB ADA CRV SEI APT FET
+  FIL UNI NEAR DASH JUPITER
+  FARTCOIN INJ ATOM ELSA HYPE
+  SHIB LIGHTER ASTER XRP
 
 15m/1h = price change
 vol = volume vs normal
