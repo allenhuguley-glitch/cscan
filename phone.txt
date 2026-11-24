@@ -1,19 +1,16 @@
 CRYPTO SCAN
-Tue 4:00 PM CT
-19 flagged · 0 buy signals
+Tue 4:05 PM CT
+24 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
-PEARL  15m  +2.1%  1h  +1.5%
-   vol 2.2x · $2.3M · on CB
-
-👀 WATCH (18)
-  LIGHTER SKY POND XPL ALEO
-  HYPE CT VVV ELSA INJ ZRO JTO
-  DOGE PUMP ICP AERO SYRUP
-  PROS
+👀 WATCH (24)
+  POND PEARL LIGHTER VVV SYRUP
+  QNT HYPE CT MAMO SKY PEPE
+  INJ JTO PENGU FIL ZRO SOL
+  TAO ATOM ADA DOGE PROS AERO
+  CAP
 
 15m/1h = price change
 vol = volume vs normal
