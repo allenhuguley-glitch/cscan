@@ -1,15 +1,23 @@
 CRYPTO SCAN
-Mon 6:50 PM CT
+Mon 6:55 PM CT
 22 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (22)
-  JUPITER ALIGN ENA CT CAP DRV
-  ZEC TIA TON MANTLE BONK
-  ASTER WLD MON PONS XRP BCH
-  CRV TAO MORPHO BNB SUI
+⚪ THIN (low volume) (1)
+ELSA   15m  -3.7%  1h  -3.8%
+   vol 1.7x · $1.4M · on CB
+
+⚪ MOVED, NO VOLUME SPIKE (1)
+PEARL  15m  +1.6%  1h  -0.3%
+   vol 0.1x · $5.1M · on CB
+
+👀 WATCH (20)
+  CAP TRUMP PONS ALIGN DRV
+  JUPITER ENA APT WLD NEAR FET
+  TON BONK ASTER XLM MON FLR
+  MORPHO ARB BCH
 
 15m/1h = price change
 vol = volume vs normal
