@@ -1,26 +1,19 @@
 CRYPTO SCAN
-Tue 12:25 PM CT
-18 flagged · 0 buy signals
+Tue 12:30 PM CT
+24 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-🔴 REAL DROPS (1)
-MON    15m  -2.8%  1h  -3.0%
-   vol 4.9x · $9.7M · on CB
+⚪ MOVED, NO VOLUME SPIKE (1)
+MON    15m  -1.9%  1h  -2.8%
+   vol 1.0x · $9.9M · on CB
 
-🟡 AGAINST TREND / FADING (1)
-VVV    15m  -1.0%  1h  -1.2%
-   vol 2.4x · $11M · on CB
-
-⚪ THIN (low volume) (1)
-INX    15m  -3.0%  1h  -2.7%
-   vol 1.5x · $392K · on CB
-
-👀 WATCH (15)
-  MAMO ZRO PEARL CT QNT INJ
-  USELESS PENGU PONS FLR WLD
-  DOT APT ENA AERO
+👀 WATCH (23)
+  MAMO QNT ELSA PEPE SYRUP CVX
+  ZRO TIA INJ FIL STRK AAVE
+  VET DOT DRV LINK ONDO APT
+  XRP BNB WLD PENGU XPL
 
 15m/1h = price change
 vol = volume vs normal
