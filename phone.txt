@@ -1,25 +1,21 @@
 CRYPTO SCAN
-Tue 4:50 PM CT
-22 flagged · 0 buy signals
+Tue 4:55 PM CT
+21 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (2)
-PEARL  15m  +7.9%  1h +10.8%
-   vol 5.8x · $2.6M · on CB
-POND   15m  -2.8%  1h -16.0%
-   vol 0.2x · $435K · on CB
-
-⚪ MOVED, NO VOLUME SPIKE (1)
-MON    15m  +1.1%  1h  +1.8%
-   vol 0.5x · $12M · on CB
+POND   15m  +6.8%  1h  -9.7%
+   vol 2.9x · $480K · on CB
+PEARL  15m  +5.2%  1h +11.2%
+   vol 0.3x · $2.6M · on CB
 
 👀 WATCH (19)
-  USELESS PUMP ZRO DASH ZEC
-  FARTCOIN PONS ALEO STX VVV
-  RENDER SEI STRK TAO FIL PEPE
-  CRV UNI LINK
+  ELSA PUMP USELESS FARTCOIN
+  PONS STX ZRO SKY ASTER STRK
+  MON DRV ATOM PEPE CAP CRV
+  XRP DOT SEI
 
 15m/1h = price change
 vol = volume vs normal
