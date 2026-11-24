@@ -1,23 +1,25 @@
 CRYPTO SCAN
-Tue 4:30 PM CT
-20 flagged · 0 buy signals
+Tue 4:35 PM CT
+24 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
-POND   15m  -8.9%  1h  -7.3%
-   vol 0.7x · $437K · on CB
+⚪ THIN (low volume) (2)
+PEARL  15m  +4.2%  1h  +5.6%
+   vol 1.3x · $2.4M · on CB
+POND   15m  -6.3%  1h  -6.0%
+   vol 1.7x · $434K · on CB
 
 ⚪ MOVED, NO VOLUME SPIKE (1)
-VVV    15m  +1.1%  1h  +2.6%
-   vol 0.6x · $11M · on CB
+ZEC    15m  +1.2%  1h  +1.0%
+   vol 0.9x · $93M · on CB
 
-👀 WATCH (18)
-  PEARL PONS CVX ZEC SKY PROS
-  SYRUP ALEO RENDER HBAR CT
-  DOT ICP LIGHTER WLD WLFI
-  MANTLE MORPHO
+👀 WATCH (21)
+  CVX PONS INJ LIGHTER PROS
+  SYRUP ALEO XPL VVV ALGO STX
+  RENDER HBAR SKY CT DOT ICP
+  XLM STRK WLD MORPHO
 
 15m/1h = price change
 vol = volume vs normal
