@@ -1,15 +1,21 @@
 CRYPTO SCAN
-Tue 5:35 PM CT
-20 flagged · 0 buy signals
+Tue 5:40 PM CT
+21 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (20)
-  XPL DRV PEARL ZRO PEPE SKY
-  POND AKT VVV CRV LIGHTER
-  PROS CT USELESS SEI ETH ATOM
-  PONS TAO MON
+⚪ THIN (low volume) (2)
+PEARL  15m  +5.1%  1h  +9.1%
+   vol 0.3x · $2.5M · on CB
+POND   15m  -5.0%  1h  +8.3%
+   vol 1.3x · $550K · on CB
+
+👀 WATCH (19)
+  XPL ZRO PEPE QNT VVV USELESS
+  NEAR LIGHTER SKY PROS CT ETH
+  FLR PENGU ATOM ARB SEI PONS
+  MON
 
 15m/1h = price change
 vol = volume vs normal
