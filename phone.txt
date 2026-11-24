@@ -1,27 +1,35 @@
 CRYPTO SCAN
-Tue 2:50 PM CT
-44 flagged · 0 buy signals
+Tue 2:55 PM CT
+57 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
+🟡 AGAINST TREND / FADING (1)
+ZEC    15m  +1.5%  1h  +1.3%
+   vol 4.8x · $98M · on CB
+
 ⚪ THIN (low volume) (1)
-POND   15m  +5.3%  1h +23.6%
-   vol 2.2x · $404K · on CB
+POND   15m  +6.1%  1h +17.3%
+   vol 1.5x · $418K · on CB
 
-⚪ MOVED, NO VOLUME SPIKE (1)
-ZEC    15m  +1.2%  1h  +0.7%
-   vol 0.6x · $97M · on CB
+⚪ MOVED, NO VOLUME SPIKE (2)
+NEAR   15m  +1.3%  1h  +1.0%
+   vol 1.9x · $25M · on CB
+HYPE   15m  +1.2%  1h  -0.1%
+   vol 0.7x · $32M · on CB
 
-👀 WATCH (42)
-  WLD DASH QNT FIL NEAR
-  LIGHTER HYPE HBAR USELESS
-  STRK TIA FET ONDO PROS SKY
-  SUI XLM BCH SYRUP SEI ELSA
-  PUMP JTO DOT ZRO AVAX ADA
-  VVV UNI ALGO PEPE MAMO
-  FARTCOIN PENGU LTC CT AAVE
-  AERO BONK BTC FLR MORPHO
+👀 WATCH (53)
+  LIGHTER WLD DASH PROS ZRO
+  PENGU FET SYRUP SKY PONS INJ
+  ARB QNT AERO VET FIL TAO BCH
+  USELESS TIA SUI PUMP MAMO
+  TRUMP SEI AVAX ELSA HBAR JTO
+  DOT ATOM DOGE SOL VVV ADA
+  ALGO PEPE AAVE FARTCOIN LINK
+  FLR LTC UNI CT ENA BONK
+  RENDER XRP ETH XLM BTC BNB
+  STRK
 
 15m/1h = price change
 vol = volume vs normal
