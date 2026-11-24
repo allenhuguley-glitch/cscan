@@ -44,7 +44,7 @@ for f in sorted(HERE.glob("*.py")):
 # 4. workflow still saves the log files (this broke once)
 try:
     yml = (HERE / ".github/workflows/scan.yml").read_text()
-    for need in ("scanner_log_v4.csv", "history", "logs", "latest.json"):
+    for need in ("scanner_log_v4.csv", "history", "logs", "latest.json", "fill_log.csv", "paper_log.csv"):
         if need not in yml:
             problems.append(f"scan.yml no longer saves {need}")
 except Exception as e:
