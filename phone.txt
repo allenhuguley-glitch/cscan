@@ -1,18 +1,23 @@
 CRYPTO SCAN
-Tue 12:55 PM CT
-17 flagged · 0 buy signals
+Tue 1:00 PM CT
+32 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
-MANTLE 15m  -3.8%  1h  -4.7%
-   vol 24.6x · $2.0M · on CB
+⚪ THIN (low volume) (2)
+MANTLE 15m  -3.6%  1h  -4.7%
+   vol 0.7x · $2.0M · on CB
+PONS   15m  -3.6%  1h  -4.4%
+   vol 6.2x · $498K · on CB
 
-👀 WATCH (16)
-  PONS MAMO PEARL NEAR MON
-  USELESS HYPE WLD STX CAP DRV
-  RENDER ALEO FIL PAXG APT
+👀 WATCH (30)
+  ELSA RENDER INJ MAMO CRV
+  STRK MON WLD ALGO JTO HYPE
+  ARB QNT PEARL DOT HBAR STX
+  MORPHO ONDO VET TIA ATOM
+  USELESS TAO DRV SUI AERO
+  ALEO ADA AKT
 
 15m/1h = price change
 vol = volume vs normal
