@@ -1,22 +1,20 @@
 CRYPTO SCAN
-Mon 8:30 PM CT
-38 flagged · 0 buy signals
+Mon 8:35 PM CT
+26 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
-WLFI   15m  -2.8%  1h  -3.0%
-   vol 11.5x · $539K · on CB
+⚪ MOVED, NO VOLUME SPIKE (1)
+ZEC    15m  -1.4%  1h  -4.2%
+   vol 0.9x · $128M · on CB
 
-👀 WATCH (37)
-  MON CT ELSA ENA SYRUP
-  USELESS FET TIA SOL XPL ZRO
-  ATOM ARB APT ZEC XLM SKY
-  PENGU ONDO QNT RENDER AERO
-  PEARL BNB PEPE NEAR BTC VVV
-  BCH LTC ETH DOT SUI STRK XRP
-  DRV BONK
+👀 WATCH (25)
+  MON WLFI FET CT PUMP LIGHTER
+  ICP ATOM ELSA PEARL RENDER
+  SYRUP JUPITER PEPE ENA SOL
+  TIA XLM BNB ASTER SKY APT
+  CAP DOT USELESS
 
 15m/1h = price change
 vol = volume vs normal
