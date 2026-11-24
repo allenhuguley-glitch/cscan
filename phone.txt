@@ -1,18 +1,20 @@
 CRYPTO SCAN
-Tue 12:00 PM CT
-14 flagged · 0 buy signals
+Tue 12:05 PM CT
+21 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
+⚪ THIN (low volume) (2)
+INX    15m  -2.2%  1h  -1.1%
+   vol 1.5x · $397K · on CB
 ELSA   15m  -2.0%  1h  -3.9%
-   vol 2.0x · $854K · on CB
+   vol 2.0x · $844K · on CB
 
-👀 WATCH (13)
-  PEARL JTO LIGHTER MON
-  USELESS ZEC ATOM VVV FET BCH
-  MAMO ZRO LTC
+👀 WATCH (19)
+  BONK PEPE ZEC SKY PEARL SEI
+  ZRO JTO VVV BCH FLR VET MAMO
+  WLD ADA BNB STX ETH ONDO
 
 15m/1h = price change
 vol = volume vs normal
