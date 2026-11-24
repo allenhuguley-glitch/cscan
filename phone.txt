@@ -1,28 +1,26 @@
 CRYPTO SCAN
-Tue 3:05 PM CT
-28 flagged · 0 buy signals
+Tue 3:10 PM CT
+27 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-🔴 REAL DROPS (1)
-MON    15m  -3.0%  1h  -3.3%
-   vol 2.1x · $11M · on CB
-
 ⚪ THIN (low volume) (1)
-ELSA   15m  +2.2%  1h  -0.9%
-   vol 0.0x · $783K · on CB
+POND   15m  +6.5%  1h +17.3%
+   vol 1.3x · $461K · on CB
 
-⚪ MOVED, NO VOLUME SPIKE (1)
-VVV    15m  -1.2%  1h  +1.2%
+⚪ MOVED, NO VOLUME SPIKE (2)
+MON    15m  -3.3%  1h  -3.6%
+   vol 1.3x · $12M · on CB
+VVV    15m  -1.0%  1h  +1.1%
    vol 0.3x · $11M · on CB
 
-👀 WATCH (25)
-  FARTCOIN JTO PEARL STRK ZRO
-  CRV SKY PONS LIGHTER USELESS
-  MANTLE FET VET UNI MORPHO
-  ADA HYPE FIL ZEC AVAX SOL
-  BCH FLR TRUMP MAMO
+👀 WATCH (24)
+  ALEO FARTCOIN PONS INJ JTO
+  PEARL STRK ZEC VET HYPE LINK
+  CT USELESS CRV LTC CAP UNI
+  WLD AVAX PENGU BCH AERO FLR
+  MAMO
 
 15m/1h = price change
 vol = volume vs normal
