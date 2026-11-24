@@ -1,16 +1,15 @@
 CRYPTO SCAN
-Mon 6:45 PM CT
-26 flagged · 0 buy signals
+Mon 6:50 PM CT
+22 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (26)
-  JUPITER ALIGN PEARL DRV CAP
-  CT SYRUP ICP TON XLM CRV ENA
-  MANTLE ASTER MON PENGU WLD
-  FLR STRK ARB SOL AAVE XRP
-  BNB SUI BONK
+👀 WATCH (22)
+  JUPITER ALIGN ENA CT CAP DRV
+  ZEC TIA TON MANTLE BONK
+  ASTER WLD MON PONS XRP BCH
+  CRV TAO MORPHO BNB SUI
 
 15m/1h = price change
 vol = volume vs normal
