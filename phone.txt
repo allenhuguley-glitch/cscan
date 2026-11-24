@@ -1,21 +1,22 @@
 CRYPTO SCAN
-Mon 6:20 PM CT
-23 flagged · 0 buy signals
+Mon 6:25 PM CT
+38 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (2)
-ELSA   15m  +2.0%  1h  +0.9%
-   vol 20.7x · $1.4M · on CB
+⚪ THIN (low volume) (1)
 ALIGN  15m  -5.3%  1h  -6.4%
    vol 1.9x · $1.2M · on CB
 
-👀 WATCH (21)
-  STRK SKY GRT TON CAP ZEC ZRO
-  SYRUP DASH HYPE BNB PAXG ENA
-  WLFI WLD AVAX FLR CVX APT
-  RENDER PEPE
+👀 WATCH (37)
+  USELESS FET FARTCOIN CAP
+  PENGU BONK PEPE GRT AAVE TIA
+  NEAR STRK PONS ENA ZRO ALGO
+  APT FIL XPL ARB DOT ADA
+  SYRUP ONDO PUMP SHIB LIGHTER
+  VVV WLD XLM ELSA MANTLE BNB
+  PAXG MON WLFI FLR
 
 15m/1h = price change
 vol = volume vs normal
