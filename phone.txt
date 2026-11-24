@@ -1,15 +1,16 @@
 CRYPTO SCAN
-Tue 1:30 PM CT
-21 flagged · 0 buy signals
+Tue 1:35 PM CT
+24 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (21)
-  PEARL PROS SYRUP PUMP PONS
-  MON CAP VVV AKT FIL ENA JTO
-  PEPE NEAR AERO RENDER DOGE
-  USELESS UNI ALEO SEI
+👀 WATCH (24)
+  PROS PEARL PONS ZRO MON QNT
+  ELSA VVV ARB HYPE AKT FIL
+  UNI MAMO CRV TRUMP USELESS
+  SEI RENDER AVAX FET AAVE
+  DOGE NEAR
 
 15m/1h = price change
 vol = volume vs normal
