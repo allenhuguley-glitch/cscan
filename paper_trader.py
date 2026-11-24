@@ -8,6 +8,8 @@ Stop is checked first if both hit in one candle.
                                       across all watch-list coins together; writes backtest_results.csv (replaces the older results)
   python paper_trader.py history 7 -> tests the rule on the past 7 days (any number), per-day results,
                                       writes backtest_results.csv (replaces the older results)
+  python paper_trader.py swing     -> tests slow multi-day strategies on ~2.5 years of daily candles for 8 big coins,
+                                      vs buy-and-hold; writes backtest_results.csv (replaces older results)
   python paper_trader.py live      -> run every 5 min: opens/closes paper buys, logs to paper_log.csv
 Reads latest.txt (scanner output). Coinbase public market data only."""
 import csv, json, os, sys, time, urllib.request
@@ -27,10 +29,10 @@ def get(url):
     r = urllib.request.Request(url, headers={"User-Agent": "paper-trader"})
     return json.load(urllib.request.urlopen(r, timeout=20))
 
-def candles_before(coin, end):
+def candles_before(coin, end, gran=G):
     """One 300-candle window ending at `end` (unix). Raw rows, newest first."""
     iso = lambda t: datetime.fromtimestamp(t, timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-    return get(f"https://api.exchange.coinbase.com/products/{coin}-USD/candles?granularity={G}&start={iso(end-300*G)}&end={iso(end)}")
+    return get(f"https://api.exchange.coinbase.com/products/{coin}-USD/candles?granularity={gran}&start={iso(end-300*gran)}&end={iso(end)}")
 
 def fill(d):
     d = sorted({c[0]: c for c in d}.values()); out = []
@@ -135,6 +137,69 @@ def history(days):
         wr = csv.writer(f); wr.writerow(["target", "day", "trades", "wins", "net_total_$", "net_avg_$"]); wr.writerows(out)
     print(len(data), "coins;", open("backtest_results.csv").read())
 
+SWING_COINS = ["BTC", "ETH", "SOL", "XRP", "ADA", "LINK", "AVAX", "DOGE"]
+def rsi(c, i, n=14):
+    g = l = 0.0
+    for k in range(i-n+1, i+1):
+        d = c[k] - c[k-1]; g += max(d, 0); l += max(-d, 0)
+    return 100.0 if l == 0 else 100 - 100/(1 + g/l)
+
+def swing_trades(d):
+    """d = daily bars oldest first. Two fixed rules, decided at a day's close, filled at the next open.
+    breakout: close above the prior 20-day high; exit when close falls below the prior 10-day low.
+    pullback: close above the 100-day average (uptrend) and RSI14 < 35; exit at RSI > 55, -8% stop, or 20 days."""
+    out = {"breakout": [], "pullback": []}
+    c = [x["c"] for x in d]
+    for name in out:
+        i, n = 101, len(d)
+        while i < n - 2:
+            if name == "breakout": go = c[i] > max(x["hi"] for x in d[i-20:i])
+            else: go = c[i] > sum(c[i-100:i]) / 100 and rsi(c, i) < 35
+            if not go: i += 1; continue
+            entry = d[i+1]["o"] * (1+SPREAD); j = i+1; px = None
+            while j < n - 1:
+                if name == "pullback" and d[j]["lo"] <= entry*0.92: px = entry*0.92; break
+                if name == "breakout" and c[j] < min(x["lo"] for x in d[j-10:j]): px = d[j+1]["o"]; j += 1; break
+                if name == "pullback" and (rsi(c, j) > 55 or j - (i+1) >= 20): px = d[j+1]["o"]; j += 1; break
+                j += 1
+            if px is None: break                    # still open at end of data
+            out[name].append((i+1, px*(1-SPREAD)/entry - 1)); i = j + 1
+    return out
+
+def swing():
+    end = int(time.time()) // 86400 * 86400
+    data = {}
+    for coin in SWING_COINS:
+        try:
+            raw = []
+            for k in range(3): raw += candles_before(coin, end - k*300*86400, 86400); time.sleep(0.3)
+            d = [x for x in fill_gran(raw, 86400) if x["t"] < end]
+            if len(d) > 300: data[coin] = d
+        except Exception as e: print(coin, "skip", e)
+    rows = []
+    for fee_name, fee in (("market 1.8%", 0.018), ("limit 1.0%", 0.010)):
+        for strat in ("breakout", "pullback"):
+            for per in ("all", "first 60%", "last 40%"):
+                nt = w = 0; tot = 0.0
+                for coin, d in data.items():
+                    cut = int(len(d)*0.6)
+                    for idx, g in swing_trades(d)[strat]:
+                        if per == "first 60%" and idx >= cut: continue
+                        if per == "last 40%" and idx < cut: continue
+                        net = NOTIONAL*(g - fee); nt += 1; w += net > 0; tot += net
+                rows.append([strat, fee_name, per, nt, w, round(tot, 2), round(tot/nt, 3) if nt else 0])
+    bh = []
+    for per, a, b in (("all", 0, 1), ("first 60%", 0, .6), ("last 40%", .6, 1)):
+        r = [d[min(int(len(d)*b), len(d))-1]["c"] / d[int(len(d)*a)]["c"] - 1 for d in data.values()]
+        bh.append(["buy&hold", "-", per, len(r), "", round(sum(r)/len(r)*NOTIONAL, 2), round(sum(r)/len(r)*100, 1)])
+    with open("backtest_results.csv", "w", newline="") as f:
+        wr = csv.writer(f); wr.writerow(["strategy", "fees", "period", "trades", "wins", "net_total_$", "net_avg_$ (bh: avg % return)"]); wr.writerows(rows + bh)
+    print(len(data), "coins;", len(next(iter(data.values()))), "days;", open("backtest_results.csv").read())
+
+def fill_gran(raw, gran):
+    d = sorted({c[0]: c for c in raw}.values())
+    return [dict(t=c[0], lo=c[1], hi=c[2], o=c[3], c=c[4], v=c[5]) for c in d]
+
 LOG = "paper_log.csv"
 HDR = ["open_time","coin","entry","entry_spread_pct","tp","sl","status","exit_time","exit","exit_spread_pct","reason","net_$","total_cost_pct"]
 def read_log(): return list(csv.DictReader(open(LOG))) if os.path.exists(LOG) else []
@@ -171,4 +236,4 @@ def live():
 
 if __name__ == "__main__":
     m = sys.argv[1] if len(sys.argv) > 1 else "live"
-    history(int(sys.argv[2]) if len(sys.argv) > 2 else 7) if m == "history" else {"backtest": backtest, "live": live}[m]()
+    history(int(sys.argv[2]) if len(sys.argv) > 2 else 7) if m == "history" else {"backtest": backtest, "live": live, "swing": swing}[m]()
