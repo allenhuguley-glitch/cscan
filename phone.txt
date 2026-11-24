@@ -1,18 +1,19 @@
 CRYPTO SCAN
-Tue 3:40 PM CT
-17 flagged · 0 buy signals
+Tue 3:45 PM CT
+22 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ MOVED, NO VOLUME SPIKE (1)
-VVV    15m  -1.1%  1h  -1.4%
-   vol 1.9x · $11M · on CB
+⚪ THIN (low volume) (1)
+POND   15m  +8.1%  1h  -2.2%
+   vol 0.7x · $478K · on CB
 
-👀 WATCH (16)
-  SYRUP CT PEARL ZRO LIGHTER
-  TIA DASH ALEO ICP STRK MAMO
-  QNT DRV ADA XRP SKY
+👀 WATCH (21)
+  XPL ELSA CT ZRO USELESS SKY
+  ZEC PENGU STRK SEI TIA HYPE
+  TRUMP SYRUP NEAR PROS
+  LIGHTER ALEO WLFI MAMO ENA
 
 15m/1h = price change
 vol = volume vs normal
