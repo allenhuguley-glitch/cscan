@@ -1,19 +1,14 @@
 CRYPTO SCAN
-Tue 3:45 PM CT
-22 flagged · 0 buy signals
+Tue 3:50 PM CT
+15 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
-POND   15m  +8.1%  1h  -2.2%
-   vol 0.7x · $478K · on CB
-
-👀 WATCH (21)
-  XPL ELSA CT ZRO USELESS SKY
-  ZEC PENGU STRK SEI TIA HYPE
-  TRUMP SYRUP NEAR PROS
-  LIGHTER ALEO WLFI MAMO ENA
+👀 WATCH (15)
+  XPL PEARL POND ALEO FET JTO
+  PROS PEPE CT ZRO INJ SYRUP
+  HYPE PUMP APT
 
 15m/1h = price change
 vol = volume vs normal
