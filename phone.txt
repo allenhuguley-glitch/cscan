@@ -1,37 +1,34 @@
 CRYPTO SCAN
-Mon 9:35 PM CT
-63 flagged · 0 buy signals
+Mon 9:40 PM CT
+57 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ MOVED, NO VOLUME SPIKE (7)
-PEARL  15m  +1.5%  1h  -5.5%
-   vol 0.5x · $5.2M · on CB
-AAVE   15m  +1.1%  1h  -1.2%
-   vol 0.7x · $5.2M · on CB
-AERO   15m  +1.1%  1h  -0.6%
-   vol 0.2x · $5.6M · on CB
-UNI    15m  +1.1%  1h  -0.5%
-   vol 0.5x · $8.7M · on CB
-INJ    15m  +1.1%  1h  -0.8%
-   vol 0.5x · $7.1M · on CB
-SOL    15m  +1.0%  1h  -0.1%
-   vol 0.3x · $135M · on CB
-ADA    15m  +1.0%  1h  -1.1%
-   vol 0.8x · $13M · on CB
+⚪ MOVED, NO VOLUME SPIKE (6)
+MON    15m  +2.3%  1h  -0.4%
+   vol 0.2x · $5.1M · on CB
+PEARL  15m  +1.3%  1h  -6.6%
+   vol 0.3x · $5.2M · on CB
+HYPE   15m  +1.2%  1h  -0.3%
+   vol 1.2x · $48M · on CB
+UNI    15m  +1.1%  1h  -0.2%
+   vol 0.4x · $8.7M · on CB
+TAO    15m  +1.0%  1h  -0.0%
+   vol 0.1x · $6.3M · on CB
+INJ    15m  +1.0%  1h  -0.4%
+   vol 1.5x · $7.1M · on CB
 
-👀 WATCH (56)
-  FARTCOIN FET DOT ZRO USELESS
-  PUMP ICP WLD APT CAP FIL
-  LIGHTER CT PENGU BCH RENDER
-  HYPE TIA CRV TAO QNT ONDO
-  BONK ENA GRT BTC AVAX ARB
-  BNB SUI SEI NEAR JUPITER XRP
-  MON SKY ETH TRUMP DOGE TON
-  LINK XLM ZEC ELSA STRK ATOM
-  ALIGN ALGO SHIB MORPHO STX
-  ASTER LTC HBAR SYRUP PEPE
+👀 WATCH (51)
+  FARTCOIN ZRO USELESS ELSA
+  FIL CAP MORPHO CT ICP STRK
+  BONK PUMP BTC TIA ARB WLD
+  ETH LIGHTER ONDO DOT XRP SUI
+  QNT SOL SKY FET PENGU LINK
+  BNB NEAR ZEC BCH XLM ALGO
+  DOGE XPL RENDER ATOM AVAX
+  ALIGN STX HBAR AERO LTC APT
+  SHIB SEI AAVE ADA PEPE CRV
 
 15m/1h = price change
 vol = volume vs normal
