@@ -5,7 +5,9 @@ ONE rule for every coin: 15m move >= +3%, volume >= 5x normal, last closed 5m ca
 Exit: +5% target (limit order, maker fee), -2% stop (market, taker fee), or after 1 hour (market).
 Stop is checked first if both hit in one candle.
   python paper_trader.py backtest  -> tests the rule (plus 3 target sizes for comparison) on recent 5m candles
-                                      across all watch-list coins together; writes backtest_results.csv
+                                      across all watch-list coins together; writes backtest_results.csv (replaces the older results)
+  python paper_trader.py history 7 -> tests the rule on the past 7 days (any number), per-day results,
+                                      writes backtest_results.csv (replaces the older results)
   python paper_trader.py live      -> run every 5 min: opens/closes paper buys, logs to paper_log.csv
 Reads latest.txt (scanner output). Coinbase public market data only."""
 import csv, json, os, sys, time, urllib.request
@@ -24,6 +26,19 @@ G = 300
 def get(url):
     r = urllib.request.Request(url, headers={"User-Agent": "paper-trader"})
     return json.load(urllib.request.urlopen(r, timeout=20))
+
+def candles_before(coin, end):
+    """One 300-candle window ending at `end` (unix). Raw rows, newest first."""
+    iso = lambda t: datetime.fromtimestamp(t, timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    return get(f"https://api.exchange.coinbase.com/products/{coin}-USD/candles?granularity={G}&start={iso(end-300*G)}&end={iso(end)}")
+
+def fill(d):
+    d = sorted({c[0]: c for c in d}.values()); out = []
+    for c in d:
+        while out and c[0] - out[-1]["t"] > G:
+            p = out[-1]["c"]; out.append(dict(t=out[-1]["t"]+G, lo=p, hi=p, o=p, c=p, v=0.0))
+        out.append(dict(t=c[0], lo=c[1], hi=c[2], o=c[3], c=c[4], v=c[5]))
+    return out
 
 def candles(coin):
     """Closed 5m candles only, oldest first, with gaps (no-trade intervals) filled flat so indexes equal time."""
@@ -50,6 +65,7 @@ def watchlist(path="latest.txt", min_vol=1_000_000):
 
 def signal(cs, i, ret_min=RET15, vol_x=VOLX):
     if i < 21: return False
+    if i >= 288 and cs[i]["c"] / cs[i-288]["c"] - 1 >= MAX_24H/100: return False   # already a runner
     k = cs[i]
     ret = k["c"] / cs[i-3]["c"] - 1
     avg = sum(c["v"] for c in cs[i-20:i]) / 20
@@ -91,6 +107,34 @@ def backtest():
         wr = csv.writer(f); wr.writerow(["target", "stop", "trades", "wins", "net_total_$", "net_avg_$", "hit_target", "hit_stop", "timed_out"]); wr.writerows(rows)
     print(open("backtest_results.csv").read())
 
+def history(days):
+    end = int(time.time()) // G * G - G
+    data = {}
+    for coin in watchlist():
+        try:
+            raw = []
+            for k in range(-(-days*288 // 300) + 1):
+                raw += candles_before(coin, end - k*300*G); time.sleep(0.25)
+            cs = fill([c for c in raw if c[0] >= end - days*288*G])
+            if len(cs) > 100: data[coin] = cs
+        except Exception as e: print(coin, "skip", e)
+    out = []
+    for tp in (0.03, 0.05):
+        per_day = {}; n = w = 0; tot = 0.0
+        for coin, cs in data.items():
+            last = -99
+            for i in range(48, len(cs)-1):
+                if i - last < MAX_HOLD or not signal(cs, i): continue
+                r = simulate(cs, i, tp, SL)
+                if r:
+                    n += 1; w += r[0] > 0; tot += r[0]; last = i
+                    day = datetime.fromtimestamp(cs[i]["t"], timezone.utc).strftime("%m-%d"); a = per_day.setdefault(day, [0, 0.0]); a[0] += 1; a[1] += r[0]
+        out.append([f"{tp:.0%}", "ALL", n, w, round(tot, 3), round(tot/n, 3) if n else 0])
+        out += [[f"{tp:.0%}", d, a[0], "", round(a[1], 3), round(a[1]/a[0], 3)] for d, a in sorted(per_day.items())]
+    with open("backtest_results.csv", "w", newline="") as f:
+        wr = csv.writer(f); wr.writerow(["target", "day", "trades", "wins", "net_total_$", "net_avg_$"]); wr.writerows(out)
+    print(len(data), "coins;", open("backtest_results.csv").read())
+
 LOG = "paper_log.csv"
 HDR = ["open_time","coin","entry","entry_spread_pct","tp","sl","status","exit_time","exit","exit_spread_pct","reason","net_$","total_cost_pct"]
 def read_log(): return list(csv.DictReader(open(LOG))) if os.path.exists(LOG) else []
@@ -126,4 +170,5 @@ def live():
         w = csv.DictWriter(f, HDR); w.writeheader(); w.writerows([{k: r.get(k, "") for k in HDR} for r in rows])
 
 if __name__ == "__main__":
-    {"backtest": backtest, "live": live}[sys.argv[1] if len(sys.argv) > 1 else "live"]()
+    m = sys.argv[1] if len(sys.argv) > 1 else "live"
+    history(int(sys.argv[2]) if len(sys.argv) > 2 else 7) if m == "history" else {"backtest": backtest, "live": live}[m]()
