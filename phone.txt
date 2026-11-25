@@ -1,21 +1,17 @@
 CRYPTO SCAN
-Tue 10:05 PM CT
-21 flagged · 0 buy signals
+Tue 10:10 PM CT
+32 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (2)
-OPG    15m  +2.7%  1h  +2.7%
-   vol 0.6x · $420K · on CB
-IRYS   15m  -2.5%  1h  -2.3%
-   vol 1.1x · $514K · on CB
-
-👀 WATCH (19)
-  PEARL DRV ICNT POND PONS
-  PROS CAP MAMO ZEC ELSA ENA
-  ALEO ONDO WLFI TAO DASH VVV
-  DOGE AVAX
+👀 WATCH (32)
+  POND OPG IRYS PEARL ICNT
+  PROS CAP ZRO MAMO INJ PONS
+  ELSA SEI PENGU ZEC VVV ENA
+  BNB UNI DOGE LIGHTER DASH
+  TRUMP BCH BTC ATOM XLM ADA
+  ONDO XRP LTC AVAX
 
 15m/1h = price change
 vol = volume vs normal
