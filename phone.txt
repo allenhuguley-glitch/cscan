@@ -1,20 +1,19 @@
 CRYPTO SCAN
-Tue 6:50 PM CT
-18 flagged · 0 buy signals
+Tue 6:55 PM CT
+21 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (2)
-PROS   15m  +2.9%  1h  +1.6%
-   vol 0.4x · $1.0M · on CB
+⚪ THIN (low volume) (1)
 POND   15m  -4.9%  1h  -2.5%
-   vol 0.6x · $584K · on CB
+   vol 0.6x · $606K · on CB
 
-👀 WATCH (16)
-  PEARL PONS SKY CT MANTLE APT
-  LIGHTER MON AAVE PEPE ARB
-  ZRO AERO SEI FLR TRUMP
+👀 WATCH (20)
+  PEARL ELSA SKY DRV SYRUP MON
+  PONS TON FET ARB PROS AAVE
+  MANTLE PEPE MORPHO ZRO ETH
+  VVV SOL WLFI
 
 15m/1h = price change
 vol = volume vs normal
