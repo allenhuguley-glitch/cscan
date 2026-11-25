@@ -1,34 +1,22 @@
 CRYPTO SCAN
-Wed 8:50 AM CT
-51 flagged · 0 buy signals
+Wed 8:55 AM CT
+38 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-🟡 AGAINST TREND / FADING (1)
-HYPE   15m  +1.1%  1h  -0.9%
-   vol 2.5x · $31M · on CB
+⚪ THIN (low volume) (1)
+POND   15m  -5.0%  1h  +3.1%
+   vol 0.3x · $752K · on CB
 
-⚪ THIN (low volume) (2)
-POND   15m  -4.5%  1h  +5.5%
-   vol 0.5x · $759K · on CB
-BIGTIME 15m  -3.1%  1h  -7.2%
-   vol 1.2x · $1.1M · on CB
-
-⚪ MOVED, NO VOLUME SPIKE (1)
-VVV    15m  +1.2%  1h  +0.8%
-   vol 1.4x · $10M · on CB
-
-👀 WATCH (47)
-  FARTCOIN PONS MANTLE FIL
-  ELSA FET ZRO ATOM RENDER
-  MORPHO BONK INJ POL DRV IRYS
-  ADA UNI TAO LINK DOT TRUMP
-  OPG HBAR SEI SYRUP AKT PENGU
-  LTC KITE ALGO WLD NEAR XLM
-  USELESS DOGE QNT ONDO APT
-  ENA AAVE BTC PAXG AVAX SOL
-  ZEC SKY ETH
+👀 WATCH (37)
+  MOODENG BLUR BIGTIME ELSA
+  MANTLE PONS HYPE INJ QNT VVV
+  POL PROS FET LTC SEI MORPHO
+  TRUMP UNI AKT XPL RENDER
+  ATOM TAO CT ADA FARTCOIN ETH
+  ONDO FIL BCH ENA WLD BTC FLR
+  SUI PAXG KITE
 
 15m/1h = price change
 vol = volume vs normal
