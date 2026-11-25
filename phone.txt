@@ -1,51 +1,34 @@
 CRYPTO SCAN
-Wed 8:45 AM CT
-64 flagged · 0 buy signals
+Wed 8:50 AM CT
+51 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-🔴 REAL DROPS (4)
-SOL    15m  -1.5%  1h  -1.6%
-   vol 4.7x · $101M · on CB
-BTC    15m  -1.4%  1h  -1.6%
-   vol 3.5x · $824M · on CB
-ZEC    15m  -1.1%  1h  -3.7%
-   vol 2.3x · $79M · on CB
-LTC    15m  -1.0%  1h  -0.8%
-   vol 2.4x · $6.6M · on CB
+🟡 AGAINST TREND / FADING (1)
+HYPE   15m  +1.1%  1h  -0.9%
+   vol 2.5x · $31M · on CB
 
-⚪ THIN (low volume) (3)
+⚪ THIN (low volume) (2)
+POND   15m  -4.5%  1h  +5.5%
+   vol 0.5x · $759K · on CB
 BIGTIME 15m  -3.1%  1h  -7.2%
    vol 1.2x · $1.1M · on CB
-PEARL  15m  -2.6%  1h  -2.5%
-   vol 0.4x · $1.6M · on CB
-POND   15m  -2.0%  1h  +6.3%
-   vol 1.1x · $770K · on CB
 
-⚪ MOVED, NO VOLUME SPIKE (5)
-ETH    15m  -1.4%  1h  -1.4%
-   vol 1.8x · $276M · on CB
-DOGE   15m  -1.4%  1h  -1.4%
-   vol 1.7x · $5.2M · on CB
-XRP    15m  -1.2%  1h  -1.0%
-   vol 1.6x · $49M · on CB
-ADA    15m  -1.1%  1h  -1.5%
-   vol 1.2x · $6.0M · on CB
-LINK   15m  -1.1%  1h  -1.1%
-   vol 1.2x · $5.5M · on CB
+⚪ MOVED, NO VOLUME SPIKE (1)
+VVV    15m  +1.2%  1h  +0.8%
+   vol 1.4x · $10M · on CB
 
-👀 WATCH (52)
-  AAVE MOODENG QNT BLUR PONS
-  LIGHTER PEPE TRUMP PUMP
-  PENGU MANTLE AVAX SUI KITE
-  BNB UNI DOT FIL WLD APT CT
-  USELESS BCH SKY ONDO ALGO
-  ATOM RENDER HBAR SEI BONK
-  WLFI TAO ICP MORPHO NEAR AKT
-  FARTCOIN DRV XLM AERO INJ
-  VVV ASTER ZRO ENA XPL FET
-  ARB ELSA PAXG HYPE
+👀 WATCH (47)
+  FARTCOIN PONS MANTLE FIL
+  ELSA FET ZRO ATOM RENDER
+  MORPHO BONK INJ POL DRV IRYS
+  ADA UNI TAO LINK DOT TRUMP
+  OPG HBAR SEI SYRUP AKT PENGU
+  LTC KITE ALGO WLD NEAR XLM
+  USELESS DOGE QNT ONDO APT
+  ENA AAVE BTC PAXG AVAX SOL
+  ZEC SKY ETH
 
 15m/1h = price change
 vol = volume vs normal
