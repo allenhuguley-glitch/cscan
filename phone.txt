@@ -1,25 +1,23 @@
 CRYPTO SCAN
-Wed 2:05 AM CT
-23 flagged · 0 buy signals
+Wed 2:10 AM CT
+24 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (2)
-BIGTIME 15m  -7.4%  1h  -6.1%
-   vol 0.6x · $761K · on CB
-POND   15m  -2.9%  1h  -2.7%
-   vol 1.2x · $649K · on CB
+⚪ THIN (low volume) (1)
+BIGTIME 15m  -7.8%  1h  -7.9%
+   vol 0.8x · $765K · on CB
 
 ⚪ MOVED, NO VOLUME SPIKE (1)
-MON    15m  +1.2%  1h  +2.7%
-   vol 2.0x · $18M · on CB
+MON    15m  +2.4%  1h  +5.7%
+   vol 1.0x · $18M · on CB
 
-👀 WATCH (20)
-  IRYS CT PROS ATOM OPG PEPE
-  TRUMP PEARL MORPHO VVV AAVE
-  LINK ASTER AVAX XLM PENGU
-  FLR ADA XPL BTC
+👀 WATCH (22)
+  IRYS ELSA PROS ATOM PEPE
+  TRUMP OPG BTC PEARL STRK VVV
+  UNI ASTER KITE XLM SUI
+  MANTLE ADA XPL QNT FLR DRV
 
 15m/1h = price change
 vol = volume vs normal
