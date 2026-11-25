@@ -1,31 +1,24 @@
 CRYPTO SCAN
-Wed 5:25 AM CT
-25 flagged · 0 buy signals
+Wed 5:30 AM CT
+29 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (5)
-BIGTIME 15m  +3.8%  1h  +2.2%
-   vol 0.1x · $1.1M · on CB
-PONS   15m  +3.5%  1h  +3.0%
-   vol 7.9x · $666K · on CB
+⚪ THIN (low volume) (3)
+BIGTIME 15m  +5.9%  1h  +9.6%
+   vol 0.8x · $1.1M · on CB
+PONS   15m  +4.0%  1h  +4.0%
+   vol 0.4x · $664K · on CB
 MOODENG 15m  -5.3%  1h -10.6%
-   vol 0.3x · $636K · on CB
-BLUR   15m  -3.3%  1h  +2.6%
-   vol 1.3x · $409K · on CB
-SYRUP  15m  -2.5%  1h  -3.9%
-   vol 5.8x · $1.1M · on CB
+   vol 0.3x · $650K · on CB
 
-⚪ MOVED, NO VOLUME SPIKE (1)
-MON    15m  -1.0%  1h  -1.7%
-   vol 0.3x · $18M · on CB
-
-👀 WATCH (19)
-  PEARL POND PROS CT ZRO IRYS
-  TAO DRV KITE AVAX XRP AAVE
-  RENDER BNB PUMP MANTLE NEAR
-  DOGE ICP
+👀 WATCH (26)
+  BLUR PEARL SYRUP PROS TAO
+  POND IRYS USELESS ZRO NEAR
+  CT INJ LINK XLM WLD XRP ADA
+  SUI SOL DOGE ETH ZEC LIGHTER
+  PAXG BTC PUMP
 
 15m/1h = price change
 vol = volume vs normal
