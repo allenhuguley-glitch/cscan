@@ -1,25 +1,22 @@
 CRYPTO SCAN
-Wed 12:45 AM CT
-32 flagged · 0 buy signals
+Wed 12:50 AM CT
+41 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (3)
-BIGTIME 15m +15.1%  1h +55.4%
-   vol 0.6x · $923K · on CB
-DRV    15m  +2.2%  1h  +1.2%
-   vol 0.5x · $2.0M · on CB
-POND   15m  -2.4%  1h  -4.2%
-   vol 0.9x · $642K · on CB
+⚪ THIN (low volume) (1)
+BIGTIME 15m  -5.9%  1h +47.3%
+   vol 0.3x · $894K · on CB
 
-👀 WATCH (29)
-  PONS PROS ARB PEARL MON OPG
-  ZRO LIGHTER ENA SEI FARTCOIN
-  HBAR WLD FIL ADA SKY PUMP
-  IRYS DOT INJ AERO FET ICP
-  ALGO RENDER XPL CRV KITE
-  ATOM
+👀 WATCH (40)
+  POND PONS PROS DRV PEARL CT
+  ARB OPG ZEC FARTCOIN USELESS
+  KITE LIGHTER MON ZRO IRYS
+  AERO ENA FET TRUMP ALGO DOT
+  SEI APT UNI SUI HYPE XLM ADA
+  LINK SOL XRP SKY LTC MORPHO
+  BCH PAXG ICP ATOM PENGU
 
 15m/1h = price change
 vol = volume vs normal
