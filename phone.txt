@@ -1,28 +1,22 @@
 CRYPTO SCAN
-Wed 4:25 AM CT
-21 flagged · 0 buy signals
+Wed 4:30 AM CT
+20 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (4)
-MOODENG 15m +11.4%  1h +12.2%
-   vol 4.2x · $448K · on CB
-BLUR   15m  +6.3%  1h  +7.2%
-   vol 9.2x · $403K · on CB
-BIGTIME 15m  -4.3%  1h -10.9%
-   vol 1.4x · $912K · on CB
-POND   15m  -2.6%  1h  +2.0%
-   vol 0.1x · $722K · on CB
+⚪ THIN (low volume) (3)
+MOODENG 15m +15.4%  1h +18.2%
+   vol 11.5x · $521K · on CB
+BLUR   15m  +7.8%  1h  +8.1%
+   vol 2.0x · $406K · on CB
+BIGTIME 15m  -5.1%  1h  -9.8%
+   vol 2.8x · $906K · on CB
 
-⚪ MOVED, NO VOLUME SPIKE (1)
-VVV    15m  +1.2%  1h  +1.2%
-   vol 1.0x · $9.5M · on CB
-
-👀 WATCH (16)
-  CT MON KITE NEAR QNT DRV
-  IRYS ATOM PENGU TON XRP CRV
-  DOT ALGO ZEC PEPE
+👀 WATCH (17)
+  ELSA PROS CT OPG IRYS POND
+  SYRUP NEAR QNT DRV CRV FLR
+  KITE HBAR BNB PENGU FARTCOIN
 
 15m/1h = price change
 vol = volume vs normal
