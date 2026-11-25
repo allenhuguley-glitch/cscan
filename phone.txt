@@ -1,25 +1,23 @@
 CRYPTO SCAN
-Tue 7:45 PM CT
-25 flagged · 0 buy signals
+Tue 7:50 PM CT
+22 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (2)
+⚪ THIN (low volume) (3)
 POND   15m  -4.0%  1h  -5.7%
-   vol 5.2x · $584K · on CB
+   vol 5.2x · $600K · on CB
 PROS   15m  -2.4%  1h  -6.4%
-   vol 3.8x · $1.0M · on CB
+   vol 3.8x · $1.1M · on CB
+PEARL  15m  -2.2%  1h  -1.3%
+   vol 0.3x · $2.5M · on CB
 
-⚪ MOVED, NO VOLUME SPIKE (1)
-UNI    15m  -1.2%  1h  -2.1%
-   vol 0.9x · $5.1M · on CB
-
-👀 WATCH (22)
-  PEARL SKY PEPE CT QNT ZEC
-  MAMO AAVE SEI PONS PUMP
-  PENGU INJ ARB FLR ELSA IRYS
-  ASTER LINK USELESS TAO GRT
+👀 WATCH (19)
+  ARB PEPE UNI SKY SEI ZRO
+  PONS QNT INJ IRYS FLR ICP
+  ASTER LINK GRT ALGO ENA BTC
+  SUI
 
 15m/1h = price change
 vol = volume vs normal
