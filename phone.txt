@@ -1,26 +1,19 @@
 CRYPTO SCAN
-Tue 9:05 PM CT
-27 flagged · 0 buy signals
+Tue 9:10 PM CT
+22 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (2)
-PEARL  15m  -4.0%  1h  -4.5%
-   vol 0.7x · $2.1M · on CB
-POND   15m  -2.5%  1h  -5.6%
-   vol 0.5x · $581K · on CB
+⚪ THIN (low volume) (1)
+PEARL  15m  -4.9%  1h  -5.5%
+   vol 6.8x · $2.1M · on CB
 
-⚪ MOVED, NO VOLUME SPIKE (1)
-MON    15m  -1.4%  1h  +2.6%
-   vol 0.7x · $14M · on CB
-
-👀 WATCH (24)
-  MAMO STX ELSA OPG DRV WLD
-  PROS ZRO CT TAO ETH AVAX BCH
-  DOGE XRP MORPHO ONDO CVX
-  AAVE LIGHTER CAP BNB ATOM
-  ALEO
+👀 WATCH (21)
+  CVX PROS MAMO SYRUP CT ELSA
+  PONS POND STX MON OPG FET
+  SEI USELESS TRUMP MORPHO ENA
+  BCH TIA ALEO BONK
 
 15m/1h = price change
 vol = volume vs normal
