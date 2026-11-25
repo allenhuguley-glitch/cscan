@@ -1,28 +1,34 @@
 CRYPTO SCAN
-Wed 1:40 PM CT
-42 flagged · 0 buy signals
+Wed 1:45 PM CT
+39 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-🟡 AGAINST TREND / FADING (1)
-PEPE   15m  +1.2%  1h  +2.9%
-   vol 8.2x · $5.5M · on CB
+⚪ THIN (low volume) (3)
+HONEY  15m -31.2%  1h -21.1%
+   vol 2.5x · $2.0M · on CB
+BIGTIME 15m  -2.8%  1h  -1.6%
+   vol 2.7x · $1.4M · on CB
+PROS   15m  -2.1%  1h  -0.7%
+   vol 2.6x · $1.2M · on CB
 
-⚪ THIN (low volume) (2)
-HONEY  15m -13.3%  1h  -0.6%
-   vol 3.5x · $2.2M · on CB
-BIGTIME 15m  -3.0%  1h  -1.3%
-   vol 1.5x · $1.4M · on CB
+⚪ MOVED, NO VOLUME SPIKE (3)
+ZEC    15m  -1.5%  1h  +1.1%
+   vol 0.7x · $119M · on CB
+MON    15m  -1.4%  1h  +0.1%
+   vol 1.6x · $16M · on CB
+TAO    15m  -1.1%  1h  +0.9%
+   vol 0.8x · $7.1M · on CB
 
-👀 WATCH (39)
-  BLUR OPG CRV PROS POND ZEC
-  MOODENG USELESS TRUMP SYRUP
-  CVX HYPE QNT PEARL ENA TAO
-  ZRO IRYS SUPER ALGO FET SOL
-  INJ FARTCOIN DRV SEI PUMP
-  VVV ATOM UNI HBAR NEAR DOT
-  KITE AVAX ALEO DASH ARB BNB
+👀 WATCH (33)
+  POND SYRUP BLUR OPG CRV AERO
+  XPL ZRO HYPE MOODENG VVV
+  USELESS TRUMP ATOM DRV BCH
+  CVX UNI DASH SUI ENA WLD
+  SUPER LTC PEPE NEAR LINK
+  LIGHTER PEARL TON KITE QNT
+  IRYS
 
 15m/1h = price change
 vol = volume vs normal
