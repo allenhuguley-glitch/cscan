@@ -1,29 +1,22 @@
 CRYPTO SCAN
-Wed 8:10 AM CT
-32 flagged · 0 buy signals
+Wed 8:15 AM CT
+28 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-🟡 AGAINST TREND / FADING (2)
-ZEC    15m  -1.3%  1h  -3.8%
-   vol 2.3x · $80M · on CB
-HYPE   15m  -1.0%  1h  -2.2%
-   vol 3.0x · $30M · on CB
-
 ⚪ THIN (low volume) (2)
-POND   15m  +3.3%  1h  +1.2%
-   vol 3.2x · $727K · on CB
+POND   15m  +5.9%  1h  +4.6%
+   vol 19.1x · $782K · on CB
 BLUR   15m  +2.2%  1h  -5.3%
-   vol 0.1x · $457K · on CB
+   vol 0.1x · $455K · on CB
 
-👀 WATCH (28)
-  LIGHTER ELSA KITE PROS CT
-  OPG USELESS PONS DRV MOODENG
-  PEARL TON ALGO IRYS MON
-  SYRUP NEAR XPL AAVE RENDER
-  VVV AERO ZRO FET ADA WLD
-  PUMP SUI
+👀 WATCH (26)
+  KITE LIGHTER PEARL OPG PROS
+  AAVE TON XRP MOODENG USELESS
+  CT HBAR PENGU ALGO VVV SOL
+  LINK HYPE PAXG PONS WLD PUMP
+  UNI TRUMP ENA MORPHO
 
 15m/1h = price change
 vol = volume vs normal
