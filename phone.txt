@@ -1,24 +1,26 @@
 CRYPTO SCAN
-Wed 5:15 PM CT
-25 flagged · 0 buy signals
+Wed 5:20 PM CT
+27 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (1)
-PEARL  15m  -2.8%  1h  -1.1%
-   vol 17.9x · $1.7M · on CB
+PEARL  15m  -3.0%  1h  -3.5%
+   vol 0.3x · $1.7M · on CB
 
-⚪ MOVED, NO VOLUME SPIKE (1)
-VVV    15m  +1.6%  1h  +1.8%
-   vol 0.5x · $23M · on CB
+⚪ MOVED, NO VOLUME SPIKE (2)
+VVV    15m  +1.6%  1h  +1.3%
+   vol 0.7x · $24M · on CB
+ZEC    15m  +1.0%  1h  +0.8%
+   vol 0.8x · $127M · on CB
 
-👀 WATCH (23)
-  USELESS HONEY KITE SYRUP
-  BIGTIME TON ZEC MOODENG ELSA
-  BLUR ARB CRV SKY ZRO APT
-  PAXG INJ FARTCOIN SUI ENA
-  DRV PROS ICP
+👀 WATCH (24)
+  ELSA USELESS MOODENG HONEY
+  SYRUP BIGTIME UNI WLD BCH
+  ENA ARB AVAX ETH ZRO APT
+  IRYS INJ QNT PAXG CRV SUI
+  SUPER DASH FIL
 
 15m/1h = price change
 vol = volume vs normal
