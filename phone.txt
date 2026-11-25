@@ -1,25 +1,20 @@
 CRYPTO SCAN
-Wed 3:10 PM CT
-36 flagged · 0 buy signals
+Wed 3:15 PM CT
+24 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (3)
-HONEY  15m  +2.7%  1h +11.0%
-   vol 0.3x · $2.5M · on CB
-BIGTIME 15m  +2.0%  1h  +1.0%
-   vol 1.2x · $1.5M · on CB
+⚪ THIN (low volume) (1)
 CFG    15m  -3.8%  1h  +9.7%
    vol 1.4x · $561K · on CB
 
-👀 WATCH (33)
-  DRV FARTCOIN CRV POND BLUR
-  USELESS ELSA DOGE PEARL DASH
-  UNI TAO XPL CT ALGO SEI INJ
-  FIL STRK VVV QNT PUMP FET
-  BCH STX ICP XRP BNB IRYS ENA
-  ATOM WLD AVAX
+👀 WATCH (23)
+  HONEY BIGTIME DRV BLUR
+  MOODENG ELSA MON DASH CT
+  LIGHTER FARTCOIN XPL QNT
+  KITE IRYS MANTLE PUMP ATOM
+  WLD CRV ENA SUI STX
 
 15m/1h = price change
 vol = volume vs normal
