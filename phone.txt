@@ -1,23 +1,21 @@
 CRYPTO SCAN
-Wed 4:55 AM CT
-26 flagged · 0 buy signals
+Wed 5:00 AM CT
+21 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (3)
-BIGTIME 15m  +2.9%  1h  -4.1%
-   vol 0.9x · $1.0M · on CB
-MOODENG 15m  -6.8%  1h  +7.3%
-   vol 0.4x · $616K · on CB
-POND   15m  -3.1%  1h  -2.3%
-   vol 1.0x · $684K · on CB
+⚪ THIN (low volume) (2)
+MOODENG 15m  -5.8%  1h  +4.5%
+   vol 0.8x · $632K · on CB
+POND   15m  -3.9%  1h  -2.1%
+   vol 0.5x · $682K · on CB
 
-👀 WATCH (23)
-  DRV FET SYRUP HBAR FARTCOIN
-  PEPE OPG PEARL ELSA USELESS
-  CRV ZEC SUI SKY LTC VVV APT
-  XRP IRYS BNB AVAX ADA MANTLE
+👀 WATCH (19)
+  BLUR BIGTIME PEARL USELESS
+  HBAR FARTCOIN SYRUP MON CRV
+  SKY ZEC VVV NEAR ETH ZRO SEI
+  AERO AAVE APT
 
 15m/1h = price change
 vol = volume vs normal
