@@ -1,31 +1,27 @@
 CRYPTO SCAN
-Wed 1:25 AM CT
-35 flagged · 0 buy signals
+Wed 1:30 AM CT
+33 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 🟡 AGAINST TREND / FADING (1)
-ZEC    15m  -1.2%  1h  -1.0%
-   vol 2.2x · $85M · on CB
+ZEC    15m  -1.1%  1h  -1.0%
+   vol 2.3x · $85M · on CB
 
 ⚪ THIN (low volume) (2)
-PROS   15m  +6.0%  1h +12.9%
-   vol 4.8x · $1.5M · on CB
-BIGTIME 15m  -4.5%  1h -13.1%
-   vol 0.8x · $720K · on CB
+OPG    15m  -2.9%  1h  -3.5%
+   vol 0.4x · $542K · on CB
+ELSA   15m  -2.3%  1h  -1.2%
+   vol 1.3x · $555K · on CB
 
-⚪ MOVED, NO VOLUME SPIKE (1)
-MON    15m  +2.4%  1h  +4.1%
-   vol 0.6x · $17M · on CB
-
-👀 WATCH (31)
-  CT POND LIGHTER USELESS IRYS
-  BONK NEAR PEARL PEPE FET
-  TRUMP ICP QNT XPL ELSA TAO
-  UNI TIA HYPE PONS FIL DRV
-  ONDO ENA SEI ALEO BTC ETH
-  BCH HBAR TON
+👀 WATCH (30)
+  CT POND PROS LIGHTER USELESS
+  RENDER PEPE QNT XPL AERO TAO
+  FIL TON PEARL DRV KITE TIA
+  UNI TRUMP PENGU ENA ICP NEAR
+  ALEO PUMP ONDO BCH SEI BTC
+  HBAR
 
 15m/1h = price change
 vol = volume vs normal
