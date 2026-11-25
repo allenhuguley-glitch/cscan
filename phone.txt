@@ -1,23 +1,19 @@
 CRYPTO SCAN
-Wed 6:50 AM CT
-40 flagged · 0 buy signals
+Wed 6:55 AM CT
+24 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (1)
 ELSA   15m  +4.3%  1h  +6.0%
-   vol 0.7x · $505K · on CB
+   vol 0.7x · $534K · on CB
 
-👀 WATCH (39)
-  KITE BIGTIME CT PEPE POND
-  USELESS FET OPG WLD XPL
-  PENGU FARTCOIN BLUR VVV MON
-  AERO SKY TRUMP FIL ONDO ZRO
-  ENA MOODENG DRV PONS DOT
-  PUMP ZEC ARB AVAX INJ HYPE
-  RENDER ALGO AAVE WLFI HBAR
-  ASTER PEARL
+👀 WATCH (23)
+  BIGTIME KITE BLUR POND PEPE
+  DRV WLD PONS MON FARTCOIN
+  ENA OPG AERO XPL FIL QNT ZEC
+  HYPE TON WLFI INJ CRV DOT
 
 15m/1h = price change
 vol = volume vs normal
