@@ -1,17 +1,19 @@
 CRYPTO SCAN
-Tue 10:10 PM CT
-32 flagged · 0 buy signals
+Tue 10:15 PM CT
+24 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (32)
-  POND OPG IRYS PEARL ICNT
-  PROS CAP ZRO MAMO INJ PONS
-  ELSA SEI PENGU ZEC VVV ENA
-  BNB UNI DOGE LIGHTER DASH
-  TRUMP BCH BTC ATOM XLM ADA
-  ONDO XRP LTC AVAX
+⚪ THIN (low volume) (1)
+ELSA   15m  +2.4%  1h  -0.1%
+   vol 2.0x · $638K · on CB
+
+👀 WATCH (23)
+  IRYS ICNT SYRUP MON CAP
+  PEARL ZRO WLFI FET OPG XLM
+  PEPE SEI ATOM ICP FIL ENA
+  ADA HYPE ONDO BNB FLR NEAR
 
 15m/1h = price change
 vol = volume vs normal
