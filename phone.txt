@@ -1,29 +1,28 @@
 CRYPTO SCAN
-Wed 12:30 AM CT
-28 flagged · 0 buy signals
+Wed 12:35 AM CT
+29 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (6)
-BIGTIME 15m +29.2%  1h +31.9%
-   vol 1.4x · $840K · on CB
-PONS   15m  +2.7%  1h  +3.3%
-   vol 2.8x · $557K · on CB
-POND   15m  -3.9%  1h  -3.3%
-   vol 0.2x · $647K · on CB
-OPG    15m  -2.4%  1h  -2.3%
-   vol 1.9x · $529K · on CB
-ELSA   15m  -2.4%  1h  -1.4%
-   vol 0.3x · $590K · on CB
-IRYS   15m  -2.2%  1h  -2.3%
-   vol 0.7x · $519K · on CB
+🟡 AGAINST TREND / FADING (1)
+MON    15m  +3.0%  1h  +4.5%
+   vol 2.6x · $16M · on CB
 
-👀 WATCH (22)
-  UNI XPL SKY ZEC CRV LIGHTER
-  MON VVV SYRUP ARB HYPE CT
-  PEARL MANTLE PEPE LINK INJ
-  XRP WLD MORPHO PAXG ENA
+⚪ THIN (low volume) (3)
+BIGTIME 15m +26.9%  1h +52.5%
+   vol 1.2x · $968K · on CB
+OPG    15m  +4.2%  1h  -2.2%
+   vol 0.5x · $531K · on CB
+IRYS   15m  -2.2%  1h  -2.3%
+   vol 0.7x · $514K · on CB
+
+👀 WATCH (25)
+  PONS POND UNI SKY XPL CRV
+  BCH ZEC VVV PEPE ARB SYRUP
+  TON USELESS BNB PEARL WLD
+  SEI MORPHO PAXG APT DOT LINK
+  BONK KITE
 
 15m/1h = price change
 vol = volume vs normal
