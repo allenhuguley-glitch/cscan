@@ -1,20 +1,24 @@
 CRYPTO SCAN
-Tue 10:45 PM CT
-29 flagged · 0 buy signals
+Tue 10:50 PM CT
+40 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
-POND   15m  -3.7%  1h  -7.3%
-   vol 3.0x · $633K · on CB
+⚪ THIN (low volume) (2)
+BIGTIME 15m  +3.2%  1h +42.0%
+   vol 0.7x · $414K · on CB
+POND   15m  -2.3%  1h  -5.9%
+   vol 0.5x · $631K · on CB
 
-👀 WATCH (28)
-  ICNT DRV CAP PUMP PEPE DOT
-  PENGU MAMO IRYS ENA KITE WLD
-  PONS OPG FET ZRO ADA TAO SKY
-  AERO MON ALEO SOL FLR BTC
-  DOGE INJ ASTER
+👀 WATCH (38)
+  CAP PROS MAMO PUMP KITE CT
+  IRYS PENGU SYRUP TRUMP ADA
+  SOL FET ALGO ASTER PONS LTC
+  PEARL WLD DRV DOT SKY ALEO
+  HBAR CRV AVAX LINK ELSA ONDO
+  NEAR FLR DOGE AAVE FIL PEPE
+  USELESS TIA MON
 
 15m/1h = price change
 vol = volume vs normal
