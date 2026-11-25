@@ -1,20 +1,49 @@
 CRYPTO SCAN
-Wed 9:30 AM CT
-26 flagged · 0 buy signals
+Wed 9:35 AM CT
+53 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
-MOODENG 15m  +4.4%  1h  +3.2%
-   vol 8.9x · $782K · on CB
+⚪ THIN (low volume) (3)
+MOODENG 15m  +5.2%  1h  +7.5%
+   vol 1.3x · $791K · on CB
+OPG    15m  +2.4%  1h  +2.0%
+   vol 4.8x · $740K · on CB
+ZRO    15m  +2.3%  1h  +0.7%
+   vol 1.6x · $813K · on CB
 
-👀 WATCH (25)
-  PEPE POND ELSA CT PONS CVX
-  PROS AKT SYRUP ATOM PENGU
-  NEAR BLUR PAXG XPL KITE HYPE
-  PUMP ZEC SKY INJ SEI TRUMP
-  FET TON
+⚪ MOVED, NO VOLUME SPIKE (11)
+MON    15m  +2.4%  1h  +3.1%
+   vol 1.8x · $14M · on CB
+VVV    15m  +2.1%  1h  +0.6%
+   vol 0.7x · $10M · on CB
+HYPE   15m  +1.3%  1h  +1.7%
+   vol 1.0x · $33M · on CB
+ZEC    15m  +1.2%  1h  +0.7%
+   vol 0.6x · $84M · on CB
+XLM    15m  +1.2%  1h  +1.6%
+   vol 0.9x · $6.5M · on CB
+ADA    15m  +1.2%  1h  +2.1%
+   vol 1.0x · $6.7M · on CB
+SUI    15m  +1.2%  1h  +1.6%
+   vol 0.8x · $5.8M · on CB
+ETH    15m  +1.2%  1h  +1.6%
+   vol 1.5x · $277M · on CB
+BTC    15m  +1.1%  1h  +1.1%
+   vol 1.5x · $861M · on CB
+SOL    15m  +1.1%  1h  +1.4%
+   vol 1.1x · $101M · on CB
+  +1 more
+
+👀 WATCH (39)
+  SKY POND ICP AAVE INJ FET
+  UNI ONDO PEARL APT LIGHTER
+  PENGU BCH AVAX LINK DOGE
+  AERO LTC XPL WLD DOT SEI QNT
+  AKT PAXG KITE ALGO HBAR XRP
+  PONS CRV PROS IRYS ELSA CT
+  ATOM NEAR FLR WLFI
 
 15m/1h = price change
 vol = volume vs normal
