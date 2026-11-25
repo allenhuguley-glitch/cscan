@@ -1,20 +1,21 @@
 CRYPTO SCAN
-Tue 11:05 PM CT
-28 flagged · 0 buy signals
+Tue 11:10 PM CT
+22 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
-BIGTIME 15m  +7.4%  1h +42.2%
-   vol 1.4x · $465K · on CB
+⚪ THIN (low volume) (2)
+BIGTIME 15m +12.9%  1h +26.7%
+   vol 2.0x · $529K · on CB
+ELSA   15m  +3.1%  1h  +4.4%
+   vol 21.8x · $664K · on CB
 
-👀 WATCH (27)
-  CT POND PROS KITE PEARL ICNT
-  MON OPG ELSA ZEC VVV PENGU
-  TON FARTCOIN ALEO MAMO PUMP
-  ADA TIA IRYS LINK LTC ETH
-  MANTLE XRP SOL DOGE
+👀 WATCH (20)
+  CT MON ICNT CVX KITE PEARL
+  POND SKY PONS WLD TON
+  USELESS TRUMP FARTCOIN PROS
+  MAMO SYRUP TIA ALEO FLR
 
 15m/1h = price change
 vol = volume vs normal
