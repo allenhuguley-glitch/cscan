@@ -1,64 +1,43 @@
 CRYPTO SCAN
-Wed 9:20 AM CT
-66 flagged · 0 buy signals
+Wed 9:25 AM CT
+54 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (14)
-PONS   15m  -3.7%  1h  -1.5%
-   vol 1.9x · $672K · on CB
-PEPE   15m  -2.6%  1h  -0.3%
-   vol 0.2x · $3.5M · on CB
-USELESS 15m  -2.6%  1h  -1.7%
-   vol 4.8x · $1.1M · on CB
-BIGTIME 15m  -2.5%  1h  -6.5%
-   vol 7.7x · $1.1M · on CB
-PENGU  15m  -2.4%  1h  -1.2%
-   vol 0.5x · $476K · on CB
+⚪ THIN (low volume) (8)
+PONS   15m  -2.9%  1h  -2.6%
+   vol 1.0x · $667K · on CB
+USELESS 15m  -2.9%  1h  -2.3%
+   vol 1.3x · $1.1M · on CB
+FARTCOIN 15m  -2.4%  1h  -0.6%
+   vol 0.3x · $603K · on CB
 AAVE   15m  -2.4%  1h  -1.7%
    vol 0.4x · $3.3M · on CB
 LIGHTER 15m  -2.4%  1h  -1.0%
    vol 0.1x · $1.5M · on CB
 APT    15m  -2.2%  1h  -0.6%
-   vol 0.5x · $488K · on CB
-PUMP   15m  -2.2%  1h  -0.8%
-   vol 0.5x · $1.0M · on CB
-FIL    15m  -2.2%  1h  -1.2%
-   vol 6.5x · $1.3M · on CB
-  +4 more
+   vol 0.5x · $490K · on CB
+ZRO    15m  -2.0%  1h  -2.3%
+   vol 0.3x · $776K · on CB
+ATOM   15m  -2.0%  1h  -0.3%
+   vol 2.0x · $726K · on CB
 
-⚪ MOVED, NO VOLUME SPIKE (16)
-VVV    15m  -3.9%  1h  -1.7%
-   vol 1.2x · $10M · on CB
-ZEC    15m  -3.8%  1h  -1.4%
-   vol 1.0x · $84M · on CB
-NEAR   15m  -2.6%  1h  -1.2%
-   vol 0.1x · $18M · on CB
-HYPE   15m  -2.6%  1h  -0.4%
-   vol 1.4x · $33M · on CB
-ETH    15m  -2.1%  1h  -0.6%
-   vol 0.9x · $276M · on CB
-SUI    15m  -2.0%  1h  -0.7%
-   vol 0.7x · $5.7M · on CB
-XLM    15m  -1.9%  1h  -0.4%
-   vol 0.2x · $6.5M · on CB
-TAO    15m  -1.9%  1h  -0.2%
-   vol 0.4x · $6.0M · on CB
-SOL    15m  -1.9%  1h  -0.7%
-   vol 0.6x · $101M · on CB
-LTC    15m  -1.9%  1h  -0.3%
-   vol 0.6x · $6.9M · on CB
-  +6 more
+⚪ MOVED, NO VOLUME SPIKE (2)
+VVV    15m  -1.6%  1h  -2.3%
+   vol 1.0x · $10M · on CB
+NEAR   15m  -1.1%  1h  -1.3%
+   vol 0.2x · $18M · on CB
 
-👀 WATCH (36)
-  ICP POND QNT CT INJ RENDER
-  AERO TRUMP ALGO AVAX HBAR
-  SEI DOT ENA PEARL ZRO POL
-  SKY BNB FARTCOIN PAXG FET
-  ELSA BCH ARB CRV IRYS DASH
-  TON WLD SYRUP DRV BLUR FLR
-  KITE WLFI
+👀 WATCH (44)
+  QNT AERO PEPE DOT IRYS ENA
+  BONK POL CVX AKT ELSA BCH
+  HYPE PROS SYRUP CRV POND FIL
+  PENGU PAXG BLUR DRV ZEC XPL
+  ONDO ADA CT TAO PUMP ALGO
+  SUI FLR WLD FET ARB INJ AVAX
+  LTC HBAR XLM SEI ICP UNI
+  KITE
 
 15m/1h = price change
 vol = volume vs normal
