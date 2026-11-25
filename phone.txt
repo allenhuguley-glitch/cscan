@@ -1,35 +1,29 @@
 CRYPTO SCAN
-Wed 12:10 PM CT
-41 flagged · 0 buy signals
+Wed 12:15 PM CT
+33 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (2)
-HONEY  15m  +7.7%  1h +26.5%
-   vol 0.2x · $1.4M · on CB
-MOODENG 15m  +2.7%  1h  +6.2%
-   vol 1.2x · $935K · on CB
+MOODENG 15m  +2.8%  1h  +4.1%
+   vol 0.8x · $930K · on CB
+DRV    15m  +2.1%  1h  +4.1%
+   vol 5.4x · $2.1M · on CB
 
-⚪ MOVED, NO VOLUME SPIKE (5)
-NEAR   15m  +1.6%  1h  +3.8%
-   vol 0.4x · $18M · on CB
-ZEC    15m  +1.2%  1h  +5.2%
-   vol 1.6x · $107M · on CB
-VVV    15m  +1.1%  1h  +3.9%
-   vol 0.5x · $12M · on CB
-HYPE   15m  +1.0%  1h  +2.7%
-   vol 1.5x · $40M · on CB
-MON    15m  -2.9%  1h  +1.5%
-   vol 1.5x · $16M · on CB
+⚪ MOVED, NO VOLUME SPIKE (2)
+NEAR   15m  +1.2%  1h  +3.3%
+   vol 1.0x · $18M · on CB
+MON    15m  -3.8%  1h  +0.2%
+   vol 0.4x · $16M · on CB
 
-👀 WATCH (34)
-  BLUR PEARL AERO BIGTIME OPG
-  DRV CT FARTCOIN INJ WLFI ZRO
-  QNT SYRUP POND AKT DOT CVX
-  ENA PUMP AAVE PONS TAO SUI
-  PROS SOL LINK ADA XPL FLR
-  LIGHTER ALEO WLD FET ALGO
+👀 WATCH (29)
+  ZRO BLUR BIGTIME AERO HONEY
+  OPG HYPE ZEC INJ WLFI
+  LIGHTER QNT CRV ENA PUMP DOT
+  ELSA PONS AKT LINK CVX ATOM
+  AAVE SUI TAO FLR ALEO HBAR
+  FARTCOIN
 
 15m/1h = price change
 vol = volume vs normal
