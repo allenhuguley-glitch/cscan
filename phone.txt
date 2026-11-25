@@ -1,28 +1,21 @@
 CRYPTO SCAN
-Wed 1:50 PM CT
-39 flagged · 0 buy signals
+Wed 1:55 PM CT
+31 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-🟡 AGAINST TREND / FADING (1)
-ZEC    15m  -1.4%  1h  +0.4%
-   vol 2.9x · $120M · on CB
+⚪ THIN (low volume) (1)
+HONEY  15m -16.4%  1h -30.6%
+   vol 2.3x · $1.9M · on CB
 
-⚪ THIN (low volume) (2)
-HONEY  15m -21.7%  1h  -5.7%
-   vol 1.1x · $2.2M · on CB
-POND   15m  -2.6%  1h  -0.3%
-   vol 8.2x · $673K · on CB
-
-👀 WATCH (36)
-  OPG MOODENG SYRUP PROS XPL
-  ZRO ATOM BONK ENA ARB PEPE
-  APT LIGHTER TAO DASH NEAR
-  CRV AERO CVX FET INJ USELESS
-  WLD HYPE RENDER ALGO SUI SEI
-  MON BIGTIME DOT UNI SOL TON
-  DOGE KITE
+👀 WATCH (30)
+  POND MOODENG SYRUP XPL ATOM
+  LIGHTER ARB PONS AKT PEPE
+  PROS APT CRV AERO WLD SKY
+  MON INJ OPG USELESS FARTCOIN
+  ALGO ENA BIGTIME DOT ZRO CVX
+  KITE DOGE BTC
 
 15m/1h = price change
 vol = volume vs normal
