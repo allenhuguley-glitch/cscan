@@ -1,19 +1,19 @@
 CRYPTO SCAN
-Wed 5:05 AM CT
+Wed 5:10 AM CT
 19 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (1)
-POND   15m  -2.7%  1h  -3.0%
-   vol 0.0x · $676K · on CB
+POND   15m  -2.3%  1h  -4.1%
+   vol 0.0x · $666K · on CB
 
 👀 WATCH (18)
-  BIGTIME SKY BLUR DRV PEARL
-  VVV MOODENG ELSA KITE MON
-  CRV CT SYRUP WLD INJ SEI QNT
-  XLM
+  BLUR OPG DRV SKY PEARL CT
+  MOODENG NEAR FARTCOIN KITE
+  BIGTIME ELSA SYRUP WLD CRV
+  SEI ZRO AERO
 
 15m/1h = price change
 vol = volume vs normal
