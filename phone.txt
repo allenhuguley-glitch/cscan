@@ -1,19 +1,19 @@
 CRYPTO SCAN
-Tue 7:55 PM CT
-22 flagged · 0 buy signals
+Tue 8:00 PM CT
+19 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (1)
-POND   15m  -2.7%  1h  -2.3%
-   vol 2.5x · $595K · on CB
+POND   15m  -2.2%  1h  -6.0%
+   vol 0.0x · $589K · on CB
 
-👀 WATCH (21)
-  IRYS PEARL PONS SKY AKT
-  SYRUP CAP QNT STX ELSA PEPE
-  INJ ALGO BCH ONDO FLR FET
-  XLM BTC ZEC FIL
+👀 WATCH (18)
+  IRYS SYRUP STX SKY PROS CAP
+  INJ FIL ALGO MAMO PEPE AERO
+  LINK ARB HBAR FARTCOIN QNT
+  LTC
 
 15m/1h = price change
 vol = volume vs normal
