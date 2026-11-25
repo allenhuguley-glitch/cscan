@@ -1,47 +1,41 @@
 CRYPTO SCAN
-Wed 1:25 PM CT
-62 flagged · 3 buy signals
+Wed 1:30 PM CT
+61 flagged · 0 buy signals
 
-🟢 BUY SIGNALS (3)
-VVV    15m  +2.8%  1h  +3.8%
-   vol 2.0x · $16M · on CB
-UNI    15m  +1.3%  1h  +1.5%
-   vol 7.1x · $5.8M · on CB
-AAVE   15m  +1.1%  1h  +1.1%
-   vol 7.4x · $5.1M · on CB
+🟢 BUY SIGNALS
+  none right now
 
 ⚪ THIN (low volume) (2)
-HONEY  15m +11.8%  1h +33.5%
-   vol 0.7x · $2.5M · on CB
+HONEY  15m  +8.2%  1h +34.1%
+   vol 1.4x · $2.6M · on CB
 BIGTIME 15m  +2.5%  1h  +1.9%
    vol 1.0x · $1.5M · on CB
 
-⚪ MOVED, NO VOLUME SPIKE (7)
-MON    15m  +2.5%  1h  +4.2%
+⚪ MOVED, NO VOLUME SPIKE (6)
+MON    15m  +2.1%  1h  +3.1%
+   vol 0.9x · $16M · on CB
+VVV    15m  +2.0%  1h  +3.1%
    vol 0.6x · $16M · on CB
-HYPE   15m  +1.6%  1h  +1.9%
-   vol 1.5x · $44M · on CB
-ZEC    15m  +1.4%  1h  +3.0%
-   vol 1.8x · $119M · on CB
 TAO    15m  +1.2%  1h  +2.2%
    vol 0.6x · $7.0M · on CB
-ADA    15m  +1.2%  1h  +2.1%
-   vol 1.9x · $7.6M · on CB
-SUI    15m  +1.2%  1h  +2.1%
-   vol 0.7x · $7.4M · on CB
-SOL    15m  +1.0%  1h  +1.8%
-   vol 1.5x · $113M · on CB
+UNI    15m  +1.2%  1h  +1.5%
+   vol 0.5x · $5.8M · on CB
+NEAR   15m  +1.1%  1h  +2.2%
+   vol 0.3x · $19M · on CB
+SUI    15m  +1.0%  1h  +2.1%
+   vol 0.5x · $7.4M · on CB
 
-👀 WATCH (50)
-  PROS USELESS KITE SYRUP ENA
-  ELSA QNT ONDO PONS SEI STX
-  ICP MOODENG CT NEAR DOGE
-  BONK OPG HBAR XLM AKT FIL
-  TON DRV ARB CRV CVX AVAX SKY
-  XRP APT ZRO DOT INJ LINK LTC
-  DASH PEARL BLUR BCH MANTLE
-  ALEO WLD AERO POL ETH XPL
-  ATOM PUMP LIGHTER
+👀 WATCH (53)
+  KITE SYRUP ELSA QNT ENA
+  USELESS PONS SEI CRV ICP
+  TRUMP ONDO PUMP HYPE LINK
+  FET BONK ZEC INJ PEARL AKT
+  DRV FIL DASH PEPE ADA SOL
+  XPL TON XRP CVX CT DOGE AVAX
+  MOODENG ALGO BLUR HBAR ZRO
+  XLM APT MANTLE AAVE FARTCOIN
+  DOT LTC BCH BTC WLD AERO
+  ATOM LIGHTER ALEO
 
 15m/1h = price change
 vol = volume vs normal
