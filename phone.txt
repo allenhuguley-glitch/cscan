@@ -1,24 +1,29 @@
 CRYPTO SCAN
-Wed 12:00 PM CT
-27 flagged · 0 buy signals
+Wed 12:05 PM CT
+33 flagged · 1 buy signal
 
-🟢 BUY SIGNALS
-  none right now
+🟢 BUY SIGNALS (1)
+HYPE   15m  +1.3%  1h  +3.6%
+   vol 2.3x · $39M · on CB
 
-⚪ THIN (low volume) (1)
-BLUR   15m  +3.3%  1h  +3.7%
-   vol 0.8x · $689K · on CB
+⚪ THIN (low volume) (2)
+HONEY  15m  +9.4%  1h +19.2%
+   vol 0.6x · $1.4M · on CB
+BLUR   15m  +3.3%  1h  +4.4%
+   vol 1.3x · $706K · on CB
 
-⚪ MOVED, NO VOLUME SPIKE (1)
-MON    15m  -2.3%  1h  +7.1%
-   vol 1.1x · $16M · on CB
+⚪ MOVED, NO VOLUME SPIKE (2)
+ZEC    15m  +1.3%  1h  +5.5%
+   vol 0.4x · $105M · on CB
+MON    15m  -3.7%  1h  +4.0%
+   vol 0.6x · $16M · on CB
 
-👀 WATCH (25)
-  MOODENG SYRUP KITE OPG
-  LIGHTER QNT DASH USELESS
-  PONS STX DRV PEPE CT FLR FET
-  PROS ADA DOT RENDER BCH AERO
-  INJ WLFI BNB ALGO
+👀 WATCH (28)
+  PEARL KITE BIGTIME SYRUP
+  POND OPG LIGHTER AERO ATOM
+  PONS QNT CT NEAR INJ VVV CRV
+  PROS FLR DOT BCH ALEO WLFI
+  RENDER FET SUI ENA ALGO ICP
 
 15m/1h = price change
 vol = volume vs normal
