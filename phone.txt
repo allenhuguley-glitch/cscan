@@ -1,26 +1,28 @@
 CRYPTO SCAN
-Wed 4:05 AM CT
+Wed 4:10 AM CT
 26 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-🟡 AGAINST TREND / FADING (1)
-MON    15m  -1.0%  1h  -6.0%
-   vol 2.2x · $18M · on CB
+⚪ THIN (low volume) (3)
+POND   15m  +2.3%  1h  +4.4%
+   vol 0.8x · $718K · on CB
+BIGTIME 15m  -2.3%  1h  -5.2%
+   vol 2.5x · $924K · on CB
+DRV    15m  -2.2%  1h  +0.4%
+   vol 1.5x · $2.2M · on CB
 
-⚪ THIN (low volume) (2)
-POND   15m  +3.6%  1h  +6.2%
-   vol 1.6x · $734K · on CB
-PEARL  15m  -2.6%  1h  -5.6%
-   vol 2.1x · $1.7M · on CB
+⚪ MOVED, NO VOLUME SPIKE (1)
+MON    15m  -1.7%  1h  -5.3%
+   vol 0.2x · $18M · on CB
 
-👀 WATCH (23)
-  DRV USELESS OPG BIGTIME
-  LIGHTER ELSA PONS VVV LTC
-  ETH UNI BTC SEI ALGO RENDER
-  KITE LINK MANTLE APT ASTER
-  FET MAMO AKT
+👀 WATCH (22)
+  ELSA PEARL OPG CT USELESS
+  SYRUP SKY ICP IRYS FET PEPE
+  NEAR TON RENDER LINK PAXG
+  MANTLE MAMO ASTER WLFI AERO
+  AKT
 
 15m/1h = price change
 vol = volume vs normal
