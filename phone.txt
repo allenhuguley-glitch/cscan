@@ -1,48 +1,58 @@
 CRYPTO SCAN
-Wed 11:00 AM CT
-52 flagged · 0 buy signals
+Wed 11:05 AM CT
+60 flagged · 1 buy signal
 
-🟢 BUY SIGNALS
-  none right now
+🟢 BUY SIGNALS (1)
+VVV    15m  +1.9%  1h  +0.1%
+   vol 3.0x · $10M · on CB
 
-⚪ THIN (low volume) (5)
+🟡 AGAINST TREND / FADING (1)
+TAO    15m  +1.3%  1h  +1.6%
+   vol 3.8x · $5.7M · on CB
+
+⚪ THIN (low volume) (6)
 BLUR   15m  +4.8%  1h  +7.8%
-   vol 4.2x · $577K · on CB
+   vol 4.2x · $589K · on CB
 ELSA   15m  +3.4%  1h  +2.9%
-   vol 4.4x · $592K · on CB
+   vol 4.4x · $594K · on CB
 BIGTIME 15m  +2.8%  1h  +5.4%
    vol 2.6x · $1.4M · on CB
-SYRUP  15m  +2.5%  1h  +0.0%
-   vol 1.2x · $1.1M · on CB
-POND   15m  -4.5%  1h  -1.7%
-   vol 0.1x · $764K · on CB
+MOODENG 15m  +2.2%  1h  +1.2%
+   vol 0.0x · $859K · on CB
+XPL    15m  +2.1%  1h  +2.1%
+   vol 1.4x · $1.2M · on CB
+POND   15m  -3.1%  1h  +0.6%
+   vol 0.5x · $770K · on CB
 
-⚪ MOVED, NO VOLUME SPIKE (8)
-ZEC    15m  +1.6%  1h  +0.4%
-   vol 1.7x · $87M · on CB
-MON    15m  +1.6%  1h  +5.5%
-   vol 1.6x · $14M · on CB
-HYPE   15m  +1.5%  1h  +1.6%
-   vol 0.3x · $33M · on CB
-LTC    15m  +1.3%  1h  +1.5%
-   vol 0.9x · $7.2M · on CB
-VVV    15m  +1.3%  1h  -0.1%
-   vol 0.4x · $9.8M · on CB
-ADA    15m  +1.2%  1h  +1.0%
-   vol 0.5x · $6.8M · on CB
-SUI    15m  +1.2%  1h  +1.0%
-   vol 0.5x · $5.6M · on CB
-NEAR   15m  +1.2%  1h  +0.3%
-   vol 0.4x · $15M · on CB
+⚪ MOVED, NO VOLUME SPIKE (9)
+ZEC    15m  +1.7%  1h  +1.1%
+   vol 1.3x · $89M · on CB
+HYPE   15m  +1.5%  1h  +2.2%
+   vol 1.0x · $34M · on CB
+ADA    15m  +1.4%  1h  +1.4%
+   vol 0.5x · $6.9M · on CB
+SUI    15m  +1.4%  1h  +1.8%
+   vol 0.6x · $5.6M · on CB
+NEAR   15m  +1.3%  1h  +0.5%
+   vol 1.0x · $16M · on CB
+LTC    15m  +1.2%  1h  +1.8%
+   vol 1.0x · $7.2M · on CB
+XLM    15m  +1.1%  1h  +1.2%
+   vol 0.4x · $6.4M · on CB
+ETH    15m  +1.1%  1h  +0.2%
+   vol 1.2x · $293M · on CB
+LINK   15m  +1.1%  1h  +0.8%
+   vol 0.4x · $5.6M · on CB
 
-👀 WATCH (39)
-  STX XPL RENDER AERO ATOM APT
-  INJ TRUMP MOODENG BCH ONDO
-  ALGO LIGHTER DOT XLM HBAR
-  OPG LINK UNI DOGE AVAX BNB
-  AAVE ETH ARB XRP SOL BTC
-  PUMP IRYS PONS CRV ENA SKY
-  QNT ICP PEPE DRV WLD
+👀 WATCH (43)
+  STX PONS DRV DASH SEI RENDER
+  AERO WLD APT ATOM UNI INJ
+  ENA TRUMP SYRUP PEPE ONDO
+  AVAX DOT HBAR FET LIGHTER
+  ALGO QNT AKT AAVE DOGE BCH
+  OPG BONK MON SOL XRP PUMP
+  BNB ARB ZRO USELESS FIL BTC
+  PEARL ICP KITE
 
 15m/1h = price change
 vol = volume vs normal
