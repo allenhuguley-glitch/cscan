@@ -1,25 +1,23 @@
 CRYPTO SCAN
-Wed 5:35 PM CT
-25 flagged · 0 buy signals
+Wed 5:40 PM CT
+21 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (1)
-HONEY  15m  +8.7%  1h +12.3%
-   vol 2.2x · $3.4M · on CB
+HONEY  15m  +3.1%  1h  +5.7%
+   vol 0.4x · $3.3M · on CB
 
-⚪ MOVED, NO VOLUME SPIKE (2)
-MON    15m  +1.5%  1h  +1.4%
-   vol 1.4x · $13M · on CB
-VVV    15m  -1.0%  1h  +1.1%
-   vol 0.4x · $24M · on CB
+⚪ MOVED, NO VOLUME SPIKE (1)
+MON    15m  +2.1%  1h  +1.9%
+   vol 1.6x · $13M · on CB
 
-👀 WATCH (22)
-  PEARL MOODENG SUPER BIGTIME
-  NEAR DASH STRK PEPE XPL CT
-  ENA SYRUP UNI PONS CRV ALEO
-  LTC QNT PAXG KITE STX SUI
+👀 WATCH (19)
+  PONS ELSA PEARL ZRO BIGTIME
+  NEAR USELESS OPG DASH CT STX
+  VVV SUPER CRV ALEO UNI QNT
+  SOL SUI
 
 15m/1h = price change
 vol = volume vs normal
