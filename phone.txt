@@ -1,15 +1,18 @@
 CRYPTO SCAN
-Tue 9:50 PM CT
+Tue 9:55 PM CT
 17 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (17)
-  ELSA DRV IRYS PONS SKY CT
-  SYRUP MAMO OPG ZRO WLFI
-  RENDER ZEC XPL PENGU MORPHO
-  PEPE
+⚪ THIN (low volume) (1)
+DRV    15m  -2.4%  1h  +1.6%
+   vol 0.7x · $1.6M · on CB
+
+👀 WATCH (16)
+  ELSA SYRUP OPG SKY IRYS ALEO
+  MAMO CRV HYPE AERO ICNT CT
+  ZEC XPL CAP INJ
 
 15m/1h = price change
 vol = volume vs normal
