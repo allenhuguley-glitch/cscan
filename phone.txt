@@ -1,24 +1,25 @@
 CRYPTO SCAN
-Tue 7:40 PM CT
-30 flagged · 0 buy signals
+Tue 7:45 PM CT
+25 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-🔴 REAL DROPS (1)
-UNI    15m  -1.2%  1h  -1.8%
-   vol 4.9x · $5.1M · on CB
+⚪ THIN (low volume) (2)
+POND   15m  -4.0%  1h  -5.7%
+   vol 5.2x · $584K · on CB
+PROS   15m  -2.4%  1h  -6.4%
+   vol 3.8x · $1.0M · on CB
 
 ⚪ MOVED, NO VOLUME SPIKE (1)
-MON    15m  -1.2%  1h  -0.3%
-   vol 1.1x · $13M · on CB
+UNI    15m  -1.2%  1h  -2.1%
+   vol 0.9x · $5.1M · on CB
 
-👀 WATCH (28)
-  IRYS PUMP PEARL POND SYRUP
-  QNT ZEC AAVE CT ZRO INJ
-  PENGU AKT ARB MAMO TRUMP ADA
-  NEAR XRP SEI GRT LINK ASTER
-  BNB DOGE FLR ELSA TAO
+👀 WATCH (22)
+  PEARL SKY PEPE CT QNT ZEC
+  MAMO AAVE SEI PONS PUMP
+  PENGU INJ ARB FLR ELSA IRYS
+  ASTER LINK USELESS TAO GRT
 
 15m/1h = price change
 vol = volume vs normal
