@@ -1,14 +1,21 @@
 CRYPTO SCAN
-Tue 7:00 PM CT
-16 flagged · 0 buy signals
+Tue 7:05 PM CT
+33 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (16)
-  PONS DRV MON SKY MANTLE PEPE
-  SYRUP TIA XLM ZRO FARTCOIN
-  ARB ONDO AKT WLFI VVV
+⚪ THIN (low volume) (1)
+PONS   15m  -2.1%  1h  -0.6%
+   vol 0.9x · $548K · on CB
+
+👀 WATCH (32)
+  SKY CT USELESS XPL FET DRV
+  CAP ZEC NEAR TIA UNI GRT VVV
+  HYPE QNT MAMO MANTLE DASH
+  TAO WLD BCH INJ ADA TRUMP
+  DOT XLM ONDO SEI WLFI ALGO
+  SYRUP ARB
 
 15m/1h = price change
 vol = volume vs normal
