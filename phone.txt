@@ -1,19 +1,14 @@
 CRYPTO SCAN
-Tue 6:55 PM CT
-21 flagged · 0 buy signals
+Tue 7:00 PM CT
+16 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
-POND   15m  -4.9%  1h  -2.5%
-   vol 0.6x · $606K · on CB
-
-👀 WATCH (20)
-  PEARL ELSA SKY DRV SYRUP MON
-  PONS TON FET ARB PROS AAVE
-  MANTLE PEPE MORPHO ZRO ETH
-  VVV SOL WLFI
+👀 WATCH (16)
+  PONS DRV MON SKY MANTLE PEPE
+  SYRUP TIA XLM ZRO FARTCOIN
+  ARB ONDO AKT WLFI VVV
 
 15m/1h = price change
 vol = volume vs normal
