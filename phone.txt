@@ -1,17 +1,19 @@
 CRYPTO SCAN
-Wed 12:00 AM CT
-29 flagged · 0 buy signals
+Wed 12:05 AM CT
+22 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (29)
-  OPG BIGTIME PEPE LIGHTER
-  USELESS INJ PENGU XPL TRUMP
-  PEARL TIA PONS NEAR ZRO VVV
-  AERO WLFI FET ICNT QNT PUMP
-  ZEC KITE LTC ADA MORPHO BNB
-  SUI CT
+⚪ THIN (low volume) (1)
+BIGTIME 15m  +2.3%  1h  +0.9%
+   vol 1.3x · $551K · on CB
+
+👀 WATCH (21)
+  POND ICNT SKY XPL TIA DRV
+  ELSA VVV FET PUMP LIGHTER
+  WLFI NEAR PEPE INJ MORPHO
+  ADA CT BNB MON HBAR
 
 15m/1h = price change
 vol = volume vs normal
