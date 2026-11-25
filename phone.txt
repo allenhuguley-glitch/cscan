@@ -1,18 +1,21 @@
 CRYPTO SCAN
-Tue 7:10 PM CT
-36 flagged · 0 buy signals
+Tue 7:15 PM CT
+25 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (36)
-  POND PEARL USELESS SKY
-  LIGHTER XPL FET MANTLE CAP
-  ZRO NEAR TIA UNI GRT VVV CT
-  HYPE QNT MAMO PONS DASH TAO
-  ALEO BCH INJ ADA TRUMP DOT
-  ENA ONDO ARB WLFI ALGO BTC
-  PAXG SYRUP
+⚪ THIN (low volume) (2)
+IRYS   15m  +5.8%  1h  +9.4%
+   vol 12.3x · $387K · on CB
+PROS   15m  -2.4%  1h  -0.9%
+   vol 2.8x · $1.0M · on CB
+
+👀 WATCH (23)
+  ELSA PEARL SKY MAMO ZRO POND
+  ZEC TIA GRT PONS XPL ALEO
+  DRV LIGHTER MON PAXG HYPE
+  ALGO INJ TRUMP BTC LINK VVV
 
 15m/1h = price change
 vol = volume vs normal
