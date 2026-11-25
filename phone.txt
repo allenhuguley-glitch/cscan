@@ -1,18 +1,18 @@
 CRYPTO SCAN
-Tue 5:55 PM CT
-16 flagged · 0 buy signals
+Tue 6:00 PM CT
+13 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (1)
-PEARL  15m  -2.5%  1h  -0.4%
-   vol 0.5x · $2.5M · on CB
+POND   15m  +4.0%  1h  -0.7%
+   vol 0.3x · $578K · on CB
 
-👀 WATCH (15)
-  ELSA CT MON ZRO USELESS XPL
-  PROS CAP WLD AKT FET AAVE
-  ENA ONDO PEPE
+👀 WATCH (12)
+  PEARL MON CT DRV USELESS
+  PROS XPL CAP ELSA AKT SOL
+  PEPE
 
 15m/1h = price change
 vol = volume vs normal
