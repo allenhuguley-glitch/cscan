@@ -1,25 +1,24 @@
 CRYPTO SCAN
-Wed 2:45 PM CT
-29 flagged · 0 buy signals
+Wed 2:50 PM CT
+24 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (1)
-HONEY  15m  -8.6%  1h +10.0%
-   vol 0.3x · $2.3M · on CB
+HONEY  15m  -6.4%  1h  -0.8%
+   vol 0.7x · $2.3M · on CB
 
 ⚪ MOVED, NO VOLUME SPIKE (1)
-MON    15m  -1.2%  1h  -4.0%
-   vol 1.0x · $14M · on CB
+MON    15m  -1.5%  1h  -5.6%
+   vol 0.6x · $14M · on CB
 
-👀 WATCH (27)
-  USELESS PEARL DRV CRV
-  BIGTIME LIGHTER PONS SUPER
-  ENA RENDER DASH PUMP SEI INJ
-  ONDO PEPE POND AAVE IRYS
-  FARTCOIN NEAR ARB XRP MANTLE
-  XLM TRUMP HBAR
+👀 WATCH (22)
+  CRV MOODENG PEARL BLUR VVV
+  CVX XPL RENDER DASH BIGTIME
+  PEPE DRV FARTCOIN AKT OPG
+  PAXG ENA APT BNB ELSA IRYS
+  DOT
 
 15m/1h = price change
 vol = volume vs normal
