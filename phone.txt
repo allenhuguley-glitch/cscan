@@ -1,24 +1,23 @@
 CRYPTO SCAN
-Wed 1:50 AM CT
-40 flagged · 0 buy signals
+Wed 1:55 AM CT
+26 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (2)
-BIGTIME 15m  +3.0%  1h -23.8%
-   vol 1.2x · $799K · on CB
-POND   15m  +2.2%  1h  -2.1%
-   vol 0.2x · $654K · on CB
+⚪ THIN (low volume) (3)
+PROS   15m  +2.3%  1h +10.3%
+   vol 1.8x · $1.6M · on CB
+BIGTIME 15m  -6.6%  1h  -8.7%
+   vol 0.7x · $763K · on CB
+POND   15m  -3.1%  1h  -3.8%
+   vol 0.8x · $648K · on CB
 
-👀 WATCH (38)
-  PROS MON VVV PEARL BONK
-  RENDER SOL ETH HBAR SYRUP
-  SEI UNI SKY XPL DOGE INJ FIL
-  TIA MORPHO LINK USELESS PUMP
-  APT ADA AAVE AERO BNB QNT
-  BTC ATOM ARB PENGU ELSA
-  MANTLE ICP ZRO HYPE ONDO
+👀 WATCH (23)
+  BONK RENDER ZEC NEAR CT AERO
+  ENA MANTLE VVV SUI INJ ASTER
+  TIA MON SEI QNT ATOM ARB
+  LIGHTER SOL PAXG HYPE ONDO
 
 15m/1h = price change
 vol = volume vs normal
