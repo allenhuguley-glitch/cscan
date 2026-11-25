@@ -1,20 +1,23 @@
 CRYPTO SCAN
-Tue 8:10 PM CT
+Tue 8:15 PM CT
 32 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
+⚪ THIN (low volume) (2)
 POND   15m  -6.6%  1h -10.2%
-   vol 7.1x · $577K · on CB
+   vol 7.1x · $582K · on CB
+IRYS   15m  -3.5%  1h  +0.4%
+   vol 0.3x · $507K · on CB
 
-👀 WATCH (31)
-  ELSA KITE SYRUP IRYS STX
-  PROS PEARL ZEC FIL XPL ADA
-  DOT UNI ZRO CAP XLM TAO SOL
-  BCH BTC ONDO LTC ETH LINK CT
-  ICP WLD ARB BNB ALGO TIA
+👀 WATCH (30)
+  KITE ELSA STX SYRUP PONS
+  PEARL LIGHTER PROS ARB TAO
+  AKT ADA QNT INJ DOT ICP AVAX
+  RENDER XLM XPL TIA USELESS
+  VVV HBAR PEPE GRT WLFI UNI
+  ENA ATOM
 
 15m/1h = price change
 vol = volume vs normal
