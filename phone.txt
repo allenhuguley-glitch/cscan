@@ -1,23 +1,25 @@
 CRYPTO SCAN
-Wed 3:30 PM CT
-23 flagged · 0 buy signals
+Wed 3:35 PM CT
+21 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
-HONEY  15m  -3.5%  1h  -4.2%
-   vol 1.2x · $2.5M · on CB
+⚪ THIN (low volume) (2)
+HONEY  15m  -4.0%  1h  -4.0%
+   vol 1.2x · $2.6M · on CB
+CFG    15m  -2.1%  1h  +4.4%
+   vol 0.5x · $579K · on CB
 
 ⚪ MOVED, NO VOLUME SPIKE (1)
-VVV    15m  +1.0%  1h  +2.5%
-   vol 0.9x · $20M · on CB
+VVV    15m  +1.4%  1h  +3.7%
+   vol 1.2x · $20M · on CB
 
-👀 WATCH (21)
-  LIGHTER BLUR PUMP OPG SYRUP
-  ELSA ZEC ONDO TRUMP DOT SEI
-  SUI CRV FIL XRP XLM BIGTIME
-  ICP TON AVAX PEPE
+👀 WATCH (18)
+  SUPER BIGTIME BLUR SYRUP
+  PUMP MOODENG XPL IRYS FET
+  ELSA ZEC ALEO ICP SEI ONDO
+  WLD CRV XLM
 
 15m/1h = price change
 vol = volume vs normal
