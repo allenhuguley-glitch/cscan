@@ -1,30 +1,24 @@
 CRYPTO SCAN
-Wed 1:45 AM CT
-53 flagged · 0 buy signals
+Wed 1:50 AM CT
+40 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (2)
-BIGTIME 15m  +3.5%  1h -28.9%
-   vol 0.6x · $824K · on CB
-POND   15m  +3.3%  1h  -1.4%
-   vol 0.9x · $661K · on CB
+BIGTIME 15m  +3.0%  1h -23.8%
+   vol 1.2x · $799K · on CB
+POND   15m  +2.2%  1h  -2.1%
+   vol 0.2x · $654K · on CB
 
-⚪ MOVED, NO VOLUME SPIKE (1)
-MON    15m  -2.4%  1h  +0.3%
-   vol 0.5x · $17M · on CB
-
-👀 WATCH (50)
-  PROS PEARL SYRUP IRYS VVV
-  SOL RENDER OPG ETH MORPHO
-  HYPE FET XLM SKY QNT TRUMP
-  UNI DOGE STRK XRP HBAR BCH
-  ELSA ADA PENGU SEI DRV AVAX
-  ENA PEPE ARB FIL LINK
-  USELESS PUMP ICP APT ASTER
-  BNB AAVE AERO XPL BONK SUI
-  BTC DOT ZRO FLR MANTLE ALGO
+👀 WATCH (38)
+  PROS MON VVV PEARL BONK
+  RENDER SOL ETH HBAR SYRUP
+  SEI UNI SKY XPL DOGE INJ FIL
+  TIA MORPHO LINK USELESS PUMP
+  APT ADA AAVE AERO BNB QNT
+  BTC ATOM ARB PENGU ELSA
+  MANTLE ICP ZRO HYPE ONDO
 
 15m/1h = price change
 vol = volume vs normal
