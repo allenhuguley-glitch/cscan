@@ -1,25 +1,23 @@
 CRYPTO SCAN
-Wed 1:00 AM CT
+Wed 1:05 AM CT
 23 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (2)
-BIGTIME 15m -27.3%  1h +20.3%
-   vol 2.3x · $772K · on CB
+⚪ THIN (low volume) (3)
+PROS   15m  +3.3%  1h  +5.5%
+   vol 4.4x · $1.2M · on CB
+BIGTIME 15m -24.8%  1h +15.1%
+   vol 0.8x · $721K · on CB
 POND   15m  -2.3%  1h  -8.4%
-   vol 1.1x · $632K · on CB
-
-⚪ MOVED, NO VOLUME SPIKE (1)
-MON    15m  +1.7%  1h  +4.6%
-   vol 0.5x · $17M · on CB
+   vol 1.1x · $648K · on CB
 
 👀 WATCH (20)
-  PROS OPG IRYS XPL PONS ZRO
-  PENGU ENA CT TRUMP RENDER
-  BCH WLD DOT BNB XLM AVAX ZEC
-  ADA LINK
+  PONS CT IRYS OPG USELESS
+  NEAR KITE TIA FET ENA ZRO
+  TRUMP VVV DOT PENGU AERO TON
+  XLM LINK ADA
 
 15m/1h = price change
 vol = volume vs normal
