@@ -1,20 +1,21 @@
 CRYPTO SCAN
-Tue 10:35 PM CT
-28 flagged · 0 buy signals
+Tue 10:40 PM CT
+23 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
-IRYS   15m  -3.1%  1h  -5.8%
-   vol 2.1x · $507K · on CB
+⚪ THIN (low volume) (2)
+POND   15m  -3.7%  1h  -7.3%
+   vol 3.0x · $620K · on CB
+IRYS   15m  -2.8%  1h  -5.4%
+   vol 0.4x · $506K · on CB
 
-👀 WATCH (27)
-  DRV XPL OPG PROS CAP PEARL
-  POND CT CVX SYRUP ZEC CRV
-  ATOM MON MAMO RENDER SKY
-  PEPE VVV SOL ZRO KITE INJ
-  TIA ALEO PONS ADA
+👀 WATCH (21)
+  ICNT DRV XPL CAP ZRO PEPE
+  PONS USELESS PENGU MAMO KITE
+  QNT TAO TIA HYPE INJ
+  FARTCOIN WLD SYRUP ALEO ADA
 
 15m/1h = price change
 vol = volume vs normal
