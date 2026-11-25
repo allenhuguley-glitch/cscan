@@ -1,21 +1,22 @@
 CRYPTO SCAN
-Wed 6:40 AM CT
-31 flagged · 0 buy signals
+Wed 6:45 AM CT
+37 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (1)
-BIGTIME 15m  -2.9%  1h  -3.9%
-   vol 0.5x · $1.1M · on CB
+ELSA   15m  +4.8%  1h  +9.3%
+   vol 3.4x · $507K · on CB
 
-👀 WATCH (30)
-  POND ELSA FET PEPE SKY KITE
-  BLUR USELESS INJ NEAR CRV
-  OPG PENGU ZRO ENA MOODENG CT
-  VVV XPL TRUMP WLD FARTCOIN
-  RENDER ARB TAO MORPHO IRYS
-  AVAX BNB MON
+👀 WATCH (36)
+  BIGTIME FET PEPE KITE OPG
+  USELESS POND VVV MON SKY
+  TRUMP CRV ONDO PENGU ZRO ENA
+  MOODENG CT XPL PUMP WLD
+  FARTCOIN PROS ARB UNI INJ
+  HYPE ZEC MORPHO SOL IRYS
+  AVAX XRP ETH BNB BTC
 
 15m/1h = price change
 vol = volume vs normal
