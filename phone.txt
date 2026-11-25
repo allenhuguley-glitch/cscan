@@ -1,23 +1,19 @@
 CRYPTO SCAN
-Wed 8:25 AM CT
-24 flagged · 0 buy signals
+Wed 8:30 AM CT
+22 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (3)
-POND   15m  +8.1%  1h  +9.1%
-   vol 1.4x · $816K · on CB
-BLUR   15m  +2.1%  1h  +2.0%
-   vol 0.2x · $463K · on CB
-BIGTIME 15m  -5.1%  1h  -7.5%
-   vol 2.7x · $1.1M · on CB
+⚪ THIN (low volume) (1)
+MOODENG 15m  -2.2%  1h  -1.2%
+   vol 0.4x · $708K · on CB
 
 👀 WATCH (21)
-  PEARL VVV XRP AAVE PONS SKY
-  ICP PEPE PENGU HBAR SUI ONDO
-  ALGO MOODENG ZRO PROS BTC
-  FET TRUMP TAO PAXG
+  BIGTIME POND BLUR KITE ZEC
+  PROS IRYS CT NEAR ICP PENGU
+  ZRO FIL SKY BCH PAXG SYRUP
+  PONS ENA MORPHO BONK
 
 15m/1h = price change
 vol = volume vs normal
