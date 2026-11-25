@@ -1,22 +1,20 @@
 CRYPTO SCAN
-Wed 1:15 AM CT
-19 flagged · 1 buy signal
+Wed 1:20 AM CT
+19 flagged · 0 buy signals
 
-🟢 BUY SIGNALS (1)
-MON    15m  +1.0%  1h  +4.3%
-   vol 2.1x · $17M · on CB
+🟢 BUY SIGNALS
+  none right now
 
 ⚪ THIN (low volume) (2)
-PROS   15m  +6.1%  1h  +9.6%
-   vol 7.5x · $1.3M · on CB
-BIGTIME 15m  -4.4%  1h  +8.0%
-   vol 1.7x · $728K · on CB
+PROS   15m  +7.5%  1h +13.1%
+   vol 11.5x · $1.4M · on CB
+BIGTIME 15m  -4.5%  1h -13.1%
+   vol 0.8x · $720K · on CB
 
-👀 WATCH (16)
-  PONS ELSA PEARL OPG USELESS
-  ICP ENA PEPE AERO ALGO
-  LIGHTER HBAR TON HYPE BCH
-  DOT
+👀 WATCH (17)
+  CT BONK ZEC NEAR MON ENA
+  PEARL ONDO PONS DRV ALEO TAO
+  BTC HBAR ELSA TON KITE
 
 15m/1h = price change
 vol = volume vs normal
