@@ -1,28 +1,22 @@
 CRYPTO SCAN
-Wed 10:50 AM CT
-29 flagged · 0 buy signals
+Wed 10:55 AM CT
+25 flagged · 1 buy signal
 
-🟢 BUY SIGNALS
-  none right now
+🟢 BUY SIGNALS (1)
+MON    15m  +2.2%  1h  +5.8%
+   vol 2.9x · $14M · on CB
 
-⚪ THIN (low volume) (3)
-BIGTIME 15m  +2.9%  1h  +2.0%
-   vol 3.4x · $1.3M · on CB
-PEARL  15m  +2.5%  1h  +0.4%
-   vol 0.6x · $1.7M · on CB
-MOODENG 15m  -2.2%  1h  -3.7%
-   vol 1.3x · $832K · on CB
+⚪ THIN (low volume) (2)
+BIGTIME 15m  +8.6%  1h  +8.5%
+   vol 3.0x · $1.4M · on CB
+POND   15m  -3.7%  1h  -1.6%
+   vol 2.9x · $772K · on CB
 
-⚪ MOVED, NO VOLUME SPIKE (1)
-MON    15m  +2.7%  1h  +5.9%
-   vol 1.9x · $14M · on CB
-
-👀 WATCH (25)
-  BLUR PEPE USELESS SYRUP TON
-  OPG IRYS BNB LIGHTER ELSA
-  SKY AAVE WLFI KITE PROS ENA
-  CT BTC TRUMP ZEC ZRO AKT ETH
-  AVAX PAXG
+👀 WATCH (22)
+  BLUR MOODENG SYRUP ELSA OPG
+  TON IRYS PONS CRV WLFI PEPE
+  HYPE LTC ARB PROS WLD XPL
+  XLM AERO POL ZEC NEAR
 
 15m/1h = price change
 vol = volume vs normal
