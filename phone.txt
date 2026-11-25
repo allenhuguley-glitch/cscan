@@ -1,29 +1,35 @@
 CRYPTO SCAN
-Wed 12:05 PM CT
-33 flagged · 1 buy signal
+Wed 12:10 PM CT
+41 flagged · 0 buy signals
 
-🟢 BUY SIGNALS (1)
-HYPE   15m  +1.3%  1h  +3.6%
-   vol 2.3x · $39M · on CB
+🟢 BUY SIGNALS
+  none right now
 
 ⚪ THIN (low volume) (2)
-HONEY  15m  +9.4%  1h +19.2%
-   vol 0.6x · $1.4M · on CB
-BLUR   15m  +3.3%  1h  +4.4%
-   vol 1.3x · $706K · on CB
+HONEY  15m  +7.7%  1h +26.5%
+   vol 0.2x · $1.4M · on CB
+MOODENG 15m  +2.7%  1h  +6.2%
+   vol 1.2x · $935K · on CB
 
-⚪ MOVED, NO VOLUME SPIKE (2)
-ZEC    15m  +1.3%  1h  +5.5%
-   vol 0.4x · $105M · on CB
-MON    15m  -3.7%  1h  +4.0%
-   vol 0.6x · $16M · on CB
+⚪ MOVED, NO VOLUME SPIKE (5)
+NEAR   15m  +1.6%  1h  +3.8%
+   vol 0.4x · $18M · on CB
+ZEC    15m  +1.2%  1h  +5.2%
+   vol 1.6x · $107M · on CB
+VVV    15m  +1.1%  1h  +3.9%
+   vol 0.5x · $12M · on CB
+HYPE   15m  +1.0%  1h  +2.7%
+   vol 1.5x · $40M · on CB
+MON    15m  -2.9%  1h  +1.5%
+   vol 1.5x · $16M · on CB
 
-👀 WATCH (28)
-  PEARL KITE BIGTIME SYRUP
-  POND OPG LIGHTER AERO ATOM
-  PONS QNT CT NEAR INJ VVV CRV
-  PROS FLR DOT BCH ALEO WLFI
-  RENDER FET SUI ENA ALGO ICP
+👀 WATCH (34)
+  BLUR PEARL AERO BIGTIME OPG
+  DRV CT FARTCOIN INJ WLFI ZRO
+  QNT SYRUP POND AKT DOT CVX
+  ENA PUMP AAVE PONS TAO SUI
+  PROS SOL LINK ADA XPL FLR
+  LIGHTER ALEO WLD FET ALGO
 
 15m/1h = price change
 vol = volume vs normal
