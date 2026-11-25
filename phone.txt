@@ -1,22 +1,23 @@
 CRYPTO SCAN
-Wed 8:15 AM CT
-28 flagged · 0 buy signals
+Wed 8:20 AM CT
+33 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (2)
-POND   15m  +5.9%  1h  +4.6%
-   vol 19.1x · $782K · on CB
-BLUR   15m  +2.2%  1h  -5.3%
-   vol 0.1x · $455K · on CB
+POND   15m +10.8%  1h  +6.4%
+   vol 7.6x · $792K · on CB
+BLUR   15m  +2.0%  1h  -1.1%
+   vol 0.1x · $462K · on CB
 
-👀 WATCH (26)
-  KITE LIGHTER PEARL OPG PROS
-  AAVE TON XRP MOODENG USELESS
-  CT HBAR PENGU ALGO VVV SOL
-  LINK HYPE PAXG PONS WLD PUMP
-  UNI TRUMP ENA MORPHO
+👀 WATCH (31)
+  PEARL PROS KITE PEPE TON VVV
+  XRP AAVE LIGHTER USELESS
+  HBAR SUI CT PENGU ALGO SOL
+  SKY MOODENG DOGE BONK AKT
+  LINK MANTLE FLR ARB PONS FET
+  TRUMP PAXG HYPE ENA
 
 15m/1h = price change
 vol = volume vs normal
