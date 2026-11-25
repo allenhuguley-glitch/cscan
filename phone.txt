@@ -1,22 +1,22 @@
 CRYPTO SCAN
-Wed 2:35 AM CT
+Wed 2:40 AM CT
 31 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (2)
-POND   15m  +3.4%  1h  +1.2%
-   vol 0.1x · $659K · on CB
 BIGTIME 15m  +2.9%  1h  +3.7%
-   vol 0.5x · $863K · on CB
+   vol 0.5x · $931K · on CB
+OPG    15m  +2.1%  1h  +2.3%
+   vol 1.1x · $579K · on CB
 
 👀 WATCH (29)
-  PROS TON PONS QNT MON XLM
-  XRP ATOM BTC XPL ZRO ASTER
-  ETH SOL BNB LINK LTC AVAX
-  DOGE ADA FIL OPG ELSA MANTLE
-  ALGO AERO WLD VVV RENDER
+  KITE ALGO XLM PROS QNT XPL
+  ASTER XRP FET TON FLR ZEC
+  BNB BTC DOT LIGHTER BCH SKY
+  DOGE PONS ADA FIL PUMP APT
+  INJ SEI WLD MANTLE RENDER
 
 15m/1h = price change
 vol = volume vs normal
