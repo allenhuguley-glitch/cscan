@@ -1,23 +1,25 @@
 CRYPTO SCAN
-Wed 6:15 AM CT
-27 flagged · 0 buy signals
+Wed 6:20 AM CT
+33 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (3)
 BIGTIME 15m  +3.6%  1h  +4.5%
-   vol 3.6x · $1.2M · on CB
-MOODENG 15m  -2.7%  1h  -5.6%
-   vol 0.2x · $669K · on CB
-PROS   15m  -2.2%  1h  -3.8%
-   vol 0.9x · $1.4M · on CB
+   vol 3.6x · $1.1M · on CB
+POND   15m  +3.2%  1h  +5.1%
+   vol 5.5x · $709K · on CB
+MOODENG 15m  -2.1%  1h  -3.5%
+   vol 1.3x · $670K · on CB
 
-👀 WATCH (24)
-  CT POND SKY PONS VVV INJ ZRO
-  ELSA PAXG SUI IRYS WLFI
-  RENDER ENA ONDO QNT PENGU
-  ETH AAVE BTC UNI BNB ICP MON
+👀 WATCH (30)
+  OPG BLUR KITE DRV SKY
+  USELESS CT PROS PONS VVV
+  ELSA PAXG LIGHTER ONDO UNI
+  SOL DOT ATOM ADA XPL PENGU
+  QNT INJ AVAX AAVE ETH BNB
+  XRP BCH ICP
 
 15m/1h = price change
 vol = volume vs normal
