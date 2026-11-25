@@ -1,20 +1,19 @@
 CRYPTO SCAN
-Wed 3:00 AM CT
-17 flagged · 0 buy signals
+Wed 3:05 AM CT
+19 flagged · 1 buy signal
 
-🟢 BUY SIGNALS
-  none right now
+🟢 BUY SIGNALS (1)
+MON    15m  +1.5%  1h  +1.8%
+   vol 2.0x · $19M · on CB
 
-⚪ THIN (low volume) (2)
-BIGTIME 15m  -3.9%  1h  +9.9%
-   vol 1.1x · $870K · on CB
-POND   15m  -3.1%  1h  -2.6%
-   vol 1.0x · $666K · on CB
+⚪ THIN (low volume) (1)
+BIGTIME 15m  -6.1%  1h  +1.6%
+   vol 0.0x · $901K · on CB
 
-👀 WATCH (15)
-  DRV PROS ELSA IRYS MON AERO
-  ZRO OPG VVV KITE APT FLR SUI
-  SEI WLFI
+👀 WATCH (17)
+  PROS ELSA IRYS PONS XPL PEPE
+  POND DRV OPG SUI AVAX DOT
+  APT FLR WLD ZRO WLFI
 
 15m/1h = price change
 vol = volume vs normal
