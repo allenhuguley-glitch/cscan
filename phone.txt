@@ -1,28 +1,30 @@
 CRYPTO SCAN
-Wed 12:35 AM CT
-29 flagged · 0 buy signals
+Wed 12:40 AM CT
+30 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-🟡 AGAINST TREND / FADING (1)
-MON    15m  +3.0%  1h  +4.5%
-   vol 2.6x · $16M · on CB
-
-⚪ THIN (low volume) (3)
+⚪ THIN (low volume) (4)
 BIGTIME 15m +26.9%  1h +52.5%
-   vol 1.2x · $968K · on CB
-OPG    15m  +4.2%  1h  -2.2%
-   vol 0.5x · $531K · on CB
-IRYS   15m  -2.2%  1h  -2.3%
-   vol 0.7x · $514K · on CB
+   vol 1.2x · $955K · on CB
+DRV    15m  +2.2%  1h  +1.2%
+   vol 0.5x · $2.0M · on CB
+PONS   15m  +2.2%  1h  +4.6%
+   vol 2.9x · $569K · on CB
+POND   15m  -2.4%  1h  -4.2%
+   vol 0.9x · $644K · on CB
+
+⚪ MOVED, NO VOLUME SPIKE (1)
+MON    15m  +4.2%  1h  +5.3%
+   vol 0.9x · $17M · on CB
 
 👀 WATCH (25)
-  PONS POND UNI SKY XPL CRV
-  BCH ZEC VVV PEPE ARB SYRUP
-  TON USELESS BNB PEARL WLD
-  SEI MORPHO PAXG APT DOT LINK
-  BONK KITE
+  IRYS XPL DOT FARTCOIN SUI
+  PEARL ADA SKY PUMP PEPE AERO
+  ALGO USELESS TON PENGU ATOM
+  KITE WLD CRV FIL ICP FET
+  MORPHO LINK BONK
 
 15m/1h = price change
 vol = volume vs normal
