@@ -1,40 +1,23 @@
 CRYPTO SCAN
-Wed 9:40 AM CT
-55 flagged · 0 buy signals
+Wed 9:50 AM CT
+23 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (4)
-MOODENG 15m  +5.2%  1h  +7.5%
-   vol 1.3x · $803K · on CB
-CVX    15m  +4.0%  1h  +4.9%
-   vol 22.3x · $812K · on CB
-OPG    15m  +2.4%  1h  +2.0%
-   vol 4.8x · $737K · on CB
-ZRO    15m  +2.2%  1h  +0.5%
-   vol 1.3x · $824K · on CB
+⚪ THIN (low volume) (3)
+MOODENG 15m  +3.9%  1h  +9.2%
+   vol 0.1x · $827K · on CB
+CVX    15m  +2.3%  1h  +4.3%
+   vol 15.9x · $907K · on CB
+ELSA   15m  +2.0%  1h  +0.1%
+   vol 2.8x · $572K · on CB
 
-⚪ MOVED, NO VOLUME SPIKE (4)
-VVV    15m  +2.1%  1h  -0.3%
-   vol 0.5x · $10M · on CB
-MON    15m  +2.0%  1h  +1.9%
-   vol 1.7x · $14M · on CB
-XLM    15m  +1.1%  1h  +0.9%
-   vol 0.3x · $6.5M · on CB
-HYPE   15m  +1.0%  1h  +1.1%
-   vol 1.3x · $34M · on CB
-
-👀 WATCH (47)
-  BIGTIME CT ICP FET FARTCOIN
-  WLFI APT LIGHTER ENA WLD
-  ONDO TAO SKY DASH ZEC AVAX
-  ADA AERO LINK UNI SUI ETH
-  AAVE BNB LTC AKT BTC FIL
-  USELESS BLUR PENGU INJ HBAR
-  PEARL TRUMP CRV SOL DOGE XRP
-  BCH ARB PAXG PONS PUMP ATOM
-  DOT FLR
+👀 WATCH (20)
+  POND BIGTIME OPG ZRO LIGHTER
+  MON DRV ZEC PEARL BLUR AKT
+  WLD PEPE FARTCOIN PONS ALGO
+  BTC ONDO HBAR INJ
 
 15m/1h = price change
 vol = volume vs normal
