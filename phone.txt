@@ -1,6 +1,6 @@
 CRYPTO SCAN
-Wed 2:20 PM CT
-23 flagged · 1 buy signal
+Wed 2:21 PM CT
+34 flagged · 1 buy signal
 
 🟢 BUY SIGNALS (1)
 NEAR   15m  +2.9%  1h  +4.0%
@@ -10,18 +10,20 @@ NEAR   15m  +2.9%  1h  +4.0%
 HONEY  15m  +4.1%  1h -15.6%
    vol 0.7x · $2.3M · on CB
 OPG    15m  +2.3%  1h  -1.6%
-   vol 0.4x · $942K · on CB
+   vol 0.4x · $940K · on CB
 BIGTIME 15m  -2.2%  1h  -0.3%
-   vol 0.3x · $1.4M · on CB
+   vol 0.3x · $1.5M · on CB
 
 ⚪ MOVED, NO VOLUME SPIKE (1)
 MON    15m  -1.2%  1h  -2.0%
    vol 0.7x · $14M · on CB
 
-👀 WATCH (18)
-  ZRO LIGHTER DRV CVX TON AAVE
-  TAO POND APT USELESS TRUMP
-  HYPE ZEC SEI ENA UNI MOODENG
+👀 WATCH (29)
+  ZRO LIGHTER USELESS DRV WLD
+  INJ FET CRV BLUR CVX AAVE
+  TAO RENDER DASH POND SYRUP
+  FIL APT HBAR HYPE ZEC TRUMP
+  SEI ENA AERO UNI MOODENG QNT
   PONS
 
 15m/1h = price change
