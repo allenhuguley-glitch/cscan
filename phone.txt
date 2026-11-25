@@ -1,22 +1,23 @@
 CRYPTO SCAN
-Tue 8:50 PM CT
-19 flagged · 0 buy signals
+Tue 8:55 PM CT
+21 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 🟡 AGAINST TREND / FADING (1)
-MON    15m  +3.2%  1h  +5.0%
-   vol 11.6x · $14M · on CB
+MON    15m  +3.5%  1h  +4.8%
+   vol 4.8x · $14M · on CB
 
 ⚪ THIN (low volume) (1)
 IRYS   15m  -2.1%  1h  -4.9%
-   vol 0.2x · $505K · on CB
+   vol 0.2x · $504K · on CB
 
-👀 WATCH (17)
-  PROS POND USELESS DRV PEARL
-  VVV ZEC BONK QNT SYRUP DASH
-  BCH XRP SKY LINK ENA PEPE
+👀 WATCH (19)
+  PROS POND DRV PEARL LIGHTER
+  MAMO KITE BONK HYPE VVV
+  SYRUP DASH USELESS BCH SKY
+  LINK NEAR CAP ENA
 
 15m/1h = price change
 vol = volume vs normal
