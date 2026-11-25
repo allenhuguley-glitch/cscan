@@ -1,22 +1,32 @@
 CRYPTO SCAN
-Wed 12:45 PM CT
-19 flagged · 0 buy signals
+Wed 12:50 PM CT
+45 flagged · 1 buy signal
 
-🟢 BUY SIGNALS
-  none right now
+🟢 BUY SIGNALS (1)
+LINK   15m  +1.1%  1h  +1.7%
+   vol 6.0x · $7.2M · on CB
 
-⚪ THIN (low volume) (1)
-HONEY  15m +16.9%  1h +40.1%
-   vol 1.2x · $2.1M · on CB
+⚪ THIN (low volume) (2)
+HONEY  15m  +9.8%  1h +47.7%
+   vol 0.9x · $2.0M · on CB
+PEARL  15m  +2.9%  1h  +2.9%
+   vol 0.2x · $1.9M · on CB
 
-⚪ MOVED, NO VOLUME SPIKE (1)
-MON    15m  +1.6%  1h  -2.7%
-   vol 0.5x · $16M · on CB
+⚪ MOVED, NO VOLUME SPIKE (2)
+ZEC    15m  +1.3%  1h  +2.3%
+   vol 0.4x · $113M · on CB
+NEAR   15m  +1.1%  1h  +1.9%
+   vol 0.4x · $18M · on CB
 
-👀 WATCH (17)
-  BIGTIME OPG CT CVX IRYS PROS
-  WLFI CRV USELESS SKY BCH SEI
-  ELSA ENA FIL ZEC PONS
+👀 WATCH (40)
+  PONS CT OPG ZRO POND TRUMP
+  MOODENG PUMP ELSA BIGTIME
+  ENA VVV PEPE SUI ADA XLM
+  AAVE LTC SOL LIGHTER WLFI
+  CVX DOGE TAO CRV HYPE HBAR
+  USELESS ATOM BCH AVAX FET
+  XRP ONDO MON POL AKT FIL APT
+  BTC
 
 15m/1h = price change
 vol = volume vs normal
