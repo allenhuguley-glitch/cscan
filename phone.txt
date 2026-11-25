@@ -1,25 +1,22 @@
 CRYPTO SCAN
-Wed 1:10 AM CT
-25 flagged · 0 buy signals
+Wed 1:15 AM CT
+19 flagged · 1 buy signal
 
-🟢 BUY SIGNALS
-  none right now
+🟢 BUY SIGNALS (1)
+MON    15m  +1.0%  1h  +4.3%
+   vol 2.1x · $17M · on CB
 
 ⚪ THIN (low volume) (2)
-PROS   15m  +4.5%  1h  +6.7%
-   vol 5.1x · $1.3M · on CB
+PROS   15m  +6.1%  1h  +9.6%
+   vol 7.5x · $1.3M · on CB
 BIGTIME 15m  -4.4%  1h  +8.0%
-   vol 1.7x · $725K · on CB
+   vol 1.7x · $728K · on CB
 
-⚪ MOVED, NO VOLUME SPIKE (1)
-MON    15m  -1.1%  1h  +1.3%
-   vol 0.5x · $16M · on CB
-
-👀 WATCH (22)
-  OPG PONS IRYS ELSA NEAR
-  USELESS TIA ENA APT WLFI
-  PEPE TRUMP SKY CT WLD AERO
-  ARB PENGU ETH XLM LINK BCH
+👀 WATCH (16)
+  PONS ELSA PEARL OPG USELESS
+  ICP ENA PEPE AERO ALGO
+  LIGHTER HBAR TON HYPE BCH
+  DOT
 
 15m/1h = price change
 vol = volume vs normal
