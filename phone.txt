@@ -1,23 +1,18 @@
 CRYPTO SCAN
-Wed 4:50 PM CT
-18 flagged · 0 buy signals
+Wed 4:55 PM CT
+17 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (1)
-HONEY  15m  +7.1%  1h +17.0%
-   vol 0.5x · $3.1M · on CB
-
-⚪ MOVED, NO VOLUME SPIKE (1)
-MON    15m  +1.0%  1h  +0.4%
-   vol 0.5x · $13M · on CB
+HONEY  15m  +5.0%  1h +18.6%
+   vol 1.1x · $3.2M · on CB
 
 👀 WATCH (16)
-  PUMP USELESS CT SYRUP VVV
-  PEARL SUPER TRUMP OPG TON
-  ALGO LINK SKY FET MANTLE
-  BIGTIME
+  MOODENG OPG CT TON SKY SYRUP
+  BIGTIME ELSA USELESS TRUMP
+  ALGO FET SUI ICP DRV BLUR
 
 15m/1h = price change
 vol = volume vs normal
