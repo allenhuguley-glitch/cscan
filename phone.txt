@@ -1,25 +1,21 @@
 CRYPTO SCAN
-Wed 4:50 AM CT
-21 flagged · 0 buy signals
+Wed 4:51 AM CT
+20 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (2)
 BIGTIME 15m  +2.9%  1h  -4.1%
-   vol 0.9x · $977K · on CB
-MOODENG 15m  -5.7%  1h +11.8%
-   vol 1.0x · $609K · on CB
-
-⚪ MOVED, NO VOLUME SPIKE (1)
-MON    15m  +1.0%  1h  -2.1%
-   vol 0.1x · $18M · on CB
+   vol 0.9x · $1.0M · on CB
+MOODENG 15m  -6.8%  1h  +7.3%
+   vol 0.4x · $603K · on CB
 
 👀 WATCH (18)
-  POND OPG SYRUP BLUR PROS CT
-  IRYS ELSA SEI PEARL USELESS
-  KITE SKY HYPE APT XRP QNT
-  TON
+  POND OPG SYRUP ELSA CT PEPE
+  PEARL USELESS KITE SKY APT
+  IRYS BNB XRP TON AVAX ADA
+  MANTLE
 
 15m/1h = price change
 vol = volume vs normal
