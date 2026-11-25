@@ -1,23 +1,26 @@
 CRYPTO SCAN
-Tue 6:10 PM CT
-25 flagged · 0 buy signals
+Tue 6:15 PM CT
+40 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (1)
-POND   15m  +3.9%  1h  +1.6%
-   vol 0.4x · $595K · on CB
+POND   15m  +4.6%  1h  +3.7%
+   vol 0.2x · $599K · on CB
 
 ⚪ MOVED, NO VOLUME SPIKE (1)
-MON    15m  -1.6%  1h  -0.9%
-   vol 0.8x · $13M · on CB
+MON    15m  -2.0%  1h  -1.9%
+   vol 1.3x · $13M · on CB
 
-👀 WATCH (23)
-  DRV PONS PEARL SKY QNT ATOM
-  PROS FET CVX ZEC ALGO AAVE
-  SYRUP CAP PENGU CT ETH ZRO
-  VVV WLFI ADA TIA FLR
+👀 WATCH (38)
+  DRV PEARL PONS MAMO SYRUP
+  HYPE SKY XLM ZEC WLD ATOM
+  QNT MORPHO PENGU ICP LINK
+  ETH STRK ADA ONDO AAVE AERO
+  BTC UNI CAP SUI DOGE PROS
+  FET XRP INJ CRV AVAX BCH TIA
+  SOL PAXG FLR
 
 15m/1h = price change
 vol = volume vs normal
