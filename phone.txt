@@ -1,23 +1,22 @@
 CRYPTO SCAN
-Wed 7:10 AM CT
-23 flagged · 0 buy signals
+Wed 7:15 AM CT
+39 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (3)
-ELSA   15m  +5.4%  1h +12.4%
-   vol 12.3x · $632K · on CB
-BIGTIME 15m  +2.6%  1h  +0.3%
-   vol 0.9x · $1.2M · on CB
-OPG    15m  -2.7%  1h  -5.3%
-   vol 0.8x · $655K · on CB
+⚪ THIN (low volume) (1)
+BLUR   15m  -2.2%  1h  -0.5%
+   vol 2.3x · $443K · on CB
 
-👀 WATCH (20)
-  POND SYRUP KITE MOODENG DRV
-  FLR FET BLUR PEPE VVV INJ
-  DOT LIGHTER ALGO ZRO HYPE
-  AVAX TON ETH WLFI
+👀 WATCH (38)
+  OPG BIGTIME ELSA POND SYRUP
+  KITE CT MOODENG SKY PROS
+  PEPE ZEC TRUMP FET ONDO MON
+  FARTCOIN VVV QNT DOT CRV SUI
+  ALGO ZRO ADA ATOM FLR SEI
+  HBAR DOGE TAO RENDER AVAX
+  SOL HYPE XLM ETH WLFI
 
 15m/1h = price change
 vol = volume vs normal
