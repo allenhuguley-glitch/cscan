@@ -1,21 +1,24 @@
 CRYPTO SCAN
-Thu 8:00 AM CT
-21 flagged · 0 buy signals
+Thu 8:05 AM CT
+17 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (2)
+⚪ THIN (low volume) (4)
+SEI    15m  +3.1%  1h  +1.8%
+   vol 1.6x · $1.7M · on CB
+HONEY  15m  +2.4%  1h  -2.5%
+   vol 0.9x · $3.0M · on CB
 ME     15m  +2.4%  1h  -1.2%
-   vol 2.8x · $759K · on CB
-HONEY  15m  -2.3%  1h  -7.0%
-   vol 0.5x · $3.1M · on CB
+   vol 2.8x · $781K · on CB
+SKY    15m  -2.2%  1h  -2.5%
+   vol 1.0x · $809K · on CB
 
-👀 WATCH (19)
-  SEI HNT BLUR AVNT CT SYRUP
-  PONS FET WIF VVV BIGTIME
-  MOODENG ARB FIL WLD LIGHTER
-  ZEC HYPE TIA
+👀 WATCH (13)
+  AVNT CT BIGTIME MOODENG
+  LIGHTER ZEC HBAR PONS AAVE
+  ICP AVAX PAXG ONDO
 
 15m/1h = price change
 vol = volume vs normal
