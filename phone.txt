@@ -1,27 +1,25 @@
 CRYPTO SCAN
-Thu 4:45 AM CT
-28 flagged · 0 buy signals
+Thu 4:50 AM CT
+34 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-🔴 REAL DROPS (1)
-ZEC    15m  -1.0%  1h  -1.7%
-   vol 4.5x · $133M · on CB
+🟡 AGAINST TREND / FADING (1)
+HYPE   15m  -1.1%  1h  -1.4%
+   vol 4.6x · $38M · on CB
 
-⚪ THIN (low volume) (3)
-HONEY  15m  -6.2%  1h -16.9%
-   vol 1.4x · $2.7M · on CB
+⚪ THIN (low volume) (1)
 ME     15m  -6.1%  1h +16.0%
-   vol 5.0x · $555K · on CB
-BLUR   15m  -2.4%  1h  -1.2%
-   vol 0.5x · $772K · on CB
+   vol 5.0x · $563K · on CB
 
-👀 WATCH (24)
-  PROS HNT QNT OPG PEARL ZRO
-  SEI TIA UNI BIGTIME SKY LTC
-  KITE WIF BTC LINK ETH XRP
-  DOT LIGHTER AKT TON SUI PAXG
+👀 WATCH (32)
+  BLUR QNT OPG KITE USELESS
+  PEARL PONS NEAR ZEC HNT SEI
+  MON PUMP PENDLE BIGTIME AAVE
+  AVAX ATOM UNI HONEY ENA ELSA
+  AERO TAO DOGE APT ETH DOT
+  LIGHTER ICP BNB AKT
 
 15m/1h = price change
 vol = volume vs normal
