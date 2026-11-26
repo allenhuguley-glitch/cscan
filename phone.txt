@@ -1,17 +1,15 @@
 CRYPTO SCAN
-Thu 2:30 PM CT
-12 flagged · 0 buy signals
+Thu 2:35 PM CT
+18 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
-HNT    15m  +3.3%  1h  +4.3%
-   vol 1.9x · $644K · on CB
-
-👀 WATCH (11)
-  SEI PONS DRV HYPE BLUR MAMO
-  WLD LIGHTER QNT DOGE BNB
+👀 WATCH (18)
+  HNT ME SEI AERO ELSA HYPE
+  LIGHTER WIF HBAR MAMO BLUR
+  PEARL MOODENG UNI ICP DOGE
+  PUMP XLM
 
 15m/1h = price change
 vol = volume vs normal
