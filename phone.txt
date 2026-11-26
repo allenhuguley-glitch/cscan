@@ -1,19 +1,20 @@
 CRYPTO SCAN
-Thu 7:30 AM CT
-23 flagged · 0 buy signals
+Thu 7:35 AM CT
+28 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (1)
-HONEY  15m  -6.1%  1h -10.4%
-   vol 1.9x · $2.9M · on CB
+HONEY  15m  -4.6%  1h  -9.7%
+   vol 1.6x · $2.9M · on CB
 
-👀 WATCH (22)
-  BLUR PROS ELSA ME BIGTIME
-  KITE MOODENG SEI AKT PEARL
-  BCH SYRUP WIF SKY ARB HNT
-  PUMP FET CRV XLM FIL PAXG
+👀 WATCH (27)
+  BLUR PROS ELSA VVV ME MON
+  USELESS MOODENG SEI QNT
+  BIGTIME PEARL BCH AKT ICP
+  WIF SKY KITE CRV ARB HNT
+  ATOM INJ PUMP XLM ENA PAXG
 
 15m/1h = price change
 vol = volume vs normal
