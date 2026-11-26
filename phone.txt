@@ -1,26 +1,26 @@
 CRYPTO SCAN
-Thu 4:10 PM CT
-40 flagged · 0 buy signals
+Thu 4:15 PM CT
+43 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-🔴 REAL DROPS (1)
-ZEC    15m  -1.6%  1h  -1.5%
-   vol 8.1x · $102M · on CB
-
 ⚪ THIN (low volume) (1)
-HONEY  15m  -4.1%  1h  -5.5%
-   vol 3.3x · $1.7M · on CB
+HONEY  15m  -4.5%  1h  -7.4%
+   vol 1.1x · $1.7M · on CB
 
-👀 WATCH (38)
-  ELSA SEI PONS ME INJ USELESS
-  NEAR LIGHTER TON MAMO CRV
-  UNI PUMP HYPE DRV AAVE ENA
-  MON HBAR SOL ARB PENDLE WLD
-  FIL PEPE QNT ONDO DOGE TIA
-  AKT SUI PENGU ETH AVAX LINK
-  WLFI CT FET
+⚪ MOVED, NO VOLUME SPIKE (1)
+ZEC    15m  -1.2%  1h  -2.0%
+   vol 0.8x · $101M · on CB
+
+👀 WATCH (41)
+  PEARL ELSA SEI ME LIGHTER
+  CRV TON PEPE UNI USELESS DRV
+  PUMP SOL HYPE PONS AKT HBAR
+  LINK AERO FIL TAO NEAR ADA
+  QNT ONDO INJ VVV DOGE ICP
+  PENGU XRP PENDLE FET BTC XLM
+  MAMO AAVE TIA SKY SYRUP WLFI
 
 15m/1h = price change
 vol = volume vs normal
