@@ -1,18 +1,18 @@
 CRYPTO SCAN
-Thu 5:35 PM CT
-15 flagged · 0 buy signals
+Thu 5:40 PM CT
+16 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (1)
-HONEY  15m  +2.4%  1h  +3.0%
-   vol 0.5x · $1.6M · on CB
+HONEY  15m  +3.0%  1h  +2.5%
+   vol 0.5x · $1.7M · on CB
 
-👀 WATCH (14)
-  ME LIGHTER PONS CT FET ZEC
-  USELESS PEARL AVNT VVV ARB
-  HNT BCH ATOM
+👀 WATCH (15)
+  BIGTIME ZRO PONS VVV ELSA
+  USELESS SKY ALGO ATOM TAO
+  AVNT PEARL ARB AERO ZEC
 
 15m/1h = price change
 vol = volume vs normal
