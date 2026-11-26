@@ -1,23 +1,25 @@
 CRYPTO SCAN
-Thu 2:10 PM CT
-23 flagged · 0 buy signals
+Thu 2:15 PM CT
+21 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
-HONEY  15m  -3.1%  1h  -7.0%
-   vol 1.9x · $1.9M · on CB
+⚪ THIN (low volume) (2)
+HONEY  15m  -2.8%  1h  -5.0%
+   vol 0.2x · $1.9M · on CB
+ME     15m  -2.7%  1h  +0.7%
+   vol 1.1x · $1.1M · on CB
 
 ⚪ MOVED, NO VOLUME SPIKE (1)
 HYPE   15m  +1.1%  1h  +1.3%
    vol 0.9x · $23M · on CB
 
-👀 WATCH (21)
-  SEI MAMO MOODENG ME MON BLUR
-  WIF DRV TIA FET ALGO TRUMP
-  UNI HBAR WLFI TON USELESS
-  LIGHTER DOGE AVAX SUI
+👀 WATCH (18)
+  SEI MAMO HNT MOODENG MON
+  LIGHTER PONS SKY WIF FET
+  TRUMP TON ONDO PEPE USELESS
+  ARB SOL AVAX
 
 15m/1h = price change
 vol = volume vs normal
