@@ -1,23 +1,19 @@
 CRYPTO SCAN
-Thu 3:15 AM CT
-32 flagged · 0 buy signals
+Thu 3:20 AM CT
+19 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (2)
+⚪ THIN (low volume) (1)
 HONEY  15m  +5.0%  1h  +5.8%
    vol 1.3x · $3.2M · on CB
-SYRUP  15m  -2.6%  1h  -1.8%
-   vol 0.2x · $1.3M · on CB
 
-👀 WATCH (30)
-  HNT ELSA BIGTIME KITE SEI
-  FET MOODENG PROS XPL LIGHTER
-  ARB WIF PONS ATOM ZEC CFG
-  PEPE WLD ENA CRV STX HBAR
-  SUI MANTLE BNB XRP AERO XLM
-  PEARL DOT
+👀 WATCH (18)
+  SYRUP PEARL BIGTIME KITE
+  PONS OPG FET MOODENG PROS
+  XPL MON ENA STX APT LINK
+  RENDER PAXG TIA
 
 15m/1h = price change
 vol = volume vs normal
