@@ -1,21 +1,23 @@
 CRYPTO SCAN
-Thu 5:05 PM CT
-31 flagged · 0 buy signals
+Thu 5:10 PM CT
+33 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ MOVED, NO VOLUME SPIKE (1)
-ZEC    15m  -1.3%  1h  -2.1%
-   vol 0.6x · $98M · on CB
+🔴 REAL DROPS (2)
+VVV    15m  -2.0%  1h  -2.8%
+   vol 10.3x · $21M · on CB
+ZEC    15m  -1.8%  1h  -3.6%
+   vol 4.3x · $98M · on CB
 
-👀 WATCH (30)
-  HONEY SEI DRV ME PONS ELSA
-  VVV WIF PEPE ENA PENGU ADA
-  LIGHTER PEARL UNI ALGO APT
-  PUMP WLD CRV TRUMP AVNT XRP
-  SYRUP TAO BTC MANTLE PAXG
-  USELESS MOODENG
+👀 WATCH (31)
+  HONEY PONS SEI LIGHTER ME
+  ELSA TRUMP USELESS PEARL ENA
+  PUMP ADA AVNT LINK WIF UNI
+  CRV NEAR WLD QNT INJ SUI APT
+  XRP PEPE SYRUP TAO ATOM HBAR
+  MANTLE MOODENG
 
 15m/1h = price change
 vol = volume vs normal
