@@ -1,27 +1,26 @@
 CRYPTO SCAN
-Thu 8:10 AM CT
-25 flagged · 0 buy signals
+Thu 8:15 AM CT
+20 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (3)
 HONEY  15m  +4.8%  1h  -0.7%
-   vol 0.4x · $3.2M · on CB
+   vol 0.4x · $3.3M · on CB
 ME     15m  +2.1%  1h  +2.7%
-   vol 1.0x · $774K · on CB
-ELSA   15m  -2.1%  1h  -2.0%
-   vol 1.4x · $934K · on CB
+   vol 1.0x · $783K · on CB
+ELSA   15m  -2.4%  1h  -3.2%
+   vol 1.0x · $929K · on CB
 
 ⚪ MOVED, NO VOLUME SPIKE (1)
-VVV    15m  -1.4%  1h  -0.9%
-   vol 1.3x · $34M · on CB
+VVV    15m  -1.7%  1h  -1.1%
+   vol 1.7x · $34M · on CB
 
-👀 WATCH (21)
-  BLUR SEI SKY MON AVNT PUMP
-  SYRUP PONS BIGTIME HBAR
-  LIGHTER APT WIF LTC FET ENA
-  PAXG PENDLE AERO ONDO NEAR
+👀 WATCH (16)
+  BLUR MON BIGTIME ZEC APT
+  AVNT PONS WIF HBAR XLM LTC
+  SOL DOGE PENDLE ENA AERO
 
 15m/1h = price change
 vol = volume vs normal
