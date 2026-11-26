@@ -1,20 +1,15 @@
 CRYPTO SCAN
-Thu 11:50 AM CT
+Thu 11:55 AM CT
 23 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
-ME     15m  +3.0%  1h  +2.9%
-   vol 0.9x · $915K · on CB
-
-👀 WATCH (22)
-  HONEY PEARL SEI BLUR SKY
-  MOODENG PROS ZRO UNI ELSA
-  PONS PUMP TRUMP WLFI XPL
-  ATOM SYRUP CRV HYPE PAXG XRP
-  AVAX
+👀 WATCH (23)
+  HONEY ME HNT PROS BLUR WIF
+  SYRUP PEARL SKY PONS XPL DRV
+  PUMP ICP SOL AVAX XRP ETH
+  CRV BNB HYPE BCH MANTLE
 
 15m/1h = price change
 vol = volume vs normal
