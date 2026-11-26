@@ -1,19 +1,19 @@
 CRYPTO SCAN
-Thu 7:45 AM CT
-20 flagged · 0 buy signals
+Thu 7:50 AM CT
+23 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (1)
-ELSA   15m  -2.0%  1h  +2.5%
-   vol 0.6x · $956K · on CB
+HONEY  15m  +2.8%  1h  -6.7%
+   vol 2.2x · $3.0M · on CB
 
-👀 WATCH (19)
-  SEI PROS HONEY USELESS HNT
-  FET BLUR ME AKT PEARL XPL
-  KITE ATOM TON QNT TAO MON
-  ICP ENA
+👀 WATCH (22)
+  ELSA SEI ME ZEC USELESS MON
+  PEARL XPL SYRUP TRUMP KITE
+  TON QNT TAO CRV LIGHTER ZRO
+  AVAX AAVE BNB HBAR ETH
 
 15m/1h = price change
 vol = volume vs normal
