@@ -1,19 +1,19 @@
 CRYPTO SCAN
-Thu 1:45 AM CT
-19 flagged · 0 buy signals
+Thu 1:50 AM CT
+21 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (1)
-HNT    15m  +3.3%  1h  +0.1%
-   vol 1.3x · $759K · on CB
+HNT    15m  +2.1%  1h  -1.6%
+   vol 0.8x · $783K · on CB
 
-👀 WATCH (18)
-  PROS SYRUP HONEY SEI PEARL
-  ELSA BLUR ATOM MON DRV FET
-  BIGTIME PEPE HBAR CT AERO
-  CRV WIF
+👀 WATCH (20)
+  SEI SYRUP KITE PUMP MANTLE
+  PROS ATOM DRV FET BIGTIME
+  ARB HBAR WIF PEARL CT AERO
+  NEAR ALGO PAXG BLUR
 
 15m/1h = price change
 vol = volume vs normal
