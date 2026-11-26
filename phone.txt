@@ -1,27 +1,15 @@
 CRYPTO SCAN
-Thu 1:05 AM CT
-26 flagged · 0 buy signals
+Thu 1:10 AM CT
+22 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (3)
-HONEY  15m  -6.7%  1h +10.5%
-   vol 0.3x · $3.7M · on CB
-HNT    15m  -3.3%  1h  +1.2%
-   vol 0.6x · $721K · on CB
-MOODENG 15m  -2.1%  1h  -0.5%
-   vol 0.5x · $833K · on CB
-
-⚪ MOVED, NO VOLUME SPIKE (1)
-MON    15m  -1.0%  1h  -0.2%
-   vol 1.3x · $9.4M · on CB
-
 👀 WATCH (22)
-  BLUR CT USELESS ELSA PONS
-  QNT OPG ATOM SKY ENA TRUMP
-  TIA XPL RENDER ICP PEARL AKT
-  SOL AVAX DOT AAVE ADA
+  HNT BLUR HONEY PEARL TRUMP
+  ZRO USELESS DRV SYRUP CT OPG
+  ATOM PEPE TIA MON VVV XPL
+  PONS CRV AERO BNB DOGE
 
 15m/1h = price change
 vol = volume vs normal
