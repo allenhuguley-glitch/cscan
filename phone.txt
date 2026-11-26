@@ -1,20 +1,20 @@
 CRYPTO SCAN
-Thu 4:40 PM CT
-23 flagged · 0 buy signals
+Thu 4:45 PM CT
+24 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (1)
-HONEY  15m  -6.2%  1h -10.1%
-   vol 2.6x · $1.6M · on CB
+HONEY  15m  +2.0%  1h  -7.1%
+   vol 2.3x · $1.6M · on CB
 
-👀 WATCH (22)
-  DRV ZRO SYRUP ARB BIGTIME
-  AERO AVNT UNI FET WIF PEARL
-  TRUMP FIL PENDLE NEAR OPG
-  TIA TAO MOODENG PENGU AKT
-  PAXG
+👀 WATCH (23)
+  PEARL DRV SYRUP ZRO ICP
+  BIGTIME ARB AVNT UNI FET
+  PEPE PONS TRUMP TON FIL CT
+  TIA OPG MOODENG ZEC DOGE CRV
+  XRP
 
 15m/1h = price change
 vol = volume vs normal
