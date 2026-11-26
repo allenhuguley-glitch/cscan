@@ -1,25 +1,27 @@
 CRYPTO SCAN
-Thu 4:50 AM CT
-34 flagged · 0 buy signals
+Thu 4:55 AM CT
+32 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 🟡 AGAINST TREND / FADING (1)
-HYPE   15m  -1.1%  1h  -1.4%
-   vol 4.6x · $38M · on CB
+HYPE   15m  -1.4%  1h  -1.8%
+   vol 8.9x · $38M · on CB
 
-⚪ THIN (low volume) (1)
-ME     15m  -6.1%  1h +16.0%
-   vol 5.0x · $563K · on CB
+⚪ THIN (low volume) (2)
+MOODENG 15m  +2.6%  1h  +2.7%
+   vol 0.3x · $714K · on CB
+ME     15m  -7.8%  1h +13.3%
+   vol 0.9x · $571K · on CB
 
-👀 WATCH (32)
-  BLUR QNT OPG KITE USELESS
-  PEARL PONS NEAR ZEC HNT SEI
-  MON PUMP PENDLE BIGTIME AAVE
-  AVAX ATOM UNI HONEY ENA ELSA
-  AERO TAO DOGE APT ETH DOT
-  LIGHTER ICP BNB AKT
+👀 WATCH (29)
+  BLUR LIGHTER OPG KITE PONS
+  HONEY USELESS SEI TAO PEARL
+  ZEC ARB VVV BIGTIME NEAR MON
+  ENA ELSA UNI ATOM APT AERO
+  FIL HBAR PEPE BNB PAXG DOGE
+  ZRO
 
 15m/1h = price change
 vol = volume vs normal
