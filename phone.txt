@@ -1,15 +1,15 @@
 CRYPTO SCAN
-Thu 3:00 PM CT
-21 flagged · 0 buy signals
+Thu 3:05 PM CT
+19 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (21)
-  HONEY HNT ZRO DRV PEARL
-  MOODENG BIGTIME PONS BLUR
-  SKY PENDLE ZEC APT VVV ALGO
-  ADA SUI FIL DOGE NEAR CRV
+👀 WATCH (19)
+  HONEY HNT MOODENG ZRO ME
+  PEARL PONS AKT BLUR LINK
+  PENDLE NEAR WLFI LTC LIGHTER
+  XLM DOGE UNI FIL
 
 15m/1h = price change
 vol = volume vs normal
