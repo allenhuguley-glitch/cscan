@@ -1,25 +1,20 @@
 CRYPTO SCAN
-Thu 5:20 PM CT
-32 flagged · 0 buy signals
+Thu 5:25 PM CT
+23 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-🔴 REAL DROPS (1)
-ZEC    15m  -1.8%  1h  -3.6%
-   vol 2.2x · $99M · on CB
-
 ⚪ THIN (low volume) (1)
-HONEY  15m  -2.9%  1h  -3.5%
-   vol 0.9x · $1.6M · on CB
+HONEY  15m  -3.1%  1h  -6.6%
+   vol 2.3x · $1.7M · on CB
 
-👀 WATCH (30)
-  SEI LIGHTER PONS BIGTIME VVV
-  MOODENG SYRUP HYPE HBAR NEAR
-  TRUMP SKY ME CT AKT ELSA
-  USELESS TAO CRV SOL ICP APT
-  WIF PENDLE ALGO ENA ARB
-  RENDER ATOM TIA
+👀 WATCH (22)
+  SYRUP PONS BIGTIME TAO
+  LIGHTER MOODENG TRUMP FET
+  ZRO SKY PEPE APT DOT AKT
+  HBAR CRV ICP MON RENDER ATOM
+  ARB ME
 
 15m/1h = price change
 vol = volume vs normal
