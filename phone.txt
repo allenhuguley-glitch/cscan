@@ -1,24 +1,28 @@
 CRYPTO SCAN
-Thu 1:25 AM CT
-26 flagged · 0 buy signals
+Thu 1:30 AM CT
+29 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
-HONEY  15m  +2.7%  1h  -0.5%
-   vol 0.9x · $3.6M · on CB
+⚪ THIN (low volume) (2)
+HONEY  15m  +3.2%  1h  +1.5%
+   vol 0.5x · $3.6M · on CB
+CT     15m  -2.2%  1h  -2.4%
+   vol 1.5x · $663K · on CB
 
-⚪ MOVED, NO VOLUME SPIKE (1)
-VVV    15m  -1.3%  1h  +0.4%
-   vol 1.4x · $34M · on CB
+⚪ MOVED, NO VOLUME SPIKE (2)
+VVV    15m  -2.2%  1h  +0.6%
+   vol 1.0x · $35M · on CB
+MON    15m  -1.4%  1h  -1.7%
+   vol 0.8x · $8.9M · on CB
 
-👀 WATCH (24)
-  MOODENG BIGTIME USELESS PROS
-  CRV CFG HBAR BLUR CT ATOM
-  SEI PEPE TRUMP SUI UNI ETH
-  LIGHTER PEARL PENDLE AVAX
-  AKT ARB SYRUP PONS
+👀 WATCH (25)
+  KITE HNT PEARL BIGTIME ZRO
+  USELESS SYRUP BLUR QNT
+  MOODENG PROS OPG SEI PEPE
+  SKY PONS ELSA UNI HYPE FIL
+  CRV ATOM SUI DOGE SOL
 
 15m/1h = price change
 vol = volume vs normal
