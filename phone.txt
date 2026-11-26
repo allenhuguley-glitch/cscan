@@ -1,20 +1,27 @@
 CRYPTO SCAN
-Wed 8:45 PM CT
-28 flagged · 0 buy signals
+Wed 8:50 PM CT
+25 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ MOVED, NO VOLUME SPIKE (1)
-VVV    15m  -2.1%  1h  -3.1%
-   vol 1.8x · $27M · on CB
+🟡 AGAINST TREND / FADING (1)
+VVV    15m  -4.0%  1h  -4.7%
+   vol 3.4x · $27M · on CB
 
-👀 WATCH (27)
-  HONEY TIA MOODENG BIGTIME
-  PONS KITE ENA CT DRV PROS
-  SEI TRUMP FET ATOM SKY OPG
-  INJ PEARL SUI XPL ICP XLM
-  BNB STRK WLD TAO LIGHTER
+⚪ THIN (low volume) (3)
+HONEY  15m  +7.6%  1h +13.7%
+   vol 0.8x · $3.7M · on CB
+BIGTIME 15m  +2.4%  1h  -2.2%
+   vol 0.3x · $1.6M · on CB
+CT     15m  -2.1%  1h  -2.6%
+   vol 1.8x · $599K · on CB
+
+👀 WATCH (21)
+  INJ TIA MOODENG DRV KITE OPG
+  SKY SYRUP ATOM FET SUI DOT
+  PEARL APT WLD XRP ENA ICP
+  UNI BNB XLM
 
 15m/1h = price change
 vol = volume vs normal
