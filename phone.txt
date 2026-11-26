@@ -1,15 +1,14 @@
 CRYPTO SCAN
-Thu 11:55 AM CT
-23 flagged · 0 buy signals
+Thu 12:00 PM CT
+16 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (23)
-  HONEY ME HNT PROS BLUR WIF
-  SYRUP PEARL SKY PONS XPL DRV
-  PUMP ICP SOL AVAX XRP ETH
-  CRV BNB HYPE BCH MANTLE
+👀 WATCH (16)
+  HONEY WIF PEARL PUMP ZEC ME
+  SYRUP HYPE DRV MON PROS VVV
+  BLUR HNT PONS CRV
 
 15m/1h = price change
 vol = volume vs normal
