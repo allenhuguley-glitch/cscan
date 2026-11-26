@@ -1,15 +1,15 @@
 CRYPTO SCAN
-Thu 3:25 PM CT
-24 flagged · 0 buy signals
+Thu 3:30 PM CT
+21 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (24)
-  ME HONEY HNT BIGTIME SEI SKY
-  BLUR MON TON ZEC LTC MAMO
-  TAO ENA HBAR SYRUP ADA ELSA
-  ETH DOT XLM PAXG ICP AVNT
+👀 WATCH (21)
+  BIGTIME TON ZRO HNT SKY BLUR
+  PEARL MON QNT MAMO LTC CRV
+  APT TRUMP ADA DOT ETH PAXG
+  DOGE PEPE AVNT
 
 15m/1h = price change
 vol = volume vs normal
