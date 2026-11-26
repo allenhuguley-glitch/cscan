@@ -1,21 +1,22 @@
 CRYPTO SCAN
-Wed 7:10 PM CT
-25 flagged · 0 buy signals
+Wed 7:15 PM CT
+24 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (2)
-HONEY  15m  -8.4%  1h -15.7%
-   vol 1.4x · $2.8M · on CB
-BIGTIME 15m  -6.7%  1h  -0.6%
-   vol 0.4x · $1.6M · on CB
+HONEY  15m -14.0%  1h -23.1%
+   vol 4.2x · $2.8M · on CB
+BIGTIME 15m  -2.9%  1h  +1.4%
+   vol 1.1x · $1.6M · on CB
 
-👀 WATCH (23)
-  PROS BLUR LIGHTER TRUMP PUMP
-  MON PONS NEAR PEPE VVV OPG
-  SEI IRYS INJ DASH CFG MANTLE
-  PEARL HBAR TON AERO ZEC STX
+👀 WATCH (22)
+  LIGHTER PROS MOODENG PONS
+  NEAR TRUMP CFG AKT ONDO
+  RENDER PEARL UNI MANTLE APT
+  QNT DASH BLUR BCH ATOM AERO
+  WLD SEI
 
 15m/1h = price change
 vol = volume vs normal
