@@ -1,21 +1,21 @@
 CRYPTO SCAN
-Wed 10:05 PM CT
-24 flagged · 0 buy signals
+Wed 10:10 PM CT
+30 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ MOVED, NO VOLUME SPIKE (2)
-VVV    15m  +1.7%  1h  -0.0%
-   vol 0.4x · $31M · on CB
-MON    15m  -1.1%  1h  -0.8%
-   vol 0.4x · $11M · on CB
+⚪ THIN (low volume) (1)
+ELSA   15m  -2.9%  1h +32.7%
+   vol 1.0x · $923K · on CB
 
-👀 WATCH (22)
-  SYRUP TRUMP CFG DRV MOODENG
-  BIGTIME ATOM PROS CT BLUR
-  ALGO PEPE PONS APT XLM STX
-  AKT FET BCH ZEC DOGE SOL
+👀 WATCH (29)
+  CFG MOODENG PROS TRUMP ATOM
+  PONS TIA FET BLUR HBAR ALGO
+  DOT USELESS APT SYRUP ZRO
+  FIL STX ENA AKT AERO MANTLE
+  LINK SKY BNB DOGE XLM PENDLE
+  HYPE
 
 15m/1h = price change
 vol = volume vs normal
