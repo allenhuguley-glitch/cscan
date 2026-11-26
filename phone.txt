@@ -1,24 +1,23 @@
 CRYPTO SCAN
-Thu 5:15 AM CT
-29 flagged · 0 buy signals
+Thu 5:20 AM CT
+23 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (3)
 ME     15m +10.1%  1h +17.0%
-   vol 3.2x · $618K · on CB
-MOODENG 15m  +2.6%  1h  +4.8%
-   vol 0.9x · $725K · on CB
-HONEY  15m  -4.5%  1h -21.9%
-   vol 0.8x · $2.5M · on CB
+   vol 3.2x · $631K · on CB
+HONEY  15m  +4.0%  1h -21.9%
+   vol 0.6x · $2.4M · on CB
+MOODENG 15m  +3.0%  1h  +6.3%
+   vol 0.7x · $714K · on CB
 
-👀 WATCH (26)
-  BIGTIME PROS SYRUP ZRO WIF
-  NEAR AKT BCH TON SEI VVV
-  AERO LINK FIL ADA PAXG TRUMP
-  HYPE DOT BTC ETH ONDO ATOM
-  BLUR PEPE ICP
+👀 WATCH (20)
+  FET BIGTIME BLUR SEI ZRO
+  PUMP WIF AERO BCH TON APT
+  PENGU PAXG BTC LINK TRUMP
+  HYPE ZEC NEAR ONDO
 
 15m/1h = price change
 vol = volume vs normal
