@@ -1,20 +1,24 @@
 CRYPTO SCAN
-Wed 11:05 PM CT
+Wed 11:10 PM CT
 26 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
-ELSA   15m  -7.7%  1h  -6.9%
-   vol 0.2x · $1.0M · on CB
+⚪ THIN (low volume) (3)
+ELSA   15m -10.1%  1h  -7.7%
+   vol 0.9x · $949K · on CB
+HONEY  15m  -2.6%  1h  -1.0%
+   vol 0.9x · $3.3M · on CB
+CFG    15m  -2.1%  1h  -0.8%
+   vol 0.3x · $592K · on CB
 
-👀 WATCH (25)
-  HONEY CFG PROS MOODENG MON
-  CT PONS SYRUP OPG BLUR ATOM
-  MANTLE DOT PENGU TON XPL
-  AAVE ICP TRUMP RENDER INJ
-  XLM SKY HYPE ALGO
+👀 WATCH (23)
+  PROS PONS MOODENG SKY MON
+  BIGTIME ATOM CT SEI INJ
+  SYRUP PEARL OPG PENGU AAVE
+  TRUMP AERO RENDER ADA XLM
+  HYPE ARB ZEC
 
 15m/1h = price change
 vol = volume vs normal
