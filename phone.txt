@@ -1,16 +1,22 @@
 CRYPTO SCAN
-Thu 10:45 AM CT
-24 flagged · 0 buy signals
+Thu 10:50 AM CT
+26 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
+⚪ THIN (low volume) (2)
+SEI    15m  +2.8%  1h  +2.9%
+   vol 2.2x · $2.5M · on CB
+HNT    15m  -3.7%  1h  +2.7%
+   vol 1.7x · $581K · on CB
+
 👀 WATCH (24)
-  HONEY PONS SEI AKT SKY SYRUP
-  BLUR BIGTIME NEAR USELESS
-  MOODENG AVNT PEARL KITE HNT
-  ATOM PUMP ZRO SPX FET WLD
-  RENDER ARB TRUMP
+  BLUR HONEY PONS OPG SKY
+  SYRUP ZEC QNT BIGTIME KITE
+  PEARL WIF FET DRV ADA SPX
+  ZRO DOGE AKT SOL ETH USELESS
+  MOODENG TRUMP
 
 15m/1h = price change
 vol = volume vs normal
