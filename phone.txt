@@ -1,15 +1,25 @@
 CRYPTO SCAN
-Thu 2:35 PM CT
-18 flagged · 0 buy signals
+Thu 2:40 PM CT
+21 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
+⚪ THIN (low volume) (2)
+PONS   15m  +2.1%  1h  +2.1%
+   vol 1.7x · $497K · on CB
+HONEY  15m  -2.6%  1h  -3.2%
+   vol 0.4x · $1.9M · on CB
+
+⚪ MOVED, NO VOLUME SPIKE (1)
+HYPE   15m  +1.0%  1h  +2.0%
+   vol 1.2x · $25M · on CB
+
 👀 WATCH (18)
-  HNT ME SEI AERO ELSA HYPE
-  LIGHTER WIF HBAR MAMO BLUR
-  PEARL MOODENG UNI ICP DOGE
-  PUMP XLM
+  SEI USELESS DRV ME PEARL
+  AERO ELSA ICP HBAR PUMP ONDO
+  ATOM XRP DOGE HNT BCH APT
+  PENDLE
 
 15m/1h = price change
 vol = volume vs normal
