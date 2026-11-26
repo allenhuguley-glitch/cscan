@@ -1,21 +1,21 @@
 CRYPTO SCAN
-Wed 10:35 PM CT
-18 flagged · 0 buy signals
+Wed 10:40 PM CT
+22 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (2)
 CFG    15m  +2.8%  1h  +5.8%
-   vol 2.7x · $605K · on CB
-HONEY  15m  -3.1%  1h -14.4%
-   vol 0.6x · $3.1M · on CB
+   vol 2.7x · $607K · on CB
+ELSA   15m  -3.2%  1h +17.9%
+   vol 1.4x · $975K · on CB
 
-👀 WATCH (16)
-  DRV BIGTIME PROS ZRO BLUR
-  VVV ATOM CT PUMP PEPE
-  MOODENG TIA ICP MANTLE LINK
-  LTC
+👀 WATCH (20)
+  BIGTIME PROS HONEY OPG ZRO
+  SYRUP TIA BLUR PONS PEARL
+  PEPE DRV MOODENG XPL CRV
+  PAXG ZEC HBAR LINK SEI
 
 15m/1h = price change
 vol = volume vs normal
