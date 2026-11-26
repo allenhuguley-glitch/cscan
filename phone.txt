@@ -1,21 +1,17 @@
 CRYPTO SCAN
-Thu 2:25 PM CT
-21 flagged · 0 buy signals
+Thu 2:30 PM CT
+12 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (2)
-HONEY  15m  +3.0%  1h  -2.1%
-   vol 0.3x · $1.9M · on CB
-HNT    15m  +2.1%  1h  +2.5%
-   vol 5.7x · $642K · on CB
+⚪ THIN (low volume) (1)
+HNT    15m  +3.3%  1h  +4.3%
+   vol 1.9x · $644K · on CB
 
-👀 WATCH (19)
-  BLUR SKY FET DRV LIGHTER ME
-  ALGO MAMO TON AVAX WLFI WLD
-  ICP TAO HBAR XRP PUMP ELSA
-  PEPE
+👀 WATCH (11)
+  SEI PONS DRV HYPE BLUR MAMO
+  WLD LIGHTER QNT DOGE BNB
 
 15m/1h = price change
 vol = volume vs normal
