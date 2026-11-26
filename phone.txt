@@ -1,20 +1,21 @@
 CRYPTO SCAN
-Wed 7:05 PM CT
-26 flagged · 0 buy signals
+Wed 7:10 PM CT
+25 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
-BIGTIME 15m  -3.0%  1h  -4.5%
-   vol 1.7x · $1.6M · on CB
+⚪ THIN (low volume) (2)
+HONEY  15m  -8.4%  1h -15.7%
+   vol 1.4x · $2.8M · on CB
+BIGTIME 15m  -6.7%  1h  -0.6%
+   vol 0.4x · $1.6M · on CB
 
-👀 WATCH (25)
-  TRUMP OPG BLUR PUMP NEAR
-  LIGHTER CFG SYRUP PEARL INJ
-  DASH MON AKT PONS DRV RENDER
-  CT HBAR PAXG AERO XRP LINK
-  XLM STX ICP
+👀 WATCH (23)
+  PROS BLUR LIGHTER TRUMP PUMP
+  MON PONS NEAR PEPE VVV OPG
+  SEI IRYS INJ DASH CFG MANTLE
+  PEARL HBAR TON AERO ZEC STX
 
 15m/1h = price change
 vol = volume vs normal
