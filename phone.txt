@@ -1,27 +1,24 @@
 CRYPTO SCAN
-Wed 6:45 PM CT
-27 flagged · 0 buy signals
+Wed 6:50 PM CT
+27 flagged · 2 buy signals
 
-🟢 BUY SIGNALS
-  none right now
+🟢 BUY SIGNALS (2)
+MON    15m  +2.1%  1h  +0.9%
+   vol 2.1x · $13M · on CB
+VVV    15m  +1.5%  1h  +4.3%
+   vol 2.4x · $26M · on CB
 
-⚪ THIN (low volume) (3)
+⚪ THIN (low volume) (2)
 BIGTIME 15m  +4.7%  1h  +0.6%
-   vol 3.1x · $1.7M · on CB
-OPG    15m  +3.0%  1h  +4.7%
-   vol 1.0x · $763K · on CB
-HONEY  15m  -4.1%  1h -17.8%
-   vol 1.7x · $3.0M · on CB
-
-⚪ MOVED, NO VOLUME SPIKE (1)
-VVV    15m  +1.3%  1h  +4.1%
-   vol 0.6x · $26M · on CB
+   vol 3.1x · $1.6M · on CB
+HONEY  15m  -4.8%  1h -12.7%
+   vol 1.6x · $3.2M · on CB
 
 👀 WATCH (23)
-  CFG CT PEARL PROS MOODENG
-  BLUR CRV IRYS ALGO STX KITE
-  PEPE UNI ENA ATOM QNT TON
-  AERO AAVE PONS DOGE ZRO TAO
+  OPG CT PROS CFG PONS ZEC
+  AERO ARB ALGO ENA KITE DRV
+  PEPE STX QNT ETH ZRO BTC
+  AAVE PAXG TRUMP DOGE STRK
 
 15m/1h = price change
 vol = volume vs normal
