@@ -1,25 +1,24 @@
 CRYPTO SCAN
-Thu 2:40 AM CT
-33 flagged · 0 buy signals
+Thu 2:45 AM CT
+29 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (3)
 MOODENG 15m  -6.9%  1h  -7.1%
-   vol 18.4x · $837K · on CB
-ELSA   15m  -5.4%  1h  -6.2%
-   vol 2.8x · $1.0M · on CB
-BIGTIME 15m  -2.1%  1h  -2.7%
-   vol 0.2x · $1.2M · on CB
+   vol 18.4x · $852K · on CB
+ELSA   15m  -6.7%  1h  -8.6%
+   vol 3.5x · $1.0M · on CB
+BIGTIME 15m  -2.6%  1h  -3.6%
+   vol 1.5x · $1.2M · on CB
 
-👀 WATCH (30)
-  OPG LIGHTER CFG USELESS
-  SYRUP PEARL MON HBAR NEAR
-  CRV ZEC PUMP INJ HONEY ATOM
-  KITE HYPE XRP AAVE ADA
-  PENDLE XLM TRUMP PENGU DOGE
-  ETH SOL BNB FET SEI
+👀 WATCH (26)
+  HONEY LIGHTER CFG MON PUMP
+  USELESS ARB AERO NEAR APT
+  ZEC AAVE PONS SYRUP ONDO
+  KITE CRV INJ HYPE TAO FET
+  PENDLE ATOM SEI QNT SOL
 
 15m/1h = price change
 vol = volume vs normal
