@@ -1,20 +1,21 @@
 CRYPTO SCAN
-Thu 12:20 PM CT
-25 flagged · 0 buy signals
+Thu 12:25 PM CT
+23 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
-DRV    15m  +2.3%  1h  +3.7%
-   vol 6.4x · $1.2M · on CB
+⚪ THIN (low volume) (2)
+HNT    15m  +2.8%  1h  +3.8%
+   vol 2.2x · $609K · on CB
+HONEY  15m  -5.0%  1h  -8.2%
+   vol 3.7x · $2.3M · on CB
 
-👀 WATCH (24)
-  ME BLUR FET BONK VVV PEARL
-  TIA KITE BIGTIME HONEY PONS
-  MOODENG AKT MANTLE PENGU APT
-  ZEC ICP TAO BCH ETH TRUMP
-  LINK PAXG
+👀 WATCH (21)
+  ME PEARL VVV BLUR BIGTIME
+  DRV SYRUP MOODENG HBAR TIA
+  PEPE KITE SEI MANTLE NEAR
+  ICP ELSA PONS BCH QNT PAXG
 
 15m/1h = price change
 vol = volume vs normal
