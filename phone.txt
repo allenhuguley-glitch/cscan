@@ -1,6 +1,6 @@
 CRYPTO SCAN
-Thu 2:00 PM CT
-15 flagged · 0 buy signals
+Thu 2:05 PM CT
+21 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
@@ -9,10 +9,11 @@ Thu 2:00 PM CT
 HONEY  15m  -2.6%  1h  -6.7%
    vol 0.2x · $1.9M · on CB
 
-👀 WATCH (14)
-  WIF CT ZRO INJ ARB SEI HNT
-  SYRUP ELSA TIA TRUMP TAO MON
-  PONS
+👀 WATCH (20)
+  MOODENG WIF ME ZRO INJ ARB
+  HYPE AKT ZEC VVV SYRUP DRV
+  ELSA TIA TRUMP HBAR TAO MON
+  DOGE AVAX
 
 15m/1h = price change
 vol = volume vs normal
