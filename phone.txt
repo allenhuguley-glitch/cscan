@@ -1,24 +1,20 @@
 CRYPTO SCAN
-Thu 10:15 AM CT
-26 flagged · 0 buy signals
+Thu 10:20 AM CT
+27 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-🔴 REAL DROPS (1)
-VVV    15m  -1.4%  1h  -0.5%
-   vol 3.3x · $33M · on CB
-
 ⚪ MOVED, NO VOLUME SPIKE (1)
-MON    15m  +1.8%  1h  +3.5%
-   vol 1.3x · $7.2M · on CB
+VVV    15m  -1.2%  1h  -0.1%
+   vol 0.8x · $33M · on CB
 
-👀 WATCH (24)
-  HONEY PROS ELSA ME SKY ZRO
-  PENDLE NEAR WIF LIGHTER AAVE
-  FET HNT ZEC CT PONS BIGTIME
-  DRV BLUR WLFI TON OPG KITE
-  PEARL
+👀 WATCH (26)
+  HONEY MOODENG BLUR PROS OPG
+  SKY ELSA PENDLE SYRUP PUMP
+  ZRO WIF QNT INJ AAVE FET APT
+  BIGTIME CT HNT ARB DRV TON
+  HBAR USELESS PEARL
 
 15m/1h = price change
 vol = volume vs normal
