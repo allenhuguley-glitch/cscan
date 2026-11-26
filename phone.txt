@@ -1,6 +1,6 @@
 CRYPTO SCAN
-Thu 3:50 PM CT
-20 flagged · 0 buy signals
+Thu 3:55 PM CT
+23 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
@@ -9,11 +9,11 @@ Thu 3:50 PM CT
 HONEY  15m  -2.1%  1h  -2.1%
    vol 0.6x · $1.8M · on CB
 
-👀 WATCH (19)
-  ZRO DRV BIGTIME SYRUP ME
-  PONS BLUR ARB TON FET ZEC
-  DOT ENA XLM HBAR MAMO WLFI
-  ICP BNB
+👀 WATCH (22)
+  ZRO PONS ZEC ELSA SYRUP ME
+  BIGTIME SEI BLUR ARB TON CT
+  FET PUMP ENA FIL ETH WLFI
+  DOGE BTC BNB SOL
 
 15m/1h = price change
 vol = volume vs normal
