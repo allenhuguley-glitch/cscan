@@ -1,25 +1,20 @@
 CRYPTO SCAN
-Thu 5:25 AM CT
-25 flagged · 0 buy signals
+Thu 5:30 AM CT
+23 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (4)
+⚪ THIN (low volume) (1)
 ME     15m  +3.1%  1h  -0.1%
-   vol 1.1x · $636K · on CB
-ELSA   15m  +2.2%  1h  +3.1%
-   vol 0.5x · $1.2M · on CB
-MOODENG 15m  +2.1%  1h  +7.8%
-   vol 0.4x · $705K · on CB
-HONEY  15m  -3.8%  1h -17.7%
-   vol 0.2x · $2.4M · on CB
+   vol 1.1x · $649K · on CB
 
-👀 WATCH (21)
-  BIGTIME BLUR FET WIF NEAR
-  TRUMP LIGHTER PUMP CRV SKY
-  AERO SEI FIL APT PENGU ETH
-  QNT BTC SUI USELESS PONS
+👀 WATCH (22)
+  ELSA ZRO BLUR SEI MOODENG
+  WIF NEAR TRUMP BIGTIME CRV
+  FET FIL DOT INJ TIA RENDER
+  USELESS LIGHTER AERO PONS
+  ADA DOGE
 
 15m/1h = price change
 vol = volume vs normal
