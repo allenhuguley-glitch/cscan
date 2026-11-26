@@ -1,24 +1,25 @@
 CRYPTO SCAN
-Wed 9:35 PM CT
-26 flagged · 0 buy signals
+Wed 9:40 PM CT
+30 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-🟡 AGAINST TREND / FADING (1)
-VVV    15m  -4.2%  1h -12.4%
-   vol 3.9x · $28M · on CB
-
 ⚪ THIN (low volume) (1)
 ELSA   15m +13.9%  1h +12.9%
-   vol 17.7x · $710K · on CB
+   vol 17.7x · $704K · on CB
 
-👀 WATCH (24)
-  HONEY BIGTIME PUMP INJ OPG
-  MON DRV NEAR PENDLE ZEC
-  LIGHTER SYRUP ZRO FET QNT
-  PEARL ICP AAVE SKY ALGO TON
-  CT SUPER STRK
+⚪ MOVED, NO VOLUME SPIKE (1)
+VVV    15m  -1.7%  1h -11.8%
+   vol 1.4x · $29M · on CB
+
+👀 WATCH (28)
+  HONEY OPG BLUR PUMP BIGTIME
+  MANTLE INJ USELESS ZEC SKY
+  PEARL PENDLE DRV CT NEAR XLM
+  AAVE QNT TON AVAX BCH ETH
+  HBAR SUPER SEI LINK PAXG
+  KITE
 
 15m/1h = price change
 vol = volume vs normal
