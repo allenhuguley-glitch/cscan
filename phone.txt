@@ -1,24 +1,20 @@
 CRYPTO SCAN
-Thu 2:00 AM CT
+Thu 2:05 AM CT
 28 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (3)
-HNT    15m  +2.2%  1h  +3.9%
-   vol 2.7x · $813K · on CB
-MOODENG 15m  +2.1%  1h  +1.1%
-   vol 9.4x · $859K · on CB
-HONEY  15m  -6.5%  1h  -6.9%
-   vol 1.1x · $3.1M · on CB
+⚪ THIN (low volume) (1)
+HNT    15m  +3.6%  1h  +4.9%
+   vol 3.1x · $813K · on CB
 
-👀 WATCH (25)
-  BLUR SKY BIGTIME ZRO ELSA
-  SEI TIA DRV PEARL CRV AKT
-  PEPE SYRUP PROS MANTLE ZEC
-  AERO KITE ENA XPL PAXG
-  PENDLE INJ LIGHTER WIF
+👀 WATCH (27)
+  BLUR MOODENG BIGTIME SKY INJ
+  ELSA MON DRV CRV SYRUP SEI
+  PEARL ZRO AKT ENA VVV PROS
+  AERO ATOM KITE XPL TAO LTC
+  FET NEAR BNB LINK
 
 15m/1h = price change
 vol = volume vs normal
