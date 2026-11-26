@@ -1,21 +1,23 @@
 CRYPTO SCAN
-Thu 3:10 AM CT
-37 flagged · 0 buy signals
+Thu 3:15 AM CT
+32 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
-ELSA   15m  +2.6%  1h  -4.4%
-   vol 0.4x · $1.1M · on CB
+⚪ THIN (low volume) (2)
+HONEY  15m  +5.0%  1h  +5.8%
+   vol 1.3x · $3.2M · on CB
+SYRUP  15m  -2.6%  1h  -1.8%
+   vol 0.2x · $1.3M · on CB
 
-👀 WATCH (36)
-  HNT DRV USELESS HONEY PUMP
-  PEPE SEI XPL ARB MON PONS CT
-  ENA ATOM ZEC STX CFG LIGHTER
-  QNT NEAR WLD TAO UNI AVAX
-  HBAR SUI AERO LTC XLM PEARL
-  INJ DOT AAVE ETH LINK MANTLE
+👀 WATCH (30)
+  HNT ELSA BIGTIME KITE SEI
+  FET MOODENG PROS XPL LIGHTER
+  ARB WIF PONS ATOM ZEC CFG
+  PEPE WLD ENA CRV STX HBAR
+  SUI MANTLE BNB XRP AERO XLM
+  PEARL DOT
 
 15m/1h = price change
 vol = volume vs normal
