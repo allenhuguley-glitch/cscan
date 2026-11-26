@@ -1,23 +1,16 @@
 CRYPTO SCAN
-Thu 9:45 AM CT
-27 flagged · 0 buy signals
+Thu 9:50 AM CT
+28 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (3)
-SEI    15m  +2.8%  1h  +1.8%
-   vol 1.2x · $2.1M · on CB
-HONEY  15m  -3.0%  1h  +1.0%
-   vol 0.4x · $3.3M · on CB
-ME     15m  -2.9%  1h  -7.2%
-   vol 3.9x · $806K · on CB
-
-👀 WATCH (24)
-  ELSA BLUR AKT SKY DASH DRV
-  TON OPG TRUMP ARB ICP VVV
-  AERO SUI QNT PEPE PONS ATOM
-  ALGO TIA KITE INJ ENA SUPER
+👀 WATCH (28)
+  SKY BLUR AKT ME ELSA TIA
+  DASH FET DRV TON NEAR HONEY
+  BIGTIME TRUMP ZEC ICP AERO
+  ARB QNT INJ HYPE ALGO PENDLE
+  OPG KITE VVV AVNT SUPER
 
 15m/1h = price change
 vol = volume vs normal
