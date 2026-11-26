@@ -1,16 +1,19 @@
 CRYPTO SCAN
-Thu 3:10 PM CT
-24 flagged · 0 buy signals
+Thu 3:15 PM CT
+23 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (24)
-  ZRO SYRUP ME HNT ELSA SEI
-  HONEY AKT PONS MOODENG INJ
-  LINK PEARL LTC MON FIL DOT
-  XLM TAO PAXG UNI PUMP XRP
-  ARB
+⚪ THIN (low volume) (1)
+HONEY  15m  -3.0%  1h  +2.0%
+   vol 0.2x · $1.9M · on CB
+
+👀 WATCH (22)
+  ZRO ME ELSA SYRUP MOODENG
+  INJ PONS AERO AKT WIF ZEC
+  SOL VVV HBAR XLM FIL PUMP
+  ARB PAXG ETH MON PENGU
 
 15m/1h = price change
 vol = volume vs normal
