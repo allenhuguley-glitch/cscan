@@ -1,22 +1,21 @@
 CRYPTO SCAN
-Thu 4:20 AM CT
-19 flagged · 0 buy signals
+Thu 4:25 AM CT
+23 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (3)
-ELSA   15m  +3.2%  1h  +1.2%
-   vol 0.2x · $1.1M · on CB
-HONEY  15m  -4.8%  1h -13.9%
-   vol 0.9x · $2.8M · on CB
-BIGTIME 15m  -2.7%  1h  +2.8%
-   vol 4.7x · $1.2M · on CB
+⚪ THIN (low volume) (2)
+HONEY  15m  -6.1%  1h -17.9%
+   vol 0.6x · $2.7M · on CB
+BIGTIME 15m  -3.5%  1h  -0.4%
+   vol 4.1x · $1.1M · on CB
 
-👀 WATCH (16)
-  OPG KITE INJ TIA SYRUP PUMP
-  PEARL LIGHTER WLD SEI PEPE
-  FET FIL MON ONDO CRV
+👀 WATCH (21)
+  ELSA OPG KITE ZRO SYRUP ZEC
+  PROS INJ ATOM PAXG BCH SEI
+  PEPE WLD ENA FIL CRV SKY
+  ALGO XLM HBAR
 
 15m/1h = price change
 vol = volume vs normal
