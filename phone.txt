@@ -1,22 +1,15 @@
 CRYPTO SCAN
-Thu 12:35 PM CT
-36 flagged · 0 buy signals
+Thu 12:40 PM CT
+23 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
-DRV    15m  +2.7%  1h  +6.3%
-   vol 6.6x · $1.2M · on CB
-
-👀 WATCH (35)
-  ME SEI WIF SYRUP ZRO PEARL
-  CT HYPE AKT PENDLE UNI ATOM
-  USELESS TIA AERO APT AAVE
-  NEAR QNT BIGTIME ZEC XLM
-  ALGO PUMP ETH PENGU DOT ONDO
-  WLD ENA XPL BCH TRUMP RENDER
-  PAXG
+👀 WATCH (23)
+  HNT ME DRV ZRO AKT PEPE CT
+  SYRUP PENGU AERO PROS SEI
+  WIF LIGHTER ALGO XPL WLD QNT
+  TRUMP AVNT BLUR TIA RENDER
 
 15m/1h = price change
 vol = volume vs normal
