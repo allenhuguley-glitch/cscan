@@ -1,18 +1,20 @@
 CRYPTO SCAN
-Thu 3:40 AM CT
-19 flagged · 0 buy signals
+Thu 3:45 AM CT
+25 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (1)
-HONEY  15m  -2.9%  1h  -2.3%
-   vol 0.5x · $3.1M · on CB
+HONEY  15m  -6.7%  1h  -5.6%
+   vol 1.8x · $2.9M · on CB
 
-👀 WATCH (18)
-  CT ELSA SEI KITE ALGO STX
-  TIA FET DRV INJ ZRO MOODENG
-  MANTLE TAO LTC BCH WIF PUMP
+👀 WATCH (24)
+  CT ELSA PONS TIA HNT OPG
+  KITE VVV ALGO PUMP XPL DRV
+  INJ ZRO MOODENG PROS MANTLE
+  TAO ONDO APT AAVE LTC XLM
+  SUI
 
 15m/1h = price change
 vol = volume vs normal
