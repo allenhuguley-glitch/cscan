@@ -1,15 +1,24 @@
 CRYPTO SCAN
-Thu 12:05 PM CT
-19 flagged · 0 buy signals
+Thu 12:10 PM CT
+26 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (19)
-  HONEY SEI PUMP MOODENG HNT
-  PROS WIF PEARL ME FET PONS
-  DRV VVV XPL BCH CRV ALGO WLD
-  ENA
+⚪ THIN (low volume) (3)
+SEI    15m  +2.9%  1h  +2.4%
+   vol 2.7x · $2.9M · on CB
+DRV    15m  +2.3%  1h  +3.8%
+   vol 2.8x · $1.2M · on CB
+ME     15m  -2.2%  1h  +2.4%
+   vol 1.7x · $935K · on CB
+
+👀 WATCH (23)
+  HONEY FET WIF MOODENG BONK
+  CFG APT PONS UNI ONDO NEAR
+  PEARL PEPE MANTLE AKT AVAX
+  PENGU TIA WLD QNT ARB ICP
+  LIGHTER
 
 15m/1h = price change
 vol = volume vs normal
