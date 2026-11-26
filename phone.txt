@@ -1,24 +1,22 @@
 CRYPTO SCAN
-Wed 7:20 PM CT
-27 flagged · 0 buy signals
+Wed 7:25 PM CT
+26 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
+⚪ THIN (low volume) (2)
+BIGTIME 15m  +4.0%  1h  +3.2%
+   vol 0.2x · $1.7M · on CB
 HONEY  15m  -2.6%  1h -14.7%
-   vol 1.5x · $2.9M · on CB
+   vol 1.5x · $3.0M · on CB
 
-⚪ MOVED, NO VOLUME SPIKE (1)
-MON    15m  +1.1%  1h  +1.1%
-   vol 0.7x · $13M · on CB
-
-👀 WATCH (25)
-  LIGHTER PROS BIGTIME PONS
-  USELESS ZRO ENA TRUMP
-  MOODENG CFG AKT PUMP FET UNI
-  STX FARTCOIN CRV PAXG DASH
-  BLUR POL AAVE BCH ATOM AERO
+👀 WATCH (24)
+  BLUR CFG LIGHTER PROS
+  USELESS ZRO MOODENG SKY ZEC
+  ENA FET OPG PUMP UNI INJ
+  FARTCOIN TRUMP POL LINK SOL
+  VVV QNT ATOM ARB
 
 15m/1h = price change
 vol = volume vs normal
