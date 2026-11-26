@@ -1,20 +1,25 @@
 CRYPTO SCAN
-Wed 10:20 PM CT
-17 flagged · 0 buy signals
+Wed 10:25 PM CT
+30 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (2)
-PROS   15m  +5.5%  1h  +4.6%
-   vol 7.1x · $1.0M · on CB
-CFG    15m  +2.3%  1h  +2.7%
-   vol 11.0x · $581K · on CB
+⚪ THIN (low volume) (3)
+ELSA   15m  +5.4%  1h +40.3%
+   vol 1.3x · $991K · on CB
+PROS   15m  +5.2%  1h  +5.4%
+   vol 8.2x · $1.0M · on CB
+HONEY  15m  -5.4%  1h  -7.4%
+   vol 2.0x · $3.0M · on CB
 
-👀 WATCH (15)
-  ELSA HONEY BLUR SYRUP SEI
-  PEARL VVV CT ATOM LIGHTER
-  APT PAXG HYPE AAVE AERO
+👀 WATCH (27)
+  DRV CFG BLUR SEI SYRUP ICP
+  ZRO PEARL LIGHTER MOODENG
+  ATOM SUPER CRV BIGTIME NEAR
+  PEPE HBAR KITE APT PUMP ALGO
+  BCH PENDLE PAXG MANTLE HYPE
+  AAVE
 
 15m/1h = price change
 vol = volume vs normal
