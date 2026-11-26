@@ -1,24 +1,25 @@
 CRYPTO SCAN
-Thu 12:10 PM CT
+Thu 12:15 PM CT
 26 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (3)
-SEI    15m  +2.9%  1h  +2.4%
-   vol 2.7x · $2.9M · on CB
+⚪ THIN (low volume) (4)
+SEI    15m  +2.3%  1h  +2.0%
+   vol 0.7x · $2.9M · on CB
 DRV    15m  +2.3%  1h  +3.8%
    vol 2.8x · $1.2M · on CB
+HONEY  15m  -2.5%  1h  -1.8%
+   vol 0.3x · $2.4M · on CB
 ME     15m  -2.2%  1h  +2.4%
-   vol 1.7x · $935K · on CB
+   vol 1.7x · $938K · on CB
 
-👀 WATCH (23)
-  HONEY FET WIF MOODENG BONK
-  CFG APT PONS UNI ONDO NEAR
-  PEARL PEPE MANTLE AKT AVAX
-  PENGU TIA WLD QNT ARB ICP
-  LIGHTER
+👀 WATCH (22)
+  BIGTIME FET BONK KITE CFG
+  APT PONS SKY UNI ONDO MON
+  NEAR PEPE MOODENG WLD MANTLE
+  PENGU AKT TIA ICP TON XLM
 
 15m/1h = price change
 vol = volume vs normal
