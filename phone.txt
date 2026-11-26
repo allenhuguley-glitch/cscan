@@ -1,15 +1,15 @@
 CRYPTO SCAN
-Thu 1:50 PM CT
-21 flagged · 0 buy signals
+Thu 1:55 PM CT
+20 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (21)
-  ME DRV HONEY SYRUP BIGTIME
-  HNT ZRO HYPE INJ USELESS
-  PONS PEARL CT MAMO RENDER
-  SOL TAO LINK PROS LTC XRP
+👀 WATCH (20)
+  ME WIF SEI USELESS DRV VVV
+  BIGTIME SYRUP PENDLE ENA
+  MAMO RENDER ARB DOT LINK BTC
+  TAO INJ ALGO AVNT
 
 15m/1h = price change
 vol = volume vs normal
