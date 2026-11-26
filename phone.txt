@@ -1,26 +1,27 @@
 CRYPTO SCAN
-Wed 8:15 PM CT
-30 flagged · 0 buy signals
+Wed 8:20 PM CT
+39 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (4)
 HONEY  15m  +6.0%  1h +20.0%
-   vol 0.5x · $3.1M · on CB
+   vol 0.5x · $3.2M · on CB
 BIGTIME 15m  +2.4%  1h  -0.4%
-   vol 0.1x · $1.7M · on CB
+   vol 0.1x · $1.6M · on CB
 TIA    15m  +2.4%  1h  +3.5%
-   vol 139.2x · $691K · on CB
+   vol 139.2x · $698K · on CB
 MOODENG 15m  -2.1%  1h  -1.5%
-   vol 1.0x · $967K · on CB
+   vol 1.0x · $973K · on CB
 
-👀 WATCH (26)
-  OPG SYRUP FET LTC PEPE CFG
-  PROS STRK PEARL HBAR DASH
-  USELESS SUI SEI MON SKY PUMP
-  ADA PAXG DOT FIL INJ XRP TON
-  AVAX BTC
+👀 WATCH (35)
+  SYRUP PONS OPG CFG FET BONK
+  CRV PEPE APT ALGO ARB WLD
+  DASH USELESS ENA ADA PROS
+  STRK HBAR XPL SKY SUI SEI
+  ONDO PUMP ZEC DOT SOL FIL
+  LINK AVAX XRP BTC INJ CT
 
 15m/1h = price change
 vol = volume vs normal
