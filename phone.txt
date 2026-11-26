@@ -1,28 +1,19 @@
 CRYPTO SCAN
-Wed 9:10 PM CT
-29 flagged · 0 buy signals
+Wed 9:15 PM CT
+22 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-🟡 AGAINST TREND / FADING (1)
-VVV    15m  -1.7%  1h  -9.0%
-   vol 2.2x · $28M · on CB
-
 ⚪ THIN (low volume) (1)
-HONEY  15m  -3.4%  1h +10.5%
-   vol 0.9x · $3.5M · on CB
+HONEY  15m  -2.4%  1h  +9.3%
+   vol 1.9x · $3.5M · on CB
 
-⚪ MOVED, NO VOLUME SPIKE (1)
-PEPE   15m  -1.1%  1h  -0.6%
-   vol 0.1x · $5.7M · on CB
-
-👀 WATCH (26)
-  OPG INJ TIA USELESS STRK
-  NEAR CRV BLUR SUI ENA PEARL
-  FET FARTCOIN LIGHTER SYRUP
-  PENGU AAVE PUMP MON ICP CT
-  WLD DOGE BNB ATOM QNT
+👀 WATCH (21)
+  OPG TIA CFG DRV TON FET
+  PEARL MOODENG CT STX SYRUP
+  VVV MON ONDO APT WLD BIGTIME
+  SUPER BNB QNT NEAR
 
 15m/1h = price change
 vol = volume vs normal
