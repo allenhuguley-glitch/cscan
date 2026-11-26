@@ -1,24 +1,19 @@
 CRYPTO SCAN
-Thu 5:55 AM CT
-22 flagged · 0 buy signals
+Thu 6:00 AM CT
+21 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (4)
-ME     15m  -4.0%  1h  -4.0%
-   vol 0.4x · $663K · on CB
-MOODENG 15m  -2.9%  1h  +3.7%
-   vol 0.2x · $661K · on CB
-BIGTIME 15m  -2.7%  1h  -0.0%
-   vol 4.9x · $1.1M · on CB
-ELSA   15m  -2.2%  1h  +1.2%
-   vol 0.4x · $1.2M · on CB
+⚪ THIN (low volume) (1)
+ME     15m  -3.0%  1h  -0.6%
+   vol 1.7x · $668K · on CB
 
-👀 WATCH (18)
-  PROS ZRO PONS SEI AAVE HONEY
-  HBAR SKY ALGO WLD BCH DOT
-  XPL PENGU TAO SOL LINK ENA
+👀 WATCH (20)
+  MOODENG HONEY SKY PROS PONS
+  ELSA BLUR ALGO WLD KITE HBAR
+  XPL PEPE CT AERO ONDO LINK
+  SEI DOT BIGTIME
 
 15m/1h = price change
 vol = volume vs normal
