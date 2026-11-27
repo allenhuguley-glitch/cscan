@@ -1,26 +1,25 @@
 CRYPTO SCAN
-Fri 8:25 AM CT
-41 flagged · 0 buy signals
+Fri 8:30 AM CT
+38 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-🟡 AGAINST TREND / FADING (1)
-VVV    15m  -1.3%  1h  -0.5%
-   vol 4.2x · $10M · on CB
+⚪ THIN (low volume) (3)
+BLUR   15m  +4.6%  1h  -0.8%
+   vol 0.9x · $386K · on CB
+HONEY  15m  +4.4%  1h  +1.7%
+   vol 1.0x · $851K · on CB
+AURORA 15m  +3.8%  1h  +4.0%
+   vol 1.2x · $622K · on CB
 
-⚪ THIN (low volume) (1)
-BLUR   15m  +4.8%  1h  -1.6%
-   vol 0.1x · $376K · on CB
-
-👀 WATCH (39)
-  PEARL HONEY WLFI SENT FET
-  FIL SKY DOGE CRV HBAR QNT
-  SPK AURORA ATOM ELSA SYRUP
-  PUMP ADA PENDLE ARB AERO WLD
-  FARTCOIN TRUMP UNI LTC LINK
-  WIF XLM ICP AVAX DOT AAVE
-  SOL FLR BTC TON ETH BNB
+👀 WATCH (35)
+  WLFI FARTCOIN ARB FET ENA
+  WIF PEPE HYPE FIL TAO PUMP
+  CRV PEARL VVV ATOM WLD UNI
+  TRUMP PENDLE SYRUP STX ALGO
+  NEAR ONDO SUI PONS HBAR DOGE
+  QNT ADA ZEC APT BTC AAVE ETH
 
 15m/1h = price change
 vol = volume vs normal
