@@ -1,23 +1,21 @@
 CRYPTO SCAN
-Fri 2:35 AM CT
-31 flagged · 0 buy signals
+Fri 2:40 AM CT
+32 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (2)
-HONEY  15m  +2.7%  1h  +1.9%
-   vol 0.7x · $1.3M · on CB
-BLUR   15m  -4.0%  1h  -4.0%
-   vol 0.1x · $403K · on CB
+⚪ THIN (low volume) (1)
+BLUR   15m  -3.9%  1h  -3.7%
+   vol 0.7x · $394K · on CB
 
-👀 WATCH (29)
-  PONS BIGTIME LIGHTER ME ELSA
-  HYPE VVV ZEC PEARL ETH DOGE
-  BCH BTC SOL MON MANTLE SEI
-  UNI XRP MORPHO TRUMP AAVE
-  ONDO MOODENG AERO ADA FLR
-  INJ ZRO
+👀 WATCH (31)
+  ENA MPLX ELSA MOODENG HNT
+  QNT TIA VVV PUMP UNI WLD
+  USELESS MAMO HONEY BCH ZEC
+  PENDLE TAO ZRO DOT ARB FIL
+  ETH DOGE XLM AERO TRUMP NEAR
+  BNB AAVE INJ
 
 15m/1h = price change
 vol = volume vs normal
