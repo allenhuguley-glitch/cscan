@@ -1,23 +1,19 @@
 CRYPTO SCAN
-Thu 7:45 PM CT
-20 flagged · 0 buy signals
+Thu 7:50 PM CT
+19 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (3)
-BIGTIME 15m +11.6%  1h +12.0%
-   vol 3.3x · $742K · on CB
-HONEY  15m  +2.6%  1h +11.1%
-   vol 0.6x · $1.6M · on CB
-ELSA   15m  -3.3%  1h  -4.2%
-   vol 0.3x · $1.0M · on CB
+⚪ THIN (low volume) (1)
+BIGTIME 15m  +6.4%  1h  +7.6%
+   vol 1.5x · $686K · on CB
 
-👀 WATCH (17)
-  BIRB SEI XCN PEPE MON SKY
-  AKT HYPE BCH NEAR USELESS
-  ALGO BNB HBAR ARB PEARL
-  PENGU
+👀 WATCH (18)
+  XCN BIRB ELSA ZEC ALGO SKY
+  PEARL PONS USELESS FET HYPE
+  MON LINK BCH WIF TRUMP PUMP
+  FIL
 
 15m/1h = price change
 vol = volume vs normal
