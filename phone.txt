@@ -1,21 +1,20 @@
 CRYPTO SCAN
-Thu 6:25 PM CT
-23 flagged · 0 buy signals
+Thu 6:30 PM CT
+28 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (2)
-ME     15m  +2.6%  1h  +4.7%
-   vol 2.2x · $1.2M · on CB
-HONEY  15m  -2.5%  1h  -1.0%
-   vol 0.4x · $1.5M · on CB
+⚪ THIN (low volume) (1)
+HONEY  15m  -2.0%  1h  -7.1%
+   vol 0.3x · $1.5M · on CB
 
-👀 WATCH (21)
-  XCN BIGTIME AVNT SYRUP DRV
-  ALGO CT ZEC VVV SEI HNT ARB
-  FIL MANTLE ATOM AKT AERO WLD
-  BLUR WIF PEPE
+👀 WATCH (27)
+  SYRUP SEI XCN AVNT ATOM DRV
+  PONS CT ME AERO ZEC WIF HNT
+  TIA TON ONDO RENDER WLFI ZRO
+  SUI WLD AKT AVAX DOGE
+  USELESS BLUR PEPE
 
 15m/1h = price change
 vol = volume vs normal
