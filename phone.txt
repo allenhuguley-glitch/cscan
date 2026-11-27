@@ -1,20 +1,18 @@
 CRYPTO SCAN
-Fri 3:55 PM CT
-23 flagged · 0 buy signals
+Fri 4:00 PM CT
+15 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ MOVED, NO VOLUME SPIKE (1)
-SKY    15m  +1.6%  1h  +5.8%
-   vol 1.3x · $5.3M · on CB
+⚪ THIN (low volume) (1)
+HONEY  15m  -3.8%  1h  -7.2%
+   vol 2.8x · $856K · on CB
 
-👀 WATCH (22)
-  REZ COOKIE WLFI CRV ELSA
-  MANTLE ICNT FET VVV BIGTIME
-  PEARL WIF SPK ONDO AKT
-  MORPHO DASH ENA FLR BNB ZRO
-  SOL
+👀 WATCH (14)
+  REZ PEARL WLFI VVV ELSA FET
+  AVAX AKT WLD MANTLE ZRO QNT
+  PAXG PEPE
 
 15m/1h = price change
 vol = volume vs normal
