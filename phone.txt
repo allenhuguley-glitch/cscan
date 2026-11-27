@@ -1,19 +1,19 @@
 CRYPTO SCAN
-Fri 6:50 AM CT
-23 flagged · 0 buy signals
+Fri 6:55 AM CT
+18 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (1)
-AURORA 15m  +5.5%  1h  -0.2%
-   vol 4.6x · $547K · on CB
+AURORA 15m  +4.6%  1h  -0.6%
+   vol 1.2x · $531K · on CB
 
-👀 WATCH (22)
-  CFG SPK ELSA SKY WLFI AKT
-  PEARL BIGTIME PONS FET HONEY
-  ADA RENDER USELESS VVV BTC
-  UNI ETH AERO BCH PAXG FIL
+👀 WATCH (17)
+  CFG ELSA HONEY PONS SYRUP
+  PEARL SPK FET PUMP LINK
+  USELESS BTC QNT SEI CT BCH
+  FIL
 
 15m/1h = price change
 vol = volume vs normal
