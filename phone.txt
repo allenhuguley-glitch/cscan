@@ -1,21 +1,21 @@
 CRYPTO SCAN
-Fri 3:20 AM CT
-22 flagged · 0 buy signals
+Fri 3:25 AM CT
+21 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (2)
-MON    15m  +3.5%  1h  +3.1%
-   vol 1.6x · $2.9M · on CB
-BLUR   15m  +2.7%  1h -11.2%
-   vol 0.0x · $378K · on CB
+HONEY  15m  -2.9%  1h  +1.6%
+   vol 0.7x · $1.3M · on CB
+BLUR   15m  -2.1%  1h -12.0%
+   vol 0.8x · $373K · on CB
 
-👀 WATCH (20)
-  SKY PONS SEI ME MAMO ZRO
-  NEAR LINK CT DOT ATOM AERO
-  STX AAVE PEARL HYPE TRUMP
-  ENA RENDER AVAX
+👀 WATCH (19)
+  PONS ELSA SKY BIGTIME SEI
+  ZRO NEAR INJ MON DOT MANTLE
+  STX AERO HBAR MAMO PEARL
+  HYPE ICP TRUMP
 
 15m/1h = price change
 vol = volume vs normal
