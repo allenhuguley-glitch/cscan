@@ -1,18 +1,23 @@
 CRYPTO SCAN
-Fri 4:00 PM CT
-15 flagged · 0 buy signals
+Fri 4:05 PM CT
+30 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
+⚪ THIN (low volume) (2)
 HONEY  15m  -3.8%  1h  -7.2%
-   vol 2.8x · $856K · on CB
+   vol 2.8x · $855K · on CB
+ICNT   15m  -2.5%  1h  -3.1%
+   vol 4.9x · $509K · on CB
 
-👀 WATCH (14)
-  REZ PEARL WLFI VVV ELSA FET
-  AVAX AKT WLD MANTLE ZRO QNT
-  PAXG PEPE
+👀 WATCH (28)
+  AURORA ZEC RENDER PEARL REZ
+  SENT MON LIGHTER COOKIE ELSA
+  ADA HBAR AVAX ONDO AERO BCH
+  FET SOL FLR PENDLE TON XRP
+  TRUMP ARB WIF MANTLE AKT
+  BIGTIME
 
 15m/1h = price change
 vol = volume vs normal
