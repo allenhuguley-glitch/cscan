@@ -1,24 +1,21 @@
 CRYPTO SCAN
-Fri 12:50 AM CT
-24 flagged · 0 buy signals
+Fri 12:55 AM CT
+21 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-🟡 AGAINST TREND / FADING (1)
-ZEC    15m  -1.4%  1h  -1.9%
-   vol 5.8x · $126M · on CB
-
-⚪ THIN (low volume) (1)
+⚪ THIN (low volume) (2)
 BLUR   15m  +4.5%  1h +12.6%
-   vol 3.9x · $426K · on CB
+   vol 3.9x · $429K · on CB
+PONS   15m  +2.7%  1h  +5.9%
+   vol 1.2x · $1.0M · on CB
 
-👀 WATCH (22)
-  HONEY BIGTIME PEARL PONS FET
-  XCN MOODENG ARB NEAR DASH
-  AVNT ME HNT SPK ZRO PENDLE
-  SEI LIGHTER ICP WLFI DOGE
-  XRP
+👀 WATCH (19)
+  HONEY HNT PEARL FET USELESS
+  DASH XCN TON BIGTIME ENA
+  LIGHTER ZEC ARB WLFI NEAR
+  APT ICP SPK MANTLE
 
 15m/1h = price change
 vol = volume vs normal
