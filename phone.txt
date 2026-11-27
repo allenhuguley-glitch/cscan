@@ -1,33 +1,34 @@
 CRYPTO SCAN
-Thu 8:25 PM CT
-46 flagged · 0 buy signals
+Thu 8:30 PM CT
+57 flagged · 1 buy signal
 
-🟢 BUY SIGNALS
-  none right now
+🟢 BUY SIGNALS (1)
+HYPE   15m  +1.5%  1h  +2.6%
+   vol 10.6x · $26M · on CB
 
 🟡 AGAINST TREND / FADING (1)
-ZEC    15m  +1.7%  1h  +5.0%
-   vol 2.1x · $118M · on CB
+ZEC    15m  +2.8%  1h  +5.0%
+   vol 5.1x · $121M · on CB
 
-⚪ THIN (low volume) (4)
-BIGTIME 15m +11.0%  1h +23.1%
-   vol 2.4x · $838K · on CB
-UNI    15m  +2.2%  1h  +4.5%
-   vol 4.0x · $4.9M · on CB
-MOODENG 15m  +2.1%  1h  +2.4%
-   vol 2.3x · $455K · on CB
-BIRB   15m  -2.3%  1h  +1.5%
-   vol 1.4x · $444K · on CB
+⚪ THIN (low volume) (3)
+BIGTIME 15m  +7.7%  1h +27.0%
+   vol 2.6x · $823K · on CB
+ME     15m  -3.0%  1h  -0.8%
+   vol 0.6x · $1.1M · on CB
+HONEY  15m  -2.7%  1h  -4.9%
+   vol 0.3x · $1.5M · on CB
 
-👀 WATCH (41)
-  HONEY PUMP PEPE ARB USELESS
-  FIL RENDER INJ AKT AVNT DRV
-  HNT SYRUP ALGO ATOM SKY DOT
-  HYPE PENGU SEI WIF ELSA
-  TRUMP AERO PENDLE TON SPK
-  PONS CT WLD TIA HBAR
-  FARTCOIN LINK DOGE LTC ENA
-  TAO ADA AVAX PEARL
+👀 WATCH (52)
+  UNI SKY BIRB MOODENG HNT
+  PEARL PENDLE NEAR SYRUP ENA
+  ICP TON BCH AAVE AERO PUMP
+  LIGHTER VVV HBAR ATOM SUI
+  SPK USELESS ONDO RENDER ETH
+  TAO AVNT ALGO XLM TRUMP ELSA
+  LINK AVAX PEPE PONS WIF XRP
+  SOL ADA AKT PENGU TIA BTC
+  BNB CT APT DOGE FIL INJ LTC
+  FET
 
 15m/1h = price change
 vol = volume vs normal
