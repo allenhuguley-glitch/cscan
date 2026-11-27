@@ -1,25 +1,21 @@
 CRYPTO SCAN
-Fri 2:55 PM CT
-23 flagged · 0 buy signals
+Fri 3:00 PM CT
+19 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (4)
-AURORA 15m  +9.3%  1h +17.9%
-   vol 6.2x · $1.1M · on CB
+⚪ THIN (low volume) (2)
 HONEY  15m  -4.2%  1h  -4.8%
-   vol 2.8x · $868K · on CB
+   vol 2.8x · $876K · on CB
 ICNT   15m  -2.4%  1h  -5.0%
-   vol 2.8x · $506K · on CB
-SKY    15m  -2.1%  1h  +2.2%
-   vol 1.5x · $4.2M · on CB
+   vol 2.8x · $512K · on CB
 
-👀 WATCH (19)
-  SEI BIGTIME MON PONS RENDER
-  LIGHTER SENT VVV ZEC TAO
-  PEPE TRUMP FARTCOIN ATOM
-  USELESS INJ AERO ICP NEAR
+👀 WATCH (17)
+  ELSA INJ MON AURORA COOKIE
+  TAO WIF BIGTIME PEPE SKY
+  RENDER ZEC TRUMP DOT SEI
+  MORPHO BCH
 
 15m/1h = price change
 vol = volume vs normal
