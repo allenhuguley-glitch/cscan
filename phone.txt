@@ -1,20 +1,22 @@
 CRYPTO SCAN
-Fri 12:25 AM CT
-30 flagged · 0 buy signals
+Fri 12:30 AM CT
+32 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
-PONS   15m  +7.6%  1h +10.4%
-   vol 11.9x · $926K · on CB
+⚪ THIN (low volume) (2)
+BLUR   15m  +4.6%  1h  -0.5%
+   vol 0.4x · $384K · on CB
+PONS   15m  +3.3%  1h  +8.2%
+   vol 5.1x · $957K · on CB
 
-👀 WATCH (29)
-  HONEY ELSA SPK TON ZEC SYRUP
-  PEARL SEI MON FET ENA ARB
-  BLUR PEPE ME HNT PUMP XCN
-  QNT TIA XRP BNB ETH WIF
-  LIGHTER ADA BTC HYPE DRV
+👀 WATCH (30)
+  HONEY ELSA BIGTIME ME ZEC
+  MON VVV PEARL SKY SYRUP FET
+  ARB TON HNT ENA SPK PUMP XCN
+  USELESS UNI AKT XLM BNB ICP
+  ADA CT WIF TAO PAXG DRV
 
 15m/1h = price change
 vol = volume vs normal
