@@ -1,21 +1,16 @@
 CRYPTO SCAN
-Fri 1:55 AM CT
-25 flagged · 0 buy signals
+Fri 2:00 AM CT
+24 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (2)
-BLUR   15m  +2.8%  1h  +1.0%
-   vol 0.1x · $433K · on CB
-ELSA   15m  -3.1%  1h  -5.4%
-   vol 0.9x · $605K · on CB
-
-👀 WATCH (23)
-  SPK LIGHTER USELESS MON LTC
-  LINK MAMO WLD HONEY SEI ME
-  SYRUP MPLX SOL XRP BTC PAXG
-  RENDER QNT AKT AVAX ADA SKY
+👀 WATCH (24)
+  PONS BLUR HONEY BIGTIME ELSA
+  SPK FLR ENA QNT MPLX PEPE
+  SYRUP SOL ME DOGE SUI TIA
+  AKT BCH RENDER UNI PAXG NEAR
+  ONDO
 
 15m/1h = price change
 vol = volume vs normal
