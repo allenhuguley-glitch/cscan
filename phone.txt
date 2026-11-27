@@ -1,27 +1,20 @@
 CRYPTO SCAN
-Fri 11:10 AM CT
-27 flagged · 0 buy signals
+Fri 11:15 AM CT
+24 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-🟡 AGAINST TREND / FADING (1)
-ZEC    15m  -1.4%  1h  +0.7%
-   vol 6.1x · $124M · on CB
-
-⚪ THIN (low volume) (3)
-SPK    15m  +2.9%  1h  +2.1%
-   vol 3.6x · $579K · on CB
-AURORA 15m  -3.5%  1h  -2.7%
-   vol 3.8x · $771K · on CB
-PONS   15m  -2.4%  1h  -3.2%
-   vol 0.9x · $1.7M · on CB
+⚪ THIN (low volume) (1)
+SPK    15m  +2.1%  1h  +2.2%
+   vol 0.3x · $591K · on CB
 
 👀 WATCH (23)
-  HONEY CFG ME TON HYPE MON
-  USELESS TRB LIGHTER MORPHO
-  DRV CRV ZRO ETH XLM SEI WLD
-  APT DOT WIF LTC RENDER ELSA
+  PONS AURORA HONEY CFG ME
+  WLFI APT SYRUP RENDER ZEC
+  ARB UNI LINK LIGHTER DASH
+  ZRO HBAR CRV WLD DOT
+  FARTCOIN WIF TIA
 
 15m/1h = price change
 vol = volume vs normal
