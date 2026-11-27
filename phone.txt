@@ -1,18 +1,20 @@
 CRYPTO SCAN
-Fri 8:00 AM CT
-18 flagged · 0 buy signals
+Fri 8:05 AM CT
+25 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (1)
-BLUR   15m  -2.4%  1h  -2.2%
-   vol 0.4x · $354K · on CB
+BLUR   15m  -4.2%  1h  -5.7%
+   vol 0.8x · $341K · on CB
 
-👀 WATCH (17)
-  HONEY ELSA PONS SENT PEARL
-  FET FLR SEI VVV TON SPK CFG
-  DOGE ATOM TAO DRV USELESS
+👀 WATCH (24)
+  HONEY PEARL AURORA LIGHTER
+  SEI INJ TON ZEC BIGTIME SPK
+  CRV XRP CFG HYPE ELSA DOGE
+  POL DOT SENT PONS HBAR ATOM
+  USELESS ONDO
 
 15m/1h = price change
 vol = volume vs normal
