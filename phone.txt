@@ -1,26 +1,17 @@
 CRYPTO SCAN
-Thu 8:45 PM CT
-40 flagged · 0 buy signals
+Thu 8:50 PM CT
+32 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (3)
-PONS   15m  +3.8%  1h  +6.6%
-   vol 5.5x · $666K · on CB
-HONEY  15m  -3.4%  1h  -9.6%
-   vol 2.6x · $1.5M · on CB
-BIGTIME 15m  -2.1%  1h +11.4%
-   vol 2.3x · $854K · on CB
-
-👀 WATCH (37)
-  SPK CT SKY ME FARTCOIN ICP
-  FET PENDLE WLD PUMP USELESS
-  MOODENG BCH ELSA PEARL SUI
-  DOT APT ENA ZEC BIRB TIA
-  ALGO INJ ADA PEPE BNB AVAX
-  MON AAVE CRV AERO VVV HYPE
-  SEI TAO XRP
+👀 WATCH (32)
+  BIGTIME SPK PONS PEARL HNT
+  ME ALGO SEI CT FET ELSA
+  MOODENG UNI LIGHTER HONEY
+  XCN BIRB MON ETH SOL AERO
+  SKY QNT CRV PEPE WLFI PENDLE
+  HYPE INJ SUI ENA WLD
 
 15m/1h = price change
 vol = volume vs normal
