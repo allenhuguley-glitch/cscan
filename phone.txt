@@ -1,20 +1,18 @@
 CRYPTO SCAN
-Fri 2:55 AM CT
+Fri 3:00 AM CT
 18 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (2)
+⚪ THIN (low volume) (1)
 HONEY  15m  +2.6%  1h  +4.3%
    vol 0.8x · $1.3M · on CB
-BLUR   15m  -4.8%  1h -12.0%
-   vol 0.1x · $391K · on CB
 
-👀 WATCH (16)
-  BIGTIME SPK PONS MPLX ME CT
-  JUPITER ENA ELSA FET LINK
-  TRUMP QNT MANTLE BNB ZRO
+👀 WATCH (17)
+  SPK BLUR MPLX MON CT ELSA
+  ENA ZEC BIGTIME MAMO VVV SEI
+  PEPE TON UNI BNB ZRO
 
 15m/1h = price change
 vol = volume vs normal
