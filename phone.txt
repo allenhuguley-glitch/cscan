@@ -1,6 +1,6 @@
 CRYPTO SCAN
-Fri 8:20 AM CT
-29 flagged · 0 buy signals
+Fri 8:25 AM CT
+41 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
@@ -9,13 +9,18 @@ Fri 8:20 AM CT
 VVV    15m  -1.3%  1h  -0.5%
    vol 4.2x · $10M · on CB
 
-👀 WATCH (28)
-  PEARL HONEY SENT FET SYRUP
-  SEI SKY BLUR FARTCOIN PUMP
-  TON WLFI ATOM HBAR LIGHTER
-  ELSA DOGE ZEC MANTLE CFG SOL
-  XLM USELESS SPK UNI FIL NEAR
-  ONDO
+⚪ THIN (low volume) (1)
+BLUR   15m  +4.8%  1h  -1.6%
+   vol 0.1x · $376K · on CB
+
+👀 WATCH (39)
+  PEARL HONEY WLFI SENT FET
+  FIL SKY DOGE CRV HBAR QNT
+  SPK AURORA ATOM ELSA SYRUP
+  PUMP ADA PENDLE ARB AERO WLD
+  FARTCOIN TRUMP UNI LTC LINK
+  WIF XLM ICP AVAX DOT AAVE
+  SOL FLR BTC TON ETH BNB
 
 15m/1h = price change
 vol = volume vs normal
