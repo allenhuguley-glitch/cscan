@@ -1,21 +1,22 @@
 CRYPTO SCAN
-Fri 2:45 AM CT
-32 flagged · 0 buy signals
+Fri 2:50 AM CT
+16 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
-BLUR   15m  -5.5%  1h  -7.3%
-   vol 0.2x · $388K · on CB
+⚪ THIN (low volume) (3)
+HONEY  15m  +4.3%  1h  +6.8%
+   vol 1.7x · $1.3M · on CB
+BLUR   15m  -5.4%  1h -10.6%
+   vol 0.2x · $382K · on CB
+MPLX   15m  -2.3%  1h  -2.8%
+   vol 0.4x · $383K · on CB
 
-👀 WATCH (31)
-  HONEY HNT ELSA MPLX PEPE SEI
-  PONS MON ENA PENDLE PUMP UNI
-  WLD AKT FET USELESS TIA MAMO
-  QNT BCH ZEC SYRUP ZRO VVV
-  FIL AERO NEAR BNB WLFI
-  MANTLE MOODENG
+👀 WATCH (13)
+  SPK HNT PONS PEPE MON FET
+  USELESS CT ELSA TRUMP WLFI
+  FLR MANTLE
 
 15m/1h = price change
 vol = volume vs normal
