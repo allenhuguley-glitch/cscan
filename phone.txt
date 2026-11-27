@@ -1,19 +1,15 @@
 CRYPTO SCAN
-Fri 6:20 AM CT
-23 flagged · 0 buy signals
+Fri 6:25 AM CT
+20 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
-ELSA   15m  -2.9%  1h  -5.0%
-   vol 6.1x · $451K · on CB
-
-👀 WATCH (22)
-  MON CFG DRV PONS HONEY
-  AURORA SPK MAMO USELESS ZEC
-  ARB WIF AKT FIL VVV PUMP ADA
-  TAO BIGTIME HBAR XRP HYPE
+👀 WATCH (20)
+  AURORA CFG MON PONS HONEY
+  BIGTIME DRV QNT MAMO AKT
+  USELESS SEI FIL ZEC UNI ZRO
+  PUMP NEAR TAO XRP
 
 15m/1h = price change
 vol = volume vs normal
