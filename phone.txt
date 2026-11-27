@@ -1,5 +1,5 @@
 CRYPTO SCAN
-Fri 5:10 AM CT
+Fri 5:15 AM CT
 22 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
@@ -7,19 +7,17 @@ Fri 5:10 AM CT
 
 🟡 AGAINST TREND / FADING (1)
 VVV    15m  -1.2%  1h  -0.8%
-   vol 2.5x · $9.9M · on CB
+   vol 2.5x · $10M · on CB
 
-⚪ THIN (low volume) (2)
-AURORA 15m  -2.8%  1h  +3.8%
-   vol 0.6x · $462K · on CB
-BLUR   15m  -2.3%  1h  +6.8%
-   vol 2.0x · $377K · on CB
+⚪ THIN (low volume) (1)
+BLUR   15m  -6.9%  1h  +5.9%
+   vol 0.1x · $370K · on CB
 
-👀 WATCH (19)
-  MANTLE BIGTIME CFG STX SKY
-  WIF ATOM MON WLD AERO INJ
-  NEAR ZEC QNT AKT APT SYRUP
-  BTC AVNT
+👀 WATCH (20)
+  PONS MANTLE ELSA BIGTIME
+  AURORA FET WLD ATOM STX WIF
+  AERO INJ PENDLE ALGO DOT LTC
+  AKT BCH WLFI ZEC
 
 15m/1h = price change
 vol = volume vs normal
