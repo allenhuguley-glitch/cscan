@@ -1,21 +1,22 @@
 CRYPTO SCAN
-Fri 7:20 AM CT
-31 flagged · 0 buy signals
+Fri 7:25 AM CT
+29 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-🟡 AGAINST TREND / FADING (1)
-ZEC    15m  -1.0%  1h  -0.4%
-   vol 2.1x · $132M · on CB
+⚪ THIN (low volume) (2)
+AURORA 15m  +3.6%  1h  +4.9%
+   vol 0.2x · $553K · on CB
+HONEY  15m  +2.8%  1h  +1.0%
+   vol 1.6x · $939K · on CB
 
-👀 WATCH (30)
-  BLUR LIGHTER ELSA VVV TON
-  FET SPK MON MAMO INJ CFG
-  PUMP CT XLM APT LTC ATOM
-  PEPE ETH ONDO ZRO LINK SKY
-  SEI SOL AVAX FIL AVNT SUI
-  BNB
+👀 WATCH (27)
+  CFG MAMO SPK ELSA LIGHTER
+  VVV TON PENDLE INJ APT CT
+  PEPE PAXG BIGTIME ARB HYPE
+  AVNT BTC ETH TRUMP LINK SEI
+  XRP FIL AVAX ONDO BLUR
 
 15m/1h = price change
 vol = volume vs normal
