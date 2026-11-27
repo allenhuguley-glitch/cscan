@@ -1,21 +1,18 @@
 CRYPTO SCAN
-Fri 11:20 AM CT
-22 flagged · 0 buy signals
+Fri 11:25 AM CT
+18 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (2)
-HONEY  15m  -6.7%  1h  -5.1%
-   vol 3.3x · $824K · on CB
-PONS   15m  -2.5%  1h  -6.3%
-   vol 1.8x · $1.7M · on CB
+⚪ THIN (low volume) (1)
+HONEY  15m  -6.8%  1h  -7.5%
+   vol 2.0x · $805K · on CB
 
-👀 WATCH (20)
-  CFG ELSA ZRO ME WLFI LIGHTER
-  RENDER ZEC PEARL AURORA DASH
-  CT CRV ATOM SPK SKY ONDO MON
-  TON FIL
+👀 WATCH (17)
+  PONS AURORA CFG ELSA VVV ME
+  WLD LIGHTER RENDER DASH CT
+  TRB MORPHO SPK ONDO MON FIL
 
 15m/1h = price change
 vol = volume vs normal
