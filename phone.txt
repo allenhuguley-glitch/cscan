@@ -1,22 +1,22 @@
 CRYPTO SCAN
-Fri 3:55 AM CT
-18 flagged · 0 buy signals
+Fri 4:00 AM CT
+27 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (3)
+⚪ THIN (low volume) (2)
 PONS   15m  +2.2%  1h  +0.2%
    vol 0.9x · $1.3M · on CB
 CFG    15m  -3.2%  1h +14.8%
-   vol 2.6x · $605K · on CB
-BLUR   15m  -3.0%  1h  -9.3%
-   vol 0.0x · $365K · on CB
+   vol 2.6x · $633K · on CB
 
-👀 WATCH (15)
-  MON LIGHTER FET ME FIL HYPE
-  ENA HONEY MORPHO MANTLE WLD
-  AVNT CRV XRP ICP
+👀 WATCH (25)
+  LIGHTER MON PEARL BLUR FIL
+  MAMO SYRUP BIGTIME FLR TON
+  HYPE PEPE ARB CRV USELESS
+  MANTLE APT XRP DOGE PENDLE
+  ETH AVNT AVAX TAO ICP
 
 15m/1h = price change
 vol = volume vs normal
