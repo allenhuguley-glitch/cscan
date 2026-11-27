@@ -1,19 +1,22 @@
 CRYPTO SCAN
-Thu 10:10 PM CT
-20 flagged · 0 buy signals
+Thu 10:15 PM CT
+16 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
-BLUR   15m  -4.1%  1h -11.8%
-   vol 1.2x · $366K · on CB
+⚪ THIN (low volume) (3)
+ELSA   15m  +2.9%  1h  +2.7%
+   vol 3.2x · $797K · on CB
+BIGTIME 15m  +2.3%  1h  +4.6%
+   vol 1.5x · $853K · on CB
+BLUR   15m  -2.1%  1h  -9.2%
+   vol 0.7x · $350K · on CB
 
-👀 WATCH (19)
-  USELESS PEARL PONS CT
-  BIGTIME BIRB HONEY SEI VVV
-  MOODENG PEPE FLR ALGO SUI
-  WLD ME ONDO TRUMP AVAX
+👀 WATCH (13)
+  USELESS HONEY SEI ALGO PEARL
+  WLD SKY MOODENG ZEC ME
+  FARTCOIN HNT LIGHTER
 
 15m/1h = price change
 vol = volume vs normal
