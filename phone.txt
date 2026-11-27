@@ -1,16 +1,20 @@
 CRYPTO SCAN
-Fri 4:05 AM CT
-25 flagged · 0 buy signals
+Fri 4:10 AM CT
+14 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (25)
-  CFG HONEY ME PEARL PONS BLUR
-  FIL CT SEI BIGTIME PUMP
-  LIGHTER FLR TON PEPE USELESS
-  MANTLE ELSA DOGE AVNT
-  FARTCOIN MAMO AVAX TAO BNB
+⚪ THIN (low volume) (2)
+HONEY  15m  +2.1%  1h  +2.0%
+   vol 0.9x · $1.3M · on CB
+CFG    15m  -6.7%  1h  +6.0%
+   vol 1.3x · $642K · on CB
+
+👀 WATCH (12)
+  BLUR ME SEI FLR MAMO BIGTIME
+  CT TAO FIL ELSA FARTCOIN
+  AVAX
 
 15m/1h = price change
 vol = volume vs normal
