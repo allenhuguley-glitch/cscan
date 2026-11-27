@@ -1,19 +1,20 @@
 CRYPTO SCAN
-Fri 1:45 PM CT
-20 flagged · 0 buy signals
+Fri 1:50 PM CT
+17 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
-WLFI   15m  -2.9%  1h  -3.1%
-   vol 7.2x · $942K · on CB
+⚪ THIN (low volume) (2)
+HONEY  15m  -3.3%  1h  -3.0%
+   vol 1.2x · $896K · on CB
+WLFI   15m  -3.1%  1h  -3.9%
+   vol 4.6x · $960K · on CB
 
-👀 WATCH (19)
-  AURORA SKY MON ZRO WIF PEARL
-  HONEY SEI BIGTIME RENDER ENA
-  CRV FET PEPE REZ SYRUP HBAR
-  TIA BNB
+👀 WATCH (15)
+  SKY SEI MON ZRO SENT PEARL
+  CT CRV BIGTIME APT FARTCOIN
+  DOT QNT ARB BONK
 
 15m/1h = price change
 vol = volume vs normal
