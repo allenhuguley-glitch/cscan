@@ -1,19 +1,20 @@
 CRYPTO SCAN
-Fri 1:25 PM CT
-21 flagged · 0 buy signals
+Fri 1:30 PM CT
+26 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (1)
-ICNT   15m  -3.6%  1h  -2.0%
-   vol 0.6x · $503K · on CB
+AURORA 15m  +2.2%  1h  +1.0%
+   vol 2.2x · $821K · on CB
 
-👀 WATCH (20)
-  AURORA SKY HONEY SPK PEARL
-  MON ICP DRV ELSA TRUMP PONS
-  CRV DOGE INJ FLR LINK APT
-  PENDLE ONDO SUI
+👀 WATCH (25)
+  ICNT SKY BIGTIME HONEY SPK
+  PEARL MON ZRO DRV ELSA INJ
+  WLFI TRUMP SEI PONS UNI CRV
+  ICP FIL FLR USELESS TIA ALGO
+  APT TON
 
 15m/1h = price change
 vol = volume vs normal
