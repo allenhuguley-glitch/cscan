@@ -1,22 +1,21 @@
 CRYPTO SCAN
-Fri 1:05 AM CT
-24 flagged · 1 buy signal
+Fri 1:10 AM CT
+28 flagged · 1 buy signal
 
 🟢 BUY SIGNALS (1)
 VVV    15m  +2.8%  1h  +2.0%
    vol 2.7x · $11M · on CB
 
-⚪ THIN (low volume) (2)
-PONS   15m  +3.9%  1h  +7.2%
-   vol 0.8x · $1.0M · on CB
-HONEY  15m  -2.0%  1h  +0.0%
-   vol 1.0x · $1.3M · on CB
+⚪ THIN (low volume) (1)
+SPK    15m  +3.7%  1h  +5.4%
+   vol 3.3x · $471K · on CB
 
-👀 WATCH (21)
-  MPLX ELSA ME SPK HNT LIGHTER
-  CT CRV SYRUP XCN HYPE DASH
-  MAMO APT ENA BCH RENDER UNI
-  BIGTIME USELESS ATOM
+👀 WATCH (26)
+  HONEY PONS ELSA HNT MOODENG
+  CT ME HYPE MPLX SYRUP ENA
+  TON AKT WLD BCH PENDLE ZRO
+  WIF XCN BIGTIME ATOM HBAR
+  AVNT FLR USELESS QNT
 
 15m/1h = price change
 vol = volume vs normal
