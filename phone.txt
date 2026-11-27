@@ -1,23 +1,27 @@
 CRYPTO SCAN
-Fri 4:05 PM CT
-30 flagged · 0 buy signals
+Fri 4:10 PM CT
+36 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (2)
-HONEY  15m  -3.8%  1h  -7.2%
-   vol 2.8x · $855K · on CB
-ICNT   15m  -2.5%  1h  -3.1%
-   vol 4.9x · $509K · on CB
+🔴 REAL DROPS (1)
+ZEC    15m  -1.3%  1h  -1.6%
+   vol 2.4x · $123M · on CB
 
-👀 WATCH (28)
-  AURORA ZEC RENDER PEARL REZ
-  SENT MON LIGHTER COOKIE ELSA
-  ADA HBAR AVAX ONDO AERO BCH
-  FET SOL FLR PENDLE TON XRP
-  TRUMP ARB WIF MANTLE AKT
-  BIGTIME
+⚪ THIN (low volume) (2)
+HONEY  15m  -4.2%  1h  -5.8%
+   vol 1.1x · $856K · on CB
+ICNT   15m  -2.5%  1h  -3.1%
+   vol 4.9x · $510K · on CB
+
+👀 WATCH (33)
+  MON RENDER BLUR FET AURORA
+  PONS LIGHTER ADA HBAR ELSA
+  ATOM ONDO DOT UNI AVAX SENT
+  AERO BIGTIME SOL LTC MANTLE
+  ICP XRP ALGO ETH TRUMP SPK
+  BNB ARB PUMP WIF AKT PEPE
 
 15m/1h = price change
 vol = volume vs normal
