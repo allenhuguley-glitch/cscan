@@ -1,20 +1,19 @@
 CRYPTO SCAN
-Thu 10:00 PM CT
-24 flagged · 0 buy signals
+Thu 10:05 PM CT
+19 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (1)
 BLUR   15m  -8.5%  1h  -0.5%
-   vol 0.6x · $366K · on CB
+   vol 0.6x · $364K · on CB
 
-👀 WATCH (23)
-  BIGTIME PEARL ME PENDLE
-  USELESS SEI MOODENG APT VVV
-  PUMP WLD TON FIL ONDO PEPE
-  ARB TRUMP ENA BNB LIGHTER
-  ADA AVAX TIA
+👀 WATCH (18)
+  PEARL USELESS PONS BIGTIME
+  CT ALGO ELSA BIRB SEI VVV
+  HONEY MOODENG WLD ME ONDO
+  ENA FIL AVAX
 
 15m/1h = price change
 vol = volume vs normal
