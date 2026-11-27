@@ -1,20 +1,22 @@
 CRYPTO SCAN
-Fri 8:05 AM CT
-25 flagged · 0 buy signals
+Fri 8:10 AM CT
+23 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
+⚪ THIN (low volume) (2)
 BLUR   15m  -4.2%  1h  -5.7%
-   vol 0.8x · $341K · on CB
+   vol 0.8x · $355K · on CB
+HONEY  15m  -4.0%  1h  -2.2%
+   vol 12.3x · $848K · on CB
 
-👀 WATCH (24)
-  HONEY PEARL AURORA LIGHTER
-  SEI INJ TON ZEC BIGTIME SPK
-  CRV XRP CFG HYPE ELSA DOGE
-  POL DOT SENT PONS HBAR ATOM
-  USELESS ONDO
+👀 WATCH (21)
+  PEARL USELESS LIGHTER AURORA
+  FET INJ SPK BIGTIME SEI MON
+  AAVE MANTLE HYPE CFG
+  FARTCOIN ELSA PEPE AVAX DOT
+  SENT MORPHO
 
 15m/1h = price change
 vol = volume vs normal
