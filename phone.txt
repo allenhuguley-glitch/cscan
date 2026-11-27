@@ -1,37 +1,26 @@
 CRYPTO SCAN
-Fri 9:45 AM CT
-56 flagged · 0 buy signals
+Fri 9:50 AM CT
+28 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (1)
-BLUR   15m  -2.5%  1h  -8.5%
-   vol 1.7x · $373K · on CB
+PONS   15m  +2.2%  1h  +3.2%
+   vol 0.2x · $1.7M · on CB
 
-⚪ MOVED, NO VOLUME SPIKE (5)
-VVV    15m  +2.1%  1h  +1.5%
-   vol 0.5x · $10M · on CB
+⚪ MOVED, NO VOLUME SPIKE (2)
+VVV    15m  +1.5%  1h  +1.9%
+   vol 1.0x · $10M · on CB
 PUMP   15m  +1.3%  1h  -0.6%
    vol 0.1x · $5.0M · on CB
-LINK   15m  +1.1%  1h  +0.4%
-   vol 0.7x · $8.0M · on CB
-NEAR   15m  +1.1%  1h  +0.2%
-   vol 0.4x · $20M · on CB
-ZEC    15m  +1.1%  1h  +1.0%
-   vol 0.7x · $125M · on CB
 
-👀 WATCH (50)
-  SYRUP SEI PEARL FARTCOIN
-  HONEY SPK WLD LIGHTER
-  USELESS TRUMP ELSA CFG SKY
-  FET APT ENA MON ARB BONK INJ
-  TAO RENDER PEPE BIGTIME SOL
-  PONS SUI AVAX ATOM HYPE AAVE
-  TIA DOT ADA WIF DOGE XRP ETH
-  CT XLM BNB FIL BTC LTC
-  AURORA ONDO DASH HBAR WLFI
-  ALGO
+👀 WATCH (25)
+  HONEY BLUR USELESS CFG SKY
+  SEI ENA SPK RENDER FARTCOIN
+  TRUMP DASH BIGTIME ATOM TIA
+  SYRUP NEAR PEARL FIL PEPE
+  ZEC ARB ALGO SUI XRP
 
 15m/1h = price change
 vol = volume vs normal
