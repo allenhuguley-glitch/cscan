@@ -1,15 +1,17 @@
 CRYPTO SCAN
-Fri 10:00 AM CT
-19 flagged · 0 buy signals
+Fri 10:05 AM CT
+10 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (19)
-  LIGHTER CFG PEARL PONS HONEY
-  MON AURORA SYRUP SEI CT VVV
-  ENA PEPE ICP HYPE BIGTIME
-  LTC PAXG DOGE
+⚪ THIN (low volume) (1)
+BLUR   15m  +4.5%  1h  -0.5%
+   vol 2.6x · $401K · on CB
+
+👀 WATCH (9)
+  PONS LIGHTER CFG BIGTIME ZEC
+  CT ENA AERO MON
 
 15m/1h = price change
 vol = volume vs normal
