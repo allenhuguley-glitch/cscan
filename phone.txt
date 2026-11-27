@@ -1,18 +1,14 @@
 CRYPTO SCAN
-Fri 12:45 PM CT
-11 flagged · 0 buy signals
+Fri 12:50 PM CT
+14 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
-ICNT   15m  +3.0%  1h  +4.0%
-   vol 11.1x · $486K · on CB
-
-👀 WATCH (10)
-  AURORA HONEY SKY LIGHTER
-  RENDER PONS CRV AAVE DOGE
-  WLFI
+👀 WATCH (14)
+  ICNT BIGTIME HONEY LIGHTER
+  VVV ENA SKY PEPE SPK CFG CRV
+  AERO DOGE TON
 
 15m/1h = price change
 vol = volume vs normal
