@@ -1,70 +1,70 @@
 CRYPTO SCAN
-Fri 8:45 AM CT
-67 flagged · 0 buy signals
+Fri 8:50 AM CT
+66 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-🟡 AGAINST TREND / FADING (11)
-ZEC    15m  -2.1%  1h  -2.5%
-   vol 3.1x · $127M · on CB
-BTC    15m  -2.0%  1h  -1.9%
-   vol 7.8x · $481M · on CB
-ETH    15m  -1.9%  1h  -1.7%
-   vol 4.6x · $174M · on CB
-ADA    15m  -1.8%  1h  -2.4%
-   vol 3.0x · $5.5M · on CB
-HYPE   15m  -1.7%  1h  -2.5%
-   vol 6.0x · $41M · on CB
-UNI    15m  -1.7%  1h  -2.1%
-   vol 7.9x · $6.5M · on CB
-SUI    15m  -1.7%  1h  -2.5%
-   vol 4.9x · $5.7M · on CB
-SOL    15m  -1.6%  1h  -2.0%
-   vol 5.5x · $56M · on CB
-LINK   15m  -1.6%  1h  -2.0%
-   vol 2.7x · $6.2M · on CB
-XRP    15m  -1.3%  1h  -1.8%
-   vol 4.1x · $57M · on CB
+🟡 AGAINST TREND / FADING (9)
+BTC    15m  -2.2%  1h  -3.3%
+   vol 6.9x · $513M · on CB
+ETH    15m  -2.0%  1h  -3.5%
+   vol 4.5x · $179M · on CB
+UNI    15m  -1.8%  1h  -3.6%
+   vol 14.0x · $6.9M · on CB
+SUI    15m  -1.7%  1h  -3.9%
+   vol 7.1x · $5.8M · on CB
+SOL    15m  -1.7%  1h  -3.4%
+   vol 2.6x · $56M · on CB
+ZEC    15m  -1.7%  1h  -4.3%
+   vol 4.3x · $126M · on CB
+HYPE   15m  -1.6%  1h  -3.9%
+   vol 4.3x · $41M · on CB
+LINK   15m  -1.6%  1h  -3.1%
+   vol 4.0x · $6.2M · on CB
+XRP    15m  -1.3%  1h  -2.9%
+   vol 2.7x · $57M · on CB
+
+⚪ THIN (low volume) (11)
+AURORA 15m  +3.3%  1h  +4.3%
+   vol 4.6x · $723K · on CB
+PONS   15m  -3.4%  1h  -6.4%
+   vol 2.5x · $1.6M · on CB
+BIGTIME 15m  -2.6%  1h  -2.5%
+   vol 8.0x · $577K · on CB
+USELESS 15m  -2.5%  1h  -5.6%
+   vol 6.5x · $1.4M · on CB
+FIL    15m  -2.4%  1h  -4.8%
+   vol 3.8x · $518K · on CB
+ENA    15m  -2.4%  1h  -4.6%
+   vol 2.1x · $1.9M · on CB
+TRUMP  15m  -2.3%  1h  -4.2%
+   vol 5.5x · $591K · on CB
+PEPE   15m  -2.3%  1h  -4.7%
+   vol 6.1x · $3.1M · on CB
+DRV    15m  -2.2%  1h  -3.4%
+   vol 0.7x · $1.1M · on CB
+SEI    15m  -2.0%  1h  -4.1%
+   vol 0.4x · $3.3M · on CB
   +1 more
 
-⚪ THIN (low volume) (13)
-AURORA 15m +11.6%  1h +13.8%
-   vol 12.4x · $754K · on CB
-PONS   15m  -3.2%  1h  -5.8%
-   vol 4.6x · $1.6M · on CB
-USELESS 15m  -3.0%  1h  -3.8%
-   vol 9.1x · $1.4M · on CB
-BIGTIME 15m  -2.8%  1h  -2.3%
-   vol 15.0x · $582K · on CB
-SYRUP  15m  -2.7%  1h  -3.5%
-   vol 1.5x · $505K · on CB
-FARTCOIN 15m  -2.5%  1h  -2.9%
-   vol 1.7x · $360K · on CB
-INJ    15m  -2.4%  1h  -2.5%
-   vol 1.3x · $2.4M · on CB
-PEARL  15m  -2.4%  1h  +1.1%
-   vol 0.7x · $1.4M · on CB
-PUMP   15m  -2.4%  1h  -2.7%
-   vol 3.7x · $1.5M · on CB
-FIL    15m  -2.3%  1h  -3.3%
-   vol 16.0x · $516K · on CB
-  +3 more
+⚪ MOVED, NO VOLUME SPIKE (3)
+NEAR   15m  -1.7%  1h  -4.1%
+   vol 1.6x · $20M · on CB
+ADA    15m  -1.6%  1h  -3.6%
+   vol 1.4x · $5.5M · on CB
+LTC    15m  -1.2%  1h  -2.4%
+   vol 1.4x · $8.4M · on CB
 
-⚪ MOVED, NO VOLUME SPIKE (2)
-NEAR   15m  -1.7%  1h  -2.5%
-   vol 1.0x · $20M · on CB
-VVV    15m  -1.6%  1h  -2.0%
-   vol 1.9x · $10M · on CB
-
-👀 WATCH (41)
-  AKT SEI AAVE ENA TRUMP TON
-  DOT LIGHTER PENDLE HBAR DOGE
-  CRV ALGO ONDO AVAX APT XLM
-  ICP SENT BLUR ATOM QNT FET
-  AERO ARB CT FLR MORPHO BCH
-  TAO MON BNB MANTLE DRV WIF
-  ZRO SKY ELSA WLFI CFG RENDER
+👀 WATCH (43)
+  WLD SYRUP ALGO PUMP DOGE AKT
+  AVAX INJ AAVE DOT TAO ONDO
+  HBAR TON BLUR CRV XLM BNB
+  FET BCH APT MORPHO ATOM FLR
+  MANTLE SENT PENDLE FARTCOIN
+  MON WIF ZRO QNT LIGHTER AERO
+  PEARL ICP CT VVV SKY ELSA
+  CFG RENDER PAXG
 
 15m/1h = price change
 vol = volume vs normal
