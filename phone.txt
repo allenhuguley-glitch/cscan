@@ -1,16 +1,22 @@
 CRYPTO SCAN
-Fri 2:00 AM CT
-24 flagged · 0 buy signals
+Fri 2:05 AM CT
+28 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (24)
-  PONS BLUR HONEY BIGTIME ELSA
-  SPK FLR ENA QNT MPLX PEPE
-  SYRUP SOL ME DOGE SUI TIA
-  AKT BCH RENDER UNI PAXG NEAR
-  ONDO
+⚪ THIN (low volume) (2)
+PONS   15m  +2.7%  1h  +0.3%
+   vol 0.7x · $1.1M · on CB
+ELSA   15m  -3.0%  1h  -6.8%
+   vol 7.2x · $595K · on CB
+
+👀 WATCH (26)
+  SPK BLUR MPLX HONEY FLR QNT
+  HYPE FET PEARL PEPE LIGHTER
+  VVV ZEC ZRO ME SOL FIL DOGE
+  AKT NEAR LTC BCH ADA PAXG
+  RENDER APT
 
 15m/1h = price change
 vol = volume vs normal
