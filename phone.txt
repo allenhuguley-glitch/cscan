@@ -1,20 +1,14 @@
 CRYPTO SCAN
-Thu 10:50 PM CT
-17 flagged · 0 buy signals
+Thu 10:55 PM CT
+15 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (2)
-SKY    15m  +2.4%  1h  +2.1%
-   vol 0.8x · $2.8M · on CB
-BLUR   15m  +2.1%  1h  -9.0%
-   vol 2.1x · $367K · on CB
-
 👀 WATCH (15)
-  ELSA BIGTIME PONS ARB ME
-  ATOM USELESS DRV CRV VVV MON
-  SYRUP FET TIA DOT
+  BLUR ME SKY PONS ELSA
+  MOODENG USELESS SYRUP AERO
+  ZEC AVNT PAXG SUI LINK FET
 
 15m/1h = price change
 vol = volume vs normal
