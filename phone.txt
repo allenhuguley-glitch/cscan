@@ -1,21 +1,21 @@
 CRYPTO SCAN
-Thu 11:20 PM CT
+Thu 11:25 PM CT
 18 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (2)
-BLUR   15m  -4.0%  1h  -6.3%
-   vol 0.5x · $357K · on CB
-ME     15m  -2.6%  1h  -4.7%
-   vol 1.4x · $1.0M · on CB
+BLUR   15m  -3.9%  1h  -4.4%
+   vol 0.6x · $354K · on CB
+MOODENG 15m  -3.4%  1h  -2.9%
+   vol 19.9x · $422K · on CB
 
 👀 WATCH (16)
-  BIGTIME HONEY PONS SKY
-  LIGHTER DASH TON ZRO LINK
-  TRUMP ATOM TAO MAMO LTC UNI
-  AKT
+  BIGTIME ME HONEY DASH BCH
+  ZRO PENDLE TRUMP SKY ATOM
+  MAMO SPK ADA SYRUP RENDER
+  TON
 
 15m/1h = price change
 vol = volume vs normal
