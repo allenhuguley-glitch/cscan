@@ -1,19 +1,22 @@
 CRYPTO SCAN
-Fri 12:10 AM CT
-23 flagged · 0 buy signals
+Fri 12:15 AM CT
+28 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
+⚪ THIN (low volume) (2)
 HONEY  15m  +9.2%  1h  -3.3%
-   vol 1.4x · $1.4M · on CB
+   vol 1.4x · $1.3M · on CB
+PONS   15m  +2.6%  1h  +5.5%
+   vol 2.7x · $821K · on CB
 
-👀 WATCH (22)
-  SPK PEARL FET ELSA SYRUP
-  USELESS ARB LIGHTER TON HNT
-  QNT ZRO MON ALGO PONS HBAR
-  TAO RENDER DOT LINK TIA APT
+👀 WATCH (26)
+  PEARL ELSA SPK SYRUP FET ARB
+  TON MON BLUR HNT USELESS ZRO
+  QNT HBAR HYPE ALGO XLM TAO
+  RENDER BTC SOL XCN TIA SEI
+  MORPHO NEAR
 
 15m/1h = price change
 vol = volume vs normal
