@@ -1,24 +1,19 @@
 CRYPTO SCAN
-Thu 9:25 PM CT
-28 flagged · 0 buy signals
+Thu 9:30 PM CT
+21 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (3)
+⚪ THIN (low volume) (1)
 HONEY  15m  +4.2%  1h  +0.8%
    vol 0.8x · $1.5M · on CB
-ELSA   15m  -2.5%  1h  -2.3%
-   vol 0.1x · $962K · on CB
-DRV    15m  -2.1%  1h  -1.1%
-   vol 0.6x · $1.4M · on CB
 
-👀 WATCH (25)
-  HNT BIGTIME ME FLR AVNT CT
-  HYPE LIGHTER WIF PENDLE FET
-  SEI PUMP ZRO SYRUP ICP
-  MOODENG NEAR VVV USELESS CRV
-  ARB PAXG SKY TAO
+👀 WATCH (20)
+  HNT ELSA DRV BIGTIME PEPE
+  BLUR CT INJ ME ALGO PUMP FET
+  AVNT AKT ZRO USELESS WIF
+  PEARL PONS XLM
 
 15m/1h = price change
 vol = volume vs normal
