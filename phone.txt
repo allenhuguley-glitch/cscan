@@ -1,16 +1,21 @@
 CRYPTO SCAN
-Thu 9:00 PM CT
-29 flagged · 0 buy signals
+Thu 9:05 PM CT
+28 flagged · 1 buy signal
 
-🟢 BUY SIGNALS
-  none right now
+🟢 BUY SIGNALS (1)
+ZEC    15m  +1.0%  1h  +5.8%
+   vol 2.6x · $127M · on CB
 
-👀 WATCH (29)
-  HONEY PONS BIGTIME KITE ME
-  BIRB ALGO TON ZRO SEI ICP
-  ATOM ZEC FET CRV SKY DRV LTC
-  WIF FIL APT LINK NEAR AAVE
-  PENDLE ONDO BCH DOGE WLD
+⚪ THIN (low volume) (1)
+BIGTIME 15m  -3.3%  1h +11.5%
+   vol 1.5x · $863K · on CB
+
+👀 WATCH (26)
+  FLR SKY KITE ME ALGO ZRO
+  ATOM HYPE DRV FARTCOIN FIL
+  CT USELESS VVV PENDLE
+  LIGHTER DOGE AVNT XRP QNT
+  FET TON LTC AAVE XLM SUI
 
 15m/1h = price change
 vol = volume vs normal
