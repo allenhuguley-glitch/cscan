@@ -1,22 +1,23 @@
 CRYPTO SCAN
-Thu 6:05 PM CT
-26 flagged · 0 buy signals
+Thu 6:10 PM CT
+24 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (2)
-HNT    15m  +2.6%  1h  +2.1%
-   vol 3.7x · $675K · on CB
+⚪ THIN (low volume) (3)
+ME     15m  +2.1%  1h  +3.1%
+   vol 0.6x · $1.1M · on CB
 HONEY  15m  -3.9%  1h  -1.6%
-   vol 0.1x · $1.6M · on CB
+   vol 0.1x · $1.5M · on CB
+BIGTIME 15m  -2.3%  1h  +0.2%
+   vol 1.8x · $722K · on CB
 
-👀 WATCH (24)
-  ALGO LIGHTER ZEC SYRUP ME
-  ELSA HYPE FET BIGTIME VVV
-  BCH PEPE FIL PUMP NEAR ICP
-  ZRO MON PENDLE UNI AKT SOL
-  LINK AVAX
+👀 WATCH (21)
+  AVNT ELSA PEPE INJ HNT
+  USELESS PONS ENA BCH MANTLE
+  ZRO MON SEI UNI DOT ZEC AKT
+  QNT AVAX WIF ONDO
 
 15m/1h = price change
 vol = volume vs normal
