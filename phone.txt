@@ -1,21 +1,24 @@
 CRYPTO SCAN
-Fri 2:35 PM CT
-24 flagged · 0 buy signals
+Fri 2:40 PM CT
+29 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (2)
-AURORA 15m  +4.7%  1h  +8.9%
-   vol 8.7x · $916K · on CB
+⚪ THIN (low volume) (3)
+AURORA 15m  +5.4%  1h  +9.7%
+   vol 1.7x · $935K · on CB
+SKY    15m  +3.5%  1h  +6.2%
+   vol 2.0x · $3.9M · on CB
 HONEY  15m  -3.7%  1h  -5.1%
-   vol 4.7x · $870K · on CB
+   vol 4.7x · $903K · on CB
 
-👀 WATCH (22)
-  WLFI ICNT SENT SKY REZ PONS
-  ZRO RENDER PEARL COOKIE SEI
-  ELSA PEPE APT VVV FLR QNT
-  DRV MON ADA USELESS BCH
+👀 WATCH (26)
+  SENT WLFI REZ ICNT MON PEPE
+  ZRO SEI QNT RENDER PEARL INJ
+  SPK TRUMP LIGHTER PONS FLR
+  USELESS ELSA COOKIE HBAR TON
+  ATOM TAO DRV CT
 
 15m/1h = price change
 vol = volume vs normal
