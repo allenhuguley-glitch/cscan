@@ -1,21 +1,25 @@
 CRYPTO SCAN
-Fri 1:10 AM CT
-28 flagged · 1 buy signal
+Fri 1:15 AM CT
+26 flagged · 1 buy signal
 
 🟢 BUY SIGNALS (1)
-VVV    15m  +2.8%  1h  +2.0%
-   vol 2.7x · $11M · on CB
+ZEC    15m  +1.0%  1h  -1.4%
+   vol 4.6x · $129M · on CB
 
-⚪ THIN (low volume) (1)
+⚪ THIN (low volume) (3)
 SPK    15m  +3.7%  1h  +5.4%
-   vol 3.3x · $471K · on CB
+   vol 3.3x · $498K · on CB
+HONEY  15m  +2.0%  1h  -3.0%
+   vol 0.1x · $1.3M · on CB
+BLUR   15m  -2.7%  1h +11.0%
+   vol 3.4x · $417K · on CB
 
-👀 WATCH (26)
-  HONEY PONS ELSA HNT MOODENG
-  CT ME HYPE MPLX SYRUP ENA
-  TON AKT WLD BCH PENDLE ZRO
-  WIF XCN BIGTIME ATOM HBAR
-  AVNT FLR USELESS QNT
+👀 WATCH (22)
+  ELSA PONS MAMO RENDER AKT
+  PENDLE WLD PEPE TON TRUMP
+  ENA TIA ADA HBAR DOGE ATOM
+  BCH NEAR AVNT USELESS LINK
+  FIL
 
 15m/1h = price change
 vol = volume vs normal
