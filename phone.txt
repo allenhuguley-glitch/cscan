@@ -1,17 +1,21 @@
 CRYPTO SCAN
-Fri 1:05 PM CT
-29 flagged · 0 buy signals
+Fri 1:10 PM CT
+20 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (29)
-  HONEY AURORA SKY CFG SEI
-  PEARL LIGHTER PENDLE MON FIL
-  APT ICNT WLD FET HYPE UNI
-  WIF NEAR PEPE RENDER ZRO CRV
-  PUMP USELESS XRP LINK AERO
-  WLFI ALGO
+⚪ THIN (low volume) (2)
+HONEY  15m  +3.3%  1h +11.6%
+   vol 1.2x · $964K · on CB
+ICNT   15m  -7.8%  1h  -5.3%
+   vol 6.7x · $489K · on CB
+
+👀 WATCH (18)
+  CFG WIF SEI CRV SKY PUMP
+  PENDLE MON FIL ICP VVV FLR
+  USELESS WLD PEPE WLFI DRV
+  DOGE
 
 15m/1h = price change
 vol = volume vs normal
