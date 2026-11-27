@@ -1,22 +1,22 @@
 CRYPTO SCAN
-Fri 7:25 AM CT
-29 flagged · 0 buy signals
+Fri 7:26 AM CT
+28 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (2)
 AURORA 15m  +3.6%  1h  +4.9%
-   vol 0.2x · $553K · on CB
+   vol 0.2x · $549K · on CB
 HONEY  15m  +2.8%  1h  +1.0%
-   vol 1.6x · $939K · on CB
+   vol 1.6x · $938K · on CB
 
-👀 WATCH (27)
+👀 WATCH (26)
   CFG MAMO SPK ELSA LIGHTER
-  VVV TON PENDLE INJ APT CT
-  PEPE PAXG BIGTIME ARB HYPE
-  AVNT BTC ETH TRUMP LINK SEI
-  XRP FIL AVAX ONDO BLUR
+  TON PAXG INJ CT PEPE PEARL
+  BIGTIME ARB HYPE AVNT TAO
+  BTC ETH TRUMP LINK DOGE XRP
+  FIL AVAX ONDO BLUR
 
 15m/1h = price change
 vol = volume vs normal
