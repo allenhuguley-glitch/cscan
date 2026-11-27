@@ -1,20 +1,23 @@
 CRYPTO SCAN
-Fri 6:00 AM CT
-26 flagged · 0 buy signals
+Fri 6:05 AM CT
+21 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
-AURORA 15m  -2.5%  1h -10.7%
-   vol 0.5x · $487K · on CB
+⚪ THIN (low volume) (3)
+PONS   15m  +2.4%  1h  +1.1%
+   vol 1.1x · $1.4M · on CB
+AURORA 15m  -3.9%  1h -10.1%
+   vol 0.8x · $498K · on CB
+CFG    15m  -2.9%  1h  +0.8%
+   vol 1.0x · $756K · on CB
 
-👀 WATCH (25)
-  CFG ELSA PEARL ME SYRUP
-  BIGTIME PONS HONEY FET SEI
-  SKY MANTLE PEPE AERO VVV WIF
-  QNT CT TRUMP ALGO LINK BNB
-  POL APT SUI
+👀 WATCH (18)
+  SPK ZEC HONEY ME ELSA INJ
+  MANTLE SKY VVV WIF PEARL
+  AERO NEAR XLM PUMP CT AVAX
+  ATOM
 
 15m/1h = price change
 vol = volume vs normal
