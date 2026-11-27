@@ -1,20 +1,20 @@
 CRYPTO SCAN
-Fri 2:05 PM CT
-16 flagged · 0 buy signals
+Fri 2:10 PM CT
+18 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (2)
 HONEY  15m  +2.7%  1h  -2.2%
-   vol 0.3x · $912K · on CB
+   vol 0.3x · $896K · on CB
 AURORA 15m  +2.6%  1h  +3.3%
-   vol 3.4x · $845K · on CB
+   vol 3.4x · $849K · on CB
 
-👀 WATCH (14)
-  ICNT VVV SPK SKY CRV RENDER
-  ENA USELESS FIL ONDO LINK
-  ELSA DRV ADA
+👀 WATCH (16)
+  PONS CFG SPK BIGTIME SENT
+  CRV RENDER PUMP TAO TON DRV
+  ETH BNB BCH SOL DOT
 
 15m/1h = price change
 vol = volume vs normal
