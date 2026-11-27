@@ -1,14 +1,15 @@
 CRYPTO SCAN
-Fri 3:35 PM CT
-13 flagged · 0 buy signals
+Fri 3:40 PM CT
+18 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (13)
-  AURORA ICNT CT SPK QNT SKY
-  HONEY REZ WLFI PEARL TRUMP
-  LINK MORPHO
+👀 WATCH (18)
+  AURORA SKY WLFI ICNT COOKIE
+  CT SENT CRV HONEY BIGTIME
+  TRUMP REZ MANTLE XRP XLM
+  PEARL LINK DOT
 
 15m/1h = price change
 vol = volume vs normal
