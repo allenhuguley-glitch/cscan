@@ -1,21 +1,19 @@
 CRYPTO SCAN
-Fri 10:50 AM CT
-29 flagged · 0 buy signals
+Fri 10:55 AM CT
+17 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (1)
 HONEY  15m  -3.6%  1h  +7.7%
-   vol 2.3x · $871K · on CB
+   vol 2.3x · $854K · on CB
 
-👀 WATCH (28)
-  ELSA ENA BONK USELESS WLD
-  PONS BIGTIME RENDER QNT DRV
-  FIL DASH PENDLE INJ SKY WLFI
-  FARTCOIN TRUMP SEI LIGHTER
-  ATOM APT WIF ICP VVV TAO TON
-  CT
+👀 WATCH (16)
+  ELSA PONS LIGHTER BONK
+  RENDER DASH VVV FARTCOIN
+  PEARL WIF SPK TON ENA ARB
+  HBAR SEI
 
 15m/1h = price change
 vol = volume vs normal
