@@ -1,15 +1,16 @@
 CRYPTO SCAN
-Fri 7:45 AM CT
-21 flagged · 0 buy signals
+Fri 7:50 AM CT
+24 flagged · 1 buy signal
 
-🟢 BUY SIGNALS
-  none right now
+🟢 BUY SIGNALS (1)
+VVV    15m  +1.5%  1h  +0.6%
+   vol 3.6x · $10M · on CB
 
-👀 WATCH (21)
-  AURORA HONEY BLUR FLR PEARL
-  BIGTIME CFG ALGO AKT DRV
-  NEAR DOT HBAR ELSA MANTLE
-  PUMP VVV ARB BNB BCH HYPE
+👀 WATCH (23)
+  ELSA AURORA BLUR FLR HONEY
+  ZEC AKT SKY BIGTIME CFG INJ
+  DRV WIF ALGO ETH HYPE DOGE
+  HBAR ATOM PUMP ARB BNB PAXG
 
 15m/1h = price change
 vol = volume vs normal
