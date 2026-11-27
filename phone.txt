@@ -1,18 +1,18 @@
 CRYPTO SCAN
-Fri 12:40 PM CT
+Fri 12:45 PM CT
 11 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (1)
-HONEY  15m  +2.1%  1h  +9.1%
-   vol 0.9x · $956K · on CB
+ICNT   15m  +3.0%  1h  +4.0%
+   vol 11.1x · $486K · on CB
 
 👀 WATCH (10)
-  ICNT ELSA SKY LIGHTER
-  BIGTIME CRV SPK RENDER XLM
-  XRP
+  AURORA HONEY SKY LIGHTER
+  RENDER PONS CRV AAVE DOGE
+  WLFI
 
 15m/1h = price change
 vol = volume vs normal
