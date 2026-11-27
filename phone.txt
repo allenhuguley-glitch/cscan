@@ -1,15 +1,19 @@
 CRYPTO SCAN
-Thu 8:00 PM CT
-22 flagged · 0 buy signals
+Thu 8:05 PM CT
+24 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (22)
-  ME BIRB HONEY ALGO SKY PONS
-  SEI ZRO SPK CT DRV PUMP INJ
-  TRUMP PAXG ENA MON AERO NEAR
-  SOL ETH HBAR
+⚪ THIN (low volume) (1)
+BIGTIME 15m  -2.8%  1h  +8.8%
+   vol 1.2x · $687K · on CB
+
+👀 WATCH (23)
+  HONEY BIRB PEARL SEI SPK INJ
+  PAXG PONS ME CT BCH RENDER
+  HYPE FET PENDLE ARB BTC SOL
+  PUMP LINK UNI ETH AAVE
 
 15m/1h = price change
 vol = volume vs normal
