@@ -1,27 +1,21 @@
 CRYPTO SCAN
-Fri 4:40 AM CT
-22 flagged · 0 buy signals
+Fri 4:45 AM CT
+23 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (5)
+⚪ THIN (low volume) (2)
 BLUR   15m  +3.8%  1h  +2.8%
-   vol 0.6x · $389K · on CB
-AURORA 15m  +2.7%  1h +12.3%
-   vol 0.4x · $433K · on CB
-BIGTIME 15m  +2.3%  1h  +1.1%
-   vol 0.9x · $705K · on CB
-ELSA   15m  -2.8%  1h  -4.0%
-   vol 0.4x · $479K · on CB
-HONEY  15m  -2.3%  1h  -0.1%
-   vol 2.5x · $1.2M · on CB
+   vol 0.6x · $382K · on CB
+BIGTIME 15m  +2.0%  1h  +0.1%
+   vol 4.6x · $707K · on CB
 
-👀 WATCH (17)
-  CFG PEARL ME ENA MAMO PEPE
-  XRP MANTLE FET NEAR TRUMP
-  DOGE SYRUP WLFI MORPHO ALGO
-  SKY
+👀 WATCH (21)
+  AURORA PEARL CFG ELSA HONEY
+  SYRUP ZRO WLFI ENA LIGHTER
+  WLD MANTLE QNT NEAR ALGO ADA
+  FET AKT MORPHO AVAX ONDO
 
 15m/1h = price change
 vol = volume vs normal
