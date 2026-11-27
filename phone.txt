@@ -1,15 +1,19 @@
 CRYPTO SCAN
-Thu 7:15 PM CT
-23 flagged · 0 buy signals
+Thu 7:20 PM CT
+21 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (23)
-  BIRB SYRUP ZRO BIGTIME HNT
-  PONS XCN HONEY ENA VVV WLD
-  SKY SEI PENDLE ATOM TIA DRV
-  WIF PENGU CT AVAX TRUMP LINK
+⚪ THIN (low volume) (1)
+ELSA   15m  -2.6%  1h  -0.9%
+   vol 6.5x · $996K · on CB
+
+👀 WATCH (20)
+  BIRB HONEY HNT PONS SYRUP
+  PENDLE ZEC MOODENG WIF OPG
+  SKY ME XCN DRV PEARL PENGU
+  TRUMP LTC FET APT
 
 15m/1h = price change
 vol = volume vs normal
