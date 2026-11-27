@@ -1,15 +1,21 @@
 CRYPTO SCAN
-Fri 7:15 AM CT
-19 flagged · 0 buy signals
+Fri 7:20 AM CT
+31 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (19)
-  HONEY PEPE VVV CT MAMO ENA
-  SKY ELSA BLUR CFG TON
-  LIGHTER CRV APT WLD DOT ONDO
-  USELESS INJ
+🟡 AGAINST TREND / FADING (1)
+ZEC    15m  -1.0%  1h  -0.4%
+   vol 2.1x · $132M · on CB
+
+👀 WATCH (30)
+  BLUR LIGHTER ELSA VVV TON
+  FET SPK MON MAMO INJ CFG
+  PUMP CT XLM APT LTC ATOM
+  PEPE ETH ONDO ZRO LINK SKY
+  SEI SOL AVAX FIL AVNT SUI
+  BNB
 
 15m/1h = price change
 vol = volume vs normal
