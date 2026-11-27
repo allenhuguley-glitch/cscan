@@ -1,24 +1,23 @@
 CRYPTO SCAN
-Thu 11:10 PM CT
-38 flagged · 0 buy signals
+Thu 11:15 PM CT
+35 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (2)
+BLUR   15m  -4.0%  1h  -5.3%
+   vol 2.9x · $363K · on CB
 ME     15m  -3.1%  1h  -3.6%
-   vol 1.9x · $1.1M · on CB
-BLUR   15m  -2.2%  1h  -2.6%
-   vol 0.2x · $371K · on CB
+   vol 1.9x · $1.0M · on CB
 
-👀 WATCH (36)
-  SYRUP LIGHTER BIGTIME PONS
-  LINK HONEY UNI ETH LTC SEI
-  ZEC TAO USELESS ONDO SOL MON
-  DASH ICP ADA NEAR AAVE XRP
-  TRUMP SUI DOT AERO DOGE HYPE
-  AVAX BTC QNT CT BNB ZRO
-  PENDLE WLFI
+👀 WATCH (33)
+  PENDLE PONS SKY INJ SYRUP
+  SEI ZEC LIGHTER QNT ONDO
+  PUMP DASH MORPHO ICP AAVE
+  DOT AERO ZRO HNT TIA APT ETH
+  MAMO BNB FIL LINK ELSA TAO
+  VVV TRUMP PAXG TON LTC
 
 15m/1h = price change
 vol = volume vs normal
