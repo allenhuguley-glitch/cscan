@@ -1,24 +1,23 @@
 CRYPTO SCAN
-Fri 4:25 PM CT
-29 flagged · 0 buy signals
+Fri 4:30 PM CT
+22 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-🔴 REAL DROPS (1)
-VVV    15m  -2.9%  1h  -2.2%
-   vol 13.5x · $8.8M · on CB
+🟡 AGAINST TREND / FADING (1)
+VVV    15m  -2.4%  1h  -2.2%
+   vol 4.2x · $9.1M · on CB
 
 ⚪ MOVED, NO VOLUME SPIKE (1)
-SKY    15m  +1.9%  1h  +1.8%
-   vol 0.2x · $5.9M · on CB
+SKY    15m  +1.2%  1h  +2.4%
+   vol 0.1x · $5.9M · on CB
 
-👀 WATCH (27)
-  HONEY LIGHTER AURORA TAO INJ
-  PEARL SEI ZEC UNI ENA FET
-  USELESS DASH MORPHO PEPE
-  COOKIE TON SUI PUMP AKT ELSA
-  ZRO ARB SOL REZ ALGO PENDLE
+👀 WATCH (20)
+  COOKIE AURORA PONS LIGHTER
+  WIF PEARL ZRO SEI AAVE INJ
+  TON DASH UNI ZEC FET MANTLE
+  PENDLE XRP CRV NEAR
 
 15m/1h = price change
 vol = volume vs normal
