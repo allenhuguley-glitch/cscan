@@ -1,25 +1,28 @@
 CRYPTO SCAN
-Thu 11:50 PM CT
-23 flagged · 0 buy signals
+Thu 11:55 PM CT
+22 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-🟡 AGAINST TREND / FADING (1)
-VVV    15m  -1.3%  1h  -0.1%
-   vol 3.2x · $12M · on CB
-
-⚪ THIN (low volume) (2)
-ELSA   15m  +5.5%  1h  +4.6%
-   vol 0.8x · $710K · on CB
+⚪ THIN (low volume) (4)
+ELSA   15m  +2.8%  1h  +5.7%
+   vol 0.4x · $711K · on CB
+PONS   15m  +2.5%  1h  +4.1%
+   vol 1.6x · $795K · on CB
 HONEY  15m  -4.8%  1h  -7.2%
    vol 1.5x · $1.3M · on CB
+BLUR   15m  -3.3%  1h  -7.3%
+   vol 0.1x · $356K · on CB
 
-👀 WATCH (20)
-  PONS PEARL BLUR SKY CT MAMO
-  CRV BIGTIME UNI MOODENG TIA
-  TON MON ATOM DRV AAVE WLFI
-  XLM BNB XRP
+⚪ MOVED, NO VOLUME SPIKE (1)
+VVV    15m  -1.1%  1h  -0.2%
+   vol 1.4x · $12M · on CB
+
+👀 WATCH (17)
+  PEARL CT MAMO SPK TON CRV
+  NEAR UNI BCH PAXG DASH DRV
+  AAVE MANTLE XLM TAO LTC
 
 15m/1h = price change
 vol = volume vs normal
