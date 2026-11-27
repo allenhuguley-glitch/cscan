@@ -1,23 +1,22 @@
 CRYPTO SCAN
-Fri 6:10 AM CT
-24 flagged · 0 buy signals
+Fri 6:15 AM CT
+20 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (3)
-PONS   15m  +3.6%  1h  +3.1%
-   vol 1.2x · $1.4M · on CB
-CFG    15m  -3.2%  1h  +1.5%
-   vol 0.3x · $745K · on CB
+PONS   15m  +2.5%  1h  +4.7%
+   vol 2.3x · $1.4M · on CB
 MON    15m  -2.4%  1h  -2.3%
-   vol 3.7x · $2.8M · on CB
+   vol 2.3x · $2.8M · on CB
+CFG    15m  -2.2%  1h  -1.0%
+   vol 0.9x · $755K · on CB
 
-👀 WATCH (21)
-  ELSA DRV AURORA BIGTIME MAMO
-  ENA ZEC LIGHTER SKY WLD FET
-  SEI WIF XLM TON SOL HYPE SUI
-  XRP ADA PEPE
+👀 WATCH (17)
+  ELSA DRV AURORA SPK MAMO STX
+  PEPE ARB AKT HYPE PUMP SUI
+  BIGTIME BCH HBAR XRP ADA
 
 15m/1h = price change
 vol = volume vs normal
