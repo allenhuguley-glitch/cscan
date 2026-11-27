@@ -1,18 +1,20 @@
 CRYPTO SCAN
-Fri 3:00 AM CT
-18 flagged · 0 buy signals
+Fri 3:05 AM CT
+25 flagged · 1 buy signal
 
-🟢 BUY SIGNALS
-  none right now
+🟢 BUY SIGNALS (1)
+ZEC    15m  +1.0%  1h  +1.3%
+   vol 4.3x · $134M · on CB
 
 ⚪ THIN (low volume) (1)
-HONEY  15m  +2.6%  1h  +4.3%
-   vol 0.8x · $1.3M · on CB
+BLUR   15m  +2.5%  1h  -9.7%
+   vol 0.0x · $386K · on CB
 
-👀 WATCH (17)
-  SPK BLUR MPLX MON CT ELSA
-  ENA ZEC BIGTIME MAMO VVV SEI
-  PEPE TON UNI BNB ZRO
+👀 WATCH (23)
+  ENA ELSA VVV HONEY MPLX FET
+  NEAR ARB BIGTIME ICP MON SEI
+  SOL ONDO UNI PEPE TON TAO
+  LINK LTC BNB MANTLE DOT
 
 15m/1h = price change
 vol = volume vs normal
