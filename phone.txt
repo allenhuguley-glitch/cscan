@@ -1,23 +1,21 @@
 CRYPTO SCAN
-Fri 5:00 AM CT
-21 flagged · 0 buy signals
+Fri 5:05 AM CT
+23 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (3)
-BLUR   15m  +6.1%  1h +12.2%
-   vol 0.6x · $400K · on CB
-HONEY  15m  -2.9%  1h  -2.9%
-   vol 1.4x · $1.1M · on CB
-BIGTIME 15m  -2.7%  1h  -1.4%
-   vol 1.4x · $695K · on CB
+⚪ THIN (low volume) (2)
+BLUR   15m  +2.8%  1h +11.6%
+   vol 1.4x · $384K · on CB
+AURORA 15m  -2.8%  1h  +3.8%
+   vol 0.6x · $455K · on CB
 
-👀 WATCH (18)
-  AURORA CT PONS CFG MAMO STX
-  ELSA SPK AAVE WLFI TAO
-  USELESS PUMP QNT ONDO HBAR
-  BNB PEPE
+👀 WATCH (21)
+  BIGTIME HONEY MANTLE PONS
+  STX MAMO SPK SOL MON WLD
+  NEAR PEARL ETH AAVE BTC TAO
+  SYRUP WIF ONDO BNB PEPE
 
 15m/1h = price change
 vol = volume vs normal
