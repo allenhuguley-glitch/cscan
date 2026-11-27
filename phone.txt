@@ -1,18 +1,22 @@
 CRYPTO SCAN
-Thu 9:35 PM CT
-17 flagged · 0 buy signals
+Thu 9:40 PM CT
+19 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (1)
-BLUR   15m  +4.9%  1h  +4.6%
-   vol 1.9x · $355K · on CB
+BIGTIME 15m  +3.1%  1h  -2.2%
+   vol 0.5x · $856K · on CB
 
-👀 WATCH (16)
-  BIGTIME HNT HONEY VVV ELSA
-  ME SKY AVNT AKT USELESS HYPE
-  CT ARB PONS AAVE ZRO
+⚪ MOVED, NO VOLUME SPIKE (1)
+VVV    15m  +1.6%  1h  +0.8%
+   vol 1.4x · $14M · on CB
+
+👀 WATCH (17)
+  HNT XCN SKY CT BIRB PONS
+  HYPE ELSA ICP BCH PEPE HONEY
+  DASH RENDER BLUR CRV ARB
 
 15m/1h = price change
 vol = volume vs normal
