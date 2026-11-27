@@ -1,27 +1,19 @@
 CRYPTO SCAN
-Fri 1:20 AM CT
-36 flagged · 0 buy signals
+Fri 1:25 AM CT
+22 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (2)
-SPK    15m  +2.2%  1h  +4.7%
-   vol 4.9x · $513K · on CB
-BLUR   15m  -2.7%  1h +11.0%
-   vol 3.4x · $421K · on CB
+⚪ THIN (low volume) (1)
+SPK    15m  -2.8%  1h  +1.5%
+   vol 2.0x · $518K · on CB
 
-⚪ MOVED, NO VOLUME SPIKE (1)
-VVV    15m  -1.4%  1h  +0.7%
-   vol 1.0x · $11M · on CB
-
-👀 WATCH (33)
-  INJ MON PONS PEARL MAMO
-  RENDER USELESS ZRO AKT
-  LIGHTER ZEC MOODENG TON SKY
-  ELSA XRP HYPE ENA FIL AVAX
-  ATOM BNB ADA BCH SOL TIA QNT
-  AVNT WLFI BTC XLM DOGE SYRUP
+👀 WATCH (21)
+  PEARL MON MPLX BLUR INJ PONS
+  SKY USELESS ZEC ENA WIF
+  BIGTIME LIGHTER SEI ELSA TON
+  ADA AVAX WLFI FLR XLM
 
 15m/1h = price change
 vol = volume vs normal
