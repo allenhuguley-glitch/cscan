@@ -1,22 +1,22 @@
 CRYPTO SCAN
-Thu 6:50 PM CT
-27 flagged · 0 buy signals
+Thu 6:55 PM CT
+26 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (2)
-HONEY  15m  +5.1%  1h  +1.3%
-   vol 2.1x · $1.6M · on CB
-ME     15m  +3.1%  1h  +7.3%
-   vol 0.5x · $1.1M · on CB
+HONEY  15m  +7.2%  1h  +3.8%
+   vol 0.2x · $1.6M · on CB
+ME     15m  -2.0%  1h  +4.9%
+   vol 2.8x · $1.1M · on CB
 
-👀 WATCH (25)
-  HNT SEI DRV PONS BLUR ZEC
-  XCN NEAR PUMP AKT MOODENG
-  ATOM ELSA BCH AVNT UNI QNT
-  VVV ENA AAVE TRUMP DOGE PEPE
-  BNB ONDO
+👀 WATCH (24)
+  HNT BLUR NEAR ZEC XCN PUMP
+  BIGTIME SEI ATOM DRV AVNT
+  UNI MON ENA TON ZRO PEPE
+  ONDO INJ AKT PENGU FIL
+  MANTLE BNB
 
 15m/1h = price change
 vol = volume vs normal
