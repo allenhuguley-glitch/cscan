@@ -1,27 +1,19 @@
 CRYPTO SCAN
-Fri 5:25 PM CT
-24 flagged · 0 buy signals
+Fri 5:30 PM CT
+23 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-🔴 REAL DROPS (1)
-HYPE   15m  -1.2%  1h  -0.7%
-   vol 9.1x · $39M · on CB
-
 ⚪ THIN (low volume) (1)
 HONEY  15m  +3.9%  1h  +4.0%
-   vol 3.9x · $857K · on CB
+   vol 3.9x · $847K · on CB
 
-⚪ MOVED, NO VOLUME SPIKE (1)
-SKY    15m  -1.0%  1h  -5.5%
-   vol 0.0x · $5.6M · on CB
-
-👀 WATCH (21)
-  ICNT COOKIE TON ELSA WIF
-  NEAR RENDER USELESS VVV ZEC
-  FLR WLFI ATOM PENDLE MORPHO
-  INJ SENT BCH QNT ALGO DOGE
+👀 WATCH (22)
+  CT COOKIE SENT AURORA TON
+  FET ELSA RENDER NEAR PONS
+  USELESS WIF VVV FLR ENA AKT
+  CRV AAVE BCH DOT TAO ICP
 
 15m/1h = price change
 vol = volume vs normal
