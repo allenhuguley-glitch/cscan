@@ -1,19 +1,15 @@
 CRYPTO SCAN
-Fri 6:30 AM CT
+Fri 6:35 AM CT
 21 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
-AURORA 15m  -2.4%  1h  -7.8%
-   vol 1.0x · $495K · on CB
-
-👀 WATCH (20)
-  MON DRV HONEY MAMO VVV CFG
-  ENA NEAR AKT PENDLE PUMP
-  SYRUP XRP ICP ZRO INJ AERO
-  XLM TON CRV
+👀 WATCH (21)
+  AURORA CFG SYRUP HONEY MON
+  MAMO VVV ENA ICP PUMP NEAR
+  PENDLE AKT PEARL AVAX XRP
+  ALGO AERO LTC ZEC CRV
 
 15m/1h = price change
 vol = volume vs normal
