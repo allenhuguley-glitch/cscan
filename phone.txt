@@ -1,22 +1,24 @@
 CRYPTO SCAN
-Fri 5:30 AM CT
-19 flagged · 0 buy signals
+Fri 5:35 AM CT
+27 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (3)
 CFG    15m  +2.0%  1h  +0.0%
-   vol 0.1x · $733K · on CB
-BLUR   15m  -7.3%  1h  +2.9%
-   vol 1.7x · $363K · on CB
-AURORA 15m  -3.3%  1h  -6.8%
-   vol 2.7x · $483K · on CB
+   vol 0.1x · $738K · on CB
+AURORA 15m  -6.3%  1h  -7.8%
+   vol 1.3x · $476K · on CB
+BLUR   15m  -4.3%  1h  +1.0%
+   vol 0.6x · $358K · on CB
 
-👀 WATCH (16)
-  PEARL SYRUP ELSA SEI ME PONS
-  MANTLE USELESS WLFI TRUMP
-  STX FET BCH LTC INJ DRV
+👀 WATCH (24)
+  PEARL HONEY SYRUP STX MON
+  USELESS ELSA PONS ME VVV
+  LIGHTER TON FIL FET BCH SEI
+  TRUMP LTC INJ BIGTIME NEAR
+  APT HBAR DRV
 
 15m/1h = price change
 vol = volume vs normal
