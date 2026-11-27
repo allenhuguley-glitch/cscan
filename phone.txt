@@ -1,23 +1,22 @@
 CRYPTO SCAN
-Fri 3:40 AM CT
-32 flagged · 0 buy signals
+Fri 3:45 AM CT
+26 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (2)
-CFG    15m +16.5%  1h +19.6%
-   vol 3.2x · $505K · on CB
-BLUR   15m  -2.8%  1h  -8.7%
-   vol 0.1x · $363K · on CB
+MPLX   15m  +5.0%  1h  +2.9%
+   vol 1.8x · $402K · on CB
+BLUR   15m  -3.0%  1h  -9.3%
+   vol 0.0x · $364K · on CB
 
-👀 WATCH (30)
-  HONEY LIGHTER PEARL MON SEI
-  ELSA ME HYPE PUMP BIGTIME
-  PONS FET PENDLE LINK TAO
-  AVAX XLM AVNT ONDO DOGE ICP
-  FARTCOIN ALGO HBAR ATOM ETH
-  BNB USELESS BCH MANTLE
+👀 WATCH (24)
+  CFG HONEY PEARL ME SEI HYPE
+  PUMP BIGTIME LIGHTER FET
+  PONS TRUMP PENDLE HBAR DOGE
+  MANTLE AAVE LINK BNB USELESS
+  SKY APT AERO PEPE
 
 15m/1h = price change
 vol = volume vs normal
