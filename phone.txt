@@ -1,16 +1,20 @@
 CRYPTO SCAN
-Fri 12:55 PM CT
-24 flagged · 0 buy signals
+Fri 1:00 PM CT
+27 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (24)
-  ICNT HONEY LIGHTER CFG PEPE
-  SPK ELSA USELESS AKT VVV
-  RENDER FIL ZRO SKY CT AVAX
-  AERO PEARL AAVE XLM PENDLE
-  INJ SOL BTC
+⚪ THIN (low volume) (1)
+HONEY  15m  -2.0%  1h  +5.6%
+   vol 0.4x · $944K · on CB
+
+👀 WATCH (26)
+  CFG ICNT MON PEARL LIGHTER
+  PEPE USELESS VVV CRV AKT
+  HYPE PUMP SEI TRUMP RENDER
+  ZRO FIL CT PONS UNI AERO
+  AAVE AURORA MORPHO SKY XLM
 
 15m/1h = price change
 vol = volume vs normal
