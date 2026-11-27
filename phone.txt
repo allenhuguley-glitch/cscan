@@ -1,23 +1,27 @@
 CRYPTO SCAN
-Fri 11:05 AM CT
-21 flagged · 0 buy signals
+Fri 11:10 AM CT
+27 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
+🟡 AGAINST TREND / FADING (1)
+ZEC    15m  -1.4%  1h  +0.7%
+   vol 6.1x · $124M · on CB
+
 ⚪ THIN (low volume) (3)
 SPK    15m  +2.9%  1h  +2.1%
-   vol 3.6x · $578K · on CB
+   vol 3.6x · $579K · on CB
 AURORA 15m  -3.5%  1h  -2.7%
-   vol 3.8x · $755K · on CB
-PONS   15m  -2.8%  1h  -3.9%
-   vol 2.8x · $1.7M · on CB
+   vol 3.8x · $771K · on CB
+PONS   15m  -2.4%  1h  -3.2%
+   vol 0.9x · $1.7M · on CB
 
-👀 WATCH (18)
-  HONEY ELSA CFG ZRO ATOM ZEC
-  VVV LIGHTER TON SYRUP DASH
-  USELESS ME TRB HYPE WLFI ICP
-  FET
+👀 WATCH (23)
+  HONEY CFG ME TON HYPE MON
+  USELESS TRB LIGHTER MORPHO
+  DRV CRV ZRO ETH XLM SEI WLD
+  APT DOT WIF LTC RENDER ELSA
 
 15m/1h = price change
 vol = volume vs normal
