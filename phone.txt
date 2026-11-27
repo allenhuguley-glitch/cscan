@@ -1,21 +1,20 @@
 CRYPTO SCAN
-Fri 1:10 PM CT
-20 flagged · 0 buy signals
+Fri 1:15 PM CT
+19 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (2)
 HONEY  15m  +3.3%  1h +11.6%
-   vol 1.2x · $964K · on CB
-ICNT   15m  -7.8%  1h  -5.3%
-   vol 6.7x · $489K · on CB
+   vol 1.2x · $947K · on CB
+ICNT   15m  -5.5%  1h  -3.4%
+   vol 0.9x · $494K · on CB
 
-👀 WATCH (18)
-  CFG WIF SEI CRV SKY PUMP
-  PENDLE MON FIL ICP VVV FLR
-  USELESS WLD PEPE WLFI DRV
-  DOGE
+👀 WATCH (17)
+  SKY ELSA ICP SEI BONK
+  BIGTIME PONS VVV FLR SPK CRV
+  DRV FET WIF PUMP DOGE MANTLE
 
 15m/1h = price change
 vol = volume vs normal
