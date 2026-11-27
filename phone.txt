@@ -1,21 +1,15 @@
 CRYPTO SCAN
-Fri 7:10 AM CT
-23 flagged · 0 buy signals
+Fri 7:15 AM CT
+19 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (2)
-HONEY  15m  -2.3%  1h  -0.7%
-   vol 0.5x · $938K · on CB
-AURORA 15m  -2.1%  1h  -1.4%
-   vol 0.7x · $543K · on CB
-
-👀 WATCH (21)
-  SKY PEARL LIGHTER CFG MAMO
-  BIGTIME ENA BLUR NEAR TON
-  APT PEPE WIF CRV FET WLD BNB
-  PAXG LTC SUI BCH
+👀 WATCH (19)
+  HONEY PEPE VVV CT MAMO ENA
+  SKY ELSA BLUR CFG TON
+  LIGHTER CRV APT WLD DOT ONDO
+  USELESS INJ
 
 15m/1h = price change
 vol = volume vs normal
