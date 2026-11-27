@@ -1,20 +1,29 @@
 CRYPTO SCAN
-Fri 4:25 AM CT
-27 flagged · 0 buy signals
+Fri 4:30 AM CT
+25 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
-AURORA 15m  +5.6%  1h  +7.1%
-   vol 0.3x · $388K · on CB
+⚪ THIN (low volume) (4)
+AURORA 15m  +3.9%  1h  +6.4%
+   vol 0.7x · $412K · on CB
+BLUR   15m  +3.3%  1h  +1.7%
+   vol 0.1x · $369K · on CB
+ELSA   15m  -4.0%  1h  -4.8%
+   vol 2.7x · $475K · on CB
+HONEY  15m  -3.1%  1h  -0.8%
+   vol 0.2x · $1.2M · on CB
 
-👀 WATCH (26)
-  PONS BLUR ELSA SPK MON ZRO
-  SYRUP LIGHTER HONEY CFG CT
-  FET INJ PUMP AAVE WLD DOT
-  BIGTIME WIF ICP LTC SEI
-  FARTCOIN BNB TRUMP VVV
+⚪ MOVED, NO VOLUME SPIKE (1)
+ZEC    15m  +1.1%  1h  +0.5%
+   vol 0.8x · $136M · on CB
+
+👀 WATCH (20)
+  ME FET PONS CFG FIL MAMO
+  PEARL USELESS LIGHTER FLR
+  NEAR AAVE SYRUP HYPE VVV DOT
+  RENDER SEI ETH PENDLE
 
 15m/1h = price change
 vol = volume vs normal
