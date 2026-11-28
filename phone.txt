@@ -1,27 +1,33 @@
 CRYPTO SCAN
-Fri 11:40 PM CT
-27 flagged · 0 buy signals
+Fri 11:45 PM CT
+37 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (5)
-WLFI   15m  -9.2%  1h -22.5%
-   vol 0.8x · $2.9M · on CB
-ICNT   15m  -4.3%  1h  -6.0%
-   vol 6.0x · $453K · on CB
+⚪ THIN (low volume) (7)
+ROBO   15m  -8.7%  1h -13.1%
+   vol 0.9x · $385K · on CB
 AURORA 15m  -3.8%  1h  -6.0%
    vol 0.9x · $1.3M · on CB
 CFG    15m  -3.8%  1h  -4.6%
-   vol 0.5x · $1.9M · on CB
+   vol 0.5x · $1.8M · on CB
+BIGTIME 15m  -3.5%  1h  -5.5%
+   vol 1.0x · $404K · on CB
+TRUMP  15m  -3.1%  1h  -7.1%
+   vol 0.9x · $1.5M · on CB
 CT     15m  -2.2%  1h  -2.7%
-   vol 10.9x · $493K · on CB
+   vol 10.9x · $498K · on CB
+ICNT   15m  -2.1%  1h  -4.4%
+   vol 3.8x · $450K · on CB
 
-👀 WATCH (22)
-  BIGTIME PONS ROBO PEARL ELSA
-  ZRO HONEY VVV SKY PEPE XPL
-  PENDLE ICP TON WLD HBAR ADA
-  AKT AERO BTC MORPHO WIF
+👀 WATCH (30)
+  PONS WLFI ZRO PEARL XPL FIL
+  LIGHTER SEI WLD NEAR VVV AKT
+  ENA SPK PENDLE UNI ONDO
+  FARTCOIN USELESS APT INJ
+  ELSA WIF ETH LINK QNT BTC
+  ZEC PAXG MORPHO
 
 15m/1h = price change
 vol = volume vs normal
