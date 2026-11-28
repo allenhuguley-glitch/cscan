@@ -1,21 +1,19 @@
 CRYPTO SCAN
-Sat 3:10 AM CT
-24 flagged · 0 buy signals
+Sat 3:15 AM CT
+21 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (2)
-WLFI   15m  +4.5%  1h +11.3%
-   vol 1.3x · $4.5M · on CB
-AURORA 15m  -2.1%  1h  -4.6%
-   vol 0.3x · $1.1M · on CB
+⚪ THIN (low volume) (1)
+ELSA   15m  +2.0%  1h  +0.8%
+   vol 2.4x · $415K · on CB
 
-👀 WATCH (22)
-  ROBO HONEY PONS ICNT USELESS
-  SKY KAVA SEI SENT WIF XCN
-  HBAR XPL HYPE TON AVAX XLM
-  FLR ONDO CT ADA LINK
+👀 WATCH (20)
+  ROBO WLFI HONEY PONS ICNT
+  KAVA AURORA USELESS SKY QNT
+  SEI SENT WIF XCN PENDLE AVAX
+  ETH XRP CT ADA
 
 15m/1h = price change
 vol = volume vs normal
