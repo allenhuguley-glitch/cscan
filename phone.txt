@@ -1,17 +1,21 @@
 CRYPTO SCAN
-Sat 4:15 AM CT
-32 flagged · 0 buy signals
+Sat 4:20 AM CT
+31 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (32)
-  WLFI USELESS ROBO KAVA ZRO
-  SKY ICNT SENT HONEY WIF HYPE
-  AURORA MON ENA VVV TAO CFG
-  ADA TRUMP LIGHTER SUI LTC
-  BTC FIL AKT BCH BNB MANTLE
-  NEAR XPL ONDO PAXG
+⚪ THIN (low volume) (1)
+WLFI   15m  -2.0%  1h  -7.3%
+   vol 1.8x · $4.5M · on CB
+
+👀 WATCH (30)
+  SENT PEARL AURORA CT ZRO
+  ICNT LIGHTER USELESS KAVA
+  HONEY HYPE MON SEI VVV CFG
+  ZEC AVNT SKY TAO BTC SOL ARB
+  DOGE MANTLE XLM ONDO FLR XRP
+  ETH XCN
 
 15m/1h = price change
 vol = volume vs normal
