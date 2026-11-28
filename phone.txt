@@ -1,21 +1,23 @@
 CRYPTO SCAN
-Sat 2:40 AM CT
-21 flagged · 0 buy signals
+Sat 2:45 AM CT
+20 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (2)
-HONEY  15m  +8.9%  1h +10.4%
-   vol 4.7x · $687K · on CB
-ROBO   15m  -2.5%  1h  -0.3%
-   vol 0.1x · $472K · on CB
+⚪ THIN (low volume) (3)
+HONEY  15m  +5.9%  1h  +7.7%
+   vol 0.5x · $689K · on CB
+WLFI   15m  +2.7%  1h  -0.7%
+   vol 1.2x · $4.0M · on CB
+CFG    15m  -2.5%  1h  -2.5%
+   vol 0.0x · $1.7M · on CB
 
-👀 WATCH (19)
-  CFG SENT PEARL SEI ICNT WLFI
-  ELSA KAVA TRUMP CT AURORA
-  ARB ZRO HYPE PENDLE DOT ZEC
-  WIF ATOM
+👀 WATCH (17)
+  SENT ELSA LIGHTER EDGE SEI
+  KAVA ICP AURORA PONS ARB
+  PEARL ROBO SOL HBAR QNT DOT
+  FIL
 
 15m/1h = price change
 vol = volume vs normal
