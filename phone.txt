@@ -1,21 +1,20 @@
 CRYPTO SCAN
-Fri 8:05 PM CT
-20 flagged · 0 buy signals
+Fri 8:10 PM CT
+25 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (2)
+⚪ THIN (low volume) (1)
 AURORA 15m  +2.8%  1h  +5.4%
    vol 1.5x · $1.3M · on CB
-ELSA   15m  -2.7%  1h  +0.7%
-   vol 0.0x · $442K · on CB
 
-👀 WATCH (18)
-  CFG PONS SENT HONEY BIGTIME
-  MON STX USELESS SEI VVV UNI
-  WLFI PEPE TAO FARTCOIN ARB
-  ENA AERO
+👀 WATCH (24)
+  STX CFG WLFI SENT SKY VVV
+  PONS SEI TRUMP BIGTIME AERO
+  CRV ELSA RENDER UNI PUMP
+  PEPE FARTCOIN WIF DRV SOL
+  FET MON QNT
 
 15m/1h = price change
 vol = volume vs normal
