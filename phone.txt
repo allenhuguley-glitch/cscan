@@ -1,20 +1,18 @@
 CRYPTO SCAN
-Sat 5:25 AM CT
-17 flagged · 0 buy signals
+Sat 5:30 AM CT
+15 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (2)
-ELSA   15m  +2.5%  1h  +3.7%
-   vol 3.6x · $436K · on CB
-BLUR   15m  +2.3%  1h  +0.9%
-   vol 3.9x · $351K · on CB
+⚪ THIN (low volume) (1)
+HONEY  15m  -2.1%  1h  -1.1%
+   vol 0.8x · $602K · on CB
 
-👀 WATCH (15)
-  AURORA HONEY ROBO MANTLE
-  ICNT WLFI FET VVV ZEC CFG
-  INJ DOT PEARL FIL DOGE
+👀 WATCH (14)
+  ELSA PONS ROBO SKY AURORA
+  MANTLE VVV ICNT WIF QNT
+  PEARL FET CT MON
 
 15m/1h = price change
 vol = volume vs normal
