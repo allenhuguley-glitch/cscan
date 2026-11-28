@@ -1,21 +1,25 @@
 CRYPTO SCAN
-Fri 9:00 PM CT
-14 flagged · 0 buy signals
+Fri 9:05 PM CT
+21 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (3)
+⚪ THIN (low volume) (2)
 BLUR   15m  +4.5%  1h  +0.6%
-   vol 2.7x · $410K · on CB
-ICNT   15m  +2.2%  1h  +0.7%
-   vol 0.7x · $529K · on CB
+   vol 2.7x · $416K · on CB
 AURORA 15m  -2.0%  1h  -2.3%
    vol 0.8x · $1.3M · on CB
 
-👀 WATCH (11)
-  BIGTIME COOKIE WLFI PONS ZEC
-  SKY HONEY WIF SPK ATOM PAXG
+⚪ MOVED, NO VOLUME SPIKE (1)
+SKY    15m  +1.9%  1h  -0.7%
+   vol 0.7x · $5.1M · on CB
+
+👀 WATCH (18)
+  WLFI COOKIE SENT PONS
+  BIGTIME SPK ICNT ELSA HONEY
+  LINK AAVE DOGE UNI DRV ALGO
+  ONDO BCH FIL
 
 15m/1h = price change
 vol = volume vs normal
