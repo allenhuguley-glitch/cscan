@@ -1,25 +1,22 @@
 CRYPTO SCAN
-Fri 8:20 PM CT
-19 flagged · 0 buy signals
+Fri 8:25 PM CT
+27 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (2)
-BIGTIME 15m  +2.2%  1h  -1.5%
-   vol 1.2x · $607K · on CB
-AURORA 15m  -3.0%  1h  +4.2%
-   vol 0.3x · $1.3M · on CB
+BIGTIME 15m  +3.9%  1h  -0.4%
+   vol 0.4x · $601K · on CB
+AURORA 15m  -2.4%  1h  +3.9%
+   vol 0.5x · $1.3M · on CB
 
-⚪ MOVED, NO VOLUME SPIKE (1)
-SKY    15m  -1.6%  1h  -0.4%
-   vol 0.2x · $5.7M · on CB
-
-👀 WATCH (16)
-  ELSA ICNT STX CRV VVV WIF
-  AERO PEARL BCH MORPHO
-  FARTCOIN ICP ZEC DRV MANTLE
-  LINK
+👀 WATCH (25)
+  ELSA PONS ICNT HONEY STX CRV
+  SKY CT ENA BCH ZEC ALGO SOL
+  REZ MORPHO DRV XRP LINK AERO
+  PUMP LIGHTER SUI ETH HBAR
+  BNB
 
 15m/1h = price change
 vol = volume vs normal
