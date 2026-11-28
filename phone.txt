@@ -1,24 +1,20 @@
 CRYPTO SCAN
-Sat 1:25 AM CT
-26 flagged · 0 buy signals
+Sat 1:30 AM CT
+18 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (3)
-WLFI   15m  +5.4%  1h  -0.3%
-   vol 0.8x · $3.7M · on CB
+⚪ THIN (low volume) (2)
+HONEY  15m  +2.3%  1h  -0.6%
+   vol 1.5x · $646K · on CB
 KAVA   15m  -3.3%  1h  -5.1%
-   vol 0.6x · $399K · on CB
-CFG    15m  -2.8%  1h  -5.2%
-   vol 1.5x · $1.8M · on CB
+   vol 0.6x · $422K · on CB
 
-👀 WATCH (23)
-  SENT MANTLE ROBO AURORA PONS
-  EDGE RENDER PUMP LIGHTER SEI
-  XPL VVV PEPE MON ONDO SUI
-  HONEY AVAX NEAR FARTCOIN FIL
-  DOGE LINK
+👀 WATCH (16)
+  PEARL TRUMP WLFI PONS ROBO
+  RENDER FET TAO XPL VVV PEPE
+  AERO SENT MON ONDO NEAR
 
 15m/1h = price change
 vol = volume vs normal
