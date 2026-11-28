@@ -1,19 +1,20 @@
 CRYPTO SCAN
-Sat 5:55 AM CT
-22 flagged · 0 buy signals
+Sat 6:00 AM CT
+13 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
-O      15m  +2.5%  1h +13.0%
-   vol 0.8x · $339K · on CB
+⚪ THIN (low volume) (2)
+O      15m  +4.7%  1h +10.7%
+   vol 0.9x · $358K · on CB
+ROBO   15m  +3.1%  1h  +0.0%
+   vol 5.8x · $512K · on CB
 
-👀 WATCH (21)
-  ELSA KAVA WLFI ZEC PEARL CFG
-  FET ROBO AURORA SENT LIGHTER
-  ARB USELESS WIF HBAR LTC
-  HYPE BNB TRUMP AVAX MANTLE
+👀 WATCH (11)
+  KAVA ELSA CFG WLFI PEARL CT
+  LIGHTER SENT USELESS TRUMP
+  RENDER
 
 15m/1h = price change
 vol = volume vs normal
