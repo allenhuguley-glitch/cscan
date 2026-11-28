@@ -1,14 +1,14 @@
 CRYPTO SCAN
-Fri 10:00 PM CT
-16 flagged · 0 buy signals
+Fri 10:01 PM CT
+15 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (16)
-  PONS CFG SKY BIGTIME CRV VVV
-  WLFI HONEY SEI BCH MON TON
-  SPK TAO SUI SOL
+👀 WATCH (15)
+  CFG BIGTIME CRV VVV WLFI
+  HONEY SEI BCH MON SPK ENA
+  APT TON TAO SOL
 
 15m/1h = price change
 vol = volume vs normal
