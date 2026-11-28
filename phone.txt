@@ -1,29 +1,22 @@
 CRYPTO SCAN
-Fri 7:25 PM CT
-36 flagged · 0 buy signals
+Fri 7:30 PM CT
+25 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (3)
-CFG    15m  +3.9%  1h  +7.5%
-   vol 3.0x · $1.2M · on CB
-SENT   15m  +2.6%  1h  +3.4%
-   vol 6.5x · $538K · on CB
-BIGTIME 15m  -4.0%  1h  +1.1%
-   vol 1.7x · $541K · on CB
+⚪ THIN (low volume) (2)
+CFG    15m  +3.6%  1h  +8.8%
+   vol 1.7x · $1.2M · on CB
+BIGTIME 15m  -3.3%  1h  -1.5%
+   vol 0.1x · $531K · on CB
 
-⚪ MOVED, NO VOLUME SPIKE (1)
-ZEC    15m  +1.2%  1h  +2.7%
-   vol 1.5x · $122M · on CB
-
-👀 WATCH (32)
-  ELSA HONEY RENDER ZRO AURORA
-  WLFI PEPE USELESS SEI CT
-  NEAR PUMP MANTLE REZ ARB VVV
-  ENA LIGHTER STX HYPE INJ SPK
-  MORPHO TAO UNI FARTCOIN WLD
-  XRP LINK APT QNT SKY
+👀 WATCH (23)
+  ELSA WLFI RENDER ZRO SKY
+  PUMP CT NEAR PEARL REZ ZEC
+  STX HYPE PEPE LIGHTER SPK
+  SENT MORPHO AVAX APT QNT ARB
+  PENDLE
 
 15m/1h = price change
 vol = volume vs normal
