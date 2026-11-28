@@ -1,24 +1,26 @@
 CRYPTO SCAN
-Fri 6:20 PM CT
-22 flagged · 1 buy signal
+Fri 6:25 PM CT
+29 flagged · 0 buy signals
 
-🟢 BUY SIGNALS (1)
-LTC    15m  +1.0%  1h  +2.2%
-   vol 3.3x · $11M · on CB
+🟢 BUY SIGNALS
+  none right now
 
 ⚪ THIN (low volume) (1)
-COOKIE 15m  +2.9%  1h  +1.9%
-   vol 0.2x · $472K · on CB
+BIGTIME 15m  +2.9%  1h  +4.3%
+   vol 4.6x · $513K · on CB
 
-⚪ MOVED, NO VOLUME SPIKE (1)
-SKY    15m  +1.5%  1h  +3.2%
+⚪ MOVED, NO VOLUME SPIKE (2)
+LTC    15m  +1.1%  1h  +2.1%
+   vol 1.8x · $11M · on CB
+SKY    15m  -1.3%  1h  +3.3%
    vol 0.4x · $5.8M · on CB
 
-👀 WATCH (19)
-  AURORA ELSA ICNT CRV HONEY
-  USELESS PUMP BCH RENDER LINK
-  BIGTIME ALGO AKT ATOM ETH CT
-  FLR XRP WLD
+👀 WATCH (26)
+  COOKIE ELSA ZRO VVV SENT
+  AURORA ARB FET ICNT FIL SUI
+  MANTLE ATOM ENA BCH ALGO AKT
+  XRP SOL ETH CT APT DOT TAO
+  ONDO WLD
 
 15m/1h = price change
 vol = volume vs normal
