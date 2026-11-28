@@ -1,24 +1,24 @@
 CRYPTO SCAN
-Fri 11:55 PM CT
-39 flagged · 0 buy signals
+Sat 12:00 AM CT
+20 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (2)
-ROBO   15m  -6.5%  1h  -7.5%
-   vol 1.0x · $397K · on CB
+⚪ THIN (low volume) (4)
+PEARL  15m  +2.1%  1h  +1.0%
+   vol 1.3x · $1.6M · on CB
+WLFI   15m  -9.9%  1h -20.3%
+   vol 0.3x · $3.1M · on CB
+ROBO   15m  -5.4%  1h  -5.7%
+   vol 0.3x · $397K · on CB
 BIGTIME 15m  -2.7%  1h  -6.2%
    vol 0.0x · $401K · on CB
 
-👀 WATCH (37)
-  ICNT SENT CFG CT WLFI ELSA
-  SKY PONS SPK FIL XPL MORPHO
-  HONEY DOT SEI MANTLE HYPE
-  ZRO TIA PEARL RENDER PUMP
-  INJ ONDO XLM AKT WLD ALGO
-  NEAR AERO PEPE LINK WIF HBAR
-  XRP DOGE AAVE
+👀 WATCH (16)
+  SENT PONS EDGE HONEY MANTLE
+  TIA PUMP HBAR ZEC ICP LINK
+  BNB RENDER BTC XLM ZRO
 
 15m/1h = price change
 vol = volume vs normal
