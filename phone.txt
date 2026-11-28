@@ -1,18 +1,14 @@
 CRYPTO SCAN
-Fri 10:25 PM CT
-18 flagged · 0 buy signals
+Fri 10:30 PM CT
+17 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
-HONEY  15m  -2.1%  1h  -4.4%
-   vol 2.1x · $745K · on CB
-
 👀 WATCH (17)
-  SEI WLFI VVV ICNT ELSA PONS
-  CT REZ TON USELESS PUMP PEPE
-  ARB FET PEARL APT PAXG
+  SEI CFG BIGTIME ICNT ELSA
+  PONS SKY CT TON FLR ARB
+  PEARL FET ATOM APT NEAR XLM
 
 15m/1h = price change
 vol = volume vs normal
