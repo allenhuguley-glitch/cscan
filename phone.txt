@@ -1,15 +1,14 @@
 CRYPTO SCAN
-Fri 9:55 PM CT
-19 flagged · 0 buy signals
+Fri 10:00 PM CT
+16 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (19)
-  CT CFG WLFI SPK SKY BIGTIME
-  VVV HONEY ICNT RENDER DRV
-  FIL ICP CRV XPL TON TRUMP
-  DOGE SUI
+👀 WATCH (16)
+  PONS CFG SKY BIGTIME CRV VVV
+  WLFI HONEY SEI BCH MON TON
+  SPK TAO SUI SOL
 
 15m/1h = price change
 vol = volume vs normal
