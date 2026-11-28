@@ -1,22 +1,19 @@
 CRYPTO SCAN
-Fri 9:15 PM CT
-25 flagged · 0 buy signals
+Fri 9:20 PM CT
+20 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (2)
-CFG    15m +10.0%  1h  +6.9%
-   vol 2.6x · $1.6M · on CB
-BLUR   15m  +8.5%  1h  +8.0%
-   vol 1.4x · $404K · on CB
+⚪ THIN (low volume) (1)
+CFG    15m  +6.2%  1h  +8.7%
+   vol 4.5x · $1.7M · on CB
 
-👀 WATCH (23)
-  ELSA HONEY BIGTIME WLFI LINK
-  SEI FET AURORA PONS LIGHTER
-  SPK PUMP FARTCOIN BNB WIF
-  AVAX SOL ONDO TIA FIL ETH
-  DRV XRP
+👀 WATCH (19)
+  PONS ELSA SEI HONEY BLUR
+  BIGTIME ICNT WLFI CT FET
+  PUMP USELESS TIA PENDLE AVAX
+  UNI HYPE DRV DOGE
 
 15m/1h = price change
 vol = volume vs normal
