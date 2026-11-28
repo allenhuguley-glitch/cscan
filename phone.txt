@@ -1,21 +1,25 @@
 CRYPTO SCAN
-Fri 8:35 PM CT
-29 flagged · 0 buy signals
+Fri 8:40 PM CT
+31 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (1)
-CFG    15m  -3.2%  1h  +0.0%
-   vol 0.3x · $1.4M · on CB
+CFG    15m  -2.3%  1h  +2.8%
+   vol 0.7x · $1.4M · on CB
 
-👀 WATCH (28)
-  BIGTIME FARTCOIN SENT FET
-  AURORA UNI CRV MON PUMP AKT
-  AAVE APT REZ LINK ARB PEPE
-  USELESS SOL TRUMP WIF ICNT
-  MANTLE VVV HYPE HONEY RENDER
-  AERO BCH
+⚪ MOVED, NO VOLUME SPIKE (1)
+SKY    15m  -1.5%  1h  -2.9%
+   vol 0.5x · $5.4M · on CB
+
+👀 WATCH (29)
+  BIGTIME PONS ICNT SENT
+  FARTCOIN PUMP FIL AURORA UNI
+  PEPE MON ARB AKT FET CRV
+  PENDLE AAVE APT REZ TRUMP
+  TAO LIGHTER WIF ZEC SOL ZRO
+  ETH HONEY BCH
 
 15m/1h = price change
 vol = volume vs normal
