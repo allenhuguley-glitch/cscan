@@ -1,26 +1,15 @@
 CRYPTO SCAN
-Fri 9:35 PM CT
-41 flagged · 0 buy signals
+Fri 9:40 PM CT
+23 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (3)
-CFG    15m  -3.1%  1h  +8.8%
-   vol 0.4x · $1.6M · on CB
-CT     15m  -2.8%  1h  -3.0%
-   vol 3.7x · $465K · on CB
-AURORA 15m  -2.5%  1h  -3.7%
-   vol 2.0x · $1.3M · on CB
-
-👀 WATCH (38)
-  ICNT BIGTIME SPK SEI INJ FET
-  ZRO USELESS WLFI PEPE ATOM
-  FARTCOIN RENDER TIA ZEC PUMP
-  TRUMP WIF ENA FIL DRV UNI
-  PONS TAO HYPE APT AAVE
-  PENDLE ONDO QNT HONEY ALGO
-  TON NEAR LTC BCH HBAR ICP
+👀 WATCH (23)
+  CT WLFI SPK SEI BIGTIME ICP
+  PEARL ICNT INJ DRV HONEY REZ
+  ENA FIL TRUMP ZEC TON BCH
+  APT DOGE ATOM ELSA ONDO
 
 15m/1h = price change
 vol = volume vs normal
