@@ -1,20 +1,19 @@
 CRYPTO SCAN
-Fri 7:35 PM CT
-18 flagged · 0 buy signals
+Fri 7:40 PM CT
+19 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (2)
+⚪ THIN (low volume) (1)
 CFG    15m  +2.1%  1h  +6.8%
    vol 2.1x · $1.2M · on CB
-BIGTIME 15m  -3.3%  1h  -1.5%
-   vol 0.1x · $539K · on CB
 
-👀 WATCH (16)
-  ELSA HONEY COOKIE ICNT SENT
-  SKY PONS PEARL ZEC WLFI SPK
-  MORPHO ICP INJ HBAR BTC
+👀 WATCH (18)
+  ICNT HONEY COOKIE ELSA PONS
+  PEARL WIF SKY ZEC SENT
+  BIGTIME SPK MORPHO USELESS
+  SEI BTC BNB DOT
 
 15m/1h = price change
 vol = volume vs normal
