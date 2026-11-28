@@ -1,21 +1,18 @@
 CRYPTO SCAN
-Sat 3:50 AM CT
-24 flagged · 0 buy signals
+Sat 3:55 AM CT
+17 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (2)
-AURORA 15m  +2.5%  1h  +1.3%
-   vol 3.0x · $1.0M · on CB
+⚪ THIN (low volume) (1)
 SENT   15m  +2.4%  1h  +2.7%
-   vol 4.6x · $726K · on CB
+   vol 4.6x · $724K · on CB
 
-👀 WATCH (22)
-  WLFI CFG ROBO PEARL SEI KAVA
-  PONS XPL PEPE AAVE ELSA SKY
-  TON ENA ARB PENDLE LIGHTER
-  XRP WIF USELESS BTC BNB
+👀 WATCH (16)
+  AURORA WLFI PEARL CFG SEI
+  SKY KAVA ENA XPL QNT TON BCH
+  USELESS PAXG ICP HONEY
 
 15m/1h = price change
 vol = volume vs normal
