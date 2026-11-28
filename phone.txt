@@ -1,21 +1,15 @@
 CRYPTO SCAN
-Fri 9:50 PM CT
-24 flagged · 0 buy signals
+Fri 9:55 PM CT
+19 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (2)
-CFG    15m  +2.1%  1h +10.8%
-   vol 1.2x · $1.7M · on CB
-HONEY  15m  -2.1%  1h  -2.2%
-   vol 1.5x · $747K · on CB
-
-👀 WATCH (22)
-  CT ICP WLFI PONS SPK SKY VVV
-  PEARL USELESS ICNT PEPE PUMP
-  RENDER QNT DRV TON REZ CRV
-  WLD AURORA NEAR XPL
+👀 WATCH (19)
+  CT CFG WLFI SPK SKY BIGTIME
+  VVV HONEY ICNT RENDER DRV
+  FIL ICP CRV XPL TON TRUMP
+  DOGE SUI
 
 15m/1h = price change
 vol = volume vs normal
