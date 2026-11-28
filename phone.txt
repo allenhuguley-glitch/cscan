@@ -1,14 +1,13 @@
 CRYPTO SCAN
-Sat 5:10 AM CT
-16 flagged · 0 buy signals
+Sat 5:15 AM CT
+10 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (16)
-  WLFI HONEY MANTLE CFG ICNT
-  ROBO AURORA CT HYPE VVV FIL
-  PONS ALGO HBAR TON ARB
+👀 WATCH (10)
+  HONEY ICNT SKY ELSA MANTLE
+  CFG PEPE ONDO ALGO ENA
 
 15m/1h = price change
 vol = volume vs normal
