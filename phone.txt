@@ -1,14 +1,24 @@
 CRYPTO SCAN
-Fri 7:45 PM CT
-12 flagged · 0 buy signals
+Fri 7:50 PM CT
+20 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (12)
-  HONEY COOKIE ZEC ICNT WIF
-  BIGTIME TON AKT DRV SEI
-  LIGHTER MORPHO
+⚪ THIN (low volume) (4)
+AURORA 15m  +3.3%  1h  -1.4%
+   vol 3.1x · $1.3M · on CB
+CFG    15m  +2.1%  1h  +8.9%
+   vol 0.8x · $1.3M · on CB
+HONEY  15m  -2.8%  1h  -2.2%
+   vol 1.9x · $796K · on CB
+BIGTIME 15m  -2.4%  1h  -5.1%
+   vol 2.2x · $559K · on CB
+
+👀 WATCH (16)
+  ELSA WLFI TRUMP ICNT WIF CT
+  SEI SKY PUMP PEPE PENDLE DRV
+  ZEC MORPHO FLR DOT
 
 15m/1h = price change
 vol = volume vs normal
