@@ -1,24 +1,24 @@
 CRYPTO SCAN
-Fri 6:15 PM CT
-28 flagged · 0 buy signals
+Fri 6:20 PM CT
+22 flagged · 1 buy signal
 
-🟢 BUY SIGNALS
-  none right now
+🟢 BUY SIGNALS (1)
+LTC    15m  +1.0%  1h  +2.2%
+   vol 3.3x · $11M · on CB
 
 ⚪ THIN (low volume) (1)
-COOKIE 15m  +3.1%  1h  +2.1%
-   vol 0.4x · $477K · on CB
+COOKIE 15m  +2.9%  1h  +1.9%
+   vol 0.2x · $472K · on CB
 
 ⚪ MOVED, NO VOLUME SPIKE (1)
-SKY    15m  +3.1%  1h  +3.7%
-   vol 1.8x · $5.9M · on CB
+SKY    15m  +1.5%  1h  +3.2%
+   vol 0.4x · $5.8M · on CB
 
-👀 WATCH (26)
-  ELSA HONEY BLUR WLFI ICNT
-  AURORA USELESS MON CRV SENT
-  PEARL SEI INJ TON LTC PONS
-  UNI ONDO BIGTIME ATOM AAVE
-  MANTLE RENDER ICP PAXG PEPE
+👀 WATCH (19)
+  AURORA ELSA ICNT CRV HONEY
+  USELESS PUMP BCH RENDER LINK
+  BIGTIME ALGO AKT ATOM ETH CT
+  FLR XRP WLD
 
 15m/1h = price change
 vol = volume vs normal
