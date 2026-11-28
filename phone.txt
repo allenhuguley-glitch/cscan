@@ -1,14 +1,14 @@
 CRYPTO SCAN
-Sat 5:05 AM CT
+Sat 5:10 AM CT
 16 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 👀 WATCH (16)
-  CFG WLFI ELSA ICNT ZRO SEI
-  SENT AURORA ROBO CT FIL VVV
-  ARB LTC DOGE UNI
+  WLFI HONEY MANTLE CFG ICNT
+  ROBO AURORA CT HYPE VVV FIL
+  PONS ALGO HBAR TON ARB
 
 15m/1h = price change
 vol = volume vs normal
