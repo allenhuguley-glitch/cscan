@@ -1,19 +1,21 @@
 CRYPTO SCAN
-Sat 4:05 AM CT
-22 flagged · 0 buy signals
+Sat 4:10 AM CT
+31 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (1)
 HONEY  15m  -4.1%  1h  -3.5%
-   vol 1.9x · $634K · on CB
+   vol 1.9x · $633K · on CB
 
-👀 WATCH (21)
-  CT AURORA ICNT KAVA TRUMP
-  WLFI ELSA MANTLE TON FIL VVV
-  SUI CFG XCN ZEC ATOM ETH
-  NEAR RENDER INJ APT
+👀 WATCH (30)
+  ROBO ICNT KAVA PONS AURORA
+  TRUMP HYPE WLFI SKY ICP
+  MANTLE ENA TAO TON CFG LTC
+  BTC AKT VVV SUI XCN ZEC ATOM
+  DOT XRP PAXG PENDLE ETH APT
+  CT
 
 15m/1h = price change
 vol = volume vs normal
