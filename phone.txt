@@ -1,33 +1,31 @@
 CRYPTO SCAN
-Fri 11:45 PM CT
-37 flagged · 0 buy signals
+Fri 11:50 PM CT
+50 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (7)
+⚪ THIN (low volume) (5)
 ROBO   15m  -8.7%  1h -13.1%
-   vol 0.9x · $385K · on CB
-AURORA 15m  -3.8%  1h  -6.0%
-   vol 0.9x · $1.3M · on CB
-CFG    15m  -3.8%  1h  -4.6%
-   vol 0.5x · $1.8M · on CB
-BIGTIME 15m  -3.5%  1h  -5.5%
-   vol 1.0x · $404K · on CB
-TRUMP  15m  -3.1%  1h  -7.1%
-   vol 0.9x · $1.5M · on CB
-CT     15m  -2.2%  1h  -2.7%
-   vol 10.9x · $498K · on CB
+   vol 0.9x · $399K · on CB
+WLFI   15m  -6.6%  1h -21.5%
+   vol 0.8x · $3.0M · on CB
+CFG    15m  -4.3%  1h  -6.1%
+   vol 0.3x · $1.8M · on CB
+BIGTIME 15m  -2.7%  1h  -6.2%
+   vol 0.0x · $404K · on CB
 ICNT   15m  -2.1%  1h  -4.4%
-   vol 3.8x · $450K · on CB
+   vol 3.8x · $446K · on CB
 
-👀 WATCH (30)
-  PONS WLFI ZRO PEARL XPL FIL
-  LIGHTER SEI WLD NEAR VVV AKT
-  ENA SPK PENDLE UNI ONDO
-  FARTCOIN USELESS APT INJ
-  ELSA WIF ETH LINK QNT BTC
-  ZEC PAXG MORPHO
+👀 WATCH (45)
+  PONS CT TRUMP ELSA SKY PEARL
+  SPK FIL XPL MORPHO APT
+  LIGHTER FARTCOIN SEI AURORA
+  WLD MON WIF DOT ICP HYPE ZEC
+  SENT ENA PENDLE TIA ONDO XLM
+  AKT INJ ADA SUI TAO NEAR
+  AERO AVAX SOL LINK LTC QNT
+  BNB ETH DOGE XRP BTC
 
 15m/1h = price change
 vol = volume vs normal
