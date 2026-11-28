@@ -1,20 +1,23 @@
 CRYPTO SCAN
-Sat 6:15 AM CT
-26 flagged · 0 buy signals
+Sat 6:20 AM CT
+34 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
-ROBO   15m  +3.5%  1h  +0.3%
-   vol 3.1x · $524K · on CB
+⚪ THIN (low volume) (2)
+ROBO   15m  +4.2%  1h  +1.7%
+   vol 0.8x · $526K · on CB
+BLUR   15m  +2.2%  1h -11.7%
+   vol 0.4x · $343K · on CB
 
-👀 WATCH (25)
-  O CT ICNT SENT CFG HONEY
-  PEARL TRUMP PONS TON FET
-  ELSA SEI UNI PENDLE RENDER
-  PUMP LINK ATOM ETH BCH XRP
-  DOT SOL PEPE
+👀 WATCH (32)
+  PONS O TRUMP CT ICNT SEI
+  WLFI SKY PEARL HBAR VVV INJ
+  PUMP PEPE TON RENDER ICP MON
+  ZEC ELSA ATOM FIL FLR ZRO
+  UNI ENA ARB BCH DOT SUI AAVE
+  DOGE
 
 15m/1h = price change
 vol = volume vs normal
