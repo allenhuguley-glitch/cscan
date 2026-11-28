@@ -1,24 +1,22 @@
 CRYPTO SCAN
-Sat 12:05 AM CT
-29 flagged · 0 buy signals
+Sat 12:10 AM CT
+19 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
 ⚪ THIN (low volume) (3)
-ROBO   15m  -3.4%  1h -10.0%
-   vol 2.0x · $402K · on CB
-BIGTIME 15m  -2.7%  1h  -6.2%
-   vol 0.0x · $402K · on CB
+ROBO   15m  -5.2%  1h -11.3%
+   vol 2.2x · $425K · on CB
+TRUMP  15m  -2.9%  1h  -2.6%
+   vol 1.5x · $1.8M · on CB
 CFG    15m  -2.5%  1h  -7.9%
    vol 1.4x · $1.8M · on CB
 
-👀 WATCH (26)
-  WLFI EDGE WIF HONEY MANTLE
-  SKY ZEC SENT TRUMP SPK XPL
-  AKT HBAR BTC APT ADA ICP
-  NEAR AVAX XRP BNB RENDER
-  LINK XLM ETH ZRO
+👀 WATCH (16)
+  SENT WLFI ZEC AERO MON SPK
+  USELESS AKT APT HBAR ZRO ARB
+  RENDER ICP AVAX SUI
 
 15m/1h = price change
 vol = volume vs normal
