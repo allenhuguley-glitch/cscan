@@ -1,25 +1,22 @@
 CRYPTO SCAN
-Fri 9:10 PM CT
-24 flagged · 0 buy signals
+Fri 9:15 PM CT
+25 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (4)
+⚪ THIN (low volume) (2)
+CFG    15m +10.0%  1h  +6.9%
+   vol 2.6x · $1.6M · on CB
 BLUR   15m  +8.5%  1h  +8.0%
-   vol 1.4x · $406K · on CB
-CFG    15m  +3.5%  1h  -0.3%
-   vol 1.3x · $1.5M · on CB
-AURORA 15m  -3.1%  1h  -4.0%
-   vol 0.4x · $1.3M · on CB
-HONEY  15m  -2.0%  1h  -2.2%
-   vol 1.5x · $768K · on CB
+   vol 1.4x · $404K · on CB
 
-👀 WATCH (20)
-  WLFI COOKIE ICNT LINK SPK
-  SEI ELSA ZRO PONS CT ATOM
-  WIF BNB RENDER TRUMP DOT
-  ONDO FIL TON DRV
+👀 WATCH (23)
+  ELSA HONEY BIGTIME WLFI LINK
+  SEI FET AURORA PONS LIGHTER
+  SPK PUMP FARTCOIN BNB WIF
+  AVAX SOL ONDO TIA FIL ETH
+  DRV XRP
 
 15m/1h = price change
 vol = volume vs normal
