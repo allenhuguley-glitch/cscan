@@ -1,19 +1,22 @@
 CRYPTO SCAN
-Sat 2:55 AM CT
-22 flagged · 0 buy signals
+Sat 3:00 AM CT
+17 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
-WLFI   15m  +5.3%  1h  +4.7%
-   vol 1.7x · $4.2M · on CB
+⚪ THIN (low volume) (3)
+WLFI   15m  +4.8%  1h  +6.5%
+   vol 2.4x · $4.3M · on CB
+ROBO   15m  +2.3%  1h  -0.9%
+   vol 0.5x · $488K · on CB
+HONEY  15m  -2.4%  1h  +5.5%
+   vol 0.7x · $675K · on CB
 
-👀 WATCH (21)
-  CFG HONEY TRUMP AURORA KAVA
-  VVV EDGE PONS MON TON SOL
-  QNT ADA PUMP DOT XLM HBAR
-  PAXG AVAX BNB LINK
+👀 WATCH (14)
+  CFG WIF MON TRUMP SENT
+  PENDLE SEI TON AVAX ELSA
+  DOGE PUMP PAXG XLM
 
 15m/1h = price change
 vol = volume vs normal
