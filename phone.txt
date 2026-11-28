@@ -1,22 +1,26 @@
 CRYPTO SCAN
-Sat 1:45 AM CT
-17 flagged · 0 buy signals
+Sat 1:50 AM CT
+18 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (3)
+⚪ THIN (low volume) (5)
 KAVA   15m  +3.4%  1h  -7.1%
-   vol 0.4x · $453K · on CB
+   vol 0.4x · $459K · on CB
 ROBO   15m  +2.9%  1h  +2.2%
-   vol 0.3x · $462K · on CB
-WLFI   15m  -3.5%  1h  -9.7%
-   vol 0.8x · $3.6M · on CB
+   vol 0.3x · $461K · on CB
+WLFI   15m  -5.1%  1h -12.6%
+   vol 1.3x · $3.6M · on CB
+ELSA   15m  -2.8%  1h  -5.5%
+   vol 0.3x · $420K · on CB
+HONEY  15m  -2.4%  1h  -1.0%
+   vol 0.2x · $619K · on CB
 
-👀 WATCH (14)
-  ELSA EDGE PONS PEARL CFG
-  PUMP TRUMP MANTLE VVV ICP CT
-  FET BCH LTC
+👀 WATCH (13)
+  CFG TRUMP PEARL VVV MANTLE
+  EDGE RENDER AAVE ALGO DOT
+  DOGE FET BCH
 
 15m/1h = price change
 vol = volume vs normal
