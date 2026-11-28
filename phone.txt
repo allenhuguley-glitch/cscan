@@ -1,15 +1,19 @@
 CRYPTO SCAN
-Fri 9:40 PM CT
-23 flagged · 0 buy signals
+Fri 9:45 PM CT
+22 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (23)
-  CT WLFI SPK SEI BIGTIME ICP
-  PEARL ICNT INJ DRV HONEY REZ
-  ENA FIL TRUMP ZEC TON BCH
-  APT DOGE ATOM ELSA ONDO
+⚪ THIN (low volume) (1)
+HONEY  15m  -2.1%  1h  -2.2%
+   vol 1.5x · $755K · on CB
+
+👀 WATCH (21)
+  CFG ICP BIGTIME WLFI SPK SKY
+  DRV PEARL RENDER CT FIL TON
+  REZ CRV ICNT WLD TRUMP
+  AURORA ATOM ELSA XPL
 
 15m/1h = price change
 vol = volume vs normal
