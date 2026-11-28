@@ -1,21 +1,23 @@
 CRYPTO SCAN
-Sat 2:10 AM CT
-29 flagged · 1 buy signal
+Sat 2:15 AM CT
+27 flagged · 1 buy signal
 
 🟢 BUY SIGNALS (1)
 VVV    15m  +1.3%  1h  +1.5%
-   vol 2.4x · $8.1M · on CB
+   vol 2.4x · $8.0M · on CB
 
-⚪ THIN (low volume) (1)
-KAVA   15m  +5.1%  1h +10.6%
-   vol 1.1x · $510K · on CB
+⚪ THIN (low volume) (2)
+KAVA   15m  +3.3%  1h  +5.2%
+   vol 0.9x · $513K · on CB
+AURORA 15m  -3.0%  1h  -4.4%
+   vol 0.5x · $1.2M · on CB
 
-👀 WATCH (27)
-  AURORA WLFI ROBO HONEY FET
-  LIGHTER ICP MON ICNT ZEC
-  TRUMP ELSA ZRO RENDER NEAR
-  AERO SENT XPL DOT HYPE SKY
-  CFG AAVE HBAR QNT ENA WIF
+👀 WATCH (24)
+  HONEY TRUMP SKY ELSA
+  FARTCOIN ROBO ZRO MON ICP
+  FET ICNT PEARL SENT RENDER
+  MORPHO ADA SOL CFG WIF QNT
+  XCN PONS APT ENA
 
 15m/1h = price change
 vol = volume vs normal
