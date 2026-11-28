@@ -1,23 +1,19 @@
 CRYPTO SCAN
-Sat 6:40 AM CT
-24 flagged · 0 buy signals
+Sat 6:45 AM CT
+21 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (3)
+⚪ THIN (low volume) (1)
 ELSA   15m  +3.4%  1h  +2.1%
-   vol 0.3x · $473K · on CB
-ROBO   15m  +2.0%  1h  +3.7%
-   vol 0.7x · $545K · on CB
-HONEY  15m  -2.3%  1h  -3.6%
-   vol 0.1x · $594K · on CB
+   vol 0.3x · $470K · on CB
 
-👀 WATCH (21)
-  BLUR O AURORA SENT CFG SKY
-  USELESS PEARL CT LIGHTER
-  RENDER XCN VVV BCH AVAX
-  TRUMP ETH AERO SEI SOL PAXG
+👀 WATCH (20)
+  KAVA ROBO AURORA CFG BLUR
+  LIGHTER O USELESS CT VVV
+  AVNT PEPE SKY HYPE QNT ENA
+  SEI TAO XLM PAXG
 
 15m/1h = price change
 vol = volume vs normal
