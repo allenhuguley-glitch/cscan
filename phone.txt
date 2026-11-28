@@ -1,19 +1,17 @@
 CRYPTO SCAN
-Fri 7:00 PM CT
-20 flagged · 0 buy signals
+Fri 7:05 PM CT
+31 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
-AURORA 15m  -2.5%  1h  -2.5%
-   vol 0.6x · $1.2M · on CB
-
-👀 WATCH (19)
-  COOKIE HONEY LTC CT BIGTIME
-  WLFI PEARL SKY PEPE REZ AKT
-  PONS ALGO ONDO TRUMP MANTLE
-  CRV ATOM PAXG
+👀 WATCH (31)
+  AURORA BIGTIME COOKIE HONEY
+  PEARL SPK CT TAO SENT REZ
+  ZEC ELSA ATOM FIL HYPE PONS
+  AKT USELESS QNT ONDO MANTLE
+  UNI CRV SOL SUI ETH BTC ALGO
+  AVAX XRP AERO
 
 15m/1h = price change
 vol = volume vs normal
