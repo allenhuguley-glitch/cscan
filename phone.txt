@@ -1,20 +1,23 @@
 CRYPTO SCAN
-Fri 11:25 PM CT
-23 flagged · 0 buy signals
+Fri 11:30 PM CT
+22 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (1)
+⚪ THIN (low volume) (3)
+CFG    15m  +2.1%  1h  +1.5%
+   vol 0.3x · $1.9M · on CB
+WLFI   15m  -6.5%  1h -34.9%
+   vol 2.5x · $3.0M · on CB
 AURORA 15m  -2.5%  1h  -1.8%
    vol 11.1x · $1.3M · on CB
 
-👀 WATCH (22)
-  SKY BIGTIME ICNT TRUMP HONEY
-  ROBO WIF PONS SEI MORPHO
-  ELSA UNI ATOM WLFI XRP
-  FARTCOIN XLM TAO MON AERO CT
-  HYPE
+👀 WATCH (19)
+  ELSA ROBO ICNT PONS BIGTIME
+  HONEY CT PUMP WIF MORPHO
+  ATOM ZRO UNI MON AVAX ONDO
+  SENT HYPE PAXG
 
 15m/1h = price change
 vol = volume vs normal
