@@ -1,24 +1,21 @@
 CRYPTO SCAN
-Fri 10:45 PM CT
-30 flagged · 0 buy signals
+Fri 10:50 PM CT
+25 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-⚪ THIN (low volume) (3)
-CFG    15m  +3.4%  1h  +0.7%
-   vol 1.7x · $1.9M · on CB
-WLFI   15m -27.3%  1h -27.4%
-   vol 4.5x · $2.0M · on CB
-TRUMP  15m  -4.0%  1h  -4.0%
-   vol 42.7x · $805K · on CB
+⚪ THIN (low volume) (2)
+WLFI   15m -14.5%  1h -22.4%
+   vol 2.3x · $2.3M · on CB
+BIGTIME 15m  -2.4%  1h  -2.4%
+   vol 0.8x · $452K · on CB
 
-👀 WATCH (27)
-  BIGTIME ICNT PONS HONEY MON
-  CT SKY AURORA FIL ARB VVV
-  ELSA SENT AKT PENDLE MORPHO
-  ENA MANTLE FLR AERO ADA TAO
-  RENDER UNI BNB TON INJ
+👀 WATCH (23)
+  TRUMP ICNT HONEY CFG MON SKY
+  CT FIL PENDLE ARB AKT ELSA
+  MANTLE SPK TAO RENDER LINK
+  ADA UNI PUMP AVAX INJ XRP
 
 15m/1h = price change
 vol = volume vs normal
