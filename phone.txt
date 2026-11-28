@@ -1,14 +1,19 @@
 CRYPTO SCAN
-Fri 5:55 PM CT
-16 flagged · 0 buy signals
+Fri 6:00 PM CT
+22 flagged · 0 buy signals
 
 🟢 BUY SIGNALS
   none right now
 
-👀 WATCH (16)
-  WLFI VVV LTC BIGTIME ICNT
-  SKY HONEY AERO APT USELESS
-  ZRO CRV UNI MORPHO ADA TON
+⚪ THIN (low volume) (1)
+ELSA   15m  +3.2%  1h  +4.6%
+   vol 20.5x · $490K · on CB
+
+👀 WATCH (21)
+  LIGHTER AURORA BIGTIME WLFI
+  PONS SKY REZ AERO SENT ZEC
+  VVV HYPE APT USELESS LTC XLM
+  TAO SEI CRV COOKIE PEPE
 
 15m/1h = price change
 vol = volume vs normal
